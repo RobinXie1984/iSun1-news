@@ -1,0 +1,13 @@
+{
+  "version": "isun-significance-0.1-review",
+  "status": "PROPOSED_FOR_ROBIN_REVIEW",
+  "inspiration": "https://www.newsminimalist.com/about",
+  "weights": {"scale": 0.25, "impact": 0.30, "novelty": 0.10, "potential": 0.25, "legacy": 0.10},
+  "score_range": [0, 4],
+  "significance_range": [0, 10],
+  "positivity": "Separate field; no automatic bonus",
+  "credibility": "Separate evidence assessment; no publisher popularity multiplier",
+  "attention": "Separate editorial story-potential estimate; never observed engagement",
+  "threshold": null,
+  "formula_note": "Proposed iSun weights, not News Minimalist's undisclosed current formula. Missing dimensions make the total null."
+}

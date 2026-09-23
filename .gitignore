@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.wrangler/
+.sites-runtime/
+.env*
+!.env.example
+work/
+.DS_Store
+*.tgz
+worker-configuration.d.ts
+reference/
+
+__pycache__/
+*.pyc
+
+# Operator-specific production destination; use the public example.
+.openai/hosting.json

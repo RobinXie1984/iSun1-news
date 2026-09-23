@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "anthropic-paid-watchdog",
+    "event_date": "2026-09-18",
+    "checked_at": "2026-09-20T05:35:01Z",
+    "category": "AI & power",
+    "label": "ANNOUNCEMENT",
+    "title": {
+      "en": "Anthropic’s watchdog will invoice Anthropic.",
+      "zh": "Anthropic 的安全监督者，将向 Anthropic 收钱。"
+    },
+    "summary": {
+      "en": "A safety partnership puts independence on trial.",
+      "zh": "一项安全合作，把独立性推上考场。"
+    },
+    "paragraphs": {
+      "en": [
+        "Anthropic will directly fund Accenture’s embedded evaluation work. Their September 18 announcement leaves access and reporting standards unsettled.",
+        "The two companies each expect to invest at least $1 billion over five years. Dario Amodei’s proposed reviewer contract would allow unfavorable findings to be published, with specified redactions.",
+        "The question worth following: when a finding hurts the payer, does it reach the public?"
+      ],
+      "zh": [
+        "Anthropic 将直接资助埃森哲的驻场评估工作。9月18日的公告称，访问权限和报告标准仍未确定。",
+        "两家公司各自预计在五年内投入至少10亿美元。Dario Amodei 提出的评估合同方案允许公开不利结论，但保留特定删节权。",
+        "值得追问的是：当结论伤到付款方，公众还能读到吗？"
+      ]
+    },
+    "wtf": {
+      "en": "The subject pays the examiner.",
+      "zh": "被检查的一方，给检查者付钱。"
+    },
+    "consequence": {
+      "en": "Public trust will depend on evidence that survives commercial discomfort.",
+      "zh": "公众信任将取决于：令人商业上难堪的证据，能否公开。"
+    },
+    "uncertainty": {
+      "en": "Announced plans; spending and evaluator independence are not verified outcomes.",
+      "zh": "目前是已公布的计划；支出和评估独立性尚不是经过验证的结果。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anthropic: Partnering with Accenture on embedded evaluation",
+        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "published_at": "2026-09-18"
+      },
+      {
+        "id": "s2",
+        "title": "Accenture: Embedded evaluators at Anthropic",
+        "url": "https://newsroom.accenture.com/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
+        "published_at": "2026-09-18"
+      },
+      {
+        "id": "s3",
+        "title": "Dario Amodei: We Must Pace the Frontier",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+        "published_at": "2026-09"
+      },
+      {
+        "id": "s4",
+        "title": "Anthropic’s Advanced AI Framework",
+        "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0a58d567024a8b448ff15158ebc3625328dfcc1f.pdf",
+        "published_at": "2026-06"
+      },
+      {
+        "id": "s5",
+        "title": "Anthropic: Improving our alignment and security efforts",
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "published_at": "2026-08-31"
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "Anthropic announced direct funding for Accenture’s evaluation work; operating standards remain unsettled.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "Each company expects at least $1bn of investment over five years; Faculty will lead Accenture’s work.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "Amodei proposes employee-like reviewer access and publication rights with limited redactions; this is a stated intention.",
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "Anthropic’s June policy proposal calls for external evaluation and government or pooled funding.",
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "Anthropic says it paused evaluations and redirected roughly 150 product engineers to security-related work earlier in 2026.",
+        "source_ids": [
+          "s5"
+        ]
+      }
+    ],
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "payment conflict",
+        "en": "Anthropic’s watchdog will invoice Anthropic.",
+        "zh": "Anthropic 的监督者，将向 Anthropic 收钱。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h02",
+        "angle": "public test",
+        "en": "Can a paid watchdog bite?",
+        "zh": "拿钱的监督者，还能咬下去吗？",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h03",
+        "angle": "unfinished rules",
+        "en": "The AI referees arrive before the rulebook.",
+        "zh": "AI 裁判要来了，规则还没定。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h04",
+        "angle": "accountability",
+        "en": "Who watches the paid AI watchdog?",
+        "zh": "谁来监督收钱的 AI 监督者？",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 78
+      },
+      {
+        "id": "h05",
+        "angle": "money",
+        "en": "Two billion-dollar plans. One trust problem.",
+        "zh": "两份十亿美元计划，同一个信任难题。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 83
+      },
+      {
+        "id": "h06",
+        "angle": "promise versus outcome",
+        "en": "AI safety gets a billion-dollar plan—twice.",
+        "zh": "AI 安全收到十亿美元计划，一次还不够，是两次。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 77
+      },
+      {
+        "id": "h07",
+        "angle": "operator",
+        "en": "Meet the people hired to test Claude.",
+        "zh": "谁将受聘来检查 Claude？",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 69
+      },
+      {
+        "id": "h08",
+        "angle": "scale versus proof",
+        "en": "Big safety plans. The verdict comes later.",
+        "zh": "安全计划很大，结果还得等。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 70
+      },
+      {
+        "id": "h09",
+        "angle": "right to disagree",
+        "en": "Can reviewers publish what Anthropic hates?",
+        "zh": "Anthropic 不喜欢的结论，评估者能公开吗？",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h10",
+        "angle": "physical access",
+        "en": "AI’s outside reviewers are promised office badges.",
+        "zh": "AI 的外部评估者，被承诺发办公门禁卡。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 82
+      },
+      {
+        "id": "h11",
+        "angle": "redaction tension",
+        "en": "The revealing part may be what gets redacted.",
+        "zh": "最值得看的，也许是被删掉的部分。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 79
+      },
+      {
+        "id": "h12",
+        "angle": "public interest",
+        "en": "A desk inside. A voice outside?",
+        "zh": "有内部工位，能向外说话吗？",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h13",
+        "angle": "institutional design",
+        "en": "Anthropic has another idea: pool the watchdog money.",
+        "zh": "Anthropic 的另一个方案：监督经费统一筹集。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 67
+      },
+      {
+        "id": "h14",
+        "angle": "self marking",
+        "en": "Who should grade an AI lab’s homework?",
+        "zh": "AI 实验室的作业，该由谁打分？",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 80
+      },
+      {
+        "id": "h15",
+        "angle": "policy mechanism",
+        "en": "AI oversight needs more than another promise.",
+        "zh": "AI 监督，需要的岂止又一个承诺。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 72
+      },
+      {
+        "id": "h16",
+        "angle": "funding design",
+        "en": "Who pays for an honest AI verdict?",
+        "zh": "一份诚实的 AI 评估，该由谁买单？",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h17",
+        "angle": "opportunity cost",
+        "en": "Anthropic says 150 engineers were reassigned for safety.",
+        "zh": "Anthropic 称，150名工程师曾被调去做安全。",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 81
+      },
+      {
+        "id": "h18",
+        "angle": "operating friction",
+        "en": "Before the watchdog: Anthropic’s testing pause.",
+        "zh": "监督者到来之前，Anthropic 先暂停过测试。",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 71
+      },
+      {
+        "id": "h19",
+        "angle": "cost of caution",
+        "en": "What does slowing an AI lab actually cost?",
+        "zh": "让 AI 实验室慢下来，代价究竟是什么？",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 76
+      },
+      {
+        "id": "h20",
+        "angle": "follow up",
+        "en": "The next AI safety story should contain evidence.",
+        "zh": "下一条 AI 安全新闻，该拿出证据了。",
+        "claim_ids": [
+          "c1",
+          "c3"
+        ],
+        "editorial_score": 73
+      }
+    ],
+    "experiment": {
+      "id": "anthropic-paid-watchdog-v1",
+      "variants": [
+        "h01",
+        "h09"
+      ],
+      "hypothesis": "Untested editorial hypothesis: the concrete payer relationship earns more opens; publication rights may earn more completed reads. Scores are editorial guesses, not measured engagement."
+    },
+    "surfaces": {
+      "x": {
+        "en": "Can a paid watchdog bite? Anthropic will fund Accenture’s evaluation work. Watch the first uncomfortable finding—and whether it becomes public.",
+        "zh": "拿钱的监督者，还能咬下去吗？Anthropic 将资助埃森哲的评估。值得盯的是第一份令人难堪的结论，以及它能否公开。"
+      },
+      "linkedin": {
+        "en": "Two firms each expect to invest at least $1bn in AI safety. The buyer’s question: what independent evidence will you receive before trusting the product?",
+        "zh": "两家公司各自预计投入至少10亿美元做 AI 安全。买方该问：信任产品之前，我能拿到什么独立证据？"
+      },
+      "wechat": {
+        "en": "An office badge is access. Publication rights are power. Amodei proposes both for reviewers. The contract’s implementation is the story to follow.",
+        "zh": "门禁卡给的是访问权，公开结论给的是发声权。Amodei 打算两者都给外部评估者。真正该追的是：合同如何落地。"
+      },
+      "video": {
+        "en": "0–5s: Show a blank invoice. ‘Can a watchdog bite the company paying it?’ 5–15s: Two company names. ‘Anthropic and Accenture each expect billion-dollar safety investments.’ 15–25s: Office badge, then black redaction bars. ‘Amodei proposes access for reviewers, and a right to publish findings—even unfavorable ones, subject to specified redactions.’ 25–40s: Empty evidence folder. ‘Their June framework called for broader funding. Their August account described engineering work redirected to safety. Now comes the test we can watch: what evidence actually reaches us?’",
+        "zh": "0–5秒：空白账单。‘监督者能咬向付钱的公司吗？’ 5–15秒：两家公司名称。‘Anthropic 和埃森哲，各自预计投入十亿美元做安全。’ 15–25秒：门禁卡，切到删节黑条。‘Amodei 提议让评估者进入公司，并允许公开不利结论，但有特定删节。’ 25–40秒：空证据文件夹。‘六月的框架提议更广泛筹款。八月的说明讲述了工程师转做安全。现在轮到我们能看见的考验：究竟有哪些证据会公开？’"
+      }
+    },
+    "cover_lines": {
+      "en": [
+        "WHO",
+        "WATCHES",
+        "THE AI?"
+      ],
+      "zh": [
+        "谁来",
+        "盯住",
+        "AI？"
+      ]
+    }
+  },
+  {
+    "id": "roman-cosmic-blind-spot",
+    "event_date": "2026-08-30",
+    "checked_at": "2026-09-20T05:36:06Z",
+    "category": "Science & wonder",
+    "label": "MISSION",
+    "title": {
+      "en": "Same-sized mirror. A hundred times the sky.",
+      "zh": "镜子一样大，视野却是100倍。"
+    },
+    "summary": {
+      "en": "Roman has launched. Its giant questions remain open.",
+      "zh": "罗曼望远镜已升空，它追问的大问题仍没有答案。"
+    },
+    "paragraphs": {
+      "en": [
+        "NASA’s Roman telescope launched on August 30. Its mirror matches Hubble’s diameter, but its wide-field instrument covers roughly 100 times the sky area per image.",
+        "One planned survey should reveal more than a billion galaxies, helping test why cosmic expansion accelerates. Another search is expected to find roughly 100,000 planets through transits.",
+        "Those are forecasts. NASA’s launch announcement anticipated first images in early 2027. The machine is on its way; the discoveries still have to happen."
+      ],
+      "zh": [
+        "NASA 的罗曼望远镜于8月30日发射。主镜直径与哈勃相同，但宽视场仪器每张图像覆盖的天空面积约为哈勃的100倍。",
+        "一项计划中的巡天预计能看到超过十亿个星系，帮助研究宇宙为何加速膨胀。另一项搜索预计通过凌星发现约十万颗行星。",
+        "这些仍是预期。NASA 在发射公告中预计2027年初发布首批图像。机器已经上路，发现仍待发生。"
+      ]
+    },
+    "wtf": {
+      "en": "The mirror did not grow. The view did.",
+      "zh": "镜子没变大，视野却变了。"
+    },
+    "consequence": {
+      "en": "A wider census could change which cosmic stories survive the evidence.",
+      "zh": "更广泛的普查，可能改写哪些宇宙解释经得住证据。"
+    },
+    "uncertainty": {
+      "en": "Projected yields are not discoveries; early-2027 imagery was a launch-day forecast.",
+      "zh": "预期发现量不等于已发现；2027年初的图像时间表是发射时的预计。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA: Roman Space Telescope launches",
+        "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+        "published_at": "2026-08-30"
+      },
+      {
+        "id": "s2",
+        "title": "NASA Science: Hubble vs. Roman",
+        "url": "https://science.nasa.gov/mission/hubble/observatory/hubble-vs-roman/",
+        "published_at": null
+      },
+      {
+        "id": "s3",
+        "title": "NASA: Core survey will explore the dark universe",
+        "url": "https://www.nasa.gov/missions/roman-space-telescope/core-survey-by-nasas-roman-mission-will-unveil-universes-dark-side/",
+        "published_at": "2026-02-10"
+      },
+      {
+        "id": "s4",
+        "title": "NASA: Roman’s search for faraway worlds",
+        "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
+        "published_at": "2026-05-28"
+      },
+      {
+        "id": "s5",
+        "title": "NASA Science: Roman and Webb",
+        "url": "https://science.nasa.gov/roman-and-webb/",
+        "published_at": null
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "Roman launched August 30; the release forecast first images in early 2027 and roughly 1.4TB of daily data.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "Roman and Hubble have equal primary-mirror diameters; Roman’s wide-field instrument covers about 100 times the sky area.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "The planned wide-area survey targets over a billion galaxies to investigate dark matter and accelerating expansion.",
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "Scientists forecast roughly 100,000 transiting planets; Roman data will be public.",
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "Roman’s broad surveys and Webb’s detailed infrared observations have complementary scientific roles.",
+        "source_ids": [
+          "s5"
+        ]
+      }
+    ],
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "visual contradiction",
+        "en": "Same-sized mirror. A hundred times the sky.",
+        "zh": "镜子一样大，视野却是100倍。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 92
+      },
+      {
+        "id": "h02",
+        "angle": "human metaphor",
+        "en": "NASA’s new telescope was built to lose tunnel vision.",
+        "zh": "NASA 的新望远镜，要跳出狭窄视野。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 83
+      },
+      {
+        "id": "h03",
+        "angle": "engineering",
+        "en": "How does the same mirror see so much more?",
+        "zh": "一样大的镜子，凭什么看得多这么多？",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h04",
+        "angle": "scale",
+        "en": "Hubble-sized mirror. Roman-sized ambitions.",
+        "zh": "哈勃大小的镜子，罗曼自己的野心。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 71
+      },
+      {
+        "id": "h05",
+        "angle": "mystery",
+        "en": "The universe is speeding up. Roman wants receipts.",
+        "zh": "宇宙越胀越快，罗曼要找证据。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h06",
+        "angle": "existential question",
+        "en": "What is pushing the universe apart?",
+        "zh": "究竟是什么，在把宇宙越推越开？",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h07",
+        "angle": "evidence scale",
+        "en": "A billion galaxies to question the darkness.",
+        "zh": "用十亿个星系，追问黑暗。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 82
+      },
+      {
+        "id": "h08",
+        "angle": "scientific tension",
+        "en": "Roman’s target: a universe we still cannot explain.",
+        "zh": "罗曼的目标：我们仍解释不了的宇宙。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 80
+      },
+      {
+        "id": "h09",
+        "angle": "prediction",
+        "en": "NASA expects a planet haul. Around 100,000.",
+        "zh": "NASA 预计收获一大批行星：约十万颗。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h10",
+        "angle": "open participation",
+        "en": "The next planet hunt will have public data.",
+        "zh": "下一场找行星行动，数据向公众开放。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 75
+      },
+      {
+        "id": "h11",
+        "angle": "place in cosmos",
+        "en": "How ordinary is our planet? Roman may help answer.",
+        "zh": "地球到底有多普通？罗曼或许能帮忙回答。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h12",
+        "angle": "discovery expectation",
+        "en": "A hundred thousand possible additions to the planet list.",
+        "zh": "行星名单，可能再添十万个名字。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 78
+      },
+      {
+        "id": "h13",
+        "angle": "waiting",
+        "en": "Roman launched. Now comes the long wait for proof.",
+        "zh": "罗曼升空了，接下来等证据。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 74
+      },
+      {
+        "id": "h14",
+        "angle": "data flood",
+        "en": "NASA expects 1.4 terabytes of sky a day.",
+        "zh": "NASA 预计每天收到1.4TB的天空数据。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 79
+      },
+      {
+        "id": "h15",
+        "angle": "honest suspense",
+        "en": "The rocket delivered. The universe has not answered yet.",
+        "zh": "火箭完成了交付，宇宙还没回答。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h16",
+        "angle": "timing",
+        "en": "A new telescope, with its first images still ahead.",
+        "zh": "新望远镜已经升空，首批图像仍待到来。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 73
+      },
+      {
+        "id": "h17",
+        "angle": "teamwork",
+        "en": "Roman finds the crowd. Webb studies the faces.",
+        "zh": "罗曼寻找群像，韦布细看面孔。",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 81
+      },
+      {
+        "id": "h18",
+        "angle": "different capability",
+        "en": "What Webb can gain from a wider cosmic view.",
+        "zh": "更宽的宇宙视野，能为韦布带来什么？",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 70
+      },
+      {
+        "id": "h19",
+        "angle": "discovery workflow",
+        "en": "First find something strange. Then bring in Webb.",
+        "zh": "先找到怪东西，再请韦布细看。",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h20",
+        "angle": "complementarity",
+        "en": "Two infrared eyes. Different questions.",
+        "zh": "两只红外眼睛，追问不同问题。",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 72
+      }
+    ],
+    "experiment": {
+      "id": "roman-cosmic-blind-spot-v1",
+      "variants": [
+        "h01",
+        "h05"
+      ],
+      "hypothesis": "Untested editorial hypothesis: the visual 100x contrast increases opens; the accelerating-universe mystery increases completion and shares. Scores are editorial guesses."
+    },
+    "surfaces": {
+      "x": {
+        "en": "Same-sized mirror. A hundred times the sky area per image. Roman’s big promise is a wider cosmic census. Its planned discoveries are still ahead.",
+        "zh": "镜子一样大，每张图覆盖的天空面积却约为哈勃的100倍。罗曼要做更广泛的宇宙普查。计划中的发现，仍在未来。"
+      },
+      "linkedin": {
+        "en": "Roman and Webb show why complementary tools matter: a broad survey can find targets for deeper inspection. Discovery starts with what your instrument lets you notice.",
+        "zh": "罗曼和韦布说明了工具互补的价值：广泛巡天可以为深入观察寻找目标。发现，始于仪器让你看见什么。"
+      },
+      "wechat": {
+        "en": "A billion galaxies are a planned dataset, not a completed discovery. Roman’s survey will put our explanation of cosmic expansion under a larger test.",
+        "zh": "十亿个星系，是计划中的样本，不是已经完成的发现。罗曼的巡天，将让我们对宇宙膨胀的解释接受更大规模检验。"
+      },
+      "video": {
+        "en": "0–5s: Two equal circles, one widening frame. ‘Same mirror size. A hundred times the sky area.’ 5–15s: Actual August 30 launch footage, dated. ‘NASA launched Roman. The first images were forecast for early 2027.’ 15–25s: Labeled illustration of expanding space. ‘Its surveys will ask why expansion accelerates and search for new planets.’ 25–40s: Roman and Webb labeled side by side. ‘One gives us the crowd; the other can inspect selected faces. The beautiful part is what we cannot write yet: what they will actually find.’",
+        "zh": "0–5秒：两个同样大的圆，画框扩展。‘镜子一样大，天空面积却是100倍。’ 5–15秒：8月30日真实发射画面，标日期。‘NASA 发射了罗曼，首批图像当时预计2027年初公开。’ 15–25秒：标明示意图的空间膨胀画面。‘它将研究宇宙为何加速膨胀，也将搜索新行星。’ 25–40秒：罗曼、韦布并列标注。‘一个寻找群像，一个细看目标。最精彩的部分，现在还写不出来：它们究竟会找到什么。’"
+      }
+    },
+    "cover_lines": {
+      "en": [
+        "SAME SIZE.",
+        "100×",
+        "THE SKY."
+      ],
+      "zh": [
+        "镜面一样大",
+        "视野",
+        "大百倍。"
+      ]
+    }
+  },
+  {
+    "id": "hotel-wifi-spy-trap",
+    "event_date": "2026-09-10",
+    "checked_at": "2026-09-20T05:38:24Z",
+    "category": "Security & ordinary life",
+    "label": "REPORTED INVESTIGATION",
+    "title": {
+      "en": "The phishing trap was the hotel Wi-Fi.",
+      "zh": "钓鱼陷阱，藏在酒店 Wi-Fi 里。"
+    },
+    "summary": {
+      "en": "A work trip became an account-security problem.",
+      "zh": "一次出差，变成了账户安全问题。"
+    },
+    "paragraphs": {
+      "en": [
+        "Anthropic’s September 10 report says an espionage operator compromised at least three hotel Wi-Fi vendors. Microsoft had described the associated CaptiveCrunch campaign in July, including AI-assisted operations and fake-update lures.",
+        "ReliaQuest documented redirects that could induce travelers to approve an attacker’s sign-in session. Merely joining Wi-Fi is not proof of account compromise.",
+        "The unsettling detail: a familiar sign-in can authorize the wrong person. Volexity documented that device-code trick in separate 2025 cases."
+      ],
+      "zh": [
+        "Anthropic 9月10日的报告称，一名间谍行动操作者攻陷了至少三家酒店 Wi-Fi 服务商。微软已在7月披露相关的 CaptiveCrunch 行动，包括 AI 辅助操作及假更新诱饵。",
+        "ReliaQuest 记录的跳转可诱使旅客批准攻击者发起的登录会话。仅连接 Wi-Fi，并不能证明账户已被攻陷。",
+        "令人不安的细节是：熟悉的登录界面，也可能在给错的人授权。Volexity 在另一些2025年案例中，就记录过这种设备代码骗局。"
+      ]
+    },
+    "wtf": {
+      "en": "The venue delivered the lure.",
+      "zh": "送来诱饵的，是你所在的场所。"
+    },
+    "consequence": {
+      "en": "The office perimeter travels with its people.",
+      "zh": "员工走到哪里，公司的安全边界就延伸到哪里。"
+    },
+    "uncertainty": {
+      "en": "Vendor investigations; current campaign activity is unverified. Affected networks are not all hotel networks.",
+      "zh": "依据安全厂商调查；行动目前是否仍在进行，未验证。受影响网络不等于所有酒店网络。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anthropic: September 2026 threat intelligence report, GTG-20006",
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "published_at": "2026-09-10"
+      },
+      {
+        "id": "s2",
+        "title": "Microsoft: CaptiveCrunch targets travelers",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
+        "published_at": "2026-07-31"
+      },
+      {
+        "id": "s3",
+        "title": "ReliaQuest: DNS poisoning expands to hospitality Wi-Fi",
+        "url": "https://reliaquest.com/blog/threat-spotlight-dns-poisoning-tactics-expand-to-hospitality/",
+        "published_at": "2026-07-23"
+      },
+      {
+        "id": "s4",
+        "title": "Volexity: Separate 2025 device-code phishing cases",
+        "url": "https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/",
+        "published_at": "2025-02-13"
+      },
+      {
+        "id": "s5",
+        "title": "Microsoft Learn: Device authorization grant",
+        "url": "https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-device-code",
+        "published_at": null
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "Anthropic reports at least three compromised hotel Wi-Fi suppliers and combined guest/device data used for targeting.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "Microsoft reports AI-assisted CaptiveCrunch activity, fake-update malware lures, and attribution to a Midnight Blizzard sub-cluster.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "ReliaQuest observed hotel-network redirects, account-authorization lures without phishing email, and attacks on traveling corporate staff.",
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "Separate Volexity cases from 2025 used genuine Microsoft device-code pages to trick users into authorizing attacker access.",
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "Device-code authorization is a legitimate sign-in flow in which user approval enables the requesting application to receive tokens.",
+        "source_ids": [
+          "s5"
+        ]
+      }
+    ],
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "familiar place",
+        "en": "The phishing trap was the hotel Wi-Fi.",
+        "zh": "钓鱼陷阱，藏在酒店 Wi-Fi 里。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 92
+      },
+      {
+        "id": "h02",
+        "angle": "missing usual trigger",
+        "en": "This phishing lure needed no email.",
+        "zh": "这次钓鱼，连邮件都不用发。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h03",
+        "angle": "business travel",
+        "en": "They targeted the employee who was traveling.",
+        "zh": "他们盯上的，是正在出差的员工。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 78
+      },
+      {
+        "id": "h04",
+        "angle": "trust boundary",
+        "en": "A hotel connection. A corporate target.",
+        "zh": "连的是酒店网，目标却是公司账户。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h05",
+        "angle": "venue inversion",
+        "en": "The hotel network became the delivery route.",
+        "zh": "酒店网络，成了诱饵的配送通道。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 79
+      },
+      {
+        "id": "h06",
+        "angle": "AI behind scenes",
+        "en": "Microsoft found AI behind the hotel trap.",
+        "zh": "微软发现，酒店陷阱背后有 AI 助力。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 82
+      },
+      {
+        "id": "h07",
+        "angle": "fake maintenance",
+        "en": "That update prompt had another job.",
+        "zh": "那个更新提示，另有任务。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h08",
+        "angle": "state stakes",
+        "en": "Microsoft traced the hotel campaign to Russian espionage.",
+        "zh": "微软将酒店网络行动指向俄罗斯间谍组织。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 80
+      },
+      {
+        "id": "h09",
+        "angle": "automation stakes",
+        "en": "The spy operation had AI help.",
+        "zh": "这场间谍行动，有 AI 帮忙。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 76
+      },
+      {
+        "id": "h10",
+        "angle": "ordinary disguise",
+        "en": "Malware arrived dressed as an update.",
+        "zh": "恶意软件，披着更新的外衣到来。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 83
+      },
+      {
+        "id": "h11",
+        "angle": "supplier chain",
+        "en": "Three Wi-Fi suppliers. A route to hotel guests.",
+        "zh": "三家 Wi-Fi 服务商，一条通向住客的路。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 81
+      },
+      {
+        "id": "h12",
+        "angle": "data fusion",
+        "en": "The guest list became targeting material.",
+        "zh": "住客资料，变成了锁定目标的材料。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h13",
+        "angle": "indirect access",
+        "en": "To reach the guest, compromise the supplier.",
+        "zh": "想接近住客，先攻陷服务商。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 77
+      },
+      {
+        "id": "h14",
+        "angle": "personal stakes",
+        "en": "Your hotel details can matter to a spy.",
+        "zh": "你的酒店资料，可能正是间谍想要的。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h15",
+        "angle": "physical digital join",
+        "en": "Where you stayed met what your device revealed.",
+        "zh": "住在哪里，与设备透露的信息，拼在了一起。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h16",
+        "angle": "counterintuitive authentication",
+        "en": "A real sign-in page. The wrong person benefits.",
+        "zh": "登录页是真的，获益的却是别人。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h17",
+        "angle": "consent mechanism",
+        "en": "The trick was getting your approval.",
+        "zh": "骗局的关键，是拿到你的批准。",
+        "claim_ids": [
+          "c4",
+          "c5"
+        ],
+        "editorial_score": 82
+      },
+      {
+        "id": "h18",
+        "angle": "historical continuity",
+        "en": "The login trick predates this hotel campaign.",
+        "zh": "这种登录骗局，比酒店行动更早出现。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 68
+      },
+      {
+        "id": "h19",
+        "angle": "false reassurance",
+        "en": "A familiar login is not the whole story.",
+        "zh": "熟悉的登录界面，不是故事的全部。",
+        "claim_ids": [
+          "c4",
+          "c5"
+        ],
+        "editorial_score": 75
+      },
+      {
+        "id": "h20",
+        "angle": "human decision",
+        "en": "Who is that sign-in really authorizing?",
+        "zh": "这次登录，究竟在给谁授权？",
+        "claim_ids": [
+          "c4",
+          "c5"
+        ],
+        "editorial_score": 87
+      }
+    ],
+    "experiment": {
+      "id": "hotel-wifi-spy-trap-v1",
+      "variants": [
+        "h01",
+        "h16"
+      ],
+      "hypothesis": "Untested editorial hypothesis: familiar hotel context wins opens; the real-login paradox wins shares. Measure qualified reads alongside clicks. Scores are editorial guesses."
+    },
+    "surfaces": {
+      "x": {
+        "en": "The guest list became targeting material. Anthropic reports hotel Wi-Fi suppliers were compromised in an espionage operation. The physical trip and the digital trail met.",
+        "zh": "住客资料，变成了锁定目标的材料。Anthropic 报告称，酒店 Wi-Fi 服务商遭到间谍行动攻陷。现实中的行程，与数字踪迹，拼在了一起。"
+      },
+      "linkedin": {
+        "en": "Microsoft’s CaptiveCrunch account puts a business question on the travel agenda: how does employee security hold up outside the office?",
+        "zh": "微软的 CaptiveCrunch 报告，把一个问题放进了差旅议程：员工离开办公室后，安全措施还能否起作用？"
+      },
+      "wechat": {
+        "en": "The trap can end on a genuine login page. Volexity’s separate 2025 cases show why the requester matters as much as the website.",
+        "zh": "陷阱也可能通向真正的登录页。Volexity 另一些2025年案例说明：谁在要求你登录，和你在哪个网站登录，同样关键。"
+      },
+      "video": {
+        "en": "0–5s: Hotel Wi-Fi symbol. ‘The trap was where they connected.’ 5–15s: Source dates on screen. ‘July investigations described compromised hospitality networks. September reporting added details about suppliers and guest information.’ 15–25s: Abstract sign-in diagram, labeled illustration. ‘The human move mattered: a traveler could be tricked into authorizing an attacker’s session.’ 25–40s: Pause on the approval button. ‘Separate 2025 cases already showed that a real login page can serve a false request. Connection alone does not prove theft. The question is who your approval lets in.’",
+        "zh": "0–5秒：酒店 Wi-Fi 图标。‘陷阱，就在连接的地方。’ 5–15秒：标出来源日期。‘七月的调查描述了被攻陷的酒店网络。九月的报告补充了服务商和住客信息的细节。’ 15–25秒：标明示意图的登录流程。‘人的动作很关键：旅客可能受骗，批准攻击者发起的会话。’ 25–40秒：停在批准按钮。‘另一些2025年的案例已显示，真正的登录页也能服务于虚假请求。连接网络本身不等于被盗。关键是：你的批准，让谁进来了。’"
+      }
+    },
+    "cover_lines": {
+      "en": [
+        "THE LOGIN",
+        "IS THE",
+        "TRAP."
+      ],
+      "zh": [
+        "登录页面",
+        "就是",
+        "陷阱。"
+      ]
+    }
+  }
+]

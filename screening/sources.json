@@ -1,0 +1,453 @@
+[
+  {
+    "id": "bbc-world",
+    "name": "BBC News — World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "publisher_origin": "https://www.bbc.com/news",
+    "language": "en",
+    "region": "world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "politics",
+      "human stories"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": "https://support.bbc.co.uk/platform/feeds/NewsFeeds.htm"
+  },
+  {
+    "id": "aljazeera",
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "publisher_origin": "https://www.aljazeera.com/",
+    "language": "en",
+    "region": "Middle East, Africa, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "conflict",
+      "human stories"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "africanews",
+    "name": "Africanews",
+    "url": "https://www.africanews.com/feed/",
+    "publisher_origin": "https://www.africanews.com/",
+    "language": "en",
+    "region": "Africa",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "civic",
+      "economics"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": "https://www.africanews.com/page/widgets/"
+  },
+  {
+    "id": "rnz-pacific",
+    "name": "RNZ Pacific",
+    "url": "https://www.rnz.co.nz/rss/pacific.xml",
+    "publisher_origin": "https://www.rnz.co.nz/news/pacific",
+    "language": "en",
+    "region": "Pacific Islands",
+    "kind": "publisher",
+    "topics": [
+      "civic",
+      "climate",
+      "migration"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "mongabay",
+    "name": "Mongabay",
+    "url": "https://news.mongabay.com/feed/",
+    "publisher_origin": "https://news.mongabay.com/",
+    "language": "en",
+    "region": "world, tropical regions",
+    "kind": "publisher",
+    "topics": [
+      "environment",
+      "land",
+      "indigenous communities"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "nasa",
+    "name": "NASA",
+    "url": "https://www.nasa.gov/feed/",
+    "publisher_origin": "https://www.nasa.gov/",
+    "language": "en",
+    "region": "United States, space",
+    "kind": "primary",
+    "topics": [
+      "science",
+      "space"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "nature",
+    "name": "Nature",
+    "url": "https://www.nature.com/nature.rss",
+    "publisher_origin": "https://www.nature.com/",
+    "language": "en",
+    "region": "world",
+    "kind": "publisher",
+    "topics": [
+      "science",
+      "research"
+    ],
+    "enabled": true,
+    "note": "Feed mixes research and editorial items; article access varies. Publication date does not establish event date.",
+    "documentation": "https://blogs.nature.com/blog/nature_web_feeds_a_new_look-2/"
+  },
+  {
+    "id": "rest-of-world",
+    "name": "Rest of World",
+    "url": "https://restofworld.org/feed/latest/",
+    "publisher_origin": "https://restofworld.org/",
+    "language": "en",
+    "region": "Asia, Africa, Latin America",
+    "kind": "publisher",
+    "topics": [
+      "technology",
+      "work",
+      "society"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": "https://restofworld.org/platforms/"
+  },
+  {
+    "id": "federal-reserve",
+    "name": "Federal Reserve Board",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "publisher_origin": "https://www.federalreserve.gov/",
+    "language": "en",
+    "region": "United States",
+    "kind": "primary",
+    "topics": [
+      "economics",
+      "banking",
+      "monetary policy"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": "https://www.federalreserve.gov/feeds/feeds.htm"
+  },
+  {
+    "id": "eia-today",
+    "name": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/rss/todayinenergy.xml",
+    "publisher_origin": "https://www.eia.gov/",
+    "language": "en",
+    "region": "United States, world",
+    "kind": "primary",
+    "topics": [
+      "energy",
+      "economics",
+      "data"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": "https://www.eia.gov/tools/rssfeeds/"
+  },
+  {
+    "id": "guardian-business",
+    "name": "The Guardian — Business",
+    "url": "https://www.theguardian.com/uk/business/rss",
+    "publisher_origin": "https://www.theguardian.com/business",
+    "language": "en",
+    "region": "United Kingdom, world",
+    "kind": "publisher",
+    "topics": [
+      "economics",
+      "work",
+      "consumer"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "un-news",
+    "name": "UN News",
+    "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+    "publisher_origin": "https://news.un.org/",
+    "language": "en",
+    "region": "world",
+    "kind": "publisher",
+    "topics": [
+      "humanitarian",
+      "civic",
+      "health"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "rthk-zh",
+    "name": "RTHK 香港電台",
+    "url": "https://rthk9.rthk.hk/rthk/news/rss/c_expressnews_clocal.xml",
+    "publisher_origin": "https://news.rthk.hk/rthk/ch/",
+    "language": "zh-Hant",
+    "region": "Hong Kong",
+    "kind": "publisher",
+    "topics": [
+      "local",
+      "civic",
+      "general"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": "https://news.rthk.hk/rthk/ch/rss.feed"
+  },
+  {
+    "id": "cna-taiwan-zh",
+    "name": "CNA 中央通訊社",
+    "url": "https://feeds.feedburner.com/rsscna/intworld",
+    "publisher_origin": "https://www.cna.com.tw/",
+    "language": "zh-Hant",
+    "region": "Taiwan, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "Asia",
+      "politics"
+    ],
+    "enabled": false,
+    "note": "Publisher RSS terms specify personal/nonprofit noncommercial use, attribution, no full-text republication.",
+    "documentation": "https://www.cna.com.tw/about/rss.aspx"
+  },
+  {
+    "id": "cna-singapore",
+    "name": "Channel NewsAsia",
+    "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+    "publisher_origin": "https://www.channelnewsasia.com/",
+    "language": "en",
+    "region": "Singapore, Southeast Asia",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "economics",
+      "society"
+    ],
+    "enabled": false,
+    "note": "RSS terms specify personal and noncommercial use, direct article links, no third-party transfer; review licensing before public reuse.",
+    "documentation": "https://www.channelnewsasia.com/rss"
+  },
+  {
+    "id": "scmp",
+    "name": "South China Morning Post",
+    "url": "https://www.scmp.com/rss/91/feed/",
+    "publisher_origin": "https://www.scmp.com/",
+    "language": "en",
+    "region": "Hong Kong, China, Asia",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "economics",
+      "society"
+    ],
+    "enabled": true,
+    "note": "Public feed verified; individual articles may require a subscription. Do not bypass article access controls.",
+    "documentation": null
+  },
+  {
+    "id": "hkfp",
+    "name": "Hong Kong Free Press",
+    "url": "https://hongkongfp.com/feed/",
+    "publisher_origin": "https://hongkongfp.com/",
+    "language": "en",
+    "region": "Hong Kong",
+    "kind": "publisher",
+    "topics": [
+      "local",
+      "civic",
+      "society"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "rfi-zh",
+    "name": "RFI 法國國際廣播電台",
+    "url": "https://www.rfi.fr/cn/rss",
+    "publisher_origin": "https://www.rfi.fr/cn/",
+    "language": "zh-Hans",
+    "region": "China, Europe, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "politics"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "dw-zh",
+    "name": "DW 德國之聲",
+    "url": "https://rss.dw.com/xml/rss-chi-all",
+    "publisher_origin": "https://www.dw.com/zh/",
+    "language": "zh",
+    "region": "China, Europe, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "politics",
+      "society"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "solidot",
+    "name": "Solidot 奇客",
+    "url": "https://www.solidot.org/index.rss",
+    "publisher_origin": "https://www.solidot.org/",
+    "language": "zh-Hans",
+    "region": "China, world",
+    "kind": "publisher",
+    "topics": [
+      "science",
+      "technology",
+      "internet"
+    ],
+    "enabled": true,
+    "note": "Follow linked original reporting or research before supporting a factual claim.",
+    "documentation": null
+  },
+  {
+    "id": "gdelt-global",
+    "name": "GDELT global open-web index",
+    "url": "https://data.gdeltproject.org/gdeltv3/gal/feed.rss",
+    "language": "und",
+    "region": "Global",
+    "kind": "index",
+    "timestamp_kind": "observed",
+    "enabled": true,
+    "documentation": "https://blog.gdeltproject.org/announcing-the-gdelt-article-list-rss-feed/",
+    "note": "Rolling15-minute discovery window, not a full-day archive; timestamps mean observed, not publication. No topic query."
+  },
+  {
+    "id": "le-monde-fr",
+    "name": "Le Monde",
+    "url": "https://www.lemonde.fr/rss/une.xml",
+    "publisher_origin": "https://www.lemonde.fr/",
+    "language": "fr",
+    "region": "France, Europe, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "politics",
+      "society"
+    ],
+    "enabled": true,
+    "note": "Public feed verified. Some linked articles require subscriptions; do not bypass article access controls.",
+    "documentation": "https://www.lemonde.fr/le-monde-et-vous/article/2025/07/14/les-flux-rss-du-monde-fr_5498778_3237.html"
+  },
+  {
+    "id": "el-pais-americas-es",
+    "name": "El País — América",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
+    "publisher_origin": "https://elpais.com/america/",
+    "language": "es",
+    "region": "Latin America, Spain, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "politics",
+      "society"
+    ],
+    "enabled": true,
+    "note": "Public feed verified. Some linked articles require subscriptions; do not bypass article access controls.",
+    "documentation": "https://elpais.com/info/rss/"
+  },
+  {
+    "id": "tagesschau-de",
+    "name": "Tagesschau",
+    "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
+    "publisher_origin": "https://www.tagesschau.de/",
+    "language": "de",
+    "region": "Germany, Europe, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "politics",
+      "economics"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "france24-ar",
+    "name": "France 24 — Arabic",
+    "url": "https://www.france24.com/ar/rss",
+    "publisher_origin": "https://www.france24.com/ar/",
+    "language": "ar",
+    "region": "Middle East, North Africa, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "politics",
+      "society"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": null
+  },
+  {
+    "id": "bbc-hindi",
+    "name": "BBC News हिन्दी",
+    "url": "https://feeds.bbci.co.uk/hindi/rss.xml",
+    "publisher_origin": "https://www.bbc.com/hindi",
+    "language": "hi",
+    "region": "India, South Asia, world",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "politics",
+      "society"
+    ],
+    "enabled": true,
+    "note": "Shares BBC publisher identity with the existing English seed; translation editions are not independent corroboration.",
+    "documentation": null
+  },
+  {
+    "id": "agencia-brasil-pt",
+    "name": "Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
+    "publisher_origin": "https://agenciabrasil.ebc.com.br/",
+    "language": "pt-BR",
+    "region": "Brazil, Latin America",
+    "kind": "publisher",
+    "topics": [
+      "general",
+      "civic",
+      "economics"
+    ],
+    "enabled": true,
+    "note": "",
+    "documentation": "https://agenciabrasil.ebc.com.br/feed/"
+  }
+]

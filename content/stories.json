@@ -1,0 +1,2485 @@
+[
+  {
+    "id": "eviltokens-real-login-trap",
+    "event_date": "2026-09-22",
+    "checked_at": "2026-09-23T01:11:09.509426+00:00",
+    "category": "Security & ordinary life",
+    "label": "REPORTED INVESTIGATION",
+    "title": {
+      "en": "You can sign in on Microsoft's real page and still let a criminal into your inbox.",
+      "zh": "你登的是真微软，放进邮箱的却可能是骗子。"
+    },
+    "summary": {
+      "en": "Microsoft links EvilTokens to over 12,000 compromised inboxes across more than 10,000 organizations. One trick was to make a genuine sign-in approve the attacker's access.",
+      "zh": "微软称，EvilTokens涉及1.2万多个被入侵邮箱，遍布1万多家机构。其中一招，是诱使用户在真正的登录页面上替攻击者批准访问。"
+    },
+    "paragraphs": {
+      "en": [
+        "The sign-in page can be genuine while the request behind it belongs to a criminal. Microsoft's September 22 report describes EvilTokens lures that led people to its real login page, where their approval authorized an attacker's session. Microsoft links the service as a whole to more than 12,000 compromised inboxes across over 10,000 organizations worldwide.",
+        "The abused feature was built for devices such as smart TVs and printers: you approve one device's access from another. A phishing message can disguise whose request you are approving. The victim's password need never reach the criminal. The report describes deception around authorization, rather than a break in MFA's cryptography; Microsoft continues to recommend MFA.",
+        "An exposed inbox then gave the service's AI tools material to analyze. Microsoft says they could identify payment conversations and trusted relationships, helping criminals choose whom to impersonate. That is why an unusual payment request deserves a separate check, even when it comes from a familiar mailbox. The technical report also describes malicious inbox rules that concealed communications.",
+        "EvilTokens emerged in February 2026. On September 22, Microsoft announced that it and partners had seized 50 websites and disabled more than 150 supporting domains. That disrupts infrastructure; it does not establish that every compromised account is safe. Microsoft warns that access can survive a password reset when associated sessions and tokens remain valid. The DCU describes a business with customer support, a $1,500 entry fee and a $500 monthly subscription.",
+        "For readers, the useful check is what access a sign-in is approving and whether you initiated it. For organizations, Microsoft's guidance is to review the need for device-code login, block it where possible, and keep necessary exceptions narrow. Requests to redirect payments should be verified through a trusted second channel."
+      ],
+      "zh": [
+        "登录页面可以是真的，背后的请求却可能属于骗子。微软9月22日发布的报告描述了EvilTokens的一种骗术：把用户引到真正的微软登录页，再让用户的确认替攻击者批准访问。微软称，整个服务涉及全球1万多家机构、1.2万多个被入侵邮箱。",
+        "被滥用的功能原本方便电视、打印机等设备登录：你在另一台设备上批准它的访问请求。钓鱼消息把“到底在批准谁”藏了起来，攻击者甚至不必拿到你的密码。报告描述的是授权过程中的欺骗，没有证据表明MFA的加密机制被破解；微软仍建议使用MFA。",
+        "邮箱一旦失守，里面的往来就成了AI工具的分析材料。微软称，这些工具能找出付款讨论和信任关系，帮助骗子挑选冒充对象。所以，即使改收款账户的消息来自熟悉的邮箱，也应该换一个可信渠道核实。 技术报告还记录了另一种掩饰：设置恶意收件规则，把相关邮件藏起来。",
+        "EvilTokens在2026年2月出现。微软9月22日宣布，已与合作方查封50个网站，并停用150多个配套域名。这是对基础设施的打击，不能据此认定所有被入侵账户都已安全。微软还提醒：如果相关会话和令牌仍然有效，只改密码，攻击者的访问权限可能还在。 按微软DCU的描述，这门生意还配客服：入门费1,500美元，每月再收500美元。",
+        "读者需要看清的是：这次登录在批准什么访问，是不是自己发起的。机构则应按微软建议，检查是否需要设备代码登录，能禁用就禁用，必要例外尽量收窄。遇到更改付款信息的请求，用另一个可信渠道确认。"
+      ]
+    },
+    "wtf": {
+      "en": "The genuine login can complete the fraud: the user approves access for the wrong session.",
+      "zh": "真正的登录页也能完成骗术：用户批准的，可能是攻击者那边的访问。"
+    },
+    "consequence": {
+      "en": "A compromised inbox can expose both private messages and the relationships that make the next fraud attempt convincing.",
+      "zh": "邮箱失守，泄露的不只是邮件，还有让下一次冒充更可信的人际关系。"
+    },
+    "uncertainty": {
+      "en": "The compromise counts and disruption results are Microsoft's account, not an independent census. They cover EvilTokens as a service, not a verified total for device-code phishing alone. September 22 is the report and announcement date; the service emerged in February. Disruption does not prove eradication or complete account recovery. There is no evidence here of a cryptographic MFA break.",
+      "zh": "入侵规模和打击结果来自微软通报，并非独立普查。这些数字覆盖整个EvilTokens服务，不能全部归到设备代码钓鱼这一招上。9月22日是报告及公告日期，服务在2月已经出现。打击基础设施不等于彻底清除威胁，也不等于所有账户已恢复安全。现有材料没有证明MFA的加密机制被破解。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Microsoft Threat Intelligence: Unmasking EvilTokens",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+        "published_at": "2026-09-22"
+      },
+      {
+        "id": "s2",
+        "title": "Microsoft Digital Crimes Unit: Disrupting EvilTokens",
+        "url": "https://blogs.microsoft.com/on-the-issues/2026/09/22/disrupting-eviltokens-the-ai-chatbot-built-for-cybercrime/",
+        "published_at": "2026-09-22"
+      },
+      {
+        "id": "s3",
+        "title": "Microsoft Learn: OAuth device authorization grant",
+        "url": "https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-device-code"
+      },
+      {
+        "id": "s4",
+        "title": "Microsoft Learn: Restrict device code authentication flows",
+        "url": "https://learn.microsoft.com/en-us/entra/identity/conditional-access/policy-block-authentication-flows"
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "Microsoft reports that EvilTokens lures directed users to its genuine sign-in portal, where approval could authorize an attacker session without exposing the victim password. A genuine domain alone does not validate the authorization request.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "Microsoft links EvilTokens as a service to more than 12,000 compromised inboxes across over 10,000 organizations worldwide; these are attributed service-wide counts, not a count confined to one attack technique.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "Microsoft says EvilTokens emerged in February 2026. Its technical report and disruption announcement were published September 22, 2026.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "Legitimate device authorization lets users approve access for devices with limited input, including smart TVs and printers, through a browser on another device.",
+        "source_ids": [
+          "s1",
+          "s3"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "Microsoft describes abuse of authorization/session context to circumvent traditional MFA protections. It does not report a cryptographic break in MFA, and still recommends MFA.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c6",
+        "text": "Microsoft says EvilTokens AI tools could analyze compromised inboxes, identify financial conversations and trusted relationships, and help criminals choose impersonation targets. These are reported capabilities, not proof that AI caused every compromise.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c7",
+        "text": "Microsoft says it and partners seized 50 websites and disabled more than 150 supporting domains. Infrastructure disruption does not establish that the service model disappeared or every account recovered.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c8",
+        "text": "Microsoft warns that access could persist after a password reset if associated sessions and tokens were not revoked.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c9",
+        "text": "Microsoft recommends auditing device code flow usage, blocking it where possible, and restricting necessary exceptions. Legitimate uses exist.",
+        "source_ids": [
+          "s1",
+          "s4"
+        ]
+      },
+      {
+        "id": "c10",
+        "text": "Microsoft recommends independently verifying payment changes or unusual transactions through a trusted second channel.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c11",
+        "text": "Microsoft reports AI capabilities for tailoring lures to target roles and analyzing mailbox content after compromise; later messages can exploit existing trusted contacts.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c12",
+        "text": "Microsoft reports use of malicious inbox rules to conceal communications and retain access, with behavior varying between incidents.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c13",
+        "text": "Microsoft DCU reports EvilTokens was sold for a $1,500 initiation fee and a $500 recurring subscription, with customer support and a management interface. The technical report specifies the subscription as monthly.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      }
+    ],
+    "experiment": {
+      "id": "eviltokens-real-login-trap-v1",
+      "variants": [
+        "h01",
+        "h02"
+      ],
+      "hypothesis": "Test the trusted-login reversal against the attributed service-wide compromise count. Both promises are paid off in the first paragraph; body, artwork, placement and render version stay fixed. Editorial scores are untested preferences, not observed performance. Judge qualified consumption per exposure with misleading/hide feedback at the scheduled review; insufficient observations remain UNKNOWN."
+    },
+    "cover_lines": {
+      "en": [
+        "EVILTOKENS",
+        "THE LOGIN",
+        "AND THE REQUEST"
+      ],
+      "zh": [
+        "EvilTokens",
+        "登录页是真的",
+        "请求是谁的？"
+      ]
+    },
+    "surfaces": {
+      "x": {
+        "en": "A real Microsoft login can approve a criminal's access. Microsoft links EvilTokens to 12,000+ compromised inboxes across 10,000+ organizations. These are service-wide counts. The disruption announced Sept 22 does not prove every account is safe.",
+        "zh": "登录页是真微软，你批准的却可能是攻击者的访问。微软称，EvilTokens涉及1.2万多个被入侵邮箱、1万多家机构。这是整个服务的数字；9月22日公布的打击行动，不等于每个账户都已恢复安全。"
+      },
+      "linkedin": {
+        "en": "Checking the web address would not have settled this one.\n\nMicrosoft's September 22 EvilTokens report describes people reaching its genuine sign-in page and approving access for an attacker. The service is linked, in Microsoft's account, to more than 12,000 compromised inboxes across over 10,000 organizations.\n\nThe professional consequence reaches past email privacy. Microsoft says the service could analyze payment conversations and trusted relationships to help criminals choose impersonation targets. A familiar sender address should not settle a request to change bank details. Verify it through a trusted second channel.\n\nThe announced infrastructure disruption is useful progress. Full account recovery and the real financial losses are not established by these reports.",
+        "zh": "查过网址，这一关也未必过得去。\n\n微软9月22日的EvilTokens报告描述了这样的情况：用户来到真正的微软登录页，却替攻击者批准了访问。按微软的统计，整个服务涉及1万多家机构、1.2万多个被入侵邮箱。\n\n对企业而言，后果会越过邮件隐私。微软称，这个服务能分析付款讨论和信任关系，帮助骗子挑选冒充对象。因此，不能只凭熟悉的发件地址，就接受改收款账户的要求。换一个可信渠道核实。\n\n基础设施遭到打击是进展。账户是否全部恢复安全、实际财务损失多少，这两篇报告都没有给出完整答案。"
+      },
+      "wechat": {
+        "en": "You reach the real Microsoft sign-in page. What access are you about to approve?\n\nEvilTokens used deceptive requests to turn a genuine sign-in into permission for an attacker session, Microsoft says. Its September 22 reports link the service to over 12,000 compromised inboxes across more than 10,000 organizations.\n\nAfter access, AI tools could read correspondence for payment discussions and trusted relationships. A convincing follow-up could draw on the victim's real work.\n\nThe service emerged in February. Microsoft now reports 50 websites seized and more than 150 supporting domains disabled. Compromised accounts still require attention: access can survive a password reset if sessions and tokens remain valid.\n\nCheck whether you initiated an approval request. Verify payment changes through a trusted second channel. The reports come from Microsoft; their counts have not been independently audited here.",
+        "zh": "你打开的，确实是微软的登录页。可这次确认，到底在批准谁的访问？\n\n微软9月22日披露，EvilTokens会用骗人的请求，把一次真实登录变成攻击者的通行证。按微软的统计，整个服务涉及1万多家机构、1.2万多个被入侵邮箱。\n\n进去之后，AI工具还能从邮件里找付款讨论、分析谁信任谁。下一封冒充邮件，可能就利用了受害者真实的工作往来。\n\n这个服务2月就出现了。微软如今宣布查封50个网站、停用150多个配套域名。账户善后仍要做：相关会话和令牌如果还有效，只改密码，访问权限可能仍在。\n\n确认是不是自己发起的授权。遇到改付款信息，换个可信渠道核实。这里的规模数字来自微软通报，我们没有独立审计这些数字。"
+      },
+      "video": {
+        "en": "0-5s: First frame: REAL LOGIN. WHO GETS ACCESS? Voice: You can reach Microsoft's real login page and still approve a criminal's access.\n5-14s: A labelled conceptual animation shows one person approving a request and an unrelated session receiving permission. No usable codes, URLs or operational interface. Voice: EvilTokens disguised whose session the user was approving.\n14-23s: On-screen: Microsoft reports 12,000+ compromised inboxes / 10,000+ organizations / service-wide figures. Voice: These are Microsoft's counts for the whole service, not just this tactic.\n23-32s: Show the dated September 22 DCU report title, then a conceptual mailbox with payment and contact icons. Voice: Microsoft says AI tools could analyze stolen correspondence and suggest whom to impersonate.\n32-44s: Voice: The infrastructure was disrupted. That does not mean every account is recovered. Check what you approve, and verify payment changes through a trusted second channel. End card cites the two Microsoft September 22 reports; label conceptual or AI visuals throughout.",
+        "zh": "0-5秒：首屏「真登录页，谁拿到权限？」口播：你到的是真微软，批准的却可能是骗子的访问。\n5-14秒：明确标注「概念示意」，一人确认请求，另一边的陌生会话拿到权限。不出现可用代码、网址或操作界面。口播：EvilTokens把“你究竟在批准谁”藏了起来。\n14-23秒：画面「微软通报：1.2万多个邮箱、1万多家机构；整个服务的统计」。口播：这些是整个服务的数字，不能全算在这一招上。\n23-32秒：展示9月22日微软DCU报告标题，再用示意邮箱呈现付款、联系人图标。口播：微软称，AI还能分析偷来的邮件，帮骗子挑冒充对象。\n32-44秒：口播：基础设施被打击了，不等于每个账户都已安全。看清你批准的访问，改付款信息时，换个可信渠道核实。尾卡注明两篇9月22日微软报告；概念或AI画面全程标注。"
+      }
+    },
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "reversal: genuine page, wrong beneficiary",
+        "en": "You can sign in on Microsoft's real page and still let a criminal into your inbox.",
+        "zh": "你登的是真微软，放进邮箱的却可能是骗子。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 96,
+        "reader_promise": "Explain how an authentic page can approve hostile access.",
+        "payoff": "The sign-in is genuine; the session it approves can belong to the attacker.",
+        "risk": "Could imply every Microsoft login is unsafe; keep the conditional and identify the deceptive request."
+      },
+      {
+        "id": "h02",
+        "angle": "scale: service-wide inbox count",
+        "en": "Microsoft: one phishing service, over 12,000 inboxes compromised.",
+        "zh": "微软：一个钓鱼服务，涉及1.2万多个被入侵邮箱。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 94,
+        "reader_promise": "Show the measured scope claimed by the investigator.",
+        "payoff": "Microsoft links the service to 12,000-plus inboxes across 10,000-plus organizations.",
+        "risk": "Counts are attributed and service-wide, not independently audited or all due to one technique."
+      },
+      {
+        "id": "h03",
+        "angle": "reversal: password can stay private",
+        "en": "A criminal can get into your inbox without ever seeing your password.",
+        "zh": "骗子没见过你的密码，也可能进了你的邮箱。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 91,
+        "reader_promise": "Reveal access without password disclosure.",
+        "payoff": "The victim can approve an attacker session through a legitimate sign-in.",
+        "risk": "Must not suggest all account access works this way or that passwords no longer matter."
+      },
+      {
+        "id": "h04",
+        "angle": "reversal: normal check can be insufficient",
+        "en": "The web address checks out. The access request still needs checking.",
+        "zh": "网址查了，是真的。访问请求是谁的，还得再看。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 89,
+        "reader_promise": "Add a practical check beyond domain inspection.",
+        "payoff": "EvilTokens used a genuine portal to approve a request initiated by an attacker.",
+        "risk": "Do not discourage checking URLs; explain why it is insufficient by itself."
+      },
+      {
+        "id": "h05",
+        "angle": "reversal: recovery can leave access alive",
+        "en": "You changed the password. An attacker could still have inbox access.",
+        "zh": "密码改了，攻击者却可能还留在邮箱里。",
+        "claim_ids": [
+          "c8"
+        ],
+        "editorial_score": 93,
+        "reader_promise": "Explain the recovery gap.",
+        "payoff": "Microsoft warns that surviving sessions and tokens can preserve access after a reset.",
+        "risk": "Conditional on sessions/tokens remaining valid; never imply password resets are useless."
+      },
+      {
+        "id": "h06",
+        "angle": "human stakes: a familiar mailbox",
+        "en": "A familiar email address can carry somebody else's payment instructions.",
+        "zh": "熟悉的邮箱地址，发来的可能是骗子的付款指令。",
+        "claim_ids": [
+          "c6",
+          "c10",
+          "c11"
+        ],
+        "editorial_score": 89,
+        "reader_promise": "Explain why a trusted sender is insufficient for payment changes.",
+        "payoff": "Compromised mailboxes and relationship analysis can help criminals impersonate trusted contacts.",
+        "risk": "This is a capability and risk, not an invented named victim or verified loss."
+      },
+      {
+        "id": "h07",
+        "angle": "human stakes: relationships exposed",
+        "en": "Your inbox tells a thief whom you trust. Microsoft says AI can help read it.",
+        "zh": "邮箱会告诉骗子你信谁。微软说，AI能帮他们读出来。",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 92,
+        "reader_promise": "Show what stolen correspondence reveals.",
+        "payoff": "Microsoft describes tools that identify trusted relationships and impersonation targets.",
+        "risk": "AI capability must remain attributed; do not assume every stolen inbox was analyzed."
+      },
+      {
+        "id": "h08",
+        "angle": "human stakes: financial authority",
+        "en": "Who can approve a payment? Microsoft says this crime service could find out from emails.",
+        "zh": "谁能批付款？微软称，这个犯罪服务能从邮件里找线索。",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 88,
+        "reader_promise": "Connect mailbox access to financial decision makers.",
+        "payoff": "The tools could surface financial conversations and identify targets for impersonation.",
+        "risk": "Finding clues is not proof that payments were diverted in every case."
+      },
+      {
+        "id": "h09",
+        "angle": "human stakes: concealed correspondence",
+        "en": "Your inbox can be compromised while rules hide the suspicious mail.",
+        "zh": "邮箱可能已经失守，可疑邮件还被规则藏了起来。",
+        "claim_ids": [
+          "c12"
+        ],
+        "editorial_score": 86,
+        "reader_promise": "Explain why the visible inbox may omit warning signs.",
+        "payoff": "Microsoft reports malicious inbox rules that concealed communications.",
+        "risk": "An observed behavior in some incidents, not an assertion about every victim."
+      },
+      {
+        "id": "h10",
+        "angle": "mechanism: the approval itself",
+        "en": "The attacker needs your approval. The trick is hiding whose access you approve.",
+        "zh": "攻击者要的是你的批准。骗术在于，让你看不清批准的是谁。",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 91,
+        "reader_promise": "Make the authorization mistake legible.",
+        "payoff": "A device-code lure can make a genuine sign-in authorize the wrong session.",
+        "risk": "Do not provide an attack recipe or imply accidental approval is inevitable."
+      },
+      {
+        "id": "h11",
+        "angle": "mechanism: a feature built for televisions",
+        "en": "A login feature built for TVs and printers became a route into work inboxes.",
+        "zh": "本来方便电视、打印机登录的功能，被拿来闯进工作邮箱。",
+        "claim_ids": [
+          "c1",
+          "c4"
+        ],
+        "editorial_score": 90,
+        "reader_promise": "Explain the legitimate feature behind the abuse.",
+        "payoff": "Device authorization lets one device approve another; phishing can substitute the attacker request.",
+        "risk": "The feature has legitimate uses; abuse does not prove every deployment is vulnerable."
+      },
+      {
+        "id": "h12",
+        "angle": "mechanism: AI after account access",
+        "en": "Once inside an inbox, EvilTokens offered AI help choosing the next person to impersonate.",
+        "zh": "钻进邮箱后，EvilTokens还能用AI帮骗子挑下一个冒充对象。",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 91,
+        "reader_promise": "Show the post-compromise role of AI.",
+        "payoff": "Microsoft describes relationship analysis and suggested impersonation targets.",
+        "risk": "Reported platform capability, not independently measured effectiveness."
+      },
+      {
+        "id": "h13",
+        "angle": "mechanism: MFA boundary",
+        "en": "MFA can check your identity while a deceptive request gets your approval.",
+        "zh": "MFA确认了你是谁，骗人的访问请求却仍可能得到你的批准。",
+        "claim_ids": [
+          "c1",
+          "c5"
+        ],
+        "editorial_score": 89,
+        "reader_promise": "Explain why authentication and authorization context both matter.",
+        "payoff": "Microsoft describes a legitimate sign-in approving an attacker session and still recommends MFA.",
+        "risk": "Must not suggest a cryptographic break or advise disabling MFA."
+      },
+      {
+        "id": "h14",
+        "angle": "scale: organizational reach",
+        "en": "Over 10,000 organizations, Microsoft says. One service sold the phishing tools.",
+        "zh": "微软称，涉及1万多家机构。背后是同一个钓鱼工具服务。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 88,
+        "reader_promise": "Show organizational reach while keeping attribution.",
+        "payoff": "The reported service-wide count spans more than 10,000 organizations.",
+        "risk": "Organization count is not the number of complete corporate network takeovers."
+      },
+      {
+        "id": "h15",
+        "angle": "scale: operation versus recovery",
+        "en": "Microsoft says it seized 50 EvilTokens sites. That cannot certify every inbox safe.",
+        "zh": "微软称查封了50个EvilTokens网站。每个邮箱都安全了吗？还不能这么说。",
+        "claim_ids": [
+          "c7"
+        ],
+        "editorial_score": 90,
+        "reader_promise": "Separate a major intervention from individual recovery.",
+        "payoff": "The operation disrupted infrastructure; account recovery is a separate unresolved question.",
+        "risk": "Do not imply a failed operation merely because eradication is unproven."
+      },
+      {
+        "id": "h16",
+        "angle": "scale: old emergence, new report",
+        "en": "EvilTokens surfaced in February. Microsoft now reports more than 12,000 breached inboxes.",
+        "zh": "EvilTokens在2月出现。如今微软披露：被入侵邮箱超过1.2万个。",
+        "claim_ids": [
+          "c2",
+          "c3"
+        ],
+        "editorial_score": 87,
+        "reader_promise": "Give the timeline behind the September announcement.",
+        "payoff": "September 22 brings a new report on a service that emerged in February.",
+        "risk": "No invented monthly growth rate or claim that every compromise occurred in September."
+      },
+      {
+        "id": "h17",
+        "angle": "choice: prevent unnecessary approval routes",
+        "en": "Does your company need device-code login? Microsoft says to block it where possible.",
+        "zh": "公司真需要设备代码登录吗？微软建议：能禁用就禁用。",
+        "claim_ids": [
+          "c9"
+        ],
+        "editorial_score": 85,
+        "reader_promise": "Offer a concrete organizational decision.",
+        "payoff": "Audit legitimate use, then restrict the flow and narrowly scope necessary exceptions.",
+        "risk": "Avoid blanket advice that could break necessary device access."
+      },
+      {
+        "id": "h18",
+        "angle": "choice: independent payment verification",
+        "en": "Before changing bank details, check through a channel the mailbox thief does not control.",
+        "zh": "改收款账户之前，换个邮箱窃贼管不到的渠道确认。",
+        "claim_ids": [
+          "c6",
+          "c10"
+        ],
+        "editorial_score": 88,
+        "reader_promise": "Give a practical consequence for payment workflows.",
+        "payoff": "Microsoft recommends a trusted second channel for changed payment instructions.",
+        "risk": "Editorial plain-language advice, not a claim of guaranteed protection."
+      },
+      {
+        "id": "h19",
+        "angle": "business model: subscription and customer support",
+        "en": "Microsoft: inbox theft came with a monthly bill and customer support.",
+        "zh": "微软：偷邮箱，也做成了包月服务，还配客服。",
+        "claim_ids": [
+          "c13"
+        ],
+        "editorial_score": 89,
+        "reader_promise": "Show how the service packaged cybercrime as a subscription business.",
+        "payoff": "The DCU describes customer support, a $1,500 entry fee and a $500 recurring subscription; the technical report specifies monthly.",
+        "risk": "Reported business model, not proof that every paying subscriber succeeded or that these were the only costs."
+      },
+      {
+        "id": "h20",
+        "angle": "choice: intent at approval",
+        "en": "Before you approve a login, check who started it. The real page cannot answer for you.",
+        "zh": "确认登录前，先看是不是自己发起的。页面是真的，也不能替你做这个判断。",
+        "claim_ids": [
+          "c1",
+          "c4"
+        ],
+        "editorial_score": 89,
+        "reader_promise": "Turn the reversal into an immediately usable question.",
+        "payoff": "A genuine page may be approving access requested by somebody else.",
+        "risk": "Do not claim user vigilance alone replaces organizational controls."
+      }
+    ]
+  },
+  {
+    "id": "mars-rocks-three-water-stories",
+    "event_date": "2026-09-21",
+    "checked_at": "2026-09-22T01:08:17.301409+00:00",
+    "category": "Science & wonder",
+    "label": "RESEARCH",
+    "title": {
+      "en": "Scientists expected lake sediment. Mars handed them rock born from magma.",
+      "zh": "科学家等着看古湖沉积物，火星交出的却是岩浆冷却成的岩石。"
+    },
+    "summary": {
+      "en": "The unexpected rocks preserve at least three ancient encounters with water. Scientists can order them, but cannot yet date them.",
+      "zh": "更意外的是，这批岩石留下了至少三轮古老水活动的痕迹。先后顺序能排出来，具体年代还不知道。"
+    },
+    "paragraphs": {
+      "en": [
+        "Scientists expected lake sediments along an ancient shoreline in Jezero Crater. Perseverance found rock formed from magma instead. Those rocks preserve evidence of at least three separate episodes of interaction with water.",
+        "The rover reached this area, the Margin Unit, in September 2023. The study published on September 21, 2026 draws on SuperCam measurements of more than 185 bedrock targets. Its laser can examine rock from up to 6.5 metres away.",
+        "First, groundwater rich in carbon dioxide left carbonate in fractures. A later episode involved either lake water or changes in groundwater, leaving further alterations including silica. Eventually, heated underground water deposited mineral veins containing fluorite and calcium sulfate.",
+        "The team can reconstruct the sequence, but the episodes' absolute ages remain unknown. These changing environments give researchers more to investigate about ancient habitability. The study reports mineral evidence of water activity, with no discovery of life."
+      ],
+      "zh": [
+        "科学家原本期待在耶泽罗陨石坑的古湖岸边看到沉积岩。毅力号看到的却是岩浆形成的岩石。更出乎意料的是，这批岩石保存了至少三轮与水发生作用的痕迹。",
+        "毅力号早在2023年9月就抵达这片“边缘单元”。2026年9月21日发表的新研究分析了SuperCam对185多个基岩目标的测量；它的激光最远能在6.5米外分析岩石。",
+        "最初，富含二氧化碳的地下水在岩石裂缝里留下碳酸盐。后来一轮变化可能来自湖水，也可能来自地下水条件的改变，留下了二氧化硅等痕迹。再后来，受热地下水带来了含萤石和硫酸钙的矿脉。",
+        "研究人员能排出这些变化的先后，却还不知道它们各自发生在哪个年代。这些不同环境为研究远古火星是否适宜生命提供了线索；本次发现的是水活动的矿物证据，没有发现生命。"
+      ]
+    },
+    "wtf": {
+      "en": "The rocks that upset the lake-sediment expectation turned out to preserve several chapters of Mars' water history.",
+      "zh": "没找到预想的湖岸沉积岩，却从火成岩里读出了至少三轮水活动。"
+    },
+    "consequence": {
+      "en": "Researchers now have several successive water environments to reconstruct when assessing this site's ancient habitability.",
+      "zh": "判断这片地方远古时是否适宜生命，需要弄清多轮水活动各自形成的环境。"
+    },
+    "uncertainty": {
+      "en": "The episodes' absolute ages are unknown. Lake involvement in the second episode is one explanation, alongside changed groundwater. These are ancient mineral traces, not evidence of present liquid water or a discovery of life.",
+      "zh": "各轮活动的绝对年代未知。第二轮可能涉及湖水，也可能是地下水条件变化。这些是古老矿物痕迹，不能说发现了现存液态水或生命。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA: Complex water systems recorded in early Mars rocks",
+        "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
+        "published_at": "2026-09-21"
+      },
+      {
+        "id": "s2",
+        "title": "Bedford et al.: Lake- and groundwater-associated alteration of the olivine-rich Margin unit",
+        "url": "https://www.nature.com/articles/s43247-026-03997-9",
+        "published_at": "2026-09-21"
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "The team expected sedimentary rocks near an ancient Jezero lake shoreline; Perseverance reached the Margin Unit in September2023.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "The study interprets the unit as originally crystalline igneous rock; some exposures also show sedimentary reworking. High-elevation rocks are consistent with slow cooling of magma underground.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "The rocks preserve evidence of at least three separate episodes of water-rock interaction.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "The first episode involved CO2-rich groundwater and carbonate precipitation in bedrock fractures.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "The second episode may reflect lake-water exposure or changes in groundwater; carbonate moved and silica precipitated.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c6",
+        "text": "Later heated underground fluids deposited fluorite-bearing calcium-sulfate veins in fractures.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c7",
+        "text": "The team can determine the sequence of water interactions, but their absolute ages remain unknown.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c8",
+        "text": "SuperCam measured more than185 bedrock targets across the unit; its laser operates at distances up to6.5metres.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c9",
+        "text": "The study identifies environments of astrobiological interest through ancient water-rock alteration; it does not report a discovery of life or present liquid water.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      },
+      {
+        "id": "c10",
+        "text": "NASA's report and the research paper were published September21,2026; this is the report date, not a new rover arrival.",
+        "source_ids": [
+          "s1",
+          "s2"
+        ]
+      }
+    ],
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "reversal: expected sediments versus magma origin",
+        "en": "Scientists expected lake sediment. Mars handed them rock born from magma.",
+        "zh": "科学家等着看古湖沉积物，火星交出的却是岩浆冷却成的岩石。",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 95
+      },
+      {
+        "id": "h02",
+        "angle": "recurrence: three ancient water episodes",
+        "en": "These Martian rocks met water at least three times. Each encounter left a mark.",
+        "zh": "这批火星岩石，至少遇过三轮水。每一轮都留下了痕迹。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 94
+      },
+      {
+        "id": "h03",
+        "angle": "reversal: shoreline did not settle the rock's origin",
+        "en": "An ancient Martian shoreline had a surprise waiting in the rock.",
+        "zh": "古湖岸的位置找到了，岩石的来历却让科学家意外。",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h04",
+        "angle": "reversal: expected archive versus actual archive",
+        "en": "Mars hid its water history in rock that began as magma.",
+        "zh": "火星把水的往事，留在了曾经由岩浆形成的岩石里。",
+        "claim_ids": [
+          "c2",
+          "c3"
+        ],
+        "editorial_score": 92
+      },
+      {
+        "id": "h05",
+        "angle": "reversal: orbital hypothesis meets close inspection",
+        "en": "The view from orbit suggested one story. A Mars rover found another.",
+        "zh": "从轨道上看是一套推测，火星车走近后，岩石给出了另一种答案。",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h06",
+        "angle": "recurrence: minimum count",
+        "en": "Water rewrote these Martian rocks at least three times.",
+        "zh": "火星上的这批岩石，至少被水改写过三轮。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 93
+      },
+      {
+        "id": "h07",
+        "angle": "recurrence: evidence survives the water",
+        "en": "The ancient water is gone from view. Its repeated visits remain in the minerals.",
+        "zh": "古老的水如今看不见了，来过几轮，矿物还记着。",
+        "claim_ids": [
+          "c3",
+          "c4",
+          "c5",
+          "c6"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h08",
+        "angle": "recurrence: ancient heated water",
+        "en": "One chapter of these Mars rocks involved heated water underground.",
+        "zh": "这批火星岩石的往事里，还有一轮受热的地下水。",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h09",
+        "angle": "mechanism: laser investigation",
+        "en": "A rover laser helped untangle at least three water episodes written into Martian rock.",
+        "zh": "火星车用激光读石头，读出了至少三轮水活动。",
+        "claim_ids": [
+          "c3",
+          "c8"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h10",
+        "angle": "mechanism: remote measurement",
+        "en": "From up to 6.5 metres away, a Mars rover can read a rock's chemistry.",
+        "zh": "隔着最远6.5米，火星车就能读出石头的化学成分。",
+        "claim_ids": [
+          "c8"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h11",
+        "angle": "mechanism: fractures preserve the record",
+        "en": "Cracks in Martian rock kept the evidence of ancient groundwater.",
+        "zh": "火星岩石里的裂缝，把古老地下水的证据留了下来。",
+        "claim_ids": [
+          "c4",
+          "c6"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h12",
+        "angle": "mechanism: mineral clue to heat",
+        "en": "Fluorite points to an ancient encounter with heated water on Mars.",
+        "zh": "火星岩石里的萤石，指向了一轮古老的热水活动。",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h13",
+        "angle": "scale: repeated sampling across the unit",
+        "en": "More than 185 rock targets helped expose this Martian shoreline's complicated past.",
+        "zh": "测了185多个基岩目标，火星古湖岸的往事越看越复杂。",
+        "claim_ids": [
+          "c1",
+          "c3",
+          "c8"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h14",
+        "angle": "scale: hard material preserves multiple episodes",
+        "en": "How much history fits in Martian rock? At least three water episodes.",
+        "zh": "火星岩石能留住多少往事？这批岩石至少记下了三轮水活动。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h15",
+        "angle": "scale: geological origin versus later alteration",
+        "en": "Born from magma, altered by water: the long past of a Martian outcrop.",
+        "zh": "先由岩浆形成，后来又被水改变：这片火星岩层经历了什么？",
+        "claim_ids": [
+          "c2",
+          "c3"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h16",
+        "angle": "chronology: a new study of an earlier rover visit",
+        "en": "Perseverance reached this area in 2023. Its unexpected rocks are telling a new story now.",
+        "zh": "毅力号2023年就到了这片区域。那批出乎意料的岩石，如今又读出了新线索。",
+        "claim_ids": [
+          "c1",
+          "c2",
+          "c3",
+          "c10"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h17",
+        "angle": "unresolved: sequence without dates",
+        "en": "Scientists can order these Martian water episodes. They still cannot date them.",
+        "zh": "火星这几轮水活动，先后顺序排出来了，年代还没找着。",
+        "claim_ids": [
+          "c3",
+          "c7"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h18",
+        "angle": "unresolved: the second episode's two explanations",
+        "en": "Lake water or changing groundwater? One chapter of these Mars rocks remains unsettled.",
+        "zh": "第二轮到底是湖水，还是地下水变了？火星岩石还留着一道谜。",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h19",
+        "angle": "consequence: search for habitable environments",
+        "en": "Unexpected Mars rocks give the search for ancient habitable environments more to investigate.",
+        "zh": "没长成预想模样的火星岩石，给寻找远古宜居环境添了线索。",
+        "claim_ids": [
+          "c1",
+          "c2",
+          "c3",
+          "c9"
+        ],
+        "editorial_score": 82
+      },
+      {
+        "id": "h20",
+        "angle": "unresolved: the missing dates",
+        "en": "At least three encounters with water. No dates yet on this Martian record.",
+        "zh": "至少三轮与水相遇，这份火星记录却还没有确切年代。",
+        "claim_ids": [
+          "c3",
+          "c7"
+        ],
+        "editorial_score": 91
+      }
+    ],
+    "experiment": {
+      "id": "mars-rocks-three-water-stories-v1",
+      "variants": [
+        "h01",
+        "h02"
+      ],
+      "hypothesis": "Test the reversal of an expected rock type against the minimum count of ancient water episodes. Keep body, artwork and placement fixed. Editorial scores are untested predictions, not audience measurements. Judge qualified consumption per exposure alongside misleading feedback; do not select a winner from insufficient observations."
+    },
+    "cover_lines": {
+      "en": [
+        "EXPECTED SEDIMENT.",
+        "FOUND MAGMA ROCK.",
+        "WATER LEFT MARKS."
+      ],
+      "zh": [
+        "以为是湖岸沉积岩",
+        "却是岩浆形成的岩石",
+        "水来过至少三轮"
+      ]
+    },
+    "surfaces": {
+      "x": {
+        "en": "Scientists expected lake sediments on Mars. Perseverance found rock born from magma, with evidence of at least 3 ancient water episodes. The sequence is clear; the dates are not. New study, Sept21. The rover reached this area in2023.",
+        "zh": "以为会找到古湖沉积岩，毅力号看到的却是岩浆形成的岩石。更意外的是：这批岩石至少留下三轮古老水活动的痕迹。顺序排出来了，年代还未知。9月21日发表的是新研究；火星车早在2023年就已抵达。"
+      },
+      "linkedin": {
+        "en": "A shoreline was a reasonable place to expect lake sediments. Perseverance found igneous rock instead, and the team's September21 study reconstructs at least three ancient water episodes from it.\n\nThe useful lesson for anyone interpreting remote data: location and mineral signals can support a hypothesis without settling the rock's origin. The rover's close measurements changed the explanation.\n\nThe second water episode still has two candidates: lake exposure or changing groundwater. The sequence is known; absolute dates are not.",
+        "zh": "古湖岸边，原本是找湖相沉积岩的合理地点。毅力号看到的却是火成岩。团队9月21日发表的研究，从中重建了至少三轮古老水活动。\n\n做遥感或读数据的人，应该会留意这个反差：位置和矿物信号可以支持推测，却不能直接定下岩石的来历。走近后的测量，改变了原先的解释。\n\n第二轮水活动仍有两种解释：湖水参与，或地下水条件改变。先后顺序已经能排，绝对年代还不能定。"
+      },
+      "wechat": {
+        "en": "The lake-shore rocks did not match the expectation.\n\nScientists expected sediments at this ancient Martian shoreline. Perseverance found rock formed from magma, carrying traces of at least three water episodes.\n\nGroundwater first left carbonate in cracks. Later alteration may involve lake water or changes underground. Heated water eventually deposited further mineral veins.\n\nThis is a September21 research report on an area the rover reached in2023. The dates of those ancient water episodes remain unknown.",
+        "zh": "古湖岸找到了，岩石却不是预想的模样。\n\n科学家原以为会看到沉积岩。毅力号看到的，却是岩浆形成的岩石；它们还留下了至少三轮与水接触的痕迹。\n\n先是地下水在裂缝中留下碳酸盐。后来一轮，可能涉及古湖的水，也可能是地下水条件变了。再后来，受热地下水留下了新的矿脉。\n\n毅力号2023年就到了这里，9月21日发表的是新的研究结果。这几轮水活动各自发生在哪个年代，目前仍没有答案。"
+      },
+      "video": {
+        "en": "0-5s: First frame: EXPECTED LAKE SEDIMENT. FOUND MAGMA ROCK. Voice: Scientists went looking for lake sediments on Mars. The rock had a different origin.\n5-12s: Show the NASA Margin Unit panorama, credited and dated2023. Voice: Perseverance reached this ancient shoreline in2023.\n12-26s: Labelled reconstruction with three stages: carbonate in cracks; later alteration from lake water or changing groundwater; heated groundwater leaving mineral veins. Voice: The September21 study reads at least three ancient water episodes in these rocks.\n26-38s: Timeline with blank dates. Voice: The order can be reconstructed. The dates are still missing. These are ancient mineral traces, with no discovery of life. Keep reconstruction labelled; do not show present-day flowing water as evidence.",
+        "zh": "0-5秒：首屏「等的是湖岸沉积岩，来的是火成岩」。口播：科学家想在火星古湖岸找沉积岩，岩石的来历却让他们意外。\n5-12秒：使用NASA边缘单元全景，标注来源与2023年拍摄日期。口播：毅力号2023年就到了这里。\n12-26秒：明确标注「过程示意」的三阶段图：地下水在裂缝留碳酸盐；湖水或地下水变化留下进一步改造；受热地下水形成矿脉。口播：9月21日的新研究，读出了至少三轮古老水活动。\n26-38秒：时间线上只排顺序，年代留问号。口播：先后顺序能排出来，发生在哪个年代，还不知道。这里发现的是矿物痕迹，没有发现生命。示意画面不能冒充现存流水的观测。"
+      }
+    },
+    "editorial_notes": {
+      "event_date_basis": "Research publication date. Margin Unit arrival was September2023; not a new landing or arrival.",
+      "source_relationship": "NASA's release and Bedford et al. report the same research, not independent replication. NASA page and paper abstract/introduction were read directly.",
+      "score_status": "All editorial_score values are untested editorial predictions.",
+      "payoff": "Paragraph1 pays both h01's unexpected origin and h02's at-least-three count; paragraph3 supplies the sequence and immediately keeps the second episode conditional.",
+      "frame_limits": "At least three water-rock episodes in this unit do not mean three lakes, three floods, global Martian wet eras, continuous water, current hot springs or a life detection.",
+      "visual_evidence": "NASA panorama uses observations dated October8-16,2023. Any water reconstruction must be labelled as an illustration.",
+      "framing_checks": [
+        {
+          "hook_id": "h01",
+          "promise": "Show the mismatch between expected sediments and observed igneous origin.",
+          "first_sentence": "Scientists expected lake sediments along an ancient shoreline in Jezero Crater.",
+          "failure_risk": "Magma origin must not become a rover landing on molten lava; some sedimentary reworking exists."
+        },
+        {
+          "hook_id": "h02",
+          "promise": "Explain at least three distinguishable ancient water episodes.",
+          "first_sentence": "Those rocks preserve evidence of at least three separate episodes of interaction with water.",
+          "failure_risk": "Do not interpret the minimum count as exactly three, three lakes, or current water."
+        },
+        {
+          "hook_id": "h03",
+          "promise": "Explain the unexpected rock type at the ancient shoreline.",
+          "first_sentence": "Perseverance found rock formed from magma instead.",
+          "failure_risk": "Low specificity could lose readers before the payoff."
+        },
+        {
+          "hook_id": "h04",
+          "promise": "Explain how magma-born rock records later water.",
+          "first_sentence": "Those rocks preserve evidence of at least three separate episodes of interaction with water.",
+          "failure_risk": "Hidden history is a metaphor; no deliberate concealment or new life signal."
+        },
+        {
+          "hook_id": "h05",
+          "promise": "Show how close measurement revised an orbital hypothesis.",
+          "first_sentence": "Scientists expected lake sediments along an ancient shoreline in Jezero Crater.",
+          "failure_risk": "Orbital data were incomplete evidence, not worthless or fraudulent."
+        },
+        {
+          "hook_id": "h06",
+          "promise": "Explain repeated chemical alteration.",
+          "first_sentence": "First, groundwater rich in carbon dioxide left carbonate in fractures.",
+          "failure_risk": "Rewritten is a metaphor for alteration, not full destruction of each prior record."
+        },
+        {
+          "hook_id": "h07",
+          "promise": "Show mineral evidence of repeated ancient water contact.",
+          "first_sentence": "Those rocks preserve evidence of at least three separate episodes of interaction with water.",
+          "failure_risk": "Gone from view does not establish that Mars has no ice or no water anywhere."
+        },
+        {
+          "hook_id": "h08",
+          "promise": "Identify ancient heated groundwater.",
+          "first_sentence": "Eventually, heated underground water deposited mineral veins containing fluorite and calcium sulfate.",
+          "failure_risk": "Ancient must remain explicit; no present hot springs."
+        },
+        {
+          "hook_id": "h09",
+          "promise": "Connect SuperCam measurements to the reconstruction.",
+          "first_sentence": "The study draws on SuperCam measurements of more than185 bedrock targets.",
+          "failure_risk": "The laser provided data; researchers made the interpretation."
+        },
+        {
+          "hook_id": "h10",
+          "promise": "Explain remote chemistry measurement at up to6.5metres.",
+          "first_sentence": "Its laser can examine rock from up to6.5metres away.",
+          "failure_risk": "A capability limit is not the distance of every target."
+        },
+        {
+          "hook_id": "h11",
+          "promise": "Show minerals deposited in fractures.",
+          "first_sentence": "First, groundwater rich in carbon dioxide left carbonate in fractures.",
+          "failure_risk": "Not every crack in every Martian rock is evidence of water."
+        },
+        {
+          "hook_id": "h12",
+          "promise": "Explain fluorite as evidence of a heated-water episode.",
+          "first_sentence": "Heated underground water deposited mineral veins containing fluorite and calcium sulfate.",
+          "failure_risk": "One mineral clue supports an interpretation, not a modern hot-spring discovery."
+        },
+        {
+          "hook_id": "h13",
+          "promise": "State the measured sample scope.",
+          "first_sentence": "The study draws on SuperCam measurements of more than185 bedrock targets.",
+          "failure_risk": "Targets are measurement sites, not185 returned rock samples."
+        },
+        {
+          "hook_id": "h14",
+          "promise": "Make the count memorable.",
+          "first_sentence": "The rocks preserve evidence of at least three separate episodes of interaction with water.",
+          "failure_risk": "The record concerns a studied unit, not any single rock or all Mars."
+        },
+        {
+          "hook_id": "h15",
+          "promise": "Separate original rock formation from later alteration.",
+          "first_sentence": "Perseverance found rock formed from magma instead.",
+          "failure_risk": "Some later sedimentary reworking remains compatible with an igneous origin."
+        },
+        {
+          "hook_id": "h16",
+          "promise": "Distinguish the rover visit from today's scientific interpretation.",
+          "first_sentence": "The rover reached this area, the Margin Unit, in September2023.",
+          "failure_risk": "Do not imply the finding was withheld or all analysis took exactly three years."
+        },
+        {
+          "hook_id": "h17",
+          "promise": "Explain what the sequence reveals and what dates remain unknown.",
+          "first_sentence": "The team can reconstruct the sequence, but the episodes' absolute ages remain unknown.",
+          "failure_risk": "Unknown absolute ages do not mean nothing is known about relative order."
+        },
+        {
+          "hook_id": "h18",
+          "promise": "State both interpretations of the second episode.",
+          "first_sentence": "A later episode involved either lake water or changes in groundwater.",
+          "failure_risk": "Do not present lake involvement as established."
+        },
+        {
+          "hook_id": "h19",
+          "promise": "Explain relevance to reconstructing ancient habitability.",
+          "first_sentence": "These changing environments give researchers more to investigate about ancient habitability.",
+          "failure_risk": "Habitability is not evidence that organisms existed."
+        },
+        {
+          "hook_id": "h20",
+          "promise": "Make the remaining chronology gap concrete.",
+          "first_sentence": "The team can reconstruct the sequence, but the episodes' absolute ages remain unknown.",
+          "failure_risk": "No dates is shorthand for unknown absolute ages, not an absence of relative chronology."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ff-robots-american-dream",
+    "event_date": "2026-09-20",
+    "checked_at": "2026-09-21T01:06:33Z",
+    "category": "AI & business",
+    "label": "ROBOTICS",
+    "title": {
+      "en": "FF launches nine robots. Its own warning says it cannot pay outstanding obligations.",
+      "zh": "贾跃亭的FF上新9款机器人，公告却写着：现有欠款付不起。"
+    },
+    "summary": {
+      "en": "Nine new devices, a funding warning and a supply chain still tied to Chinese manufacturers.",
+      "zh": "新品已经开卖，资金警告仍在；“美国制造”面向未来产品，当前全部机器人仍依赖中国厂商。"
+    },
+    "paragraphs": {
+      "en": [
+        "Nine new robots, two unresolved problems. FF discloses that it currently cannot pay outstanding obligations, and all its robotics products depend on Chinese manufacturers. Its US production program targets future generations. The financial warning predates this launch.",
+        "Faraday Future’s September 20 release says the new lineup starts at $9,990 and is available for immediate delivery. The launch brings new products; it does not establish that funding or supplier dependence has been resolved.",
+        "The lineup spans $9,990–$137,900, targeting schools, research, security and inspection. FF reports 552 units in cumulative sales and shipments through August. Most robotics products rely on one manufacturer; tariffs and possible import restrictions feature among the risks.",
+        "The next US manufacturing partner event is scheduled for September 28. Watch for actual funding and production changes. The current dependence is not evidence of a broken future manufacturing promise."
+      ],
+      "zh": [
+        "9款机器人刚亮相，FF却还面临两道坎：公告披露现有欠款无力支付，全部机器人产品也仍依赖中国厂商。它的美国生产计划指向后续产品。资金警告在发布会前就已存在，并非这次突然爆雷。",
+        "FF 在9月20日的公告中称，新品最低9,990美元，已开售、可立即交付。新品亮相是一回事，资金和供应链的问题有没有解决，是另一回事。",
+        "新品价格从9,990到137,900美元，目标场景包括学校、研究、安防和巡检。FF称，截至8月底累计销售及发运552台机器人。多数机器人产品还依赖同一家厂商；关税和可能的进口限制，也列在风险中。",
+        "下一场美国制造合作伙伴活动定在9月28日。接下来要看的，是资金和生产有没有实际进展。这份公告没有证明转型已经完成，也没有证明它必然失败。"
+      ]
+    },
+    "wtf": {
+      "en": "The funding warning appears in FF’s own launch announcement.",
+      "zh": "新品宣传和付不起现有欠款的警告，出现在同一份公告里。"
+    },
+    "consequence": {
+      "en": "Funding and supplier dependence could constrain the rollout.",
+      "zh": "新品能走多远，还要过资金和供应链这两关。"
+    },
+    "uncertainty": {
+      "en": "Company disclosures, not independently verified deliveries. No bankruptcy or failed US-production claim.",
+      "zh": "依据公司披露，交付未获独立核验；不能据此断言破产，或认定未来的美国生产计划已失败。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "FF: September 20 launch update",
+        "url": "https://investors.ff.com/faraday-future-founder-and-global-ceo-yt-jia-weekly-investor-update-shares-details-from-ffs-919-ff-eai-robotics-four-core-full-stack-ai-ecosystem-new-product-series-launch-four-industry-produc/",
+        "published_at": "2026-09-20"
+      },
+      {
+        "id": "s2",
+        "title": "FF: September 17 financial update",
+        "url": "https://investors.ff.com/faraday-future-continues-to-strengthen-its-balance-sheet-and-reduce-liability-increasing-stockholders-equity-by-approx-20-million-ffs-eai-robot-cumulative-yearly-sales-and-shipments-have-reach/",
+        "published_at": "2026-09-17"
+      },
+      {
+        "id": "s3",
+        "title": "FF: September 16 launch preview",
+        "url": "https://investors.ff.com/faraday-future-to-unveil-nine-new-ai-powered-robots-and-four-industry-solutions-at-its-annual-919-launch-event-completing-its-one-brain-multi-form-multi-capability-robot-world-2-0/",
+        "published_at": "2026-09-16"
+      },
+      {
+        "id": "s4",
+        "title": "FF: September 13 manufacturing-event preview",
+        "url": "https://investors.ff.com/faraday-future-founder-and-global-ceo-yt-jia-shares-weekly-investor-update-previews-the-upcoming-9-19-event-highlights-ffs-eai-robotics-autonomous-perception-and-3d-scanning-technology-adds-a-n/",
+        "published_at": "2026-09-13"
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "September 20 release: nine new devices; advertised on sale and immediately deliverable.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "FF discloses inability to pay outstanding obligations; this warning predates the launch.",
+        "source_ids": [
+          "s2",
+          "s3",
+          "s1"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "All robotics products depend on Chinese OEMs; most on one OEM.",
+        "source_ids": [
+          "s2",
+          "s3",
+          "s1"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "US manufacturing program targets future generations; next partner event scheduled September 28.",
+        "source_ids": [
+          "s1",
+          "s4"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "Master Mini humanoid starts at $9,990; new lineup ranges to $137,900.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c6",
+        "text": "Company reports cumulative robot sales and shipments of 552 by August end.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c7",
+        "text": "Launch targets education, research, security and inspection.",
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "id": "c8",
+        "text": "Company identifies potential import restrictions and tariffs as risks, not established bans.",
+        "source_ids": [
+          "s2",
+          "s3"
+        ]
+      },
+      {
+        "id": "c9",
+        "text": "Launch scheduled September 19 at 17:00 PDT; September 20 in Hong Kong.",
+        "source_ids": [
+          "s3",
+          "s4"
+        ]
+      }
+    ],
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "funding contradiction",
+        "en": "FF launches nine robots. Its own warning says it cannot pay outstanding obligations.",
+        "zh": "贾跃亭的FF上新9款机器人，公告却写着：现有欠款付不起。",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 96
+      },
+      {
+        "id": "h02",
+        "angle": "manufacturing gap",
+        "en": "FF wants US-built robots. Every current model depends on Chinese manufacturers.",
+        "zh": "FF想在美国造机器人，眼下每一款都离不开中国厂商。",
+        "claim_ids": [
+          "c3",
+          "c4"
+        ],
+        "editorial_score": 94
+      },
+      {
+        "id": "h03",
+        "angle": "buyer question",
+        "en": "FF’s $9,990 humanoid is here. Can its maker fund the rollout?",
+        "zh": "9,990美元的人形机器人开卖了，FF 的钱够撑下去吗？",
+        "claim_ids": [
+          "c1",
+          "c2",
+          "c5"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h04",
+        "angle": "document reveal",
+        "en": "Read past FF’s robot launch. The funding warning is still there.",
+        "zh": "把FF的新品公告往下翻，付不起欠款的警告还在。",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h05",
+        "angle": "supplier concentration",
+        "en": "Most of FF’s robots depend on a single manufacturer.",
+        "zh": "FF 的机器人大阵容，多数产品竟依赖同一家厂商。",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h06",
+        "angle": "future tense",
+        "en": "FF’s American-made robot promise is written in the future tense.",
+        "zh": "FF 新机器人的“美国制造”，用的是将来时。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h07",
+        "angle": "entry price",
+        "en": "FF’s new humanoid starts $10 below the $10,000 mark.",
+        "zh": "离1万美元只差10美元，FF 把人形机器人的起价卡在这里。",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h08",
+        "angle": "cash versus catalogue",
+        "en": "Nine new robots do not erase FF’s old funding warning.",
+        "zh": "一口气上新9款机器人，FF 的老资金警告还没消失。",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h09",
+        "angle": "repeated disclosure",
+        "en": "FF’s payment warning existed before the robots launched.",
+        "zh": "这不是发布会突然爆雷：FF 付不起欠款的警告，之前就在。",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 83
+      },
+      {
+        "id": "h10",
+        "angle": "buyer availability",
+        "en": "FF says its new robots can ship now. Here is the caveat.",
+        "zh": "FF 说新机器人可立即交付，买家还该看看公告末尾。",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h11",
+        "angle": "next observable milestone",
+        "en": "September 28: FF’s next test for its US manufacturing plans.",
+        "zh": "9月28日，FF 的“美国制造”计划还有一关要看。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 83
+      },
+      {
+        "id": "h12",
+        "angle": "scale against ambition",
+        "en": "FF reports 552 units. Its new launch adds nine product options.",
+        "zh": "FF报出累计销售及发运552台，这次又推9款新品。",
+        "claim_ids": [
+          "c1",
+          "c6"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h13",
+        "angle": "policy exposure",
+        "en": "FF’s robot supply chain comes with a China import risk.",
+        "zh": "FF 的机器人要闯美国市场，公告先列出中国进口风险。",
+        "claim_ids": [
+          "c3",
+          "c8"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h14",
+        "angle": "price spread",
+        "en": "FF’s robot launch spans $9,990 to $137,900.",
+        "zh": "从9,990到137,900美元，FF 这波机器人到底卖给谁？",
+        "claim_ids": [
+          "c5",
+          "c7"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h15",
+        "angle": "product promise versus execution",
+        "en": "Buying a robot is easier than rebuilding its supply chain.",
+        "zh": "机器人已经开卖，FF 的美国生产计划还得往前走。",
+        "claim_ids": [
+          "c1",
+          "c3",
+          "c4"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h16",
+        "angle": "classroom stake",
+        "en": "FF is pitching robots to schools while warning about its finances.",
+        "zh": "机器人要进课堂，FF 自己的资金问题却还写在公告里。",
+        "claim_ids": [
+          "c2",
+          "c7"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h17",
+        "angle": "one document two realities",
+        "en": "FF’s launch announcement contains both the pitch and the pressure.",
+        "zh": "FF 这份公告，前面卖机器人，后面写资金压力。",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h18",
+        "angle": "partner hunt",
+        "en": "FF’s US manufacturing plan still needs partners.",
+        "zh": "FF想在美国造机器人，下一场活动继续招募合作伙伴。",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h19",
+        "angle": "dependency boundary",
+        "en": "US production is FF’s plan. Chinese suppliers are its present.",
+        "zh": "美国生产是FF的计划，中国厂商是它眼下绕不开的现实。",
+        "claim_ids": [
+          "c3",
+          "c4"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h20",
+        "angle": "execution question",
+        "en": "Can FF turn nine new robots into a funded business?",
+        "zh": "新品一下来了9款，FF 能把机器人的生意撑起来吗？",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 88
+      }
+    ],
+    "experiment": {
+      "id": "ff-robots-american-dream-v1",
+      "variants": [
+        "h01",
+        "h02"
+      ],
+      "hypothesis": "Financial tension versus supplier dependence: compare qualified opens and misleading feedback with the same body, artwork and placement. Editorial predictions only; no winner without sufficient real observations."
+    },
+    "cover_lines": {
+      "en": [
+        "9 NEW ROBOTS.",
+        "WHO PAYS?",
+        "WHO MAKES?"
+      ],
+      "zh": [
+        "9款新机器人",
+        "钱从哪来？",
+        "谁来制造？"
+      ]
+    },
+    "surfaces": {
+      "x": {
+        "en": "FF launches nine robots while its own disclosure says it cannot pay outstanding obligations. That warning predates the launch. New products; unresolved funding.",
+        "zh": "贾跃亭的FF一口气推9款机器人，公告末尾却写着：现有欠款无力支付。警告早就存在，新品能否撑起生意，才是接下来的故事。"
+      },
+      "linkedin": {
+        "en": "FF’s next test is execution: funding, supplier dependence and actual US production. Its September 28 partner event is a checkpoint, not proof of delivery. What evidence would you want before deploying its robots?",
+        "zh": "FF 的新品发布之后，我更想看三件事：资金能否到位、供应链是否改变、美国生产是否落地。9月28日的合作伙伴活动是观察点。你采购机器人时，会先向供应商要哪项证明？"
+      },
+      "wechat": {
+        "en": "Nine robots, one unresolved money problem.\nFF’s announcement puts product ambition beside financial strain. Its US manufacturing program concerns future generations; current Chinese supplier dependence remains. Follow the actual funding and production, not just the next launch.",
+        "zh": "9款新机器人，绕不开的老资金难题\nFF 的同一份公告，一边推新品，一边提示现有欠款无力支付。“美国制造”指向后续产品，眼下全部机器人仍依赖中国厂商。下一集该盯的，是资金和生产的实际进展。"
+      },
+      "video": {
+        "en": "0–5s: Text: NINE NEW ROBOTS. OLD MONEY PROBLEM. Voice: FF’s launch has a warning worth reading.\n5–15s: Show dated source text; paraphrase payment disclosure.\n15–25s: Diagram current suppliers and planned US production.\n25–35s: September 28 checkpoint. Warning predates launch; no bankruptcy claim. Use labelled graphics, not invented footage.",
+        "zh": "0–5秒：大字「9款新机器人，老资金难题」。口播：FF 的新品公告，往下翻才有意思。\n5–15秒：展示有日期的公告，解释无力支付现有欠款的披露。\n15–25秒：图示当前中国厂商依赖与未来美国生产计划。\n25–35秒：盯9月28日及后续实质进展；说明警告早已存在，不能说已破产。用标明用途的图示，不伪造现场。"
+      }
+    }
+  },
+  {
+    "id": "roman-cosmic-blind-spot",
+    "event_date": "2026-08-30",
+    "checked_at": "2026-09-20T08:16:06.307Z",
+    "category": "Science & wonder",
+    "label": "MISSION",
+    "title": {
+      "en": "NASA’s planned cosmic map would fill 500,000 4K screens.",
+      "zh": "50万台4K电视，才铺得开 NASA 要拍的宇宙地图。"
+    },
+    "summary": {
+      "en": "An astronomer’s estimate for Roman’s planned survey. Hubble’s famous images cover just 0.1% of the sky.",
+      "zh": "这是天文学家对罗曼计划中巡天图的估算。作为参照：哈勃看了三十多年，也只看过天空的0.1%。"
+    },
+    "paragraphs": {
+      "en": [
+        "Half a million 4K TVs. That is astronomer David Weinberg’s estimate for displaying Roman’s entire planned high-latitude survey at full resolution. The map has not been made yet.",
+        "NASA says Hubble has seen just 0.1% of the sky in more than three decades. Roman launched on August 30 with the same primary-mirror diameter, but its wide-field instrument covers roughly 100 times more sky per image.",
+        "The planned survey should capture over a billion galaxies to help investigate dark matter and accelerating cosmic expansion. First images were forecast for early 2027. A vast field of view is ready; the evidence still has to arrive."
+      ],
+      "zh": [
+        "50万台4K电视。这是天文学家 David Weinberg 对罗曼整片高纬度巡天图的估算：按完整分辨率一起展示，要这么多屏幕。注意，这张图还没拍出来。",
+        "NASA 给出的另一个数字更反常：哈勃观测了三十多年，只看过天空的0.1%。8月30日升空的罗曼，主镜直径与哈勃相同，宽视场仪器每张图像覆盖的天空面积却约为哈勃的100倍。",
+        "计划中的巡天预计能看到十亿多个星系，追查暗物质和宇宙加速膨胀的线索。NASA 在发射时预计2027年初发布首批图像。设备已经上天，那幅巨图和它能揭开的谜，还得等。"
+      ]
+    },
+    "wtf": {
+      "en": "That is a forecast for the whole survey, not a photograph already taken.",
+      "zh": "这是对整片计划巡天图的估算，图还没拍出来。"
+    },
+    "consequence": {
+      "en": "A wider census could change which cosmic stories survive the evidence.",
+      "zh": "更广泛的普查，可能改写哪些宇宙解释经得住证据。"
+    },
+    "uncertainty": {
+      "en": "Projected yields are not discoveries; early-2027 imagery was a launch-day forecast.",
+      "zh": "预期发现量不等于已发现；2027年初的图像时间表是发射时的预计。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA: Roman Space Telescope launches",
+        "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+        "published_at": "2026-08-30"
+      },
+      {
+        "id": "s2",
+        "title": "NASA Science: Hubble vs. Roman",
+        "url": "https://science.nasa.gov/mission/hubble/observatory/hubble-vs-roman/",
+        "published_at": null
+      },
+      {
+        "id": "s3",
+        "title": "NASA: Core survey will explore the dark universe",
+        "url": "https://www.nasa.gov/missions/roman-space-telescope/core-survey-by-nasas-roman-mission-will-unveil-universes-dark-side/",
+        "published_at": "2026-02-10"
+      },
+      {
+        "id": "s4",
+        "title": "NASA: Roman’s search for faraway worlds",
+        "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
+        "published_at": "2026-05-28"
+      },
+      {
+        "id": "s5",
+        "title": "NASA Science: Roman and Webb",
+        "url": "https://science.nasa.gov/roman-and-webb/",
+        "published_at": null
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "Roman launched August 30; the release forecast first images in early 2027 and roughly 1.4TB of daily data.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "Roman and Hubble have equal primary-mirror diameters; Roman’s wide-field instrument covers about 100 times the sky area.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "The planned wide-area survey targets over a billion galaxies to investigate dark matter and accelerating expansion.",
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "Scientists forecast roughly 100,000 transiting planets; Roman data will be public.",
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "Roman’s broad surveys and Webb’s detailed infrared observations have complementary scientific roles.",
+        "source_ids": [
+          "s5"
+        ]
+      },
+      {
+        "id": "c6",
+        "text": "NASA says Hubble has seen one-tenth of one percent of the sky after more than three decades of observations.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c7",
+        "text": "Astronomer David Weinberg estimates displaying the whole planned high-latitude survey at full resolution would require half a million 4K TVs. This is a display-scale comparison for future survey output, not an existing image.",
+        "source_ids": [
+          "s3"
+        ]
+      }
+    ],
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "physical scale",
+        "zh": "50万台4K电视，才铺得开 NASA 要拍的宇宙地图。",
+        "en": "NASA’s planned cosmic map would fill 500,000 4K screens.",
+        "claim_ids": [
+          "c7"
+        ],
+        "editorial_score": 97
+      },
+      {
+        "id": "h02",
+        "angle": "familiarity reversal",
+        "zh": "哈勃看了30多年，竟只看过天空的千分之一。",
+        "en": "After 30-plus years, Hubble has seen just 0.1% of the sky.",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 96
+      },
+      {
+        "id": "h03",
+        "angle": "size paradox",
+        "zh": "镜子没比哈勃大，一张图却能多装100倍的天空。",
+        "en": "Hubble-sized mirror. A hundred times the sky in one frame.",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 92
+      },
+      {
+        "id": "h04",
+        "angle": "concrete scale question",
+        "zh": "50万台电视才能放下的宇宙地图，NASA 打算怎么拍？",
+        "en": "How do you make a cosmic map big enough to need half a million TVs?",
+        "claim_ids": [
+          "c7"
+        ],
+        "editorial_score": 92
+      },
+      {
+        "id": "h05",
+        "angle": "tiny known window",
+        "zh": "那些震撼你的哈勃照片，加起来也只看过天空的0.1%。",
+        "en": "All those Hubble images came from just 0.1% of the sky.",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h06",
+        "angle": "physical imagination",
+        "zh": "把宇宙地图铺满50万块4K屏，罗曼的计划有这么大。",
+        "en": "Picture half a million 4K screens. That is the scale of Roman’s planned map.",
+        "claim_ids": [
+          "c7"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h07",
+        "angle": "unexpected baseline",
+        "zh": "看过那么多宇宙照片，我们以为哈勃早就看遍了天。",
+        "en": "Hubble showed us so much. It has seen only a thousandth of the sky.",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h08",
+        "angle": "mechanism curiosity",
+        "zh": "同样2.4米的镜子，罗曼凭什么一次多看100倍天空？",
+        "en": "Same 2.4-meter mirror. How does Roman fit 100 times more sky into a frame?",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h09",
+        "angle": "future hunt",
+        "zh": "十万颗新行星，NASA 想靠这台望远镜把它们找出来。",
+        "en": "NASA expects Roman’s transit search to turn up roughly 100,000 planets.",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h10",
+        "angle": "forecast tension",
+        "zh": "罗曼已经升空，十万颗行星的预期还等着兑现。",
+        "en": "Roman has launched. Its forecast of 100,000 planets still has to come true.",
+        "claim_ids": [
+          "c1",
+          "c4"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h11",
+        "angle": "mystery with stakes",
+        "zh": "宇宙越胀越快。罗曼要拿十亿个星系找原因。",
+        "en": "The universe keeps expanding faster. Roman will probe the mystery with a billion galaxies.",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h12",
+        "angle": "concrete instrument",
+        "zh": "NASA 的新眼睛已经上天，第一批照片预计明年才到。",
+        "en": "NASA’s new eye is in space. Its first images were forecast for early 2027.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h13",
+        "angle": "proof scale",
+        "zh": "要看见宇宙里看不见的东西，NASA 准备先量十亿个星系。",
+        "en": "To map invisible matter, Roman plans to measure a billion galaxies.",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h14",
+        "angle": "reader access",
+        "zh": "NASA 要找约十万颗行星，数据也会向所有人开放。",
+        "en": "Roman could find roughly 100,000 planets. Its data will be public.",
+        "claim_ids": [
+          "c4"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h15",
+        "angle": "ordinary scale",
+        "zh": "每天约1.4TB，NASA 预计罗曼会这样往地球发天空。",
+        "en": "About 1.4 terabytes a day: NASA’s forecast for Roman’s sky data.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h16",
+        "angle": "payoff with limit",
+        "zh": "50万块4K屏的宇宙大图，目前还在观测计划里。",
+        "en": "A cosmic map for 500,000 4K screens—still a survey plan, not a finished picture.",
+        "claim_ids": [
+          "c7"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h17",
+        "angle": "complementary roles",
+        "zh": "罗曼负责大范围找，韦布负责盯着细看。",
+        "en": "Roman will scout the sky. Webb can zoom in on what it finds.",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h18",
+        "angle": "scale versus depth",
+        "zh": "哈勃镜子那么大，罗曼为什么能把视野拉开100倍？",
+        "en": "Roman’s mirror is no bigger than Hubble’s. Its field of view is 100 times wider in area.",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h19",
+        "angle": "known unknown",
+        "zh": "哈勃留下了宇宙名场面，也留下了大片没看过的天空。",
+        "en": "Hubble gave us iconic cosmic views—and left most of the sky unobserved.",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h20",
+        "angle": "instrument to consequence",
+        "zh": "同样大的镜子，NASA 想用它把宇宙普查看得更广。",
+        "en": "NASA has launched a Hubble-sized mirror with a much bigger census to take.",
+        "claim_ids": [
+          "c1",
+          "c2",
+          "c3"
+        ],
+        "editorial_score": 82
+      }
+    ],
+    "experiment": {
+      "id": "roman-cosmic-blind-spot-v2",
+      "variants": [
+        "h01",
+        "h02"
+      ],
+      "hypothesis": "Untested v2: a tangible 500,000-screen comparison versus the surprising 0.1% Hubble baseline. Both promises must be repaid immediately in the story."
+    },
+    "surfaces": {
+      "x": {
+        "en": "NASA’s planned cosmic map would fill 500,000 4K screens. An astronomer’s estimate for Roman’s planned survey. Hubble’s famous images cover just 0.1% of the sky.",
+        "zh": "50万台4K电视，才铺得开 NASA 要拍的宇宙地图。 这是天文学家对罗曼计划中巡天图的估算。作为参照：哈勃看了三十多年，也只看过天空的0.1%。"
+      },
+      "linkedin": {
+        "en": "After 30-plus years, Hubble has seen just 0.1% of the sky.\n\nAn astronomer’s estimate for Roman’s planned survey. Hubble’s famous images cover just 0.1% of the sky.\n\nThe planned survey should capture over a billion galaxies to help investigate dark matter and accelerating cosmic expansion. First images were forecast for early 2027. A vast field of view is ready; the evidence still has to arrive.",
+        "zh": "哈勃看了30多年，竟只看过天空的千分之一。\n\n这是天文学家对罗曼计划中巡天图的估算。作为参照：哈勃看了三十多年，也只看过天空的0.1%。\n\n计划中的巡天预计能看到十亿多个星系，追查暗物质和宇宙加速膨胀的线索。NASA 在发射时预计2027年初发布首批图像。设备已经上天，那幅巨图和它能揭开的谜，还得等。"
+      },
+      "wechat": {
+        "en": "NASA’s planned cosmic map would fill 500,000 4K screens.\n\nHalf a million 4K TVs. That is astronomer David Weinberg’s estimate for displaying Roman’s entire planned high-latitude survey at full resolution. The map has not been made yet.\n\nNASA says Hubble has seen just 0.1% of the sky in more than three decades. Roman launched on August 30 with the same primary-mirror diameter, but its wide-field instrument covers roughly 100 times more sky per image.\n\nThe planned survey should capture over a billion galaxies to help investigate dark matter and accelerating cosmic expansion. First images were forecast for early 2027. A vast field of view is ready; the evidence still has to arrive.",
+        "zh": "50万台4K电视，才铺得开 NASA 要拍的宇宙地图。\n\n50万台4K电视。这是天文学家 David Weinberg 对罗曼整片高纬度巡天图的估算：按完整分辨率一起展示，要这么多屏幕。注意，这张图还没拍出来。\n\nNASA 给出的另一个数字更反常：哈勃观测了三十多年，只看过天空的0.1%。8月30日升空的罗曼，主镜直径与哈勃相同，宽视场仪器每张图像覆盖的天空面积却约为哈勃的100倍。\n\n计划中的巡天预计能看到十亿多个星系，追查暗物质和宇宙加速膨胀的线索。NASA 在发射时预计2027年初发布首批图像。设备已经上天，那幅巨图和它能揭开的谜，还得等。"
+      },
+      "video": {
+        "en": "0–5s: First frame: ONE MAP. / 500,000 / 4K SCREENS. Voice: NASA’s planned cosmic map would fill 500,000 4K screens.\n5–20s: Show the linked primary-source excerpt. Voice: An astronomer’s estimate for Roman’s planned survey. Hubble’s famous images cover just 0.1% of the sky.\n20–35s: Explain the mechanism with a labeled illustration.\n35–45s: Voice and caption: Projected yields are not discoveries; early-2027 imagery was a launch-day forecast.\nIllustrations must not be presented as documentary footage.",
+        "zh": "0–5秒：首帧：一张宇宙图 / 50万块 / 4K屏。 口播：50万台4K电视，才铺得开 NASA 要拍的宇宙地图。\n5–20秒：展示所链接的一手来源原文。口播：这是天文学家对罗曼计划中巡天图的估算。作为参照：哈勃看了三十多年，也只看过天空的0.1%。\n20–35秒：用标明‘示意’的画面解释具体机制。\n35–45秒：口播与字幕：预期发现量不等于已发现；2027年初的图像时间表是发射时的预计。\n示意画面不冒充事件实拍。"
+      }
+    },
+    "cover_lines": {
+      "en": [
+        "ONE MAP.",
+        "500,000",
+        "4K SCREENS."
+      ],
+      "zh": [
+        "一张宇宙图",
+        "50万块",
+        "4K屏。"
+      ]
+    }
+  },
+  {
+    "id": "anthropic-paid-watchdog",
+    "event_date": "2026-09-18",
+    "checked_at": "2026-09-20T08:16:06.305Z",
+    "category": "AI & power",
+    "label": "ANNOUNCEMENT",
+    "title": {
+      "en": "Claude’s maker wants outsiders to inspect its AI. It will pay them.",
+      "zh": "Claude 的开发者要请人查自己。钱，自己出。"
+    },
+    "summary": {
+      "en": "Anthropic will fund Accenture’s work directly. How much its watchdogs can see—and report—is still being worked out.",
+      "zh": "Anthropic 将直接付钱给埃森哲做评估。监督者能查多深、能公开什么，标准仍未敲定。"
+    },
+    "paragraphs": {
+      "en": [
+        "Anthropic plans to bring outsiders into the company to inspect its AI—and pay them itself. Its September 18 announcement says it will directly fund Accenture’s embedded evaluation work.",
+        "Each company expects to invest at least $1 billion over five years in this capability. Access and reporting standards remain unsettled. Dario Amodei proposes allowing unfavorable findings to be published, with specified redactions.",
+        "The funding is clear. The test comes when a finding makes the payer uncomfortable: does the public still get to read it?"
+      ],
+      "zh": [
+        "Claude 的开发者要请人进公司，专门查自己的 AI。监督费，也由自己出。Anthropic 9月18日宣布，将直接资助埃森哲的驻场评估工作。",
+        "两家公司各自预计在五年内投入至少10亿美元建设相关能力。监督者能看到哪些内部资料、如何报告发现，尚无统一标准。Dario Amodei 提出的合同方案允许公开不利结论，但保留特定删节权。",
+        "钱由谁出，已经说清。要等实际执行回答的是：如果报告让付款方难堪，公众还能照样读到吗？"
+      ]
+    },
+    "wtf": {
+      "en": "The company being checked will fund the check.",
+      "zh": "出钱请监督者的，正是被监督的公司。"
+    },
+    "consequence": {
+      "en": "Public trust will depend on evidence that survives commercial discomfort.",
+      "zh": "公众信任将取决于：令人商业上难堪的证据，能否公开。"
+    },
+    "uncertainty": {
+      "en": "Announced plans; spending and evaluator independence are not verified outcomes.",
+      "zh": "目前是已公布的计划；支出和评估独立性尚不是经过验证的结果。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anthropic: Partnering with Accenture on embedded evaluation",
+        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "published_at": "2026-09-18"
+      },
+      {
+        "id": "s2",
+        "title": "Accenture: Embedded evaluators at Anthropic",
+        "url": "https://newsroom.accenture.com/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
+        "published_at": "2026-09-18"
+      },
+      {
+        "id": "s3",
+        "title": "Dario Amodei: We Must Pace the Frontier",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+        "published_at": "2026-09"
+      },
+      {
+        "id": "s4",
+        "title": "Anthropic’s Advanced AI Framework",
+        "url": "https://www-cdn.anthropic.com/files/4zrzovbb/website/0a58d567024a8b448ff15158ebc3625328dfcc1f.pdf",
+        "published_at": "2026-06"
+      },
+      {
+        "id": "s5",
+        "title": "Anthropic: Improving our alignment and security efforts",
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "published_at": "2026-08-31"
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "Anthropic announced direct funding for Accenture’s evaluation work; operating standards remain unsettled.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "Each company expects at least $1bn of investment over five years; Faculty will lead Accenture’s work.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "Amodei proposes employee-like reviewer access and publication rights with limited redactions; this is a stated intention.",
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "Anthropic’s June policy proposal calls for external evaluation and government or pooled funding.",
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "Anthropic says it paused evaluations and redirected roughly 150 product engineers to security-related work earlier in 2026.",
+        "source_ids": [
+          "s5"
+        ]
+      }
+    ],
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "payer reversal",
+        "zh": "Claude 的开发者要请人查自己。钱，自己出。",
+        "en": "Claude’s maker wants outsiders to inspect its AI. It will pay them.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 94
+      },
+      {
+        "id": "h02",
+        "angle": "publication tension",
+        "zh": "拿 Anthropic 的钱，能把 Anthropic 的坏消息公之于众吗？",
+        "en": "Paid by Anthropic. Free to publish bad news about Anthropic?",
+        "claim_ids": [
+          "c1",
+          "c3"
+        ],
+        "editorial_score": 93
+      },
+      {
+        "id": "h03",
+        "angle": "concrete contradiction",
+        "zh": "给 AI 挑错的人，要向造 AI 的人收钱。",
+        "en": "The people hired to find AI’s flaws will bill the people who built it.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h04",
+        "angle": "contract consequence",
+        "zh": "查出客户的 AI 有问题，报告还能照发吗？",
+        "en": "If the client’s AI fails the test, does the report still get published?",
+        "claim_ids": [
+          "c1",
+          "c3"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h05",
+        "angle": "money versus rules",
+        "zh": "至少各投10亿美元，AI 监督的规矩却还没定。",
+        "en": "A billion dollars each. The AI watchdog rules are still unwritten.",
+        "claim_ids": [
+          "c1",
+          "c2"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h06",
+        "angle": "inside access",
+        "zh": "Anthropic 要把外部监督者请进公司，给到员工级权限。",
+        "en": "Anthropic wants outside watchdogs inside the building—with employee-like access.",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h07",
+        "angle": "funding mechanism",
+        "zh": "Anthropic 想让政府出监督费。现在，先自己掏钱。",
+        "en": "Anthropic wants public funding for AI oversight. For now, it will pay.",
+        "claim_ids": [
+          "c1",
+          "c4"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h08",
+        "angle": "promise versus proof",
+        "zh": "监督 Claude 的人能看多深、说多少？标准还没定。",
+        "en": "How much can Claude’s watchdogs see—and tell us? No settled standards yet.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h09",
+        "angle": "human conflict",
+        "zh": "一边查 AI，一边向 AI 公司开账单：独立性怎么守？",
+        "en": "Audit the AI. Invoice its maker. Where does independence come from?",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h10",
+        "angle": "commercial stakes",
+        "zh": "AI 安全报告最难的一页，可能正是让付款方难堪的那页。",
+        "en": "The hardest AI safety report may be the one that embarrasses the payer.",
+        "claim_ids": [
+          "c1",
+          "c3"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h11",
+        "angle": "commitment scale",
+        "zh": "两家公司、两笔至少10亿美元的计划，买得到多少 AI 信任？",
+        "en": "Two companies plan at least $1 billion each. What evidence of AI safety follows?",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 83
+      },
+      {
+        "id": "h12",
+        "angle": "publication rights",
+        "zh": "Anthropic 提议让监督者公开坏消息，删节的边界在哪？",
+        "en": "Anthropic proposes letting reviewers publish bad news. What can be redacted?",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 87
+      },
+      {
+        "id": "h13",
+        "angle": "access versus voice",
+        "zh": "门禁卡能给，难听的结论能发吗？Anthropic 的监督实验。",
+        "en": "An office badge is easy to issue. What about an unfavorable finding?",
+        "claim_ids": [
+          "c1",
+          "c3"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h14",
+        "angle": "incentive design",
+        "zh": "Claude 的安全账单，将由 Claude 的开发者买单。",
+        "en": "Claude’s developer will foot its evaluator’s bill.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h15",
+        "angle": "unresolved boundary",
+        "zh": "独立监督已经宣布，谁能看什么、怎么报告，还没谈定。",
+        "en": "The watchdog partnership is announced. Access and reporting rules are not settled.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 82
+      },
+      {
+        "id": "h16",
+        "angle": "next consequential event",
+        "zh": "第一份让 Anthropic 难堪的评估，公众能看到吗？",
+        "en": "Will the public see the first evaluation that makes Anthropic uncomfortable?",
+        "claim_ids": [
+          "c1",
+          "c3"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h17",
+        "angle": "reversal in proposal",
+        "zh": "六月还主张公共筹资，Anthropic 这次决定直接付监督费。",
+        "en": "Anthropic called for pooled funding in June. Now it will fund a reviewer directly.",
+        "claim_ids": [
+          "c1",
+          "c4"
+        ],
+        "editorial_score": 85
+      },
+      {
+        "id": "h18",
+        "angle": "specific labor cost",
+        "zh": "约150名产品工程师转去做安全，Anthropic 称此前还暂停过评估。",
+        "en": "About 150 product engineers moved to safety work, Anthropic says. Evaluations were paused.",
+        "claim_ids": [
+          "c5"
+        ],
+        "editorial_score": 82
+      },
+      {
+        "id": "h19",
+        "angle": "reader evidence",
+        "zh": "花多少钱是一回事。Claude 的监督者最后敢写什么？",
+        "en": "The spending gets a headline. What will Claude’s reviewers actually publish?",
+        "claim_ids": [
+          "c1",
+          "c2",
+          "c3"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h20",
+        "angle": "plainspoken reversal",
+        "zh": "Anthropic 要花钱，请别人来挑自己的 AI 的毛病。",
+        "en": "Anthropic plans to pay outsiders to pick apart its own AI.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 88
+      }
+    ],
+    "experiment": {
+      "id": "anthropic-paid-watchdog-v2",
+      "variants": [
+        "h01",
+        "h02"
+      ],
+      "hypothesis": "Robin found v1 too mild. Untested v2: a concrete payer/referee reversal versus a pointed publication-rights question; compare qualified reading, not editorial scores."
+    },
+    "surfaces": {
+      "x": {
+        "en": "Claude’s maker wants outsiders to inspect its AI. It will pay them. Anthropic will fund Accenture’s work directly. How much its watchdogs can see—and report—is still being worked out.",
+        "zh": "Claude 的开发者要请人查自己。钱，自己出。 Anthropic 将直接付钱给埃森哲做评估。监督者能查多深、能公开什么，标准仍未敲定。"
+      },
+      "linkedin": {
+        "en": "Paid by Anthropic. Free to publish bad news about Anthropic?\n\nAnthropic will fund Accenture’s work directly. How much its watchdogs can see—and report—is still being worked out.\n\nThe funding is clear. The test comes when a finding makes the payer uncomfortable: does the public still get to read it?",
+        "zh": "拿 Anthropic 的钱，能把 Anthropic 的坏消息公之于众吗？\n\nAnthropic 将直接付钱给埃森哲做评估。监督者能查多深、能公开什么，标准仍未敲定。\n\n钱由谁出，已经说清。要等实际执行回答的是：如果报告让付款方难堪，公众还能照样读到吗？"
+      },
+      "wechat": {
+        "en": "Claude’s maker wants outsiders to inspect its AI. It will pay them.\n\nAnthropic plans to bring outsiders into the company to inspect its AI—and pay them itself. Its September 18 announcement says it will directly fund Accenture’s embedded evaluation work.\n\nEach company expects to invest at least $1 billion over five years in this capability. Access and reporting standards remain unsettled. Dario Amodei proposes allowing unfavorable findings to be published, with specified redactions.\n\nThe funding is clear. The test comes when a finding makes the payer uncomfortable: does the public still get to read it?",
+        "zh": "Claude 的开发者要请人查自己。钱，自己出。\n\nClaude 的开发者要请人进公司，专门查自己的 AI。监督费，也由自己出。Anthropic 9月18日宣布，将直接资助埃森哲的驻场评估工作。\n\n两家公司各自预计在五年内投入至少10亿美元建设相关能力。监督者能看到哪些内部资料、如何报告发现，尚无统一标准。Dario Amodei 提出的合同方案允许公开不利结论，但保留特定删节权。\n\n钱由谁出，已经说清。要等实际执行回答的是：如果报告让付款方难堪，公众还能照样读到吗？"
+      },
+      "video": {
+        "en": "0–5s: First frame: THE REFEREE. / THE PLAYER. / THE PAYCHECK. Voice: Claude’s maker wants outsiders to inspect its AI. It will pay them.\n5–20s: Show the linked primary-source excerpt. Voice: Anthropic will fund Accenture’s work directly. How much its watchdogs can see—and report—is still being worked out.\n20–35s: Explain the mechanism with a labeled illustration.\n35–45s: Voice and caption: Announced plans; spending and evaluator independence are not verified outcomes.\nIllustrations must not be presented as documentary footage.",
+        "zh": "0–5秒：首帧：请你查我。 / 费用， / 我来出。 口播：Claude 的开发者要请人查自己。钱，自己出。\n5–20秒：展示所链接的一手来源原文。口播：Anthropic 将直接付钱给埃森哲做评估。监督者能查多深、能公开什么，标准仍未敲定。\n20–35秒：用标明‘示意’的画面解释具体机制。\n35–45秒：口播与字幕：目前是已公布的计划；支出和评估独立性尚不是经过验证的结果。\n示意画面不冒充事件实拍。"
+      }
+    },
+    "cover_lines": {
+      "en": [
+        "THE REFEREE.",
+        "THE PLAYER.",
+        "THE PAYCHECK."
+      ],
+      "zh": [
+        "请你查我。",
+        "费用，",
+        "我来出。"
+      ]
+    }
+  },
+  {
+    "id": "hotel-wifi-spy-trap",
+    "event_date": "2026-09-10",
+    "checked_at": "2026-09-20T08:16:06.307Z",
+    "category": "Security & ordinary life",
+    "label": "REPORTED INVESTIGATION",
+    "title": {
+      "en": "You never gave away your password. One approval can still let an attacker in.",
+      "zh": "密码没交出去，点个批准，黑客却可能进了公司账户。"
+    },
+    "summary": {
+      "en": "Investigators found hotel-network redirects that could turn a routine sign-in approval into access for an attacker.",
+      "zh": "调查人员发现，有酒店网络把住客引向授权陷阱：你点批准，对方拿到公司账户的访问令牌。"
+    },
+    "paragraphs": {
+      "en": [
+        "You do not have to hand over your password. ReliaQuest documented hotel-network redirects that could trick travelers into approving a sign-in session started by an attacker. The approval sends valid access tokens to the attacker’s client.",
+        "Anthropic’s September 10 report says an espionage operator compromised at least three hotel Wi-Fi suppliers. Microsoft had reported the associated CaptiveCrunch campaign in July, including fake-update lures and AI-assisted operations. The reports describe several tactics, not one identical attack against every guest.",
+        "Merely joining Wi-Fi does not prove your account was compromised. The device-code trick needs the user’s approval—and a genuine sign-in page can still authorize the wrong party, as separate Volexity cases from 2025 showed."
+      ],
+      "zh": [
+        "密码没有交出去，也可能替黑客开了门。ReliaQuest 记录的部分酒店网络攻击，会把旅客引向授权提示。你一旦批准，攻击者发起的会话就能拿到有效访问令牌。",
+        "Anthropic 9月10日的报告称，一名间谍行动操作者攻陷了至少三家酒店 Wi-Fi 服务商。微软此前在7月披露相关的 CaptiveCrunch 行动，包括假更新诱饵和 AI 辅助操作。这些报告描述了多种手法，并非每位住客都遭遇同一套攻击。",
+        "仅仅连接 Wi-Fi，不代表账户就被攻陷。设备代码骗局还需要骗到你的批准。Volexity 在另一些2025年案例中也记录过：登录页可以是真的，但你授权登录的人，可能不是你自己。"
+      ]
+    },
+    "wtf": {
+      "en": "The trick needs your approval, not necessarily your password.",
+      "zh": "这种骗局要骗到的，是你的批准；不一定是密码。"
+    },
+    "consequence": {
+      "en": "The office perimeter travels with its people.",
+      "zh": "员工走到哪里，公司的安全边界就延伸到哪里。"
+    },
+    "uncertainty": {
+      "en": "Vendor investigations; current campaign activity is unverified. Affected networks are not all hotel networks.",
+      "zh": "依据安全厂商调查；行动目前是否仍在进行，未验证。受影响网络不等于所有酒店网络。"
+    },
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anthropic: September 2026 threat intelligence report, GTG-20006",
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "published_at": "2026-09-10"
+      },
+      {
+        "id": "s2",
+        "title": "Microsoft: CaptiveCrunch targets travelers",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
+        "published_at": "2026-07-31"
+      },
+      {
+        "id": "s3",
+        "title": "ReliaQuest: DNS poisoning expands to hospitality Wi-Fi",
+        "url": "https://reliaquest.com/blog/threat-spotlight-dns-poisoning-tactics-expand-to-hospitality/",
+        "published_at": "2026-07-23"
+      },
+      {
+        "id": "s4",
+        "title": "Volexity: Separate 2025 device-code phishing cases",
+        "url": "https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/",
+        "published_at": "2025-02-13"
+      },
+      {
+        "id": "s5",
+        "title": "Microsoft Learn: Device authorization grant",
+        "url": "https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-device-code",
+        "published_at": null
+      }
+    ],
+    "claims": [
+      {
+        "id": "c1",
+        "text": "Anthropic reports at least three compromised hotel Wi-Fi suppliers and combined guest/device data used for targeting.",
+        "source_ids": [
+          "s1"
+        ]
+      },
+      {
+        "id": "c2",
+        "text": "Microsoft reports AI-assisted CaptiveCrunch activity, fake-update malware lures, and attribution to a Midnight Blizzard sub-cluster.",
+        "source_ids": [
+          "s2"
+        ]
+      },
+      {
+        "id": "c3",
+        "text": "ReliaQuest observed hotel-network redirects, account-authorization lures without phishing email, and attacks on traveling corporate staff.",
+        "source_ids": [
+          "s3"
+        ]
+      },
+      {
+        "id": "c4",
+        "text": "Separate Volexity cases from 2025 used genuine Microsoft device-code pages to trick users into authorizing attacker access.",
+        "source_ids": [
+          "s4"
+        ]
+      },
+      {
+        "id": "c5",
+        "text": "Device-code authorization is a legitimate sign-in flow in which user approval enables the requesting application to receive tokens.",
+        "source_ids": [
+          "s5"
+        ]
+      },
+      {
+        "id": "c6",
+        "text": "ReliaQuest reports limited cases pairing hotel-network redirects with device-code abuse: approving the prompt gives the attacker-controlled client valid OAuth tokens, without collecting the password on a fake page.",
+        "source_ids": [
+          "s3",
+          "s5"
+        ]
+      }
+    ],
+    "hooks": [
+      {
+        "id": "h01",
+        "angle": "approval reversal",
+        "zh": "密码没交出去，点个批准，黑客却可能进了公司账户。",
+        "en": "You never gave away your password. One approval can still let an attacker in.",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 95
+      },
+      {
+        "id": "h02",
+        "angle": "familiar setting",
+        "zh": "酒店 Wi-Fi 弹出的登录提示，可能在替黑客要你的批准。",
+        "en": "That sign-in prompt on hotel Wi-Fi may be asking you to authorize an attacker.",
+        "claim_ids": [
+          "c3",
+          "c6"
+        ],
+        "editorial_score": 94
+      },
+      {
+        "id": "h03",
+        "angle": "human mechanism",
+        "zh": "你以为在给自己登录，那个批准却可能是给黑客的。",
+        "en": "You think you are signing yourself in. The approval may belong to an attacker.",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 93
+      },
+      {
+        "id": "h04",
+        "angle": "email expectation",
+        "zh": "没钓鱼邮件，也没点陌生链接，酒店网照样能把人送进陷阱。",
+        "en": "No phishing email. No strange link. A compromised hotel network can deliver the trap.",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h05",
+        "angle": "stakes displacement",
+        "zh": "你在酒店连 Wi-Fi，对方盯的却是你的公司账户。",
+        "en": "You join the hotel Wi-Fi. The attacker is after your work account.",
+        "claim_ids": [
+          "c3",
+          "c6"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h06",
+        "angle": "authorization paradox",
+        "zh": "真正危险的，可能是登录页上那次亲手点下的批准。",
+        "en": "The dangerous click can be your approval on a sign-in page.",
+        "claim_ids": [
+          "c5",
+          "c6"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h07",
+        "angle": "supplier leverage",
+        "zh": "至少三家酒店 Wi-Fi 服务商被攻陷，住客成了筛选目标。",
+        "en": "At least three hotel Wi-Fi vendors were compromised, Anthropic reports. Guests became targets.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h08",
+        "angle": "software disguise",
+        "zh": "酒店网让你更新软件？微软披露的诱饵就长这样。",
+        "en": "A software update on hotel Wi-Fi? Microsoft documented that malware lure.",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h09",
+        "angle": "no-password mechanism",
+        "zh": "不偷密码，骗你授权：酒店网络攻击走了另一扇门。",
+        "en": "No stolen password needed: hotel-network attackers tricked users into authorizing access.",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 93
+      },
+      {
+        "id": "h10",
+        "angle": "trust reversal",
+        "zh": "连上酒店网后，熟悉的微软登录也可能被拿来做局。",
+        "en": "On a compromised hotel network, a familiar Microsoft sign-in can become the lure.",
+        "claim_ids": [
+          "c3",
+          "c6"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h11",
+        "angle": "real-page paradox",
+        "zh": "登录页是真的，也挡不住你把权限给错人。",
+        "en": "A real sign-in page cannot stop you from authorizing the wrong party.",
+        "claim_ids": [
+          "c4",
+          "c5"
+        ],
+        "editorial_score": 91
+      },
+      {
+        "id": "h12",
+        "angle": "human targeting",
+        "zh": "出差的人换了酒店，公司的账户也跟着暴露在新的风险里。",
+        "en": "The employee changes hotels. The work account enters a new risk zone.",
+        "claim_ids": [
+          "c3"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h13",
+        "angle": "supply-chain angle",
+        "zh": "黑客要找住客，先拿下了给酒店供网的人。",
+        "en": "To reach hotel guests, the attacker went after the Wi-Fi suppliers.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h14",
+        "angle": "identity combination",
+        "zh": "住客名单加上设备信息，成了间谍筛人的线索。",
+        "en": "Guest records plus device data became an espionage targeting tool.",
+        "claim_ids": [
+          "c1"
+        ],
+        "editorial_score": 90
+      },
+      {
+        "id": "h15",
+        "angle": "unwanted guest",
+        "zh": "酒店里的不速之客，可能藏在登录流程里。",
+        "en": "The unwelcome guest may be hiding in the hotel’s sign-in flow.",
+        "claim_ids": [
+          "c3",
+          "c6"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h16",
+        "angle": "cause and consequence",
+        "zh": "点完批准，令牌发给谁？这才是酒店登录骗局的机关。",
+        "en": "You approve the prompt. Who gets the token? That is the hotel sign-in trap.",
+        "claim_ids": [
+          "c6"
+        ],
+        "editorial_score": 88
+      },
+      {
+        "id": "h17",
+        "angle": "assistant in attack",
+        "zh": "微软披露：针对旅客的网络攻击，也用上了 AI。",
+        "en": "Microsoft says AI helped a campaign targeting travelers.",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 84
+      },
+      {
+        "id": "h18",
+        "angle": "fake update consequence",
+        "zh": "以为给电脑打补丁，等着你的却可能是恶意软件。",
+        "en": "You think you are patching your computer. The update may be malware.",
+        "claim_ids": [
+          "c2"
+        ],
+        "editorial_score": 89
+      },
+      {
+        "id": "h19",
+        "angle": "old trick new doorway",
+        "zh": "设备代码骗局早就出现过，酒店网又给它开了一道门。",
+        "en": "Device-code phishing was already here. Hotel networks gave it another doorway.",
+        "claim_ids": [
+          "c3",
+          "c4"
+        ],
+        "editorial_score": 86
+      },
+      {
+        "id": "h20",
+        "angle": "reader consequence",
+        "zh": "下一次出差，最该看清的也许是你在替谁批准登录。",
+        "en": "On your next work trip, check whose sign-in you are approving.",
+        "claim_ids": [
+          "c3",
+          "c5",
+          "c6"
+        ],
+        "editorial_score": 87
+      }
+    ],
+    "experiment": {
+      "id": "hotel-wifi-spy-trap-v2",
+      "variants": [
+        "h01",
+        "h02"
+      ],
+      "hypothesis": "Untested v2: no-password authorization reversal versus a familiar hotel sign-in scene. Distinguish the approval step from merely joining Wi-Fi."
+    },
+    "surfaces": {
+      "x": {
+        "en": "You never gave away your password. One approval can still let an attacker in. Investigators found hotel-network redirects that could turn a routine sign-in approval into access for an attacker.",
+        "zh": "密码没交出去，点个批准，黑客却可能进了公司账户。 调查人员发现，有酒店网络把住客引向授权陷阱：你点批准，对方拿到公司账户的访问令牌。"
+      },
+      "linkedin": {
+        "en": "That sign-in prompt on hotel Wi-Fi may be asking you to authorize an attacker.\n\nInvestigators found hotel-network redirects that could turn a routine sign-in approval into access for an attacker.\n\nMerely joining Wi-Fi does not prove your account was compromised. The device-code trick needs the user’s approval—and a genuine sign-in page can still authorize the wrong party, as separate Volexity cases from 2025 showed.",
+        "zh": "酒店 Wi-Fi 弹出的登录提示，可能在替黑客要你的批准。\n\n调查人员发现，有酒店网络把住客引向授权陷阱：你点批准，对方拿到公司账户的访问令牌。\n\n仅仅连接 Wi-Fi，不代表账户就被攻陷。设备代码骗局还需要骗到你的批准。Volexity 在另一些2025年案例中也记录过：登录页可以是真的，但你授权登录的人，可能不是你自己。"
+      },
+      "wechat": {
+        "en": "You never gave away your password. One approval can still let an attacker in.\n\nYou do not have to hand over your password. ReliaQuest documented hotel-network redirects that could trick travelers into approving a sign-in session started by an attacker. The approval sends valid access tokens to the attacker’s client.\n\nAnthropic’s September 10 report says an espionage operator compromised at least three hotel Wi-Fi suppliers. Microsoft had reported the associated CaptiveCrunch campaign in July, including fake-update lures and AI-assisted operations. The reports describe several tactics, not one identical attack against every guest.\n\nMerely joining Wi-Fi does not prove your account was compromised. The device-code trick needs the user’s approval—and a genuine sign-in page can still authorize the wrong party, as separate Volexity cases from 2025 showed.",
+        "zh": "密码没交出去，点个批准，黑客却可能进了公司账户。\n\n密码没有交出去，也可能替黑客开了门。ReliaQuest 记录的部分酒店网络攻击，会把旅客引向授权提示。你一旦批准，攻击者发起的会话就能拿到有效访问令牌。\n\nAnthropic 9月10日的报告称，一名间谍行动操作者攻陷了至少三家酒店 Wi-Fi 服务商。微软此前在7月披露相关的 CaptiveCrunch 行动，包括假更新诱饵和 AI 辅助操作。这些报告描述了多种手法，并非每位住客都遭遇同一套攻击。\n\n仅仅连接 Wi-Fi，不代表账户就被攻陷。设备代码骗局还需要骗到你的批准。Volexity 在另一些2025年案例中也记录过：登录页可以是真的，但你授权登录的人，可能不是你自己。"
+      },
+      "video": {
+        "en": "0–5s: First frame: YOUR CLICK. / THEIR / ACCESS. Voice: You never gave away your password. One approval can still let an attacker in.\n5–20s: Show the linked primary-source excerpt. Voice: Investigators found hotel-network redirects that could turn a routine sign-in approval into access for an attacker.\n20–35s: Explain the mechanism with a labeled illustration.\n35–45s: Voice and caption: Vendor investigations; current campaign activity is unverified. Affected networks are not all hotel networks.\nIllustrations must not be presented as documentary footage.",
+        "zh": "0–5秒：首帧：你点批准。 / 黑客 / 拿权限。 口播：密码没交出去，点个批准，黑客却可能进了公司账户。\n5–20秒：展示所链接的一手来源原文。口播：调查人员发现，有酒店网络把住客引向授权陷阱：你点批准，对方拿到公司账户的访问令牌。\n20–35秒：用标明‘示意’的画面解释具体机制。\n35–45秒：口播与字幕：依据安全厂商调查；行动目前是否仍在进行，未验证。受影响网络不等于所有酒店网络。\n示意画面不冒充事件实拍。"
+      }
+    },
+    "cover_lines": {
+      "en": [
+        "YOUR CLICK.",
+        "THEIR",
+        "ACCESS."
+      ],
+      "zh": [
+        "你点批准。",
+        "黑客",
+        "拿权限。"
+      ]
+    }
+  }
+]

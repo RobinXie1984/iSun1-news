@@ -1,0 +1,6 @@
+[
+ {"name":"NASA","url":"https://www.nasa.gov/feed/","kind":"primary"},
+ {"name":"Microsoft Security","url":"https://www.microsoft.com/en-us/security/blog/feed/","kind":"primary"},
+ {"name":"Google Research","url":"https://research.google/blog/rss/","kind":"primary"},
+ {"name":"OpenAI","url":"https://openai.com/news/rss.xml","kind":"primary"}
+]

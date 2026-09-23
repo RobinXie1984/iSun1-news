@@ -1,0 +1,141 @@
+{
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "event_key": {
+            "type": "string"
+          },
+          "title_en": {
+            "type": "string"
+          },
+          "title_zh": {
+            "type": "string"
+          },
+          "scores": {
+            "type": "object",
+            "properties": {
+              "scale": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "minimum": 0,
+                "maximum": 4
+              },
+              "impact": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "minimum": 0,
+                "maximum": 4
+              },
+              "novelty": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "minimum": 0,
+                "maximum": 4
+              },
+              "potential": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "minimum": 0,
+                "maximum": 4
+              },
+              "legacy": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "minimum": 0,
+                "maximum": 4
+              }
+            },
+            "required": [
+              "scale",
+              "impact",
+              "novelty",
+              "potential",
+              "legacy"
+            ],
+            "additionalProperties": false
+          },
+          "story_potential": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 4
+          },
+          "direction": {
+            "type": "string",
+            "enum": [
+              "positive",
+              "negative",
+              "mixed",
+              "unclear"
+            ]
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "World",
+              "Politics",
+              "Economy",
+              "Science",
+              "Technology",
+              "Health",
+              "Environment",
+              "Society",
+              "Culture",
+              "Sport"
+            ]
+          },
+          "why_en": {
+            "type": "string"
+          },
+          "why_zh": {
+            "type": "string"
+          },
+          "uncertainty": {
+            "type": "string"
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "event_key",
+          "title_en",
+          "title_zh",
+          "scores",
+          "story_potential",
+          "direction",
+          "category",
+          "why_en",
+          "why_zh",
+          "uncertainty",
+          "evidence_ids"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "items"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "story_id": "anthropic-paid-watchdog",
+    "experiment_id": "anthropic-paid-watchdog-v1",
+    "sha256": "51402f41f38163a5db2ead925adef74427738820680059c0dbf5fcbde2f3c679"
+  },
+  {
+    "story_id": "roman-cosmic-blind-spot",
+    "experiment_id": "roman-cosmic-blind-spot-v1",
+    "sha256": "bb6ffd388863efc218caa02ba3e9eda00682d8c9432b0968c5d6bfd4659d8574"
+  },
+  {
+    "story_id": "hotel-wifi-spy-trap",
+    "experiment_id": "hotel-wifi-spy-trap-v1",
+    "sha256": "feef3ac91497f9a1c3ada732e37cb1d6221936348dd83f431137aa64936c9241"
+  },
+  {
+    "story_id": "roman-cosmic-blind-spot",
+    "experiment_id": "roman-cosmic-blind-spot-v2",
+    "sha256": "abdedc182b673e55cffae3957172eca5a78af7cf839954d57cb2e73ec0b76a4a"
+  },
+  {
+    "story_id": "anthropic-paid-watchdog",
+    "experiment_id": "anthropic-paid-watchdog-v2",
+    "sha256": "8213f7123f2f1b0c93e16f595a320d9cbd89cb8088472f4dc0703571a6a7ab49"
+  },
+  {
+    "story_id": "hotel-wifi-spy-trap",
+    "experiment_id": "hotel-wifi-spy-trap-v2",
+    "sha256": "575dc85b5e190ebf6d21fcc03c738f309ed687dc2cea5b51d09e8c5aa6c81d70"
+  },
+  {
+    "story_id": "ff-robots-american-dream",
+    "experiment_id": "ff-robots-american-dream-v1",
+    "sha256": "6a1a44b2582075e5b48958631ea451552ae454af6ab268e94398776a0baf0b38"
+  },
+  {
+    "story_id": "mars-rocks-three-water-stories",
+    "experiment_id": "mars-rocks-three-water-stories-v1",
+    "sha256": "ca7c0baf91afb1b21a652c36ae9e0481d4febb4df1c60a5335e864b862160cf0"
+  },
+  {
+    "story_id": "eviltokens-real-login-trap",
+    "experiment_id": "eviltokens-real-login-trap-v1",
+    "sha256": "f4a7d18e2d8e409d1b0b6608fba01c3278d16f0da2bd97b80b91eb4bc2b616a7"
+  }
+]
