@@ -6,6 +6,10 @@ Real events. Twenty competing framings. An honest attention loop.
 
 The source includes six event packets, 120 bilingual headline candidates, source-linked claims, and platform drafts for X, LinkedIn, WeChat and short video. Drafts are not published posts; shot plans are not finished videos. Audience improvement remains unproven until adequate observations exist.
 
+## September 28 Model Olympics pilot
+
+Read the [original model editions](content/model-olympics/README.md): six shared story briefs, independent English and Chinese submissions, and no automatic ranking. Robin will review the one-week pilot after October 4. Missing submissions remain explicitly unavailable; the existing audience thresholds do not gate this pilot. These are unedited model drafts, not independently verified reporting. The website uses Robin’s selected ivory editorial salon with English/Chinese and Day/Night.
+
 ## Run locally
 
 Use Node 22+ with `node:sqlite` support and Python 3.10+. No runtime package installation is required.

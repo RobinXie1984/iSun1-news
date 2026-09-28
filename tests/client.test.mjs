@@ -14,9 +14,9 @@ const app=readFileSync(resolve(root,'public/app.js'),'utf8');
 const packets=JSON.parse(readFileSync(resolve(root,'content/stories.json'),'utf8'));
 const flush=()=>new Promise(r=>setImmediate(r));
 
-async function browser({hidden=false,preview=false,direct=false,content=packets}={}) {
+async function browser({hidden=false,preview=false,direct=false,pilot=false,content=packets}={}) {
  const fixture=content.map((s,i)=>({...structuredClone(s),headline:s.hooks[0].en,ticket:`ticket-${i}`}));
- const nodes=new Map(),lists=new Map(),timers=new Map(),observers=[],listeners=new Map(),requests=[];
+ const nodes=new Map(),lists=new Map(),timers=new Map(),observers=[],listeners=new Map(),requests=[],feedRequests=[];
  let seq=0,now=1_800_000_000_000,hangSignals=false,shares=0;
  const element=(extra={})=>({dataset:{},classList:{add(){},remove(){}},setAttribute(){},close(){},showModal(){},...extra});
  const node=key=>{if(!nodes.has(key))nodes.set(key,element());return nodes.get(key);};
@@ -29,21 +29,21 @@ async function browser({hidden=false,preview=false,direct=false,content=packets}
   }
  }});
  node('#read-end').id='read-end';
- const document={hidden,documentElement:{setAttribute(){}},querySelector:s=>s==='[data-story]'?(lists.get(s)||[])[0]:node(s),querySelectorAll:s=>lists.get(s)||[],addEventListener:(name,fn)=>add(name,fn),removeEventListener:(name,fn)=>remove(name,fn)};
+ const document={hidden,body:element({classList:{toggle(){}}}),documentElement:{setAttribute(){}},querySelector:s=>s==='[data-story]'?(lists.get(s)||[])[0]:node(s),querySelectorAll:s=>lists.get(s)||[],addEventListener:(name,fn)=>add(name,fn),removeEventListener:(name,fn)=>remove(name,fn)};
  function add(name,fn){if(!listeners.has(name))listeners.set(name,new Set());listeners.get(name).add(fn);}
  function remove(name,fn){listeners.get(name)?.delete(fn);}
  const store=new Map([['isun1-signals','yes']]);
  const location={search:preview?'?preview=1':'',href:'https://example.test/'+(preview?'?preview=1':'')};
- let fragment=direct?'#story/'+fixture[0].id:'';
+ let fragment=direct?'#story/'+fixture[0].id:pilot?'':'#stories';
  Object.defineProperty(location,'hash',{get:()=>fragment,set:value=>{fragment=value?(value.startsWith('#')?value:'#'+value):'';}});
  const context=vm.createContext({console,URL,URLSearchParams,Map,Set,JSON,Promise,performance:{now:()=>now},Date:class extends Date{static now(){return now;}},
   document,location,localStorage:{getItem:k=>store.get(k)||null,setItem:(k,v)=>store.set(k,v)},
-  window:{addEventListener:add,removeEventListener:remove,scrollTo(){}},
+  window:{iSunOlympics:{dispose(){},render:async()=>{main.innerHTML="Model Olympics";return ()=>{};}},addEventListener:add,removeEventListener:remove,scrollTo(){}},
   navigator:{share:async()=>{shares++;},clipboard:{writeText:async()=>{}}},
   setInterval:fn=>{timers.set(++seq,fn);return seq;},clearInterval:id=>timers.delete(id),setTimeout:()=>++seq,
   IntersectionObserver:class{constructor(fn){this.fn=fn;this.targets=[];this.active=true;observers.push(this);}observe(el){this.targets.push(el);}disconnect(){this.active=false;}},
   fetch:async(url,options={})=>{
-   if(url.startsWith('/api/feed'))return {ok:true,json:async()=>({stories:fixture})};
+   if(url.startsWith('/api/feed')){feedRequests.push(url);return {ok:true,json:async()=>({stories:fixture})};}
    if(url==='/api/signal'){requests.push(JSON.parse(options.body));if(hangSignals)return new Promise(()=>{});return {ok:true};}
    throw Error('Unexpected fetch '+url);
   }});
@@ -52,7 +52,7 @@ async function browser({hidden=false,preview=false,direct=false,content=packets}
  function intersect(id,ratio=1){for(const observer of observers.filter(o=>o.active)){const targets=observer.targets.filter(el=>el?.dataset.story===id);if(targets.length)observer.fn(targets.map(target=>({target,isIntersecting:ratio>0,intersectionRatio:ratio})));}}
  async function tick(count){for(let i=0;i<count;i++){now+=250;for(const fn of [...timers.values()])fn();}await flush();}
  async function clickFeed(index=0){const button=(lists.get('[data-read]')||[])[index];assert.ok(button?.onclick,'feed button should be bound');button.onclick();emit('hashchange');await flush();}
- return {fixture,requests,node,intersect,tick,clickFeed,emit,document,location,
+ return {fixture,requests,feedRequests,node,intersect,tick,clickFeed,emit,document,location,
   hidden(value){document.hidden=value;emit('visibilitychange');},
   advance(ms){now+=ms;},hang(){hangSignals=true;},shares:()=>shares,
   kinds:()=>requests.map(r=>r.kind),
@@ -155,6 +155,14 @@ test('a rotated single-story edition carries its own art, count and real event d
 
 test('leaving a reader restores the destination page title',async()=>{
  const b=await browser({direct:true});assert.equal(b.document.title,b.fixture[0].headline+' | iSun1.news');
- b.node('#back').onclick();assert.match(b.document.title,/The story inside the news/);
- b.location.hash='lab';b.emit('hashchange');assert.equal(b.document.title,'Hook Lab | iSun1.news');
+ b.node('#back').onclick();b.emit('hashchange');await flush();assert.match(b.document.title,/The story inside the news/);
+ b.location.hash='lab';b.emit('hashchange');await flush();assert.equal(b.document.title,'Hook Lab | iSun1.news');
+});
+
+ test('pilot homepage remains outside the legacy experiment even with stored consent',async()=>{
+ const b=await browser({pilot:true});await b.tick(80);
+ assert.deepEqual(b.requests,[]);assert.match(b.node('#main').innerHTML,/Model Olympics/);
+ assert.ok(b.feedRequests.every(p=>new URL(p,'https://example.test').searchParams.get('measure')!== '1'));
+ b.location.hash='stories';b.emit('hashchange');await flush();
+ assert.equal(new URL(b.feedRequests.at(-1),'https://example.test').searchParams.get('measure'),'1');
 });

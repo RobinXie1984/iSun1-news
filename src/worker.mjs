@@ -96,6 +96,12 @@ export default {
     const url=new URL(req.url);
     try{
       if(url.pathname==='/api/health')return json({ok:true,stories:STORIES.length,storage:!!env.DB});
+      if(req.method==='GET'&&url.pathname==='/api/olympics/original'){
+        const path=url.searchParams.get('path');const collection=path?.startsWith('articles/')?OLYMPICS.articles:OLYMPICS.briefs;
+        if(!path||!Object.hasOwn(collection,path))return json({error:'not_found'},404);
+        const filename=path.replaceAll('/','-');return new Response(collection[path],{headers:{...headers,'Content-Type':'text/markdown; charset=utf-8','Content-Disposition':`attachment; filename="${filename}"`}});
+      }
+      if(req.method==='GET'&&url.pathname==='/api/olympics')return json(OLYMPICS);
       if(req.method==='GET'&&url.pathname==='/api/feed')return await feed(req,env,url);
       if(req.method==='POST'&&url.pathname==='/api/signal')return await signal(req,env,url);
       if(req.method==='GET'&&url.pathname==='/api/metrics')return await metrics(env,url);
@@ -109,7 +115,7 @@ export default {
       const picture=Object.hasOwn(MEDIA,url.pathname)?MEDIA[url.pathname]:null;
       if(picture)return new Response(req.method==='HEAD'?null:Uint8Array.from(atob(picture),c=>c.charCodeAt(0)),{headers:{...headers,'Content-Type':'image/jpeg','Cache-Control':'public, max-age=3600'}});
       const asset=Object.hasOwn(ASSETS,url.pathname)?ASSETS[url.pathname]:undefined;
-      if(asset!==undefined)return new Response(req.method==='HEAD'?null:asset,{headers:{...headers,'Content-Type':url.pathname.endsWith('.js')?'text/javascript; charset=utf-8':url.pathname.endsWith('.css')?'text/css; charset=utf-8':'text/html; charset=utf-8','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; frame-ancestors 'self'"}});
+      if(asset!==undefined)return new Response(req.method==='HEAD'?null:asset,{headers:{...headers,'Content-Type':url.pathname.endsWith('.js')?'text/javascript; charset=utf-8':url.pathname.endsWith('.css')?'text/css; charset=utf-8':url.pathname.endsWith('.svg')?'image/svg+xml':'text/html; charset=utf-8','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; frame-ancestors 'self'"}});
       return json({error:'not_found'},404);
     }catch(error){
       if(error.message==='payload'||error instanceof SyntaxError)return json({error:'invalid_payload'},400);

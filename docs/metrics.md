@@ -1,5 +1,7 @@
 # Attention measurement v1
 
+**September 28 pilot exception:** The [Model Olympics archive](../content/model-olympics/README.md) preserves independent model submissions for Robin’s review after a week. The legacy thresholds below govern claims about measured audience experiments; they do not gate the pilot’s publication or decide its winner.
+
 **Objective:** qualified reads per observed anonymous visitor × story experiment, within one language and referral channel. This is a proxy for useful attention, not eye tracking or a viral score.
 
 | Signal | Definition |
