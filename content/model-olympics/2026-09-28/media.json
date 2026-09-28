@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "editions": [
+    {
+      "topic": "mars-rocks-three-water-stories",
+      "provider": "grok",
+      "language": "en",
+      "items": [
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "Perseverance Reveals How Complex Water Systems Shaped the Jezero Crater on  Early Mars - Universe Today",
+          "source_url": "https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars",
+          "asset_path": null,
+          "credit": "See original source for creator credit.",
+          "availability_note": "View at source; reproduction rights have not been confirmed."
+        },
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "Mars constantly throws surprises at you': Perseverance rover finds evidence  of ancient hot water in Red Planet crater | Space",
+          "source_url": "https://www.space.com/astronomy/mars/mars-constantly-throws-surprises-at-you-perseverance-rover-finds-evidence-of-ancient-hot-water-in-red-planet-crater",
+          "asset_path": null,
+          "credit": "See original source for creator credit.",
+          "availability_note": "View at source; reproduction rights have not been confirmed."
+        },
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "SuperCam close-up of Yeehgo — March 7, 2021",
+          "source_url": "https://www.jpl.nasa.gov/news/perseverance-rovers-supercam-science-instrument-delivers-first-results/",
+          "asset_path": "/edition-media/mars-supercam-2021.jpg",
+          "credit": "NASA/JPL-Caltech/LANL/CNES/CNRS/ASU/MSSS",
+          "availability_note": "Archival context image selected in the original response; not a photograph of the September 2026 finding."
+        }
+      ]
+    },
+    {
+      "topic": "mars-rocks-three-water-stories",
+      "provider": "grok",
+      "language": "zh",
+      "items": [
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "Perseverance Reveals How Complex Water Systems Shaped the Jezero Crater on  Early Mars - Universe Today",
+          "source_url": "https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars",
+          "asset_path": null,
+          "credit": "作者署名见原始来源。",
+          "availability_note": "可前往来源查看；尚未确认转载权限。"
+        },
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "Mars constantly throws surprises at you': Perseverance rover finds evidence  of ancient hot water in Red Planet crater | Space",
+          "source_url": "https://www.space.com/astronomy/mars/mars-constantly-throws-surprises-at-you-perseverance-rover-finds-evidence-of-ancient-hot-water-in-red-planet-crater",
+          "asset_path": null,
+          "credit": "作者署名见原始来源。",
+          "availability_note": "可前往来源查看；尚未确认转载权限。"
+        },
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "SuperCam 拍摄的 Yeehgo 岩石特写 — 2021年3月7日",
+          "source_url": "https://www.jpl.nasa.gov/news/perseverance-rovers-supercam-science-instrument-delivers-first-results/",
+          "asset_path": "/edition-media/mars-supercam-2021.jpg",
+          "credit": "NASA/JPL-Caltech/LANL/CNES/CNRS/ASU/MSSS",
+          "availability_note": "原回答所选的历史背景图片，并非2026年9月发现的现场照片。"
+        }
+      ]
+    },
+    {
+      "topic": "roman-cosmic-blind-spot",
+      "provider": "grok",
+      "language": "en",
+      "items": [
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "NASA's Roman Space Telescope Launches on Mission to Probe Hidden Universe |  Sci.News",
+          "source_url": "https://www.sci.news/astronomy/roman-space-telescope-launch-15027.html",
+          "asset_path": null,
+          "credit": "See original source for creator credit.",
+          "availability_note": "View at source; reproduction rights have not been confirmed."
+        },
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "NASA SVS | Roman and Hubble Scale Graphic with Andromeda Galaxy and Moon",
+          "source_url": "https://svs.gsfc.nasa.gov/15070/",
+          "asset_path": null,
+          "credit": "Background: Digitized Sky Survey and R. Gendler; Moon: NASA Goddard and Arizona State University.",
+          "availability_note": "View at source; reproduction rights have not been confirmed."
+        },
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "Nancy Grace Roman with a model of the Orbiting Solar Observatory",
+          "source_url": "https://science.nasa.gov/gallery/nancy-grace-roman/",
+          "asset_path": "/edition-media/nancy-grace-roman.jpg",
+          "credit": "NASA",
+          "availability_note": "Historical photograph from NASA’s Nancy Grace Roman gallery."
+        }
+      ]
+    },
+    {
+      "topic": "roman-cosmic-blind-spot",
+      "provider": "grok",
+      "language": "zh",
+      "items": [
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "NASA's Roman Space Telescope Launches on Mission to Probe Hidden Universe |  Sci.News",
+          "source_url": "https://www.sci.news/astronomy/roman-space-telescope-launch-15027.html",
+          "asset_path": null,
+          "credit": "作者署名见原始来源。",
+          "availability_note": "可前往来源查看；尚未确认转载权限。"
+        },
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "NASA SVS | Roman and Hubble Scale Graphic with Andromeda Galaxy and Moon",
+          "source_url": "https://svs.gsfc.nasa.gov/15070/",
+          "asset_path": null,
+          "credit": "Background: Digitized Sky Survey and R. Gendler; Moon: NASA Goddard and Arizona State University.",
+          "availability_note": "可前往来源查看；尚未确认转载权限。"
+        },
+        {
+          "kind": "image",
+          "origin": "source",
+          "title": "南希·格雷斯·罗曼与轨道太阳观测站模型",
+          "source_url": "https://science.nasa.gov/gallery/nancy-grace-roman/",
+          "asset_path": "/edition-media/nancy-grace-roman.jpg",
+          "credit": "NASA",
+          "availability_note": "NASA 南希·格雷斯·罗曼图库中的历史照片。"
+        }
+      ]
+    }
+  ]
+}

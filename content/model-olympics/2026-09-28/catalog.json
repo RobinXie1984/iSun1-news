@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T04:32:18.133064+00:00",
+  "generated_at": "2026-09-28T07:12:59.872789+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 55,
-  "unavailable_count": 17,
+  "available_count": 57,
+  "unavailable_count": 15,
   "articles": [
     {
       "provider": "chatgpt",
@@ -117,14 +117,14 @@
     },
     {
       "provider": "qwen",
-      "model": null,
+      "model": "Qwen3.8-Max",
       "language": "en",
       "topic": "eviltokens-real-login-trap",
       "event_date": "2026-09-22",
       "source_brief": "briefs/eviltokens-real-login-trap.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "No completed submission is available for this slot."
+      "article_path": "articles/eviltokens-real-login-trap/qwen/english.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "qwen",
@@ -480,14 +480,14 @@
     },
     {
       "provider": "grok",
-      "model": null,
+      "model": "Expert",
       "language": "zh",
       "topic": "roman-cosmic-blind-spot",
       "event_date": "2026-08-30",
       "source_brief": "briefs/roman-cosmic-blind-spot.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "No completed submission is available for this slot."
+      "article_path": "articles/roman-cosmic-blind-spot/grok/chinese.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "deepseek",

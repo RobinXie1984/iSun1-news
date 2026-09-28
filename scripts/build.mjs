@@ -2,6 +2,7 @@ import {readFileSync,writeFileSync,mkdirSync,cpSync,existsSync} from 'node:fs';
 import {validateStories} from '../src/engine.mjs';
 import {checkRelease} from './release-check.mjs';
 import {loadOlympics} from './olympics-bundle.mjs';
+import {createHash} from 'node:crypto';
 const olympics=loadOlympics();
 const hostingPath='.openai/hosting.json';
 let hosting={d1:'DB'};
@@ -18,6 +19,15 @@ if([...stories,...history].some(s=>!registry.some(r=>r.experiment_id===s.experim
 mkdirSync('dist/server',{recursive:true});mkdirSync('dist/.openai',{recursive:true});
 const assets=Object.fromEntries(['index.html','app.js','style.css','theme.js','olympics.js','olympics.css',...['chatgpt','claude','gemini','grok','deepseek','qwen'].map(n=>'icons/'+n+'.svg')].map(f=>['/'+(f==='index.html'?'':f),readFileSync('public/'+f,'utf8')]));
 const media=Object.fromEntries(['mars','robot','galaxy','oversight','security','eviltokens'].map(name=>['/images/'+name+'.jpg',readFileSync('public/images/'+name+'.jpg').toString('base64')]));
+const editionPaths=[...new Set((olympics.media?.editions||[]).flatMap(e=>e.items.map(i=>i.asset_path).filter(Boolean)))];
+if(editionPaths.length){
+ const sums=new Map(readFileSync('public/edition-media/SHA256SUMS','utf8').trim().split('\n').map(line=>[line.slice(66),line.slice(0,64)]));
+ for(const path of editionPaths){
+  const bytes=readFileSync('public'+path);
+  if(createHash('sha256').update(bytes).digest('hex')!==sums.get(path.split('/').pop()))throw Error('Edition media checksum mismatch');
+  media[path]=bytes.toString('base64');
+ }
+}
 const engine=readFileSync('src/engine.mjs','utf8').replace(/^export /gm,'');
 const worker=readFileSync('src/worker.mjs','utf8').replace(/^import .*;\n/gm,'');
 writeFileSync('dist/server/index.js',`const OLYMPICS=${JSON.stringify(olympics)};\nconst STORIES=${JSON.stringify(stories)};\nconst HISTORY=${JSON.stringify(history)};\nconst ASSETS=${JSON.stringify(assets)};\nconst MEDIA=${JSON.stringify(media)};\n${engine}\n${worker}`);

@@ -17,3 +17,12 @@ test('all editorial images serve exact binary bytes without database or consent 
  }
  for(const path of ['/images/missing.jpg','/constructor','/toString'])assert.equal((await worker.fetch(new Request('https://example.test'+path),{})).status,404);
 });
+test('edition photos serve only bundled exact bytes and never create tracking state',async()=>{
+ for(const name of ['nancy-grace-roman','mars-supercam-2021']){
+  const path='/edition-media/'+name+'.jpg';
+  const response=await worker.fetch(new Request('https://example.test'+path),{});
+  assert.equal(response.status,200);assert.equal(response.headers.get('Content-Type'),'image/jpeg');assert.equal(response.headers.get('Set-Cookie'),null);
+  assert.deepEqual(Buffer.from(await response.arrayBuffer()),readFileSync('public'+path));
+ }
+ for(const path of ['/edition-media/missing.jpg','/edition-media/SHA256SUMS','/edition-media/PROVENANCE.md'])assert.equal((await worker.fetch(new Request('https://example.test'+path),{})).status,404);
+});

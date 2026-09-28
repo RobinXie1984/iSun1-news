@@ -113,7 +113,7 @@ export default {
       if(req.method!=='GET'&&req.method!=='HEAD')return json({error:'method'},405);
       if(url.pathname==='/robots.txt')return new Response('User-agent: *\nAllow: /\nDisallow: /api/\n');
       const picture=Object.hasOwn(MEDIA,url.pathname)?MEDIA[url.pathname]:null;
-      if(picture)return new Response(req.method==='HEAD'?null:Uint8Array.from(atob(picture),c=>c.charCodeAt(0)),{headers:{...headers,'Content-Type':'image/jpeg','Cache-Control':'public, max-age=3600'}});
+      if(picture)return new Response(req.method==='HEAD'?null:Uint8Array.from(atob(picture),c=>c.charCodeAt(0)),{headers:{...headers,'Content-Type':url.pathname.endsWith('.mp4')?'video/mp4':url.pathname.endsWith('.png')?'image/png':url.pathname.endsWith('.webp')?'image/webp':'image/jpeg','Cache-Control':'public, max-age=3600'}});
       const asset=Object.hasOwn(ASSETS,url.pathname)?ASSETS[url.pathname]:undefined;
       if(asset!==undefined)return new Response(req.method==='HEAD'?null:asset,{headers:{...headers,'Content-Type':url.pathname.endsWith('.js')?'text/javascript; charset=utf-8':url.pathname.endsWith('.css')?'text/css; charset=utf-8':url.pathname.endsWith('.svg')?'image/svg+xml':'text/html; charset=utf-8','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; frame-ancestors 'self'"}});
       return json({error:'not_found'},404);
