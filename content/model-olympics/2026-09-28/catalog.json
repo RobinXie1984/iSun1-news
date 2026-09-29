@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T01:11:45.743926+00:00",
+  "generated_at": "2026-09-29T09:26:55.506898+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 61,
-  "unavailable_count": 11,
+  "available_count": 62,
+  "unavailable_count": 10,
   "articles": [
     {
       "provider": "chatgpt",
@@ -128,14 +128,14 @@
     },
     {
       "provider": "qwen",
-      "model": null,
+      "model": "Qwen3.8-Max",
       "language": "zh",
       "topic": "eviltokens-real-login-trap",
       "event_date": "2026-09-22",
       "source_brief": "briefs/eviltokens-real-login-trap.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "No completed submission is available for this slot."
+      "article_path": "articles/eviltokens-real-login-trap/qwen/chinese.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "chatgpt",
