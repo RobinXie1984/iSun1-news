@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T07:12:59.872789+00:00",
+  "generated_at": "2026-09-29T01:11:45.743926+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 57,
-  "unavailable_count": 15,
+  "available_count": 61,
+  "unavailable_count": 11,
   "articles": [
     {
       "provider": "chatgpt",
@@ -601,25 +601,25 @@
     },
     {
       "provider": "grok",
-      "model": null,
+      "model": "Expert",
       "language": "en",
       "topic": "anthropic-paid-watchdog",
       "event_date": "2026-09-18",
       "source_brief": "briefs/anthropic-paid-watchdog.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "No completed submission is available for this slot."
+      "article_path": "articles/anthropic-paid-watchdog/grok/english.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "grok",
-      "model": null,
+      "model": "Expert",
       "language": "zh",
       "topic": "anthropic-paid-watchdog",
       "event_date": "2026-09-18",
       "source_brief": "briefs/anthropic-paid-watchdog.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "No completed submission is available for this slot."
+      "article_path": "articles/anthropic-paid-watchdog/grok/chinese.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "deepseek",
@@ -733,25 +733,25 @@
     },
     {
       "provider": "grok",
-      "model": null,
+      "model": "Expert",
       "language": "en",
       "topic": "hotel-wifi-spy-trap",
       "event_date": "2026-09-10",
       "source_brief": "briefs/hotel-wifi-spy-trap.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "No completed submission is available for this slot."
+      "article_path": "articles/hotel-wifi-spy-trap/grok/english.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "grok",
-      "model": null,
+      "model": "Expert",
       "language": "zh",
       "topic": "hotel-wifi-spy-trap",
       "event_date": "2026-09-10",
       "source_brief": "briefs/hotel-wifi-spy-trap.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "No completed submission is available for this slot."
+      "article_path": "articles/hotel-wifi-spy-trap/grok/chinese.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "deepseek",

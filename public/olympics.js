@@ -85,7 +85,7 @@ function mediaSourceURL(value){
       const line = plain(lines[i]), colon = line.search(/[:：]/);
       if (colon < 0 || colon > 55) continue;
       const label = line.slice(0,colon);
-      if (!/suspens|emotion|counter[ -]*intuitive|悬|情感|情韵|动情|共鸣|共情|抒情|浪漫|反直觉|反常识|反常|反转/i.test(label)) continue;
+      if (!/suspens|emotion|counter[ -]*intuitive|悬|情感|情韵|动情|共鸣|共情|抒情|浪漫|反直觉|反常识|反常|反转|逆思/i.test(label)) continue;
       let headline = line.slice(colon + 1).trim(), end = i;
       if (!headline) { end = i + 1; while (end < lines.length && !lines[end].trim()) end++; headline = plain(lines[end] || ''); }
       if (headline) { headlines.push(headline); last = end; i = end; }
