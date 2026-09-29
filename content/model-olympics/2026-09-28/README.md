@@ -9,3 +9,5 @@ The factual briefs are separate source material. Each brief preserves the origin
 Models appear in a fixed order. There are no rankings or scores. Robin makes the editorial decision after the one-week comparison.
 
 The `SHA256SUMS` file records the exported bytes for checking that a draft has not changed. It is an integrity record, not independent verification of the draft's claims.
+
+Qwen supplied two English alternatives for FF. Both are preserved without a preference vote; the main edition follows the provider-displayed continuation. The individual backend identities were not disclosed. [Additional original](supplements/ff-robots-american-dream/qwen/english-alternative-2.md).

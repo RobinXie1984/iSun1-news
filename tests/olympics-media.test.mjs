@@ -53,7 +53,7 @@ test('strict media schema binds unique records to an available edition',()=>{
  const cases=[null,[],{...media(),extra:'private'}, {...media(),schema_version:2}];
  for(const patch of [{topic:'unlisted-topic'},{topic:[row.topic]},{provider:[row.provider]},{provider:'invented'},{language:'de'},{items:{}},{extra:'private'}]){const value=media();Object.assign(value.editions[0],patch);cases.push(value);}
  const duplicate=media();duplicate.editions.push(structuredClone(duplicate.editions[0]));cases.push(duplicate);
- const missing=catalog.articles.find(row=>row.status==='UNKNOWN');const unavailable=media();Object.assign(unavailable.editions[0],{topic:missing.topic,provider:missing.provider,language:missing.language});cases.push(unavailable);
+ const unavailableCatalog=structuredClone(catalog);const missing=unavailableCatalog.articles.find(entry=>entry.topic===row.topic&&entry.provider===row.provider&&entry.language===row.language);missing.status='UNKNOWN';missing.article_path=null;assert.throws(()=>validateOlympicsMedia(media(),unavailableCatalog),/Media must/);
  for(const patch of [{origin:'generated'},{kind:'iframe'},{title:''},{credit:null},{availability_note:42},{extra:'private'}])cases.push(media([item(patch)]));
  const absent=media();delete absent.editions[0].items[0].credit;cases.push(absent);cases.push(media([item(),item()]));
  for(const value of cases)assert.throws(()=>validateOlympicsMedia(value,catalog),/Invalid|Media must|Duplicate/);

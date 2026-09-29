@@ -97,7 +97,7 @@ export default {
     try{
       if(url.pathname==='/api/health')return json({ok:true,stories:STORIES.length,storage:!!env.DB});
       if(req.method==='GET'&&url.pathname==='/api/olympics/original'){
-        const path=url.searchParams.get('path');const collection=path?.startsWith('articles/')?OLYMPICS.articles:OLYMPICS.briefs;
+        const path=url.searchParams.get('path');const collection=path?.startsWith('supplements/')?Object.fromEntries((OLYMPICS.supplements||[]).map(item=>[item.article_path,item.text])):path?.startsWith('articles/')?OLYMPICS.articles:OLYMPICS.briefs;
         if(!path||!Object.hasOwn(collection,path))return json({error:'not_found'},404);
         const filename=path.replaceAll('/','-');return new Response(collection[path],{headers:{...headers,'Content-Type':'text/markdown; charset=utf-8','Content-Disposition':`attachment; filename="${filename}"`}});
       }

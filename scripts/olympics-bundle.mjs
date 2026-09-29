@@ -59,7 +59,18 @@ export function loadOlympics(root='content/model-olympics/2026-09-28'){
   }else if(row.status!=='UNKNOWN'||row.article_path!==null)throw Error('Missing submissions must remain UNKNOWN');
  }
  if(Object.keys(articles).length!==catalog.available_count||catalog.unavailable_count!==72-catalog.available_count)throw Error('Archive totals mismatch');
- const result={catalog,articles,briefs};
+ const result={catalog,articles,briefs,supplements:[]};
+ if(sums.has('supplements.json')){
+  const extras=JSON.parse(read('supplements.json'));
+  if(!Array.isArray(extras)||extras.length>72)throw Error('Invalid supplements');
+  const paths=new Set();
+  for(const extra of extras){
+   if(!exactFields(extra,['topic','provider','language','article_path'])||!catalog.articles.some(row=>row.topic===extra.topic&&row.provider===extra.provider&&row.language===extra.language&&row.status==='available'))throw Error('Invalid supplement edition');
+   const prefix='supplements/'+extra.topic+'/'+extra.provider+'/';
+   if(typeof extra.article_path!=='string'||!extra.article_path.startsWith(prefix)||!/^(english|chinese)-alternative-[2-9]\.md$/.test(extra.article_path.slice(prefix.length))||paths.has(extra.article_path))throw Error('Invalid supplement path');
+   paths.add(extra.article_path);result.supplements.push({...extra,text:read(extra.article_path)});
+  }
+ }
  if(sums.has('media.json')||existsSync(resolve(base,'media.json')))result.media=validateOlympicsMedia(JSON.parse(read('media.json')),catalog);
  return result;
 }
