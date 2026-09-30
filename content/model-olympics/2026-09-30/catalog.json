@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-30T01:25:49.105493+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 16,
+  "unavailable_count": 8,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "en",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop collection is pending."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "zh",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop collection is pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "3.6 Thinking",
+      "language": "en",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/gemini/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "gemini",
+      "model": "3.6 Thinking",
+      "language": "zh",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/gemini/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "grok",
+      "model": "Expert",
+      "language": "en",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/grok/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "grok",
+      "model": "Expert",
+      "language": "zh",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/grok/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepThink + Search",
+      "language": "en",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/deepseek/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepThink + Search",
+      "language": "zh",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max (requested; not collected)",
+      "language": "en",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Collection is pending; no substitute submission."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max (requested; not collected)",
+      "language": "zh",
+      "topic": "lisa-su-fei-fei-82-billion",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Collection is pending; no substitute submission."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": "articles/starliner-61-fixes-2028/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": "articles/starliner-61-fixes-2028/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "en",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop collection is pending."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "zh",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop collection is pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "3.6 Thinking",
+      "language": "en",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": "articles/starliner-61-fixes-2028/gemini/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": "articles/starliner-61-fixes-2028/gemini/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "grok",
+      "model": "Expert",
+      "language": "en",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": "articles/starliner-61-fixes-2028/grok/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": "articles/starliner-61-fixes-2028/grok/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepThink + Search",
+      "language": "en",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": "articles/starliner-61-fixes-2028/deepseek/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": "articles/starliner-61-fixes-2028/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max (requested; not collected)",
+      "language": "en",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Collection is pending; no substitute submission."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max (requested; not collected)",
+      "language": "zh",
+      "topic": "starliner-61-fixes-2028",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/starliner-61-fixes-2028.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Collection is pending; no substitute submission."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "lisa-su-fei-fei-82-billion",
+      "title": {
+        "en": "Lisa Su, Fei-Fei Li and the $8.2 billion question",
+        "zh": "苏姿丰拟以82亿美元收购李飞飞的公司，值不值？"
+      },
+      "summary": {
+        "en": "AMD proposes an all-stock World Labs acquisition. The price is announced; the outcome is not.",
+        "zh": "AMD宣布拟以全股票方式收购World Labs。价格已公布，成效尚未写定。"
+      },
+      "event_date": "2026-09-28"
+    },
+    {
+      "id": "starliner-61-fixes-2028",
+      "title": {
+        "en": "61 recommendations. A 2028 target. Why is NASA keeping Boeing in the race?",
+        "zh": "61项建议，目标2028年：NASA为何还要等波音？"
+      },
+      "summary": {
+        "en": "NASA outlines Starliner’s planned crew return, with an uncrewed flight and certification work still ahead.",
+        "zh": "NASA公布Starliner载人回归计划；无人试飞与认证工作仍在前方。"
+      },
+      "event_date": "2026-09-28"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 import {readFileSync,writeFileSync,mkdirSync,cpSync,existsSync} from 'node:fs';
 import {validateStories} from '../src/engine.mjs';
 import {checkRelease} from './release-check.mjs';
-import {loadOlympics} from './olympics-bundle.mjs';
+import {loadOlympicsArchive} from './olympics-bundle.mjs';
 import {createHash} from 'node:crypto';
-const olympics=loadOlympics();
+const olympics=loadOlympicsArchive();
 const hostingPath='.openai/hosting.json';
 let hosting={d1:'DB'};
 if(existsSync(hostingPath)){

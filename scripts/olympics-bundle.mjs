@@ -1,4 +1,4 @@
-import {readFileSync,existsSync} from 'node:fs';
+import {readFileSync,existsSync,readdirSync,lstatSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import {resolve,sep} from 'node:path';
 
@@ -22,7 +22,7 @@ export function mediaSourceURL(value){
 const exactFields=(value,fields)=>value&&typeof value==='object'&&!Array.isArray(value)&&Object.keys(value).length===fields.length&&fields.every(key=>Object.hasOwn(value,key));
 const textField=(value,max,empty=false)=>typeof value==='string'&&value.length<=max&&(empty||value.trim().length>0)&&!/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f]/.test(value);
 export function validateOlympicsMedia(media,catalog){
- if(!exactFields(media,['schema_version','editions'])||media.schema_version!==1||!Array.isArray(media.editions)||media.editions.length>72)throw Error('Invalid media schema');
+ if(!exactFields(media,['schema_version','editions'])||media.schema_version!==1||!Array.isArray(media.editions)||media.editions.length>catalog.articles.length)throw Error('Invalid media schema');
  const available=new Set(catalog.articles.filter(row=>row.status==='available').map(row=>[row.topic,row.provider,row.language].join('/'))),seen=new Set();
  for(const edition of media.editions){
   if(!exactFields(edition,['topic','provider','language','items'])||!['en','zh'].includes(edition.language)||typeof edition.topic!=='string'||typeof edition.provider!=='string'||!/^[a-z0-9-]+$/.test(edition.topic)||!/^[a-z]+$/.test(edition.provider)||!Array.isArray(edition.items)||edition.items.length>64)throw Error('Invalid media edition');
@@ -46,23 +46,38 @@ export function loadOlympics(root='content/model-olympics/2026-09-28'){
   return bytes.toString('utf8');
  };
  const catalog=JSON.parse(read('catalog.json')),articles={},briefs={};
- if(catalog.articles.length!==72)throw Error('Expected six topics, six models, two languages');
+ if(!exactFields(catalog,['schema_version','generated_at','description','available_count','unavailable_count','articles'])||catalog.schema_version!==1||!Array.isArray(catalog.articles)||!catalog.articles.length)throw Error('Invalid archive catalog');
+ const providers=['chatgpt','claude','gemini','grok','deepseek','qwen'];
+ const topicIDs=new Set(catalog.articles.map(row=>row.topic));
+ if(catalog.articles.length!==topicIDs.size*providers.length*2)throw Error('Expected six models and two languages per topic');
  const seen=new Set();
  for(const row of catalog.articles){
+  if(!exactFields(row,['provider','model','language','topic','event_date','source_brief','article_path','status','availability_note'])||!providers.includes(row.provider)||typeof row.topic!=='string'||!/^[a-z0-9-]+$/.test(row.topic)||!textField(row.model,200)||!/^\d{4}-\d{2}-\d{2}$/.test(row.event_date)||(row.availability_note!==null&&!textField(row.availability_note,1000)))throw Error('Invalid archive row');
   const key=[row.topic,row.provider,row.language].join('/');if(seen.has(key))throw Error('Duplicate submission');seen.add(key);
   if(!['en','zh'].includes(row.language))throw Error('Invalid language');
-  if(!/^briefs\/[a-z0-9-]+\.md$/.test(row.source_brief))throw Error('Invalid brief path');
+  if(row.source_brief!=='briefs/'+row.topic+'.md')throw Error('Invalid brief path');
   briefs[row.source_brief]=read(row.source_brief);
   if(row.status==='available'){
-   if(!/^articles\/[a-z0-9-]+\/[a-z]+\/(english|chinese)\.md$/.test(row.article_path))throw Error('Invalid article path');
+   if(row.article_path!=='articles/'+row.topic+'/'+row.provider+'/'+(row.language==='en'?'english':'chinese')+'.md')throw Error('Invalid article path');
    articles[row.article_path]=read(row.article_path);
   }else if(row.status!=='UNKNOWN'||row.article_path!==null)throw Error('Missing submissions must remain UNKNOWN');
  }
- if(Object.keys(articles).length!==catalog.available_count||catalog.unavailable_count!==72-catalog.available_count)throw Error('Archive totals mismatch');
+ if(Object.keys(articles).length!==catalog.available_count||catalog.unavailable_count!==catalog.articles.length-catalog.available_count)throw Error('Archive totals mismatch');
  const result={catalog,articles,briefs,supplements:[]};
+ if(sums.has('topics.json')||existsSync(resolve(base,'topics.json'))){
+  const metadata=JSON.parse(read('topics.json'));
+  if(!exactFields(metadata,['schema_version','topics'])||metadata.schema_version!==1||!Array.isArray(metadata.topics)||metadata.topics.length!==topicIDs.size)throw Error('Invalid topic metadata');
+  const ids=new Set();
+  const bilingual=value=>exactFields(value,['en','zh'])&&textField(value.en,2000)&&textField(value.zh,2000);
+  for(const topic of metadata.topics){
+   if(!exactFields(topic,['id','title','summary','event_date'])||!topicIDs.has(topic.id)||ids.has(topic.id)||!bilingual(topic.title)||!bilingual(topic.summary)||!/^\d{4}-\d{2}-\d{2}$/.test(topic.event_date)||catalog.articles.some(row=>row.topic===topic.id&&row.event_date!==topic.event_date))throw Error('Invalid topic metadata');
+   ids.add(topic.id);
+  }
+  result.topics=metadata.topics;
+ }
  if(sums.has('supplements.json')){
   const extras=JSON.parse(read('supplements.json'));
-  if(!Array.isArray(extras)||extras.length>72)throw Error('Invalid supplements');
+  if(!Array.isArray(extras)||extras.length>catalog.articles.length)throw Error('Invalid supplements');
   const paths=new Set();
   for(const extra of extras){
    if(!exactFields(extra,['topic','provider','language','article_path'])||!catalog.articles.some(row=>row.topic===extra.topic&&row.provider===extra.provider&&row.language===extra.language&&row.status==='available'))throw Error('Invalid supplement edition');
@@ -72,5 +87,29 @@ export function loadOlympics(root='content/model-olympics/2026-09-28'){
   }
  }
  if(sums.has('media.json')||existsSync(resolve(base,'media.json')))result.media=validateOlympicsMedia(JSON.parse(read('media.json')),catalog);
+ return result;
+}
+
+// Archive dates are collection batches; original event/report dates stay separate.
+// Topic IDs are globally unique so every already-published topic/download URL survives.
+export function loadOlympicsArchive(root='content/model-olympics'){
+ const dates=readdirSync(root,{withFileTypes:true}).filter(entry=>entry.isDirectory()&&/^\d{4}-\d{2}-\d{2}$/.test(entry.name)).map(entry=>entry.name).sort().reverse();
+ if(!dates.length)throw Error('No dated Olympics archives');
+ const result={catalog:{schema_version:1,generated_at:null,description:'Independent original submissions. Provider order is fixed; no ranking or scores.',available_count:0,unavailable_count:0,articles:[]},articles:{},briefs:{},supplements:[],topics:[],batches:[],media:{schema_version:1,editions:[]}};
+ const seen=new Set();
+ for(const date of dates){
+  const folder=resolve(root,date);
+  if(lstatSync(folder).isSymbolicLink())throw Error('Archive directory must not be a symlink');
+  const batch=loadOlympics(folder),ids=[...new Set(batch.catalog.articles.map(row=>row.topic))];
+  if(date!=='2026-09-28'&&!batch.topics)throw Error('New archive requires topic metadata');
+  for(const id of ids){if(seen.has(id))throw Error('Topic ID already published: '+id);seen.add(id);}
+  result.catalog.articles.push(...batch.catalog.articles.map(row=>({...row,archive_date:date})));
+  result.catalog.available_count+=batch.catalog.available_count;result.catalog.unavailable_count+=batch.catalog.unavailable_count;
+  if(!result.catalog.generated_at||batch.catalog.generated_at>result.catalog.generated_at)result.catalog.generated_at=batch.catalog.generated_at;
+  Object.assign(result.articles,batch.articles);Object.assign(result.briefs,batch.briefs);
+  result.supplements.push(...batch.supplements);result.media.editions.push(...(batch.media?.editions||[]));
+  result.topics.push(...(batch.topics||ids.map(id=>({id,event_date:batch.catalog.articles.find(row=>row.topic===id).event_date}))).map(topic=>({...topic,archive_date:date})));
+  result.batches.push({date,topic_ids:ids,available_count:batch.catalog.available_count,unavailable_count:batch.catalog.unavailable_count});
+ }
  return result;
 }

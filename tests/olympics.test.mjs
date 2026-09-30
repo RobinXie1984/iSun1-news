@@ -3,13 +3,13 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync,writeFileSync,mkdtempSync,cpSync,rmSync} from 'node:fs';
 import {tmpdir} from 'node:os';import {join} from 'node:path';
-import {loadOlympics} from '../scripts/olympics-bundle.mjs';
+import {loadOlympics,loadOlympicsArchive} from '../scripts/olympics-bundle.mjs';
 import worker from '../dist/server/index.js';
 test('pilot serves exact originals, explicit missing slots and no measurement writes',async()=>{
  const r=await worker.fetch(new Request('https://example.test/api/olympics?measure=1'),{get DB(){throw Error('Pilot must never access measurements');}});
  assert.equal(r.status,200);assert.equal(r.headers.get('set-cookie'),null);
- const data=await r.json();assert.equal(data.catalog.articles.length,72);assert.equal(Object.keys(data.articles).length,72);
- for(const row of data.catalog.articles){if(row.status==='available')assert.equal(data.articles[row.article_path],readFileSync('content/model-olympics/2026-09-28/'+row.article_path,'utf8'));else{assert.equal(row.status,'UNKNOWN');assert.equal(row.article_path,null);}}
+ const data=await r.json();assert.equal(data.catalog.articles.length,loadOlympicsArchive().catalog.articles.length);assert.equal(data.catalog.articles.filter(row=>row.archive_date==='2026-09-28').length,72);assert.equal(Object.keys(data.articles).length,data.catalog.available_count);
+ for(const row of data.catalog.articles){if(row.status==='available')assert.equal(data.articles[row.article_path],readFileSync('content/model-olympics/'+row.archive_date+'/'+row.article_path,'utf8'));else{assert.equal(row.status,'UNKNOWN');assert.equal(row.article_path,null);}}
 });
 test('a changed original fails the publication build instead of silently changing provenance',()=>{
  const root=mkdtempSync(join(tmpdir(),'isun-archive-'));

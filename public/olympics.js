@@ -82,17 +82,27 @@ function mediaSourceURL(value){
     const lines = String(raw).replace(/\r\n?/g,'\n').split('\n');
     const headlines = []; let last = -1;
     for (let i = 0; i < Math.min(lines.length,80) && headlines.length < 3; i++) {
-      const line = plain(lines[i]), colon = line.search(/[:：]/);
-      if (colon < 0 || colon > 55) continue;
-      const label = line.slice(0,colon);
-      if (!/suspens|emotion|counter[ -]*intuitive|悬|情感|情韵|动情|共鸣|共情|抒情|浪漫|反直觉|反常识|反常|反转|逆思/i.test(label)) continue;
-      let headline = line.slice(colon + 1).trim(), end = i;
-      if (!headline) { end = i + 1; while (end < lines.length && !lines[end].trim()) end++; headline = plain(lines[end] || ''); }
+      const line = plain(lines[i]);
+      const style = /suspens|emotion|counter[ -]*intuitive|悬|情感|情韵|动情|共鸣|共情|抒情|浪漫|反直觉|逆直觉|反常识|反常|反转|逆思|磅礴史诗/i;
+      // An introductory sentence about romantic prose is not a headline option.
+      if (/^(?:以下|这里|为您|这是|Here\b|Below\b)/i.test(line)) continue;
+      const bracket = /^(?:[一二三][、.．]\s*)?【([^】]+)】\s*(.+)$/.exec(line);
+      const colon = line.search(/[:：]/);
+      let headline = '', end = i;
+      if (bracket && style.test(bracket[1])) headline = bracket[2];
+      else {
+        if (colon < 0 || colon > 55) continue;
+        const label = line.slice(0,colon);
+        if (!style.test(label) || /[，。；!?！？]/.test(label) || /标题选项|标题选择|风格成稿/.test(label)) continue;
+        headline = line.slice(colon + 1).trim();
+        if (!headline) { end = i + 1; while (end < lines.length && !lines[end].trim()) end++; headline = plain(lines[end] || ''); }
+      }
       if (headline) { headlines.push(headline); last = end; i = end; }
     }
     const blocks = lines.slice(last + 1).join('\n').split(/\n\s*\n/);
     const paragraph = blocks.map(block => block.split('\n').filter(line => !/^\s*(?:#{1,6}\s|---|Writing\s*$|Worked for |(?:Gemini|Claude|ChatGPT) said\s*$)/i.test(line)).map(plain).join(' ').trim()).find(block => block.length >= 55) || '';
-    return {headlines, teaser: paragraph.length > 180 ? paragraph.slice(0,180).replace(/\s+\S*$/,'') + '…' : paragraph};
+    const excerpt = paragraph.slice(0,180);
+    return {headlines, teaser: paragraph.length > 180 ? (/[\u3400-\u9fff]/.test(excerpt) ? excerpt : excerpt.replace(/\s+\S*$/,'')) + '…' : paragraph};
   }
   async function load() {
     if (cache) return cache;
@@ -128,8 +138,15 @@ function mediaSourceURL(value){
     }
     if (token !== generation) return () => {};
     const rows = data.catalog?.articles || [], route = parseRoute(hash);
-    const topics = stories.filter(story => rows.some(row => row.topic === story.id));
-    const story = topics.find(item => item.id === route.topic) || (!route.topic ? topics[0] : null);
+    // New batches own their display metadata; sealed legacy story packets are unchanged.
+    const topics = Array.isArray(data.topics) && data.topics.length ? data.topics.map(topic => ({...stories.find(story => story.id === topic.id),...topic})) : stories.filter(story => rows.some(row => row.topic === story.id));
+    const dates = [...new Set(topics.map(topic => topic.archive_date).filter(date => /^\d{4}-\d{2}-\d{2}$/.test(date || '')))].sort().reverse();
+    const dateRoute = route.view === 'olympics' && /^\d{4}-\d{2}-\d{2}$/.test(route.topic) ? route.topic : null;
+    const archiveView = route.view === 'olympics' && route.topic === 'archive';
+    const requestedStory = topics.find(item => item.id === route.topic);
+    const selectedDate = dateRoute || requestedStory?.archive_date || dates[0];
+    const datedTopics = selectedDate ? topics.filter(item => item.archive_date === selectedDate) : topics;
+    const story = requestedStory || ((!route.topic || dateRoute) ? datedTopics[0] : null);
     const link = (target, label, cls = '') => '<a class="' + cls + '" data-op-route="' + esc(target) + '" href="#' + esc(target) + '">' + label + '</a>';
     const slot = provider => {
       const matches = rows.filter(row => row.topic === story?.id && row.provider === provider && row.language === language);
@@ -139,14 +156,18 @@ function mediaSourceURL(value){
       return {entry,raw,media:raw === null ? [] : editionMedia(data,story.id,provider,language)};
     };
     const title = story?.id === 'eviltokens-real-login-trap' ? t('The login page was real. That was the trap.','登录页是真的。陷阱也是真的。') : localized(story?.title) || story?.headline || '';
-    const storyNav = '<nav class="op-topics" aria-label="' + t('Choose a story','选择故事') + '">' + topics.map(item => link('olympics/' + encodeURIComponent(item.id),esc(LABELS[item.id]?.[language === 'zh' ? 1 : 0] || localized(item.title)), 'op-topic' + (item.id === story?.id ? ' is-active' : ''))).join('') + '</nav>';
+    const archiveNav = dates.length ? '<nav class="op-dates" aria-label="' + t('Dated archive','日期档案') + '">' + link('olympics/archive',t('All dates','全部日期'),'op-date-link' + (archiveView ? ' is-active' : '')) + dates.map(date => link('olympics/' + date,esc(date),'op-date-link' + (!archiveView && date === selectedDate ? ' is-active' : ''))).join('') + '</nav>' : '';
+    const storyNav = archiveNav + '<nav class="op-topics" aria-label="' + t('Choose a story','选择故事') + '">' + datedTopics.map(item => link('olympics/' + encodeURIComponent(item.id),esc(LABELS[item.id]?.[language === 'zh' ? 1 : 0] || localized(item.title)), 'op-topic' + (item.id === story?.id ? ' is-active' : ''))).join('') + '</nav>';
     const providerNav = '<nav class="op-providers" aria-label="' + t('Choose an edition','选择模型版本') + '">' + PROVIDERS.map(([id,name]) => link('edition/' + story?.id + '/' + id,esc(name),'op-provider-link' + (route.provider === id ? ' is-active' : ''))).join('') + '</nav>';
     const notice = '<p class="op-notice">' + t('Original model drafts. Not independently fact-checked. Source briefs are separate.','模型原稿，尚未经独立事实核查。事实资料另列。') + '</p>';
     const eventDate = story?.event_date || rows.find(row => row.topic === story?.id)?.event_date;
     const dateText = /^\d{4}-\d{2}-\d{2}$/.test(eventDate || '') ? new Date(eventDate + 'T00:00:00Z').toLocaleDateString(language === 'zh' ? 'zh-CN' : 'en-GB',{year:'numeric',month:'short',day:'numeric',timeZone:'UTC'}) : t('Date unknown','日期未知');
     const briefPath = 'briefs/' + story?.id + '.md';
     let rawDownload = null, downloadName = '';
-    if (!story) {
+    if (archiveView) {
+      const groups = dates.map(date => '<section class="op-archive-day"><h2>' + link('olympics/' + date,esc(date)) + '</h2><ul>' + topics.filter(item => item.archive_date === date).map(item => '<li>' + link('olympics/' + item.id,esc(localized(item.title) || item.id)) + '<p>' + esc(localized(item.summary)) + '</p></li>').join('') + '</ul></section>').join('');
+      main.innerHTML = '<section class="olympics">' + archiveNav + '<header class="op-reader-head"><p class="op-kicker">' + t('MODEL OLYMPICS · PERMANENT ARCHIVE','模型奥林匹克 · 永久档案') + '</p><h1>' + t('Every story. Every voice.','每个故事，每种声音。') + '</h1><p>' + t('Browse by collection date. Original event dates remain on each story.','按收录日期浏览；各故事另列原事件日期。') + '</p></header>' + groups + '</section>';
+    } else if (!story) {
       main.innerHTML = '<section class="olympics op-empty"><h1>' + t('Story unavailable','故事暂不可用') + '</h1>' + link('olympics',t('Back to the salon','返回沙龙')) + '</section>';
     } else if (route.view === 'edition') {
       const provider = PROVIDERS.find(([id]) => id === route.provider), current = provider ? slot(provider[0]) : {raw:null,entry:null};
