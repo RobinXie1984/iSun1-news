@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "masayoshi-son-digitalbridge-31-billion",
+      "title": {
+        "en": "Masayoshi Son's $3.1 billion deal: what did SoftBank actually buy?",
+        "zh": "孙正义的31亿美元交易：软银究竟买到了什么？"
+      },
+      "summary": {
+        "en": "SoftBank completes its DigitalBridge common-stock acquisition. Control of the asset manager is not ownership of every asset its funds manage.",
+        "zh": "软银完成对DigitalBridge普通股的收购。控股资产管理公司，不等于买下其基金管理的全部资产。"
+      },
+      "event_date": "2026-09-30"
+    },
+    {
+      "id": "trump-ai-si-60-days",
+      "title": {
+        "en": "Trump renames AI. What can change in 60 days?",
+        "zh": "特朗普给AI改名，60天能改变什么？"
+      },
+      "summary": {
+        "en": "A naming order for the executive branch, with proposed legislative language due in 60 days. It does not establish a scientific breakthrough.",
+        "zh": "行政部门奉命改称SI，60天内须提出立法措辞。这不是机器能力突破的证明。"
+      },
+      "event_date": "2026-09-29"
+    }
+  ]
+}

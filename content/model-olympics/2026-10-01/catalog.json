@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-30T23:17:01.545775+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 18,
+  "unavailable_count": 6,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "en",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop access unavailable; collection pending."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "zh",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop access unavailable; collection pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Generation returned an error after two attempts; collection pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Generation returned an error after two attempts; collection pending."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/grok/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/grok/chinese.md",
+      "status": "available",
+      "availability_note": "反直觉标题中的“四亿”与来源不符，应读作“四十亿美元企业价值”；普通股收购金额约三十一亿美元，两种口径不可据此算作降价。见共同简报 c1、c2。原稿保留不改。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/deepseek/english.md",
+      "status": "available",
+      "availability_note": "The added $5 trillion-per-year figure is Son’s forecast for AI infrastructure in 2040, not a verified current annual spending requirement. SoftBank’s July 2026 event report supplies that time horizon (softbank.jp/business/content/blog/202607/sbw2026-softbank-son-main-keynote). The original text is preserved."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/qwen/english.md",
+      "status": "available",
+      "availability_note": "The sources do not reconcile the precise gap between $4bn enterprise value and $3.1bn common equity, establish how long each regulator’s review took, or give an exact Hong Kong closing date. September 30 U.S. time is the event date; October 1 HKT is this brief’s verification date (brief c1–c4). The original text is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "来源未提供40亿企业价值与31亿普通股金额的具体对账，也未证明各监管机构审查历时九个月，或确认“债台依旧、账目未改”。9月30日为美国时间的事件日期，10月1日为香港时间核验日期，不是已确认的交割换算时刻。见共同简报 c1–c4；原稿保留。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "en",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop access unavailable; collection pending."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "zh",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop access unavailable; collection pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/gemini/english.md",
+      "status": "available",
+      "availability_note": "No cost estimate for rewriting historical records is established by the order or supplied brief. “Millions of dollars” is an unsupported estimate, not a verified saving. The order exempts earlier records from a rewrite requirement; it does not measure implementation costs (brief c4 and boundary). Original wording is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "行政令与共同简报未提供重写旧档的费用估算；“耗资巨万”不是已核实的成本或节省金额。条文只说明无须因此修改旧文件，实施费用仍未知。见简报 c4及事实边界；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/grok/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/grok/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/deepseek/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "原稿将“非科学上机器已臻超级智能之证明”写成“令文又明”。这句话是共同简报的事实边界说明，不是行政令原句；原令第3(a)条只规定本令沿用现行AI技术定义。见共同简报 c2，原稿保留。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/qwen/english.md",
+      "status": "available",
+      "availability_note": "The order assigns a proposal deadline but does not establish that a task force is being assembled, agency style guides are already being drafted, or legal reviews are underway. Those implementation claims remain unverified in the supplied sources (brief c3 and boundary). The original text is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "trump-ai-si-60-days",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/trump-ai-si-60-days.md",
+      "article_path": "articles/trump-ai-si-60-days/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "“Artificial一词本出中世纪偃师之手”的词源说法没有共同简报或所列官方来源支持，不能作为已核实历史事实。关于命名令的日期、范围与60天提案期限，应以共同简报 c1–c4及行政令为准；原稿保留。"
+    }
+  ]
+}
