@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T01:25:49.105493+00:00",
+  "generated_at": "2026-09-30T03:25:25.515905+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 16,
-  "unavailable_count": 8,
+  "available_count": 24,
+  "unavailable_count": 0,
   "articles": [
     {
       "provider": "chatgpt",
@@ -29,25 +29,25 @@
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium / desktop",
       "language": "en",
       "topic": "lisa-su-fei-fei-82-billion",
       "event_date": "2026-09-28",
       "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Desktop collection is pending."
+      "article_path": "articles/lisa-su-fei-fei-82-billion/claude/english.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium / desktop",
       "language": "zh",
       "topic": "lisa-su-fei-fei-82-billion",
       "event_date": "2026-09-28",
       "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Desktop collection is pending."
+      "article_path": "articles/lisa-su-fei-fei-82-billion/claude/chinese.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "gemini",
@@ -117,25 +117,25 @@
     },
     {
       "provider": "qwen",
-      "model": "Qwen 3.8-Max (requested; not collected)",
+      "model": "Qwen3.8-Max",
       "language": "en",
       "topic": "lisa-su-fei-fei-82-billion",
       "event_date": "2026-09-28",
       "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Collection is pending; no substitute submission."
+      "article_path": "articles/lisa-su-fei-fei-82-billion/qwen/english.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "qwen",
-      "model": "Qwen 3.8-Max (requested; not collected)",
+      "model": "Qwen3.8-Max",
       "language": "zh",
       "topic": "lisa-su-fei-fei-82-billion",
       "event_date": "2026-09-28",
       "source_brief": "briefs/lisa-su-fei-fei-82-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Collection is pending; no substitute submission."
+      "article_path": "articles/lisa-su-fei-fei-82-billion/qwen/chinese.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "chatgpt",
@@ -161,25 +161,25 @@
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium / desktop",
       "language": "en",
       "topic": "starliner-61-fixes-2028",
       "event_date": "2026-09-28",
       "source_brief": "briefs/starliner-61-fixes-2028.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Desktop collection is pending."
+      "article_path": "articles/starliner-61-fixes-2028/claude/english.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium / desktop",
       "language": "zh",
       "topic": "starliner-61-fixes-2028",
       "event_date": "2026-09-28",
       "source_brief": "briefs/starliner-61-fixes-2028.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Desktop collection is pending."
+      "article_path": "articles/starliner-61-fixes-2028/claude/chinese.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "gemini",
@@ -249,25 +249,25 @@
     },
     {
       "provider": "qwen",
-      "model": "Qwen 3.8-Max (requested; not collected)",
+      "model": "Qwen3.8-Max",
       "language": "en",
       "topic": "starliner-61-fixes-2028",
       "event_date": "2026-09-28",
       "source_brief": "briefs/starliner-61-fixes-2028.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Collection is pending; no substitute submission."
+      "article_path": "articles/starliner-61-fixes-2028/qwen/english.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "qwen",
-      "model": "Qwen 3.8-Max (requested; not collected)",
+      "model": "Qwen3.8-Max",
       "language": "zh",
       "topic": "starliner-61-fixes-2028",
       "event_date": "2026-09-28",
       "source_brief": "briefs/starliner-61-fixes-2028.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Collection is pending; no substitute submission."
+      "article_path": "articles/starliner-61-fixes-2028/qwen/chinese.md",
+      "status": "available",
+      "availability_note": null
     }
   ]
 }
