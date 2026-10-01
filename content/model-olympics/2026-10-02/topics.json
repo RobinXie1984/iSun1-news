@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "ken-griffin-cmu-3-billion",
+      "title": {
+        "en": "Ken Griffin pledges $3 billion. What is Carnegie Mellon building?",
+        "zh": "肯·格里芬承诺捐赠30亿美元，卡内基梅隆要建什么？"
+      },
+      "summary": {
+        "en": "CMU announces a $3 billion commitment: $2 billion for a planned Miami campus and $1 billion for Pittsburgh. A gift is not a purchase of the university; the Miami opening remains a plan.",
+        "zh": "卡内基梅隆宣布获30亿美元捐赠承诺：20亿用于规划中的迈阿密校区，10亿用于匹兹堡。捐赠不是买下大学，迈阿密开学日期仍是计划。"
+      },
+      "event_date": "2026-09-30"
+    },
+    {
+      "id": "ranveer-singh-meta-glasses-44300",
+      "title": {
+        "en": "Ranveer Singh fronts ₹44,300 AI glasses. What can buyers get today?",
+        "zh": "兰维尔·辛格代言44300卢比起的AI眼镜，今天买到什么？"
+      },
+      "summary": {
+        "en": "Meta launches Gen 3 glasses in India with Ranveer Singh as brand ambassador. The separate Audio model is coming soon; Meta says its Muse agent will arrive in the coming months.",
+        "zh": "Meta携品牌大使兰维尔·辛格在印度推出第三代眼镜。另一款Audio产品尚待上市，Muse智能体则称将在未来数月到来。"
+      },
+      "event_date": "2026-10-01"
+    }
+  ]
+}

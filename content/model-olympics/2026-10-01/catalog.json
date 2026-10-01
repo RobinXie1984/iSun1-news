@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T23:17:01.545775+00:00",
+  "generated_at": "2026-10-01T23:18:39.281876+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 18,
-  "unavailable_count": 6,
+  "available_count": 20,
+  "unavailable_count": 4,
   "articles": [
     {
       "provider": "chatgpt",
@@ -56,9 +56,9 @@
       "topic": "masayoshi-son-digitalbridge-31-billion",
       "event_date": "2026-09-30",
       "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Generation returned an error after two attempts; collection pending."
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/gemini/english.md",
+      "status": "available",
+      "availability_note": "September 22 is the date DigitalBridge announced it had received the required approvals. The supplied sources do not establish that FERC and CFIUS both granted clearance on that exact date (brief c4). Original wording is preserved."
     },
     {
       "provider": "gemini",
@@ -67,9 +67,9 @@
       "topic": "masayoshi-son-digitalbridge-31-billion",
       "event_date": "2026-09-30",
       "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Generation returned an error after two attempts; collection pending."
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "正文“三亿一千万美元”少了一位数量级：完成公告为约三十一亿美元（US$3.1bn），括号里的“约31亿美元”才与来源相符。见共同简报 c1；原稿保留不改。"
     },
     {
       "provider": "grok",

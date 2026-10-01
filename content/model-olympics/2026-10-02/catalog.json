@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-01T23:18:39.396998+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 20,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "en",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Native submission could not be verified; collection pending."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "zh",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Native submission could not be verified; collection pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/gemini/english.md",
+      "status": "available",
+      "availability_note": "The announcement does not establish enforceable guarantees of donor non-interference or confirm that no faculty cohort exists. It describes a gift, future trusteeship and a proposed campus; missing control evidence is not proof of a specific governance safeguard (brief c2, c4). Original wording is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "“琼州”通常指海南，本文项目地点为美国佛罗里达州迈阿密。来源未证实“钱未尽付”，付款状态仍未知；也未证实“学术自主永固”的具体保障或不存在政治交易，不能把缺少证据写成确定排除。见简报 c1、c2、c4及边界；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/grok/english.md",
+      "status": "available",
+      "availability_note": "The $500m supports the computer-science school; the sources do not establish a naming-rights price, permanent transcript wording, that no faculty have been hired, or that the campus awaits its first-ever permit. Capacity and opening dates are plans pending approvals (brief c1, c4). Original wording is preserved."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/grok/chinese.md",
+      "status": "available",
+      "availability_note": "学院5亿美元为捐赠用途，不是已证实的冠名对价；来源未确认成绩单用名及永久性，也未确认尚无受聘教员或任何首项许可。计划容量不等于已核实的零人数，待审批也不等于从未获任何许可。见简报 c1、c4；原稿保留。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Miami is allocated $2bn of $3bn—two-thirds, not half. The sources do not establish a parking-lot site, a $500m naming-rights price, an explicit donor-control prohibition, or the first accredited computer-science program claim. The $500m supports the school, which is also being renamed (brief c1–c4). Original wording is preserved."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "迈阿密获20亿、匹兹堡获10亿美元，并非各半；匹兹堡10亿已包含计算机学院5亿，不能再另加。来源未确认旧厂址、冠名对价、款未全付，或明文禁止捐者干预；未证明控制权，不等于公告明言禁止。见简报 c1–c4，原稿保留。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/qwen/english.md",
+      "status": "available",
+      "availability_note": "September 30, 2026 was Wednesday; the Tuesday-afternoon scene is unverified. $2bn is for Miami, not all $3bn, and disciplines are not declared obsolete. Payment terms, zero hiring/enrollment, and the claimed dozens-to-one campus-delay ratio are unverified; the announcement does not establish an explicit donor-control prohibition (brief c1–c4). Original wording is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "ken-griffin-cmu-3-billion",
+      "event_date": "2026-09-30",
+      "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
+      "article_path": "articles/ken-griffin-cmu-3-billion/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "来源未证明学校“明誓”禁止捐者左右招生、聘任或研究，也未确认零聘任、零注册人数；缺少控制权证据不能写成明确禁令。“弃绝百科”也超出拟按社会挑战组织教学的计划，传统学科并非宣布废除。见简报 c2–c4；原稿保留。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "en",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Native submission could not be verified; collection pending."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "zh",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Native submission could not be verified; collection pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/gemini/english.md",
+      "status": "available",
+      "availability_note": "Future Muse availability does not mean Gen 3 lacks AI today. The same October 1 Meta announcement describes the Gen 3 action button as providing instant access to Meta AI. Describing the current product as only a camera and Bluetooth headset omits that distinction. Manufacturer claims remain untested; the original is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Muse将于未来数月推出，不等于Gen 3今日没有AI：Meta同一公告称动作按钮可即时访问Meta AI。“所纳者唯光影之框与听音之具”遗漏了这一区别。公告日期为2026年10月1日，原文“二〇二六年月一”漏写月份；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/grok/english.md",
+      "status": "available",
+      "availability_note": "The future agent is Muse; the same October 1 source already describes Gen 3 access to Meta AI, so future Muse must not imply absence of all current AI. The source supplies no continuous-video battery test establishing that it cannot last a day. Original wording is preserved."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/grok/chinese.md",
+      "status": "available",
+      "availability_note": "待推出的智体指Muse；Meta同一公告已称Gen 3动作按钮可即时访问Meta AI，不能把Muse待来理解为所有AI均未提供。来源未提供连续录像实测，无法据此断言“一日”视频续航结果。原稿保留。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/deepseek/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/qwen/english.md",
+      "status": "available",
+      "availability_note": "Muse is future, but the same Meta announcement already describes Gen 3 access to Meta AI. “Waiting for its brain” must not be read as absence of all current AI. The source does not establish the asserted camera-free Audio specification, independent image-quality improvement, or a guaranteed future update for every current buyer. Original wording is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "event_date": "2026-10-01",
+      "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "来源规格为1200万像素，不是“千万像素”的1000万；厂商降噪主张是超过90%，不是恰好90%。Muse尚未来临，不等于所有AI未启：Meta同一公告称Gen 3按钮可即时访问Meta AI。原稿保留。"
+    }
+  ]
+}
