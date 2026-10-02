@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-02T23:20:12.250224+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 20,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium",
+      "language": "zh",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "en",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop response capture unavailable; collection pending."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "zh",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop response capture unavailable; collection pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/gemini/english.md",
+      "status": "available",
+      "availability_note": "The 13.7 GWh figure is reported storage deployment capacity; the source does not establish that every system is installed, activated and connected to the grid. The supplied release also does not identify Semi units inside Other Models or establish a motive for grouping models. Those extra assertions remain unverified (brief c2, c4). Original wording is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "原稿两处“二〇二六年月”漏写十月：公告为2026年10月2日，财务结果定于10月21日美股收市后公布。交付变化不能直接推出收入或利润变化，并不等于两者“无关”。储能部署为13.7吉瓦时，同比增长9.6%。见简报c3–c5；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/grok/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/grok/chinese.md",
+      "status": "available",
+      "availability_note": "“前年同季”应读作“去年同季”：497099辆对应2025年第三季，比较期是2026年第三季。10月2日至21日相差19天，文中“三周”为近似说法。见简报c3、c5；原稿保留。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/deepseek/english.md",
+      "status": "available",
+      "availability_note": "The supplied figures establish delivery concentration, not that Model 3/Y are cheap to manufacture or which consumer segments are the most contested. No unit-cost or competition comparison is provided. The storage and vehicle percentage changes describe different operating measures, not comparative revenue growth (brief c2–c5). Original wording is preserved."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "en",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/qwen/english.md",
+      "status": "available",
+      "availability_note": "The release does not establish a Palo Alto conversation, pipeline-clearing cause, the end of hypergrowth, or that all storage is utility-scale and activated. Q3 July–September has 92 days, not the stated exact 90. The 22,141 difference is arithmetic; the 2.13% decline is one year-on-year delivery comparison (brief c1, c3–c4). Original wording is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "zh",
+      "topic": "elon-musk-tesla-486532",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/elon-musk-tesla-486532.md",
+      "article_path": "articles/elon-musk-tesla-486532/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "公告日期为10月2日，10月3日是香港时间核验日期。Model 3/Y交付占比约98.3%，不是“十之八九”。差额不能证明物流疏通或企业已告别高速增长；来源也未排除补贴、降价等影响，相关成因仍未知。见简报c1–c3；原稿保留。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium",
+      "language": "en",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium",
+      "language": "zh",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "en",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop response capture unavailable; collection pending."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 (requested; not collected)",
+      "language": "zh",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Desktop response capture unavailable; collection pending."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/gemini/english.md",
+      "status": "available",
+      "availability_note": "October 2–8 labels the chart week; this article was collected October 3, so that week has not closed. The source does not establish that these dates are the consumption-tracking window, nor prove specific physical-sales/streaming spikes, audience segments or anniversary causation. Those mechanisms are unverified, even where described as objective proof (brief c3–c5). Original wording is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源记录的是扩充版之后重返榜首，未证明实物销量与流播各贡献多少，也未证实制造发行机制“严密无缝”。这些具体机制无法由名次推出，应作为未核实的分析理解。见简报c3–c5；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/grok/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/grok/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/deepseek/english.md",
+      "status": "available",
+      "availability_note": "October 3 is our verification date, not an established publication date for the chart. The sources do not show the claimed online reaction, prove the audience was exclusively returning listeners, or establish the compiler’s motive for not supplying totals. The inline line-number citation markers are model-generated and are not verified source locators (brief c1–c5). Original wording is preserved."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "“本周前三之三曲”应为“本周前五中的三曲”，确切名次为1、3、4。来源没有证实“观者哗然，议论蜂起”，也未证明新增与回访听众的构成；榜单只记录名次。见简报c1、c5；原稿保留。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "en",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/qwen/english.md",
+      "status": "available",
+      "availability_note": "The sources do not establish an unprecedented anniversary return, worldwide analyst reaction, or this week’s mix of physical purchases versus streams. The primary article identifies an earlier Swift anniversary return with The Tortured Poets Department. Rankings cannot by themselves prove the asserted multi-format audience behavior (brief c3–c5). Original wording is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "zh",
+      "topic": "taylor-swift-three-uk-number-ones",
+      "event_date": "2026-10-02",
+      "source_brief": "briefs/taylor-swift-three-uk-number-ones.md",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "附录第二稿：“第五度登顶／旧专五度登顶”应理解为累计第五个非连续冠军周，来源未证明五次分别重返榜首；“四海皆惊”亦非已核实的公众反应。这两点仅针对附录第二稿，主中文原稿不改。见简报c3、c5。"
+    }
+  ]
+}

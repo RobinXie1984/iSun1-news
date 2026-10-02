@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "elon-musk-tesla-486532",
+      "title": {
+        "en": "Elon Musk's Tesla delivers 486,532 cars. What will October 21 reveal?",
+        "zh": "马斯克的特斯拉交付486,532辆车，10月21日还会揭晓什么？"
+      },
+      "summary": {
+        "en": "Tesla reports 486,532 Q3 deliveries, down about 2.13% from a year earlier, while storage deployments rise to 13.7 GWh. Quarterly financial results are scheduled for October 21; operating volumes alone do not establish profit.",
+        "zh": "特斯拉公布第三季度交付486,532辆车，同比减少约2.13%；储能部署则增至13.7 GWh。季度财报定于10月21日发布，交付与部署数量本身不能证明盈利。"
+      },
+      "event_date": "2026-10-02"
+    },
+    {
+      "id": "taylor-swift-three-uk-number-ones",
+      "title": {
+        "en": "Taylor Swift takes three of Britain's top five. What do the numbers prove?",
+        "zh": "泰勒·斯威夫特占据英国单曲前五中的三席，这些数字证明了什么？"
+      },
+      "summary": {
+        "en": "Official Charts places Patient Zero at No.1, Cleveland at No.3 and Babylon at No.4 as The Life Of A Showgirl returns to the UK albums summit. The chart double and three top-five places are rankings, not a measure of income or musical quality.",
+        "zh": "英国Official Charts列Patient Zero第一、Cleveland第三、Babylon第四，The Life Of A Showgirl也重返专辑榜首。双榜冠军与单曲前五的三席，是榜单名次，不是收入或音乐质量的度量。"
+      },
+      "event_date": "2026-10-02"
+    }
+  ]
+}
