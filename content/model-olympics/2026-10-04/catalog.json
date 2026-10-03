@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-03T23:20:57.387566+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 24,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/claude/english.md",
+      "status": "available",
+      "availability_note": "The headlines’ ‘Zuckerberg Was Waiting’ and ‘biggest call of your career’ are narrative inventions, not details established by the announcements. Neither the recruitment cost nor prior planning is disclosed. Reaffirmed financial guidance is an outlook, not the ‘promise’ described later in the article. These limits also apply inside the explicitly labelled analysis (brief C2–C4). Original wording is preserved."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/claude/chinese.md",
+      "status": "available",
+      "availability_note": "文末已说明“候之久矣？”为设问，非事先布局之证。“代价不菲”仍无披露金额支持；重申业绩指引是维持预期，并非“允诺”保证结果。标题“胜于并吞”属作者判断，不是已证实的比较成效。见简报C2–C4；原稿保留。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/gemini/english.md",
+      "status": "available",
+      "availability_note": "No comparison dataset establishes a ‘statistical anomaly’ or one of the year’s most abrupt realignments. The announcements do not establish market shock, hiring motives, guaranteed operating stability, or reduced transition friction. Reaffirmed guidance does not prove unchanged business fundamentals. Claims that a five-minute enterprise outage costs millions and prompts lawsuits, and inferences about product capabilities from names, are not verified by this brief (C1–C4). Original wording is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "9月28日至10月4日相隔6天，不是“经旬”。“夜袭”没有夜间招揽的事实依据；“罕见之异数”亦无任期比较数据支持。重申指引不证明“基业未摇／大局稳固”，产品名称也不证明具体功能。招聘动机、组织所缺能力及“消费巨头多铩羽而归”等比较，均为未核实的推论。见简报C1–C4；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/grok/english.md",
+      "status": "available",
+      "availability_note": "The claim that eleven months ‘will not be enough’ for the platform to produce a result is an unsupported forecast. Statements about customers, pricing, revenue and commitments must be limited to what the supplied announcements disclose: absence from this brief does not prove absence everywhere. Product names alone do not establish delivery dates or functionality (brief C1, C4). Original wording is preserved."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/grok/chinese.md",
+      "status": "available",
+      "availability_note": "“十一阅月……亦不足使此平台成结果”是未证实的时间预测。收费、客户、营收及承诺未见于本简报，不等于任何地方均未披露，更不等于实际不存在。仅凭产品名称亦不能断定功能或交付时点。见简报C1、C4；原稿保留。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/deepseek/english.md",
+      "status": "available",
+      "availability_note": "The headline’s ‘Shortest CEO Chapter’ has no defined comparison or supporting tenure dataset, and ‘comeback nobody saw coming’ does not establish anyone’s prior knowledge. The 322 days measure only this appointment-to-departure interval; they do not prove an industry record or a universal reaction (brief C2–C4). Original wording is preserved."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "“此数一出，众说纷纭”不是简报已核实的公众反应。“快而不乱”也不能由任命临时CEO及重申指引直接证明；两家公司如何权衡、员工是否焦虑，仍属文章所标注的分析。见简报C2–C4；原稿保留。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/qwen/english.md",
+      "status": "available",
+      "availability_note": "The announcements do not establish that Desai was not ousted, the recruitment process, Zuckerberg’s private reasoning, an absence of panic, or proven operating stability. Reaffirmed guidance remains an outlook. This brief also does not verify the added employment history, Workplace closure rationale, ‘thousands of PhDs’, customer penetration or comparative outage-cost claims. The 322-day figure is date subtraction, not a company-quoted tenure statistic (brief C1–C4). Original wording is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/mark-zuckerberg-cj-desai-322-days.md",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "“星夜赴任”“闻者皆惊”“未生乱象”及“实乃……所谋”均无简报证据；未披露的时间、反应、动机与经营状态应保留未知。业绩指引不是“金石之诺”的收入保证。“昔日……铩羽而归”的历史结论未在共同材料中核实。任期精确计算为322天，标题“三百日”为概数。见简报C1–C4；原稿保留。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/claude/english.md",
+      "status": "available",
+      "availability_note": "The brief gives no other match durations to support the headline’s ‘fastest win of the week’. It does not establish the direct-entry cutoff or prove why Shang received a wildcard. Nine aces and a short match do not establish negligible physical cost, absence of pressured backhands or long rallies, or either player’s condition. Such preparation arguments remain hypotheses (brief C1–C5). Original wording is preserved."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/claude/chinese.md",
+      "status": "available",
+      "availability_note": "外卡身份与当日报名次，不能单独证明当时直接入围门槛或授予外卡的具体原因。九记ACE与55分钟用时，也不能证明“几无体力之耗”、反手未受压、未有长回合等场上细节；这些应读作未经验证的备战假说。见简报C1–C5；原稿保留。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/gemini/english.md",
+      "status": "available",
+      "availability_note": "The score and nine aces do not establish a flawless or perfect performance, unreadable serve, specific game plan, or that Zverev will arrive ‘physically pristine’. The brief does not establish energy-conservation motives, Djokovic’s memories, environmental advantages or a self-fulfilling psychological effect. ‘Unbreakable’ and ‘historical inevitability’ are rhetoric: AFP reports past Beijing results, not future invincibility (brief C1–C5). Original wording is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "55分钟比赛不能证明“体能无损”，追逐榜首亦不能证明此次速胜的动机。“威震全场”等现场反应未获材料核实。文中“明日”沿用10月3日赛报视角；本版日期为10月4日，四分之一决赛定于10月4日。北京不败仅指所述赛事过往战绩，不是必胜。见简报C1–C5；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/grok/english.md",
+      "status": "available",
+      "availability_note": "The closing ‘one match from the last eight’ is incorrect within this brief: Zverev is already in the quarter-finals, one win from the semi-finals. An unbeaten match record alone does not prove the headline’s ‘never left Beijing empty-handed’. Afternoon timing, second-week/draw-half placement, wildcard selection rationale and the added 24-major total are not established by the supplied brief. Scorelines alone do not reveal rally patterns or break-point opportunities (brief C1–C5). Original wording is preserved."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/grok/chinese.md",
+      "status": "available",
+      "availability_note": "末段“现在距八强一步”应为已进八强、距四强一胜。第二盘商竣程共取3局，不等于“连得三局”。午后时段、赛事次周、签表下半区、外卡授予理由及“二十四冠”不在共同简报核实范围；比分也不能证明一发、回球与破发点细节。见简报C1–C5；原稿保留。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/deepseek/english.md",
+      "status": "available",
+      "availability_note": "The original AFP page inspected for this edition calls Shang 21, not the article’s 19. The brief does not establish ‘best match of his life’, Djokovic’s major-title comparison or No.1 tenure exceeding Shang’s lifetime. It gives no evidence that nine aces are a minimum expectation, Zverev’s legs are fresh, or Djokovic likes the conditions. The undefeated Beijing record describes results; it cannot establish preferences, future invincibility or the listed career comparisons (brief C1–C5). Original wording is preserved."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/qwen/english.md",
+      "status": "available",
+      "availability_note": "October 3, 2026 was Saturday, not the repeated ‘Friday’. The brief does not establish spectators’ reactions, motives, point-by-point tactics, rally length, saved physical wear, serve velocity, Djokovic’s private confidence, the 99% comparison or current major-title total. Nine aces and 55 minutes do not prove perfection or a ‘full tank’. These additions are unsupported here, not independently verified reporting (brief C1–C5). Original wording is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "event_date": "2026-10-03",
+      "source_brief": "briefs/novak-djokovic-zverev-55-minutes.md",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "简报未证实商竣程“报效桑梓”之心、观众反应、兹维列夫速胜的谋略或“不伤毫发”的身体状态。九记ACE与用时不能证明底线未受考验。“必成致命之殇”是确定性预测，无现有赛果支持。结果在资料截点仍未知，相关描述应作为未证实的文学推演。见简报C1–C5；原稿保留。"
+    }
+  ]
+}

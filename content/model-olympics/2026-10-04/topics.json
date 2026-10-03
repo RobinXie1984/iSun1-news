@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "mark-zuckerberg-cj-desai-322-days",
+      "title": {
+        "en": "322 days as CEO. Then Zuckerberg hired him. What happens to MongoDB?",
+        "zh": "CEO才当322天，就被扎克伯格请走：MongoDB怎么办？"
+      },
+      "summary": {
+        "en": "CJ Desai leaves MongoDB for Meta’s enterprise AI push; former chief Dev Ittycheria returns as interim CEO. The September 28 move is a hiring, not an acquisition.",
+        "zh": "CJ Desai离开MongoDB，加入Meta企业AI业务；前任Dev Ittycheria回任临时CEO。事件发生于9月28日，是人事变动，并非公司收购。"
+      },
+      "event_date": "2026-09-28"
+    },
+    {
+      "id": "novak-djokovic-zverev-55-minutes",
+      "title": {
+        "en": "Zverev needed 55 minutes. Can he break Djokovic’s unbeaten Beijing run?",
+        "zh": "兹维列夫55分钟过关，能破德约在北京的不败纪录吗？"
+      },
+      "summary": {
+        "en": "A 6-0, 6-3 win over Shang Juncheng earns Zverev a quarter-final against Djokovic. This October 3 report is a preview; the next result remains unknown at the source cutoff.",
+        "zh": "6比0、6比3击败商竣程后，兹维列夫将在八强战对阵德约科维奇。本稿依据10月3日报道前瞻，截止核验时下一场结果未知。"
+      },
+      "event_date": "2026-10-03"
+    }
+  ]
+}
