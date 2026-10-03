@@ -1,6 +1,8 @@
 b17da47c10152fbfb569a68edcc551c2de26e0a2aa0e7b23cdc0a52857cec82f  README.md
 58e374f0aa5ca3ad3c4039c884d66b59e85554aeb7586ea12f60089f9ebad47d  articles/elon-musk-tesla-486532/chatgpt/chinese.md
 9b03fad7fc13df9a28f60df8b59261257e63b4034df23843504d58958d3140b8  articles/elon-musk-tesla-486532/chatgpt/english.md
+7815463cbe48d43f40b65284990b1903fa952980aba30a770cebb5712ea38f7f  articles/elon-musk-tesla-486532/claude/chinese.md
+8c2595e60aa390d1d924b81bdfde6c61671421a2f5390e493d82e396b7795fc3  articles/elon-musk-tesla-486532/claude/english.md
 399e864991606175d9744ce641ea7d4b29064e3360c15a22a975c82d88987d28  articles/elon-musk-tesla-486532/deepseek/chinese.md
 f8f89eb77c7ad2751aa65fa9f7e19205ad1d89a0323a6743c28614e440b6b1d9  articles/elon-musk-tesla-486532/deepseek/english.md
 d37ad29757288f725af5d48e407af4dbba02fe8695191d5676b7a13e25a9c1f1  articles/elon-musk-tesla-486532/gemini/chinese.md
@@ -11,6 +13,8 @@ c0d4ec7c5675a5824fd2ae8c471ceebd47c43d746a0e34140e0cf2442d7bc6f7  articles/elon-
 3bc625a57d1495f3f1fdeaa53db8a9280e1d6061cc8d08bb71ee29577aeb3b4e  articles/elon-musk-tesla-486532/qwen/english.md
 c88e5a2887133e77365f5a13a61106ceffb390fa183a0e5e037cdecd1f1effdc  articles/taylor-swift-three-uk-number-ones/chatgpt/chinese.md
 09b2bbcf68ad61fadb6bc951175eca76d82a71f0b57f139a6908d5abc428ef9e  articles/taylor-swift-three-uk-number-ones/chatgpt/english.md
+f635699e406e3c1c88a3b22676d1124e7864392983f99a6c06fe6f41f2e71c5b  articles/taylor-swift-three-uk-number-ones/claude/chinese.md
+2b59cfb6249d4bf391acc07da98d750dd68a4067a7f6349dec9c5562f974dd1a  articles/taylor-swift-three-uk-number-ones/claude/english.md
 5883a2988792fd161d0b86569a6c59e558d5c16d78992b4bde5b8c755bf0ccb0  articles/taylor-swift-three-uk-number-ones/deepseek/chinese.md
 2b68a242d6323487dbc83282557c935c98331a1aa0efac952315061c267f4154  articles/taylor-swift-three-uk-number-ones/deepseek/english.md
 42a89cbd128c26ddd052fa8646693a14a205160db4263d0285ee3c4473f3b5a2  articles/taylor-swift-three-uk-number-ones/gemini/chinese.md
@@ -21,7 +25,7 @@ afd43b282fad6453cd972986d5284212bd84f132efc2c4662cd0914a0f270b48  articles/taylo
 5eedf8c61f2d9642be274a976eff1d2db2267590853573c0f7af57baad935ea6  articles/taylor-swift-three-uk-number-ones/qwen/english.md
 13577c9f861d8f6f68e04834460a2d7e603137deeeb412d1cb658442ed1ad687  briefs/elon-musk-tesla-486532.md
 cfa3e7530357ff2b71c7c25e0217bd8d64ee0bdd06d6302bf3835dfccec6dae6  briefs/taylor-swift-three-uk-number-ones.md
-2ae23a32efb0480d5e43dd22f268a351d5c33b9281e1091c3286762a180e98b5  catalog.json
+aadde532a1b7024df1d6bec7a2ca352eadfbe95dafa4920c336461e1d9da6106  catalog.json
 94e56c02f96c7d82712dd2610638dc634ac9fb1c8ceca9353ebd1f1cd97be05b  prompts/chinese-followup.txt
 dc262cdf8ec8141092298da66e2cd506fde503b118676fb5b38008f72ee21b2d  prompts/english-template.txt
 3f7f91ae6d5a2603bb3b1cd05c1ea8c6e7622ea2866f8e14e8f2a55ce874211c  supplements/taylor-swift-three-uk-number-ones/qwen/chinese-alternative-2.md

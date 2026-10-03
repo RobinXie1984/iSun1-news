@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T23:18:39.396998+00:00",
+  "generated_at": "2026-10-03T14:59:59.348141+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 20,
-  "unavailable_count": 4,
+  "available_count": 24,
+  "unavailable_count": 0,
   "articles": [
     {
       "provider": "chatgpt",
@@ -29,25 +29,25 @@
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium",
       "language": "en",
       "topic": "ken-griffin-cmu-3-billion",
       "event_date": "2026-09-30",
       "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Native submission could not be verified; collection pending."
+      "article_path": "articles/ken-griffin-cmu-3-billion/claude/english.md",
+      "status": "available",
+      "availability_note": "The Pittsburgh $1bn is one-third of the $3bn commitment, not the section heading’s “half.” The sources also do not establish zero faculty hiring or enrollment. Organizing around challenges rather than majors alone does not abolish majors; the article’s body makes this distinction (brief c1, c3–c4). Original wording is preserved."
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium",
       "language": "zh",
       "topic": "ken-griffin-cmu-3-billion",
       "event_date": "2026-09-30",
       "source_brief": "briefs/ken-griffin-cmu-3-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Native submission could not be verified; collection pending."
+      "article_path": "articles/ken-griffin-cmu-3-billion/claude/chinese.md",
+      "status": "available",
+      "availability_note": "悬念标题“卅五亩地”单位有误：规划占地逾35英亩，并非35亩。匹兹堡10亿美元占总承诺三分之一，不是小标题的“半”；来源也未证实“无一生在籍，无一师受聘”。见共同简报c1、c4；原稿保留。"
     },
     {
       "provider": "gemini",
@@ -161,25 +161,25 @@
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium",
       "language": "en",
       "topic": "ranveer-singh-meta-glasses-44300",
       "event_date": "2026-10-01",
       "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Native submission could not be verified; collection pending."
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/claude/english.md",
+      "status": "available",
+      "availability_note": "Muse is a future agent, but the same October 1 Meta announcement already describes Gen 3’s action button as providing instant access to Meta AI. “The brain hasn’t shipped yet” and the current-feature list omit that distinction; they must not imply that Gen 3 has no AI today. Manufacturer claims remain untested. Original wording is preserved."
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium",
       "language": "zh",
       "topic": "ranveer-singh-meta-glasses-44300",
       "event_date": "2026-10-01",
       "source_brief": "briefs/ranveer-singh-meta-glasses-44300.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Native submission could not be verified; collection pending."
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/claude/chinese.md",
+      "status": "available",
+      "availability_note": "未来推出的是Muse智能代理；Meta同一10月1日公告已称Gen 3动作按钮可即时访问Meta AI。“智犹在途”与今日功能列表不能理解为眼镜目前没有任何AI。厂商能力主张仍未经独立测试；原稿保留。"
     },
     {
       "provider": "gemini",

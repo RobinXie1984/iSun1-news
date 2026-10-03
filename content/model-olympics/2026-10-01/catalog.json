@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T23:18:39.281876+00:00",
+  "generated_at": "2026-10-03T14:59:59.227840+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 20,
-  "unavailable_count": 4,
+  "available_count": 24,
+  "unavailable_count": 0,
   "articles": [
     {
       "provider": "chatgpt",
@@ -29,25 +29,25 @@
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium",
       "language": "en",
       "topic": "masayoshi-son-digitalbridge-31-billion",
       "event_date": "2026-09-30",
       "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Desktop access unavailable; collection pending."
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/claude/english.md",
+      "status": "available",
+      "availability_note": null
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium",
       "language": "zh",
       "topic": "masayoshi-son-digitalbridge-31-billion",
       "event_date": "2026-09-30",
       "source_brief": "briefs/masayoshi-son-digitalbridge-31-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Desktop access unavailable; collection pending."
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/claude/chinese.md",
+      "status": "available",
+      "availability_note": "9月22日是DigitalBridge宣布已取得所需批准的公告日期，不是来源确认的各监管机构实际批准日。表格表述正确，但“准许之期”及后文把它列作批准日期超出了来源。见共同简报c4；原稿保留。"
     },
     {
       "provider": "gemini",
@@ -161,25 +161,25 @@
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium",
       "language": "en",
       "topic": "trump-ai-si-60-days",
       "event_date": "2026-09-29",
       "source_brief": "briefs/trump-ai-si-60-days.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Desktop access unavailable; collection pending."
+      "article_path": "articles/trump-ai-si-60-days/claude/english.md",
+      "status": "available",
+      "availability_note": "The order does not itself improve model capabilities. That does not establish the broader opening claim that no model was retrained, no benchmark broken, or no lab breakthrough announced anywhere on September 29. The verified sources concern this naming order, not all technical activity that day (brief c1–c3 and boundary). Original wording is preserved."
     },
     {
       "provider": "claude",
-      "model": "Opus 5.5 (requested; not collected)",
+      "model": "Opus 5.5 Medium",
       "language": "zh",
       "topic": "trump-ai-si-60-days",
       "event_date": "2026-09-29",
       "source_brief": "briefs/trump-ai-si-60-days.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Desktop access unavailable; collection pending."
+      "article_path": "articles/trump-ai-si-60-days/claude/chinese.md",
+      "status": "available",
+      "availability_note": "命名令本身不提高模型能力，但这不能证明9月29日全球“无模型重训、无榜单易主、亦无实验室宣告破关”。所列来源核实的是此项行政命名政策，并未调查当日全部技术活动。见共同简报c1–c3及边界；原稿保留。"
     },
     {
       "provider": "gemini",
