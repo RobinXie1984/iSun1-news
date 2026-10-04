@@ -90,6 +90,18 @@ export function loadOlympics(root='content/model-olympics/2026-09-28'){
  return result;
 }
 
+// Public context is a reviewed sidecar, never private capture receipts or conversation URLs.
+export function validateEditionContext(value, articles){
+ if(!exactFields(value,['schema_version','editions'])||value.schema_version!==1||!Array.isArray(value.editions))throw Error('Invalid edition context');
+ const seen=new Set();
+ for(const row of value.editions){
+  if(!exactFields(row,['article_path','captured_at','prompt_version','input_deviation','fact_check_status'])||!Object.hasOwn(articles,row.article_path)||seen.has(row.article_path)||typeof row.captured_at!=='string'||!/^\d{4}-\d{2}-\d{2}T/.test(row.captured_at)||!Number.isFinite(Date.parse(row.captured_at))||!['v1-labeled-fiction','v2-no-invented-scenes'].includes(row.prompt_version)||![null,'interleaved-brief'].includes(row.input_deviation)||!['UNKNOWN','SOURCE_REVIEW_RECORDED'].includes(row.fact_check_status))throw Error('Invalid edition context row');
+  seen.add(row.article_path);
+ }
+ if(seen.size!==Object.keys(articles).length)throw Error('Incomplete edition context');
+ return value;
+}
+
 // Archive dates are collection batches; original event/report dates stay separate.
 // Topic IDs are globally unique so every already-published topic/download URL survives.
 export function loadOlympicsArchive(root='content/model-olympics'){
@@ -111,5 +123,7 @@ export function loadOlympicsArchive(root='content/model-olympics'){
   result.topics.push(...(batch.topics||ids.map(id=>({id,event_date:batch.catalog.articles.find(row=>row.topic===id).event_date}))).map(topic=>({...topic,archive_date:date})));
   result.batches.push({date,topic_ids:ids,available_count:batch.catalog.available_count,unavailable_count:batch.catalog.unavailable_count});
  }
+ const contextPath=resolve(root,'../edition-context.json');
+ if(existsSync(contextPath))result.context=validateEditionContext(JSON.parse(readFileSync(contextPath,'utf8')),result.articles);
  return result;
 }

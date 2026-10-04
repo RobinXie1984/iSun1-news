@@ -54,7 +54,7 @@ function mediaSourceURL(value){
     }
     return output + esc(String(value).slice(offset));
   }
-  function markdown(raw) {
+  function markdown(raw, lineParagraphs = false) {
     const lines = String(raw ?? '').replace(/\r\n?/g,'\n').split('\n');
     const out = []; let paragraph = [], quote = [], list = [], listType = '', code = null;
     const flush = () => {
@@ -72,10 +72,25 @@ function mediaSourceURL(value){
       const item = /^\s*(?:(\d+)[.)]|([-+*]))\s+(.+)$/.exec(line);
       if (item) { const type = item[1] ? 'ol' : 'ul'; if (paragraph.length || quote.length || (listType && listType !== type)) flush(); listType = type; list.push('<li' + (item[1] ? ' value="' + Number(item[1]) + '"' : '') + '>' + inline(item[3]) + '</li>'); continue; }
       if (/^>\s?/.test(line)) { if (paragraph.length || list.length) flush(); quote.push(line.replace(/^>\s?/,'')); continue; }
-      if (quote.length || list.length) flush(); paragraph.push(line);
+      if (quote.length || list.length) flush(); paragraph.push(line); if (lineParagraphs) flush();
     }
     flush(); if (code !== null) out.push('<pre><code>' + esc(code.join('\n')) + '</code></pre>');
     return out.join('\n');
+  }
+  function displayText(raw) {
+    // Strip only leading, exactly recognized capture UI; never rewrite original files.
+    return String(raw).replace(/^(?:\s*(?:(?:Gemini|Claude|ChatGPT) said|Writing|Worked for \d+(?:\.\d+)?s)\s*\n)+/i,'');
+  }
+  function displayMarkdown(raw) {
+    const text = displayText(raw);
+    return markdown(text, !/\n[ \t]*\n/.test(text.trim()));
+  }
+  function contextPanel(data, entry, t) {
+    const item=data.context?.editions?.find(row=>row.article_path===entry?.article_path);
+    if(!item)return '<aside class="op-notice">'+t('Generation conditions and fact-check coverage: UNKNOWN.','生成条件及核查覆盖：UNKNOWN。')+'</aside>';
+    const prompt=item.prompt_version==='v1-labeled-fiction'?t('Prompt v1: labeled fictional scenes allowed.','提示词 v1：允许明确标示的虚构场景。'):t('Prompt v2: invented scenes and quotations prohibited.','提示词 v2：禁止虚构场景及引语。');
+    const review=item.fact_check_status==='SOURCE_REVIEW_RECORDED'?t('Source comparison recorded; this is not independent verification of every claim. See separate corrections where present.','已记录来源对照；不代表每项断言均获独立核实。如有纠错，另列说明。'):t('Fact-check coverage UNKNOWN: no complete review record established. No correction does not mean verified.','核查覆盖 UNKNOWN：尚未确认完整核查记录。没有纠错不代表核实通过。');
+    return '<aside class="op-notice" data-op-context><strong>'+t('Edition context','版本背景')+'</strong><p>'+esc(prompt)+'</p><p>'+t('Captured: ','采集时间：')+esc(item.captured_at)+t(' (capture time, not generation time).','（采集时间，不等于生成时间）。')+'</p>'+(item.input_deviation?'<p>'+t('Input exception: the Claude Starliner brief was interleaved/duplicated during submission. Identical prompt delivery is not claimed.','输入异常：Claude Starliner 简报提交时发生交错及重复，不宣称提示词完全一致。')+'</p>':'')+'<p>'+esc(review)+'</p></aside>';
   }
   const plain = line => line.replace(/^\s*(?:#{1,6}\s*|\d+[.)]\s*|[-+]\s*)/,'').replace(/\*\*|__|`/g,'').replace(/^\*|\*$/g,'').trim();
   function preview(raw) {
@@ -83,7 +98,7 @@ function mediaSourceURL(value){
     const headlines = []; let last = -1;
     for (let i = 0; i < Math.min(lines.length,80) && headlines.length < 3; i++) {
       const line = plain(lines[i]);
-      const style = /suspens|emotion|counter[ -]*intuitive|悬|情感|情韵|动情|共鸣|共情|抒情|浪漫|反直觉|逆直觉|反常识|反常|反转|逆思|磅礴史诗/i;
+      const style = /suspens|emotion|counter[ -]*intuitive|悬|情感|情深|情动|情韵|动情|共鸣|共情|抒情|浪漫|反直觉|逆直觉|反常识|反常|反转|逆思|逆向思维|反向直觉|反差|出人意料|磅礴史诗/i;
       // An introductory sentence about romantic prose is not a headline option.
       if (/^(?:以下|这里|为您|这是|Here\b|Below\b)/i.test(line)) continue;
       const bracket = /^(?:[一二三][、.．]\s*)?【([^】]+)】\s*(.+)$/.exec(line);
@@ -98,6 +113,17 @@ function mediaSourceURL(value){
         if (!headline) { end = i + 1; while (end < lines.length && !lines[end].trim()) end++; headline = plain(lines[end] || ''); }
       }
       if (headline) { headlines.push(headline); last = end; i = end; }
+    }
+    // Some originals explicitly group three unlabelled options under this heading.
+    if (!headlines.length) {
+      const start=lines.findIndex(line=>/^Three Headline Options$/i.test(plain(line)));
+      if(start>=0&&start<8){
+        const options=lines.slice(start+1).map(plain).filter(Boolean).slice(0,3);
+        if(options.length===3&&options.every(line=>line.length>=15&&line.length<=240)){
+          headlines.push(...options);last=start;
+          for(const option of options){last=lines.findIndex((line,index)=>index>last&&plain(line)===option);}
+        }
+      }
     }
     const blocks = lines.slice(last + 1).join('\n').split(/\n\s*\n/);
     const paragraph = blocks.map(block => block.split('\n').filter(line => !/^\s*(?:#{1,6}\s|---|Writing\s*$|Worked for |(?:Gemini|Claude|ChatGPT) said\s*$)/i.test(line)).map(plain).join(' ').trim()).find(block => block.length >= 55) || '';
@@ -172,11 +198,11 @@ function mediaSourceURL(value){
     } else if (route.view === 'edition') {
       const provider = PROVIDERS.find(([id]) => id === route.provider), current = provider ? slot(provider[0]) : {raw:null,entry:null};
       const supplements=(data.supplements||[]).filter(item=>item.topic===story.id&&item.provider===provider?.[0]&&item.language===language);
-      const alternatives=supplements.map(item=>'<details class="op-prose"><summary>'+t('Additional original from Qwen','Qwen 的另一份原稿')+'</summary><p class="op-notice">'+t('Qwen offered two alternatives. Both are preserved; no preference was submitted. The main edition follows the response displayed by Qwen when the conversation continued. Individual backend identities were not disclosed.','Qwen 同时提供了两份稿件，均已保留，未提交偏好投票。主版本沿用继续对话时 Qwen 默认显示的稿件；每份稿件的底层模型身份未披露。')+'</p><a href="/api/olympics/original?path='+encodeURIComponent(item.article_path)+'" download>'+t('Download additional original','下载另一份原稿')+'</a>'+markdown(item.text)+'</details>').join('');
+      const alternatives=supplements.map(item=>'<details class="op-prose"><summary>'+t('Additional original from Qwen','Qwen 的另一份原稿')+'</summary><p class="op-notice">'+t('Qwen offered two alternatives. Both are preserved; no preference was submitted. The main edition follows the response displayed by Qwen when the conversation continued. Individual backend identities were not disclosed.','Qwen 同时提供了两份稿件，均已保留，未提交偏好投票。主版本沿用继续对话时 Qwen 默认显示的稿件；每份稿件的底层模型身份未披露。')+'</p><a href="/api/olympics/original?path='+encodeURIComponent(item.article_path)+'" download>'+t('Download additional original','下载另一份原稿')+'</a>'+displayMarkdown(item.text)+'</details>').join('');
       const galleryID = 'op-media-' + story.id + '-' + (provider?.[0] || 'unknown') + '-' + language;
       const editionNote = current.entry?.availability_note ? '<aside class="op-notice" data-op-edition-note><strong>' + t(current.raw ? 'Source check: ' : 'Availability: ',current.raw ? '事实说明：' : '投稿状态：') + '</strong>' + esc(current.entry.availability_note) + '</aside>' : '';
       rawDownload = current.raw; downloadName = story.id + '-' + (provider?.[0] || 'unknown') + '-' + language + '.md';
-      main.innerHTML = '<section class="olympics op-reader">' + storyNav + link('olympics/' + story.id,t('Back to all six voices','返回六种声音'),'op-back') + providerNav + '<header class="op-reader-head"><p class="op-kicker">' + esc(provider?.[1] || t('Unknown provider','未知模型')) + (current.entry?.model ? ' · ' + esc(current.entry.model) : '') + '</p><h1>' + esc(current.raw ? preview(current.raw).headlines[0] || title : title) + '</h1><p class="op-date">' + esc(dateText) + ' · ' + t('Original event / report','原事件／报道日期') + '</p></header>' + notice + '<div class="op-reader-tools">' + link('brief/' + story.id,t('Read the source brief','阅读事实资料')) + (current.media?.length ? '<button type="button" data-op-media-scroll aria-controls="' + esc(galleryID) + '">' + t('Photos & video (' + current.media.length + ')','图片与视频（' + current.media.length + '）') + '</button>' : '') + (current.raw ? '<a href="/api/olympics/original?path=' + encodeURIComponent(current.entry.article_path) + '" download>' + t('Download original Markdown','下载原始Markdown') + '</a>' : '') + '</div>' + editionNote + (current.raw ? '<article class="op-prose" lang="' + language + '">' + markdown(current.raw) + '</article>' : '<div class="op-empty"><h2>' + t('This edition is not available yet.','这个版本尚未可读。') + '</h2><p>' + t('No ' + (language === 'en' ? 'English' : 'Chinese') + ' edition is available for this model in this archive.','此档案暂无该模型可读的' + (language === 'en' ? '英文' : '中文') + '投稿。') + '</p></div>') + alternatives + mediaGallery(current.media || [],t,galleryID) + providerNav + '</section>';
+      main.innerHTML = '<section class="olympics op-reader">' + storyNav + link('olympics/' + story.id,t('Back to all six voices','返回六种声音'),'op-back') + providerNav + '<header class="op-reader-head"><p class="op-kicker">' + esc(provider?.[1] || t('Unknown provider','未知模型')) + (current.entry?.model ? ' · ' + esc(current.entry.model) : '') + '</p><h1>' + esc(current.raw ? preview(current.raw).headlines[0] || title : title) + '</h1><p class="op-date">' + esc(dateText) + ' · ' + t('Original event / report','原事件／报道日期') + '</p></header>' + notice + '<div class="op-reader-tools">' + link('brief/' + story.id,t('Read the source brief','阅读事实资料')) + (current.media?.length ? '<button type="button" data-op-media-scroll aria-controls="' + esc(galleryID) + '">' + t('Photos & video (' + current.media.length + ')','图片与视频（' + current.media.length + '）') + '</button>' : '') + (current.raw ? '<a href="/api/olympics/original?path=' + encodeURIComponent(current.entry.article_path) + '" download>' + t('Download original Markdown','下载原始Markdown') + '</a>' : '') + '</div>' + contextPanel(data,current.entry,t) + editionNote + (current.raw ? '<article class="op-prose" lang="' + language + '">' + displayMarkdown(current.raw) + '</article>' : '<div class="op-empty"><h2>' + t('This edition is not available yet.','这个版本尚未可读。') + '</h2><p>' + t('No ' + (language === 'en' ? 'English' : 'Chinese') + ' edition is available for this model in this archive.','此档案暂无该模型可读的' + (language === 'en' ? '英文' : '中文') + '投稿。') + '</p></div>') + alternatives + mediaGallery(current.media || [],t,galleryID) + providerNav + '</section>';
     } else if (route.view === 'brief') {
       const brief = Object.hasOwn(data.briefs,briefPath) && typeof data.briefs[briefPath] === 'string' ? data.briefs[briefPath] : null;
       rawDownload = brief; downloadName = story.id + '-source-brief.md';
@@ -184,7 +210,7 @@ function mediaSourceURL(value){
     } else {
       const cards = PROVIDERS.map(([id,name]) => {
         const {entry,raw,media} = slot(id), excerpt = raw ? preview(raw) : {headlines:[],teaser:''};
-        return '<article class="op-voice"><header><img class="op-mark op-mark-' + id + '" src="/icons/' + id + '.svg" alt="" width="32" height="32"><h3>' + esc(name) + '</h3><p class="op-model">' + esc(entry?.model || t('Model unconfirmed','具体模型未确认')) + '</p></header>' + (raw ? '<ol class="op-headlines">' + excerpt.headlines.slice(0,1).map(headline => '<li>' + esc(headline) + '</li>').join('') + '</ol>' + (excerpt.headlines.length < 3 ? '<p class="op-unavailable">' + t('Headline options are not all separately marked in the original.','原稿未完整标出三个标题选项。') + '</p>' : '') + (excerpt.teaser ? '<p class="op-teaser">' + esc(excerpt.teaser) + '</p>' : '') + (media.length ? '<p class="op-media-badge">' + t(media.length + ' sourced media ' + (media.length === 1 ? 'item' : 'items'),media.length + ' 项来源媒体') + '</p>' : '') + link('edition/' + story.id + '/' + id,t('Read edition','阅读全文'),'op-read') : '<div class="op-missing"><p>' + t('Submission unavailable','此版本暂不可用') + '</p><small>' + t('No ' + (language === 'en' ? 'English' : 'Chinese') + ' edition is available in this archive.','此档案暂无可读的' + (language === 'en' ? '英文' : '中文') + '版本。') + '</small></div>' + link('edition/' + story.id + '/' + id,t('View availability','查看状态'),'op-read')) + '</article>';
+        return '<article class="op-voice"><header><img class="op-mark op-mark-' + id + '" src="/icons/' + id + '.svg" alt="" width="32" height="32"><h3>' + esc(name) + '</h3><p class="op-model">' + esc(entry?.model || t('Model unconfirmed','具体模型未确认')) + '</p></header>' + (raw ? '<ol class="op-headlines">' + excerpt.headlines.slice(0,3).map(headline => '<li>' + esc(headline) + '</li>').join('') + '</ol>' + (excerpt.headlines.length < 3 ? '<p class="op-unavailable">' + t('Headline options are not all separately marked in the original.','原稿未完整标出三个标题选项。') + '</p>' : '') + (excerpt.teaser ? '<p class="op-teaser">' + esc(excerpt.teaser) + '</p>' : '') + (media.length ? '<p class="op-media-badge">' + t(media.length + ' sourced media ' + (media.length === 1 ? 'item' : 'items'),media.length + ' 项来源媒体') + '</p>' : '') + link('edition/' + story.id + '/' + id,t('Read edition','阅读全文'),'op-read') : '<div class="op-missing"><p>' + t('Submission unavailable','此版本暂不可用') + '</p><small>' + t('No ' + (language === 'en' ? 'English' : 'Chinese') + ' edition is available in this archive.','此档案暂无可读的' + (language === 'en' ? '英文' : '中文') + '版本。') + '</small></div>' + link('edition/' + story.id + '/' + id,t('View availability','查看状态'),'op-read')) + '</article>';
       }).join('');
       main.innerHTML = '<section class="olympics">' + storyNav + '<div class="op-hero"><div class="op-hero-copy"><p class="op-kicker">' + t('MODEL OLYMPICS · THE EDITORS’ SALON','模型奥林匹克 · 编辑沙龙') + '</p><h1>' + t('One story. Six voices.','一个故事，六种声音。') + '</h1><p class="op-subtitle">' + t('Independent English & Chinese editions.','独立写作，英文与中文原稿。') + '</p><div class="op-story-intro"><p class="op-date">' + esc(dateText) + ' · ' + t('Original event / report','原事件／报道日期') + '</p><h2>' + esc(title) + '</h2><p class="op-summary">' + esc(localized(story.summary)) + '</p>' + link('brief/' + story.id,t('Read the source brief','阅读事实资料'),'op-brief-link') + '</div></div>' + (ART[story.id] ? '<figure class="op-art"><img src="/images/' + ART[story.id] + '.jpg" alt="' + esc(t('Conceptual illustration for ' + title,'故事概念插画：' + title)) + '" width="1200" height="900" decoding="async" fetchpriority="high"><figcaption>' + t('AI illustration','AI概念插画') + '</figcaption></figure>' : '') + '</div>' + notice + '<div class="op-voices">' + cards + '</div><p class="op-colophon">' + t('Six independent editions. Robin makes the editorial decision.','六个独立版本，由Robin作编辑决定。') + '</p></section>';
     }
@@ -199,5 +225,5 @@ function mediaSourceURL(value){
     unbind = () => { main.removeEventListener('click',click); main.classList.remove('olympics-host'); };
     return dispose;
   }
-  global.iSunOlympics = Object.freeze({render,dispose,reset:() => { cache = null; },markdown,preview,safeURL,parseRoute});
+  global.iSunOlympics = Object.freeze({render,dispose,reset:() => { cache = null; },markdown,displayText,displayMarkdown,preview,safeURL,parseRoute});
 })(window);

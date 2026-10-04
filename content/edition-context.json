@@ -1,0 +1,1349 @@
+{
+  "schema_version": 1,
+  "editions": [
+    {
+      "article_path": "articles/eviltokens-real-login-trap/chatgpt/english.md",
+      "captured_at": "2026-09-28T04:06:43.868Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/chatgpt/chinese.md",
+      "captured_at": "2026-09-28T04:00:56.679Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/claude/english.md",
+      "captured_at": "2026-09-28T04:06:43.872Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/claude/chinese.md",
+      "captured_at": "2026-09-28T04:02:57.907Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/gemini/english.md",
+      "captured_at": "2026-09-28T04:06:43.870Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/gemini/chinese.md",
+      "captured_at": "2026-09-28T04:24:09.392Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/grok/english.md",
+      "captured_at": "2026-09-28T04:06:43.869Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/grok/chinese.md",
+      "captured_at": "2026-09-28T04:00:56.696Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/deepseek/english.md",
+      "captured_at": "2026-09-28T04:06:43.871Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/deepseek/chinese.md",
+      "captured_at": "2026-09-28T04:03:19.660Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/qwen/english.md",
+      "captured_at": "2026-09-28T07:12:59.410213+00:00",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/eviltokens-real-login-trap/qwen/chinese.md",
+      "captured_at": "2026-09-29T09:25:18.084Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/chatgpt/english.md",
+      "captured_at": "2026-09-28T04:06:00.061Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/chatgpt/chinese.md",
+      "captured_at": "2026-09-28T04:08:00.155Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/claude/english.md",
+      "captured_at": "2026-09-28T04:06:04.205Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/claude/chinese.md",
+      "captured_at": "2026-09-28T04:08:21.027Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/gemini/english.md",
+      "captured_at": "2026-09-28T04:05:00.824Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/gemini/chinese.md",
+      "captured_at": "2026-09-28T04:06:55.375Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/grok/english.md",
+      "captured_at": "2026-09-28T04:06:01.216Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/grok/chinese.md",
+      "captured_at": "2026-09-28T04:08:00.171Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/deepseek/english.md",
+      "captured_at": "2026-09-28T04:05:08.863Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/deepseek/chinese.md",
+      "captured_at": "2026-09-28T04:07:21.614Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/qwen/english.md",
+      "captured_at": "2026-09-29T09:34:03.745Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/mars-rocks-three-water-stories/qwen/chinese.md",
+      "captured_at": "2026-09-29T09:36:32.006Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/chatgpt/english.md",
+      "captured_at": "2026-09-28T04:12:23.860Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/chatgpt/chinese.md",
+      "captured_at": "2026-09-28T04:16:17.295Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/claude/english.md",
+      "captured_at": "2026-09-28T04:10:10.428Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/claude/chinese.md",
+      "captured_at": "2026-09-28T04:12:01.324Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/gemini/english.md",
+      "captured_at": "2026-09-28T04:08:49.916Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/gemini/chinese.md",
+      "captured_at": "2026-09-28T04:10:07.569Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/grok/english.md",
+      "captured_at": "2026-09-28T04:10:07.585Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/grok/chinese.md",
+      "captured_at": "2026-09-28T04:11:56.101Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/deepseek/english.md",
+      "captured_at": "2026-09-28T04:08:58.915Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/deepseek/chinese.md",
+      "captured_at": "2026-09-28T04:10:21.417Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/qwen/english.md",
+      "captured_at": "2026-09-29T09:40:45.547Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/ff-robots-american-dream/qwen/chinese.md",
+      "captured_at": "2026-09-29T09:40:45.572Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/chatgpt/english.md",
+      "captured_at": "2026-09-28T04:22:32.183Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/chatgpt/chinese.md",
+      "captured_at": "2026-09-28T04:26:46.032Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/claude/english.md",
+      "captured_at": "2026-09-28T04:13:54.158Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/claude/chinese.md",
+      "captured_at": "2026-09-28T04:16:08.884Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/gemini/english.md",
+      "captured_at": "2026-09-28T04:11:42.726Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/gemini/chinese.md",
+      "captured_at": "2026-09-28T04:12:44.768Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/grok/english.md",
+      "captured_at": "2026-09-28T04:14:36.450Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/grok/chinese.md",
+      "captured_at": "2026-09-28T07:12:59.409639+00:00",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/deepseek/english.md",
+      "captured_at": "2026-09-28T04:11:30.000Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/deepseek/chinese.md",
+      "captured_at": "2026-09-28T04:12:59.099Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/qwen/english.md",
+      "captured_at": "2026-09-29T09:40:31.609Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/roman-cosmic-blind-spot/qwen/chinese.md",
+      "captured_at": "2026-09-29T09:42:27.730Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/chatgpt/english.md",
+      "captured_at": "2026-09-28T04:22:11.753Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/chatgpt/chinese.md",
+      "captured_at": "2026-09-28T04:25:01.319Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/claude/english.md",
+      "captured_at": "2026-09-28T04:22:36.090Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/claude/chinese.md",
+      "captured_at": "2026-09-28T04:25:02.948Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/gemini/english.md",
+      "captured_at": "2026-09-28T04:14:23.494Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/gemini/chinese.md",
+      "captured_at": "2026-09-28T04:15:23.346Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/grok/english.md",
+      "captured_at": "2026-09-29T01:05:52.240Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/grok/chinese.md",
+      "captured_at": "2026-09-29T01:07:47.125Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/deepseek/english.md",
+      "captured_at": "2026-09-28T04:14:36.084Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/deepseek/chinese.md",
+      "captured_at": "2026-09-28T04:15:35.953Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/qwen/english.md",
+      "captured_at": "2026-09-29T09:40:31.634Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-paid-watchdog/qwen/chinese.md",
+      "captured_at": "2026-09-29T09:42:27.751Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/chatgpt/english.md",
+      "captured_at": "2026-09-28T04:22:13.166Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/chatgpt/chinese.md",
+      "captured_at": "2026-09-28T04:24:02.718Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/claude/english.md",
+      "captured_at": "2026-09-28T04:26:37.851Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/claude/chinese.md",
+      "captured_at": "2026-09-28T04:28:58.080Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/gemini/english.md",
+      "captured_at": "2026-09-28T04:17:22.782Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/gemini/chinese.md",
+      "captured_at": "2026-09-28T04:22:33.910Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/grok/english.md",
+      "captured_at": "2026-09-29T01:09:46.142Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/grok/chinese.md",
+      "captured_at": "2026-09-29T01:11:37.568Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/deepseek/english.md",
+      "captured_at": "2026-09-28T04:17:31.569Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/deepseek/chinese.md",
+      "captured_at": "2026-09-28T04:22:44.017Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/qwen/english.md",
+      "captured_at": "2026-09-29T09:43:21.132Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/hotel-wifi-spy-trap/qwen/chinese.md",
+      "captured_at": "2026-09-29T09:44:48.299Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/chatgpt/english.md",
+      "captured_at": "2026-09-30T01:17:02.197Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/chatgpt/chinese.md",
+      "captured_at": "2026-09-30T01:20:44.289Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/claude/english.md",
+      "captured_at": "2026-09-30T03:01:58.356Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/claude/chinese.md",
+      "captured_at": "2026-09-30T03:18:30.878Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/gemini/english.md",
+      "captured_at": "2026-09-30T01:11:48.923Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/gemini/chinese.md",
+      "captured_at": "2026-09-30T01:13:32.670Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/grok/english.md",
+      "captured_at": "2026-09-30T01:11:48.895Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/grok/chinese.md",
+      "captured_at": "2026-09-30T01:14:27.715Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/deepseek/english.md",
+      "captured_at": "2026-09-30T01:14:44.244Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/deepseek/chinese.md",
+      "captured_at": "2026-09-30T01:15:38.176Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/qwen/english.md",
+      "captured_at": "2026-09-30T02:57:12.700Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/lisa-su-fei-fei-82-billion/qwen/chinese.md",
+      "captured_at": "2026-09-30T02:58:26.707Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/chatgpt/english.md",
+      "captured_at": "2026-09-30T01:23:38.894Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/chatgpt/chinese.md",
+      "captured_at": "2026-09-30T01:25:31.321Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/claude/english.md",
+      "captured_at": "2026-09-30T03:23:28.241Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": "interleaved-brief",
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/claude/chinese.md",
+      "captured_at": "2026-09-30T03:24:56.129Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": "interleaved-brief",
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/gemini/english.md",
+      "captured_at": "2026-09-30T01:17:17.890Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/gemini/chinese.md",
+      "captured_at": "2026-09-30T01:20:43.447Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/grok/english.md",
+      "captured_at": "2026-09-30T01:17:17.910Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/grok/chinese.md",
+      "captured_at": "2026-09-30T01:20:43.472Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/deepseek/english.md",
+      "captured_at": "2026-09-30T01:17:17.934Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/deepseek/chinese.md",
+      "captured_at": "2026-09-30T01:20:43.491Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/qwen/english.md",
+      "captured_at": "2026-09-30T03:02:17.573Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/starliner-61-fixes-2028/qwen/chinese.md",
+      "captured_at": "2026-09-30T03:04:23.390Z",
+      "prompt_version": "v1-labeled-fiction",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/chatgpt/english.md",
+      "captured_at": "2026-09-30T23:09:13.023Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/chatgpt/chinese.md",
+      "captured_at": "2026-09-30T23:12:15.388Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/claude/english.md",
+      "captured_at": "2026-10-03T14:50:33.944Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/claude/chinese.md",
+      "captured_at": "2026-10-03T14:52:40.384Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/gemini/english.md",
+      "captured_at": "2026-10-01T23:06:43.847Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/gemini/chinese.md",
+      "captured_at": "2026-10-01T23:09:01.430Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/grok/english.md",
+      "captured_at": "2026-09-30T23:08:57.847Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/grok/chinese.md",
+      "captured_at": "2026-09-30T23:11:16.014Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/deepseek/english.md",
+      "captured_at": "2026-09-30T23:07:31.221Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/deepseek/chinese.md",
+      "captured_at": "2026-09-30T23:09:53.920Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/qwen/english.md",
+      "captured_at": "2026-09-30T23:08:08.244Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/qwen/chinese.md",
+      "captured_at": "2026-09-30T23:10:29.262Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/chatgpt/english.md",
+      "captured_at": "2026-09-30T23:12:25.951Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/chatgpt/chinese.md",
+      "captured_at": "2026-09-30T23:14:49.989Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/claude/english.md",
+      "captured_at": "2026-10-03T14:53:00.750Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/claude/chinese.md",
+      "captured_at": "2026-10-03T14:55:14.037Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/gemini/english.md",
+      "captured_at": "2026-09-30T23:11:39.909Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/gemini/chinese.md",
+      "captured_at": "2026-09-30T23:13:32.763Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/grok/english.md",
+      "captured_at": "2026-09-30T23:11:27.609Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/grok/chinese.md",
+      "captured_at": "2026-09-30T23:13:32.800Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/deepseek/english.md",
+      "captured_at": "2026-09-30T23:11:27.074Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/deepseek/chinese.md",
+      "captured_at": "2026-09-30T23:14:37.812Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/qwen/english.md",
+      "captured_at": "2026-09-30T23:12:25.227Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/trump-ai-si-60-days/qwen/chinese.md",
+      "captured_at": "2026-09-30T23:14:49.944Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/chatgpt/english.md",
+      "captured_at": "2026-10-01T23:09:24.961Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/chatgpt/chinese.md",
+      "captured_at": "2026-10-01T23:11:47.196Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/claude/english.md",
+      "captured_at": "2026-10-03T14:53:01.642Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/claude/chinese.md",
+      "captured_at": "2026-10-03T14:55:14.078Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/gemini/english.md",
+      "captured_at": "2026-10-01T23:09:49.080Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/gemini/chinese.md",
+      "captured_at": "2026-10-01T23:14:15.900Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/grok/english.md",
+      "captured_at": "2026-10-01T23:09:47.913Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/grok/chinese.md",
+      "captured_at": "2026-10-01T23:11:47.311Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/deepseek/english.md",
+      "captured_at": "2026-10-01T23:09:25.916Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/deepseek/chinese.md",
+      "captured_at": "2026-10-01T23:12:37.629Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/qwen/english.md",
+      "captured_at": "2026-10-01T23:10:37.830Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ken-griffin-cmu-3-billion/qwen/chinese.md",
+      "captured_at": "2026-10-01T23:14:15.850Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/chatgpt/english.md",
+      "captured_at": "2026-10-01T23:13:04.160Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/chatgpt/chinese.md",
+      "captured_at": "2026-10-01T23:15:08.203Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/claude/english.md",
+      "captured_at": "2026-10-03T14:53:56.553Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/claude/chinese.md",
+      "captured_at": "2026-10-03T14:55:14.113Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/gemini/english.md",
+      "captured_at": "2026-10-01T23:13:18.357Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/gemini/chinese.md",
+      "captured_at": "2026-10-01T23:14:15.942Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/grok/english.md",
+      "captured_at": "2026-10-01T23:13:05.209Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/grok/chinese.md",
+      "captured_at": "2026-10-01T23:14:34.995Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/deepseek/english.md",
+      "captured_at": "2026-10-01T23:13:19.210Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/deepseek/chinese.md",
+      "captured_at": "2026-10-01T23:14:35.033Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/qwen/english.md",
+      "captured_at": "2026-10-01T23:15:08.285Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/qwen/chinese.md",
+      "captured_at": "2026-10-01T23:16:33.371Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/chatgpt/english.md",
+      "captured_at": "2026-10-02T23:08:25.960Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/chatgpt/chinese.md",
+      "captured_at": "2026-10-02T23:14:28.299Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/claude/english.md",
+      "captured_at": "2026-10-03T14:57:03.013Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/claude/chinese.md",
+      "captured_at": "2026-10-03T14:58:39.849Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/gemini/english.md",
+      "captured_at": "2026-10-02T23:09:01.383Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/gemini/chinese.md",
+      "captured_at": "2026-10-02T23:16:53.816Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/grok/english.md",
+      "captured_at": "2026-10-02T23:08:27.374Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/grok/chinese.md",
+      "captured_at": "2026-10-02T23:14:28.356Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/deepseek/english.md",
+      "captured_at": "2026-10-02T23:08:29.409Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/deepseek/chinese.md",
+      "captured_at": "2026-10-02T23:14:28.407Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/qwen/english.md",
+      "captured_at": "2026-10-02T23:13:44.810Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/elon-musk-tesla-486532/qwen/chinese.md",
+      "captured_at": "2026-10-02T23:15:49.411Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/chatgpt/english.md",
+      "captured_at": "2026-10-02T23:13:45.520Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/chatgpt/chinese.md",
+      "captured_at": "2026-10-02T23:16:53.909Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/claude/english.md",
+      "captured_at": "2026-10-03T14:54:10.793Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/claude/chinese.md",
+      "captured_at": "2026-10-03T14:57:02.965Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/gemini/english.md",
+      "captured_at": "2026-10-02T23:14:28.489Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/gemini/chinese.md",
+      "captured_at": "2026-10-02T23:16:53.860Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/grok/english.md",
+      "captured_at": "2026-10-02T23:13:47.032Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/grok/chinese.md",
+      "captured_at": "2026-10-02T23:15:49.370Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/deepseek/english.md",
+      "captured_at": "2026-10-02T23:15:14.090Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/deepseek/chinese.md",
+      "captured_at": "2026-10-02T23:16:53.942Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/qwen/english.md",
+      "captured_at": "2026-10-02T23:14:29.487Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/taylor-swift-three-uk-number-ones/qwen/chinese.md",
+      "captured_at": "2026-10-02T23:16:53.988Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/chatgpt/english.md",
+      "captured_at": "2026-10-03T23:12:04.234Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/chatgpt/chinese.md",
+      "captured_at": "2026-10-03T23:13:52.241Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/claude/english.md",
+      "captured_at": "2026-10-03T23:12:03.432Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/claude/chinese.md",
+      "captured_at": "2026-10-03T23:13:51.079Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/gemini/english.md",
+      "captured_at": "2026-10-03T23:12:05.814Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/gemini/chinese.md",
+      "captured_at": "2026-10-03T23:13:52.961Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/grok/english.md",
+      "captured_at": "2026-10-03T23:12:26.036Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/grok/chinese.md",
+      "captured_at": "2026-10-03T23:13:53.229Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/deepseek/english.md",
+      "captured_at": "2026-10-03T23:12:28.161Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/deepseek/chinese.md",
+      "captured_at": "2026-10-03T23:13:54.048Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/qwen/english.md",
+      "captured_at": "2026-10-03T23:12:29.305Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/qwen/chinese.md",
+      "captured_at": "2026-10-03T23:13:54.411Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/chatgpt/english.md",
+      "captured_at": "2026-10-03T23:13:48.302Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/chatgpt/chinese.md",
+      "captured_at": "2026-10-03T23:16:19.313Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/claude/english.md",
+      "captured_at": "2026-10-03T23:12:55.566Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/claude/chinese.md",
+      "captured_at": "2026-10-03T23:14:56.401Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/gemini/english.md",
+      "captured_at": "2026-10-03T23:12:56.526Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/gemini/chinese.md",
+      "captured_at": "2026-10-03T23:14:57.173Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/grok/english.md",
+      "captured_at": "2026-10-03T23:12:58.477Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/grok/chinese.md",
+      "captured_at": "2026-10-03T23:14:57.405Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/deepseek/english.md",
+      "captured_at": "2026-10-03T23:13:02.575Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/deepseek/chinese.md",
+      "captured_at": "2026-10-03T23:14:57.596Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/qwen/english.md",
+      "captured_at": "2026-10-03T23:13:49.852Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/qwen/chinese.md",
+      "captured_at": "2026-10-03T23:14:57.827Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    }
+  ]
+}
