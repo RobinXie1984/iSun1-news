@@ -102,14 +102,16 @@ function mediaSourceURL(value){
       // An introductory sentence about romantic prose is not a headline option.
       if (/^(?:以下|这里|为您|这是|Here\b|Below\b)/i.test(line)) continue;
       const bracket = /^(?:[一二三][、.．]\s*)?【([^】]+)】\s*(.+)$/.exec(line);
-      const colon = line.search(/[:：]/);
+      // A bar after the style is a separator; a bar before it is label decoration.
+      const bar = line.search(/[｜|]/);
+      const separator = bar >= 0 && style.test(line.slice(0,bar)) ? bar : line.search(/[:：]/);
       let headline = '', end = i;
       if (bracket && style.test(bracket[1])) headline = bracket[2];
       else {
-        if (colon < 0 || colon > 55) continue;
-        const label = line.slice(0,colon);
+        if (separator < 0 || separator > 55) continue;
+        const label = line.slice(0,separator);
         if (!style.test(label) || /[，。；!?！？]/.test(label) || /标题选项|标题选择|风格成稿/.test(label)) continue;
-        headline = line.slice(colon + 1).trim();
+        headline = line.slice(separator + 1).trim();
         if (!headline) { end = i + 1; while (end < lines.length && !lines[end].trim()) end++; headline = plain(lines[end] || ''); }
       }
       if (headline) { headlines.push(headline); last = end; i = end; }

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "max-verstappen-first-win-october",
+      "title": {
+        "en": "Max Verstappen wins by 2.307 seconds. How did Red Bull end its 2026 drought?",
+        "zh": "维斯塔潘领先2.307秒夺冠：红牛今年第一胜怎么来的？"
+      },
+      "summary": {
+        "en": "Verstappen loses the lead at the start, then recovers to win at Sepang. It is his and Red Bull’s first victory of 2026, and Red Bull Ford Powertrains’ first win. One race does not establish a championship comeback.",
+        "zh": "维斯塔潘起步丢掉领先，随后在雪邦反超夺冠。这是他与红牛的2026年首胜，也是红牛福特动力单元的首次胜利。一场胜利尚不能证明年度争冠形势已逆转。"
+      },
+      "event_date": "2026-10-04"
+    },
+    {
+      "id": "lula-flavio-bolsonaro-runoff-oct25",
+      "title": {
+        "en": "Lula trails by 1.87 points. Can he turn it around on October 25?",
+        "zh": "卢拉落后1.87个百分点：10月25日还能翻盘吗？"
+      },
+      "summary": {
+        "en": "Brazil’s electoral court reports Flávio Bolsonaro at 47.03% and Lula at 45.16%, with 99.99% of ballot boxes counted. Both advance to the October 25 runoff; the presidency remains undecided.",
+        "zh": "巴西选举法院公布，已统计99.99%的票箱，弗拉维奥·博索纳罗得票率47.03%，卢拉45.16%。两人进入10月25日第二轮，总统之争尚未结束。"
+      },
+      "event_date": "2026-10-04"
+    }
+  ]
+}

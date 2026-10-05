@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-05T07:27:23.277831+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 20,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/claude/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/claude/chinese.md",
+      "status": "available",
+      "availability_note": "标题“经年无捷”容易被理解为整年或跨年未胜；共同简报仅证实2026赛季截至10月4日首次获胜，并未提供上一次夺冠日期或完整无冠时长。“所据记录未载”应限于简报摘要：FIA完整赛报实际记载第6圈第四弯超越拉塞尔。文学叙述及“胜负缺一不可”等判断不等于逐项因果证明。见C1–C4、S1；原稿保留。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/gemini/english.md",
+      "status": "available",
+      "availability_note": "Hamilton drove for Ferrari, not Mercedes: official classification S2 contradicts the teammate/double-Mercedes-podium claims. S3's 10:38 UTC is the report timestamp, not a separately verified timing-data timestamp. The supplied brief does not establish reigning-champion status, a season-wide engineering power shift, the mechanics/tyre-blanket scene, or measured tyre temperatures and grip. 'Craziest race' is opinion, not a verified comparison; the claimed tyre causation is stronger than brief C3 permits. Original wording is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "官方成绩S2列汉密尔顿效力法拉利，并非文中的Mercedes。10:38 UTC是F1报道时间，不是已单独核实的成绩发布时间。FIA记录博塔斯在比赛早段退赛，非“赛至中途”。“凭半雨胎拔得杆位”混淆正赛起步用胎与排位依据；起步抓地不足、软胎温度的决定作用、车手私心及完美表现均未由共同简报证明。见C2–C5、S1–S3；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Grok displayed a human-verification challenge; this collection awaits action-time confirmation. No submission has been generated."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Grok displayed a human-verification challenge; this collection awaits action-time confirmation. No submission has been generated."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/deepseek/english.md",
+      "status": "available",
+      "availability_note": "The 'Eight Months' headline has no specified start date or verified interval in the shared brief. The draft adds lap-by-lap detail, quotes and background beyond that common input; the cited FIA report corroborates many race details, but this review does not certify every added quotation. Claims about universal paddock conversations, making the fewest mistakes and an entire year belonging to Mercedes are not established by C1–C6. Treat these as unverified embellishment or opinion, not new source facts. Original wording is preserved."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "起步及换干胎前所用的Intermediate应与Mercedes之后选择的Medium明确区分：前者为半雨胎，后者为中性硬度的干胎；原文将两者均称“中性胎”，容易误导。“观者称快”没有共同简报证据；“天时、地利、人和、决断缺一不可”为作者因果判断，不是分别验证的结论。见C2–C3；原稿保留。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/qwen/english.md",
+      "status": "available",
+      "availability_note": "Hamilton's podium was for Ferrari, not evidence of Mercedes pace; see official classification S2. The supplied brief does not establish season-wide parity caused by new regulations, audience/garage reactions, private psychological effects, identical team data, blistering sector times or a flawless drive. The headline's suggestion that losing the lead was required to win is an unsupported causal claim. Compound benefits and strategic motives remain analysis, not measured proof of what caused this result (C2–C5). Original wording is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "max-verstappen-first-win-october",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/max-verstappen-first-win-october.md",
+      "article_path": "articles/max-verstappen-first-win-october/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "“赛程将半……阿尔本中途抛锚”与简报C4的比赛后段不符；FIA赛报S1记为第41圈，全程55圈。“心火煎熬”“百无聊赖”“长叹”等私心或现场动作没有简报证据；拉塞尔退赛原因未知，不能把“机枢忽败”当作已确认的机械故障。“终岁无冠”应限于本季截至10月4日首次获胜，非已证实跨年时长。原稿保留。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/chatgpt/english.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": null
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/claude/english.md",
+      "status": "available",
+      "availability_note": "The 1.87-point gap is a difference in shares of valid votes, not a share of the entire electorate. The derived 7.81% similarly refers to other candidates’ shares of valid votes, not all voters or eligible citizens; the draft sometimes switches these denominators. The 2,227,651-vote subtraction and 20 days from October 5 to October 25 are calculations, not separately quoted TSE statistics. Descriptions of unusual positions and likely media behavior are analysis, not an independently sourced historical or audience finding (C1–C4). Original wording is preserved."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/claude/chinese.md",
+      "status": "available",
+      "availability_note": "文末“约百分之七点八一之选民”应为两位候选人公布占比之外约7.81%的有效票，不是全体选民比例；“以全体而言不及两点”亦须明确有效票这一分母。2227651票及20日为文章自行计算，非另行公布的TSE统计。待决的是下一任期的选举结果，卢拉仍为现任总统。“初出茅庐”仅宜理解为首次竞逐总统，非政治经验全无。见C1–C4；原稿保留。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/gemini/english.md",
+      "status": "available",
+      "availability_note": "The 1.87 percentage points are computed from two rounded published shares; they are not an unrounded exact margin. The vote counts are the TSE’s reported snapshot, not an independent validation of the internally inconsistent source. Claims about inherent momentum, universally understood incumbent advantages and what will define every moment before the runoff are generalizations or predictions, not facts established by C1–C4. Qualification is confirmed; the presidential winner remains unknown. Original wording is preserved."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "“大宝无主”若作事实理解不准确：卢拉仍是现任总统，未定的是本次选举的最终赢家。卢拉中文票数字样“五千小心八十七万……”存在文字错误，应参照旁列的53876617票，即五千三百八十七万六千六百一十七票。1.87是四舍五入后占比相减所得的百分点差，非相对领先百分比。背水一战的心理、领先锐气及“每一分每一秒”走势均非简报证实事实。见C1–C4；原稿保留。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Grok displayed a human-verification challenge; this collection awaits action-time confirmation. No submission has been generated."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Grok displayed a human-verification challenge; this collection awaits action-time confirmation. No submission has been generated."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Trailing does not itself explain why Lula might win: the counter-intuitive headline implies an unsupported causal advantage. The brief does not establish surprise among almost everyone, a non-fluke result, future turnout behavior or that voters who backed eliminated candidates will decide the runoff. These are hypotheses, not conclusions from the first-round shares. Added economic rankings/background and incumbent advantage claims were not verified in the shared brief. The remaining 0.01% of ballot boxes is not evidence of impending chaos, and Lula remains the current president while the next term is unresolved (C1–C4). Original wording is preserved."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "“落后反成胜机”及“领先者易骄怠”是未经数据支持的因果或心理推演。共同简报未证明次轮出席选民或议题必然改变，也未证明未决选民必将决定结果。关于农业、气候与民主后果、举世关注及建制优势的论述超出共同材料。“唯一可确言者……次轮将由未决之民定之”仍是预测，不能作为已知事实。见C1–C4；原稿保留。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/qwen/english.md",
+      "status": "available",
+      "availability_note": "The source inconsistency cannot be recast as ordinary rounding: the shared brief explicitly leaves the aggregate unresolved. The claims that remaining ballot boxes are delayed by Amazon transport, Indigenous-area maintenance or technical anomalies are invented explanations absent from the evidence. The brief also does not establish voter motives, a fractured prior coalition, psychological momentum, exceptional historical status or a political organization independent of family legacy. First-round shares do not prove these causes or predict a runoff. The exact 1.87 points are subtraction of rounded shares; legal rules and added turnout claims require their own sourcing (C1–C4). Original wording is preserved."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "event_date": "2026-10-04",
+      "source_brief": "briefs/lula-flavio-bolsonaro-runoff-oct25.md",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "“算学修约之常事”错误消解了源数据矛盾：共同简报明确保留总有效票数不一致，未证实原因只是四舍五入。亚马逊孤舟、偏远部落与机器维修并非已核实的未计票原因；民心变化、基本盘流失、斗志及未来游说行动亦未获证实。“卢拉……五千三万人”与53876617票不符；准确中文数为五千三百八十七万六千六百一十七。标题“九厘”没有相应核实数字；余下票箱为0.01%，占比差为1.87个百分点。见C1–C4；原稿保留。"
+    }
+  ]
+}

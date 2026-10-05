@@ -1344,6 +1344,146 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/chatgpt/english.md",
+      "captured_at": "2026-10-05T07:17:37.521Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/chatgpt/chinese.md",
+      "captured_at": "2026-10-05T07:20:14.979Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/claude/english.md",
+      "captured_at": "2026-10-05T07:16:18.865Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/claude/chinese.md",
+      "captured_at": "2026-10-05T07:18:50.061Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/gemini/english.md",
+      "captured_at": "2026-10-05T07:16:51.345Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/gemini/chinese.md",
+      "captured_at": "2026-10-05T07:18:50.085Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/deepseek/english.md",
+      "captured_at": "2026-10-05T07:16:51.364Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/deepseek/chinese.md",
+      "captured_at": "2026-10-05T07:18:58.202Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/qwen/english.md",
+      "captured_at": "2026-10-05T07:17:37.545Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/qwen/chinese.md",
+      "captured_at": "2026-10-05T07:19:20.964Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/chatgpt/english.md",
+      "captured_at": "2026-10-05T07:21:43.879Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/chatgpt/chinese.md",
+      "captured_at": "2026-10-05T07:24:25.543Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/claude/english.md",
+      "captured_at": "2026-10-05T07:21:24.900Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/claude/chinese.md",
+      "captured_at": "2026-10-05T07:21:53.927Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/gemini/english.md",
+      "captured_at": "2026-10-05T07:21:24.918Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/gemini/chinese.md",
+      "captured_at": "2026-10-05T07:21:53.949Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/deepseek/english.md",
+      "captured_at": "2026-10-05T07:21:24.935Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/deepseek/chinese.md",
+      "captured_at": "2026-10-05T07:21:53.985Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/qwen/english.md",
+      "captured_at": "2026-10-05T07:22:04.265Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/qwen/chinese.md",
+      "captured_at": "2026-10-05T07:23:30.967Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

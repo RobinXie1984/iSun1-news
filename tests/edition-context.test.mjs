@@ -15,6 +15,20 @@ test('all real archive originals expose three exact headline candidates and reta
   view.displayMarkdown(raw);assert.equal(createHash('sha256').update(raw).digest('hex'),sha);
  }
 });
+test('vertical-bar style labels expose actual Chinese titles without splitting their internal colons',()=>{
+ const view=ui(),data=loadOlympicsArchive();
+ const raw=data.articles['articles/max-verstappen-first-win-october/chatgpt/chinese.md'];
+ const expected=[
+  '杆位失守，终局再起波澜：维斯塔潘何以破局雪邦？',
+  '四冠在身，一胜久候：维斯塔潘终在雪邦写下今岁首捷',
+  '先失其先，方夺其冠：维斯塔潘此胜，岂止一副软胎？'
+ ];
+ assert.deepEqual(Array.from(view.preview(raw).headlines),expected);
+ assert.deepEqual(Array.from(view.preview(raw.replaceAll('｜','|')).headlines),expected);
+ assert.deepEqual(Array.from(view.preview('其一｜悬念式：'+expected[0]+'\n标题二｜共鸣式：'+expected[1]+'\n标题三｜反常识式：'+expected[2]).headlines),expected);
+ for(const title of expected)assert.ok(raw.includes(title));
+ assert.equal(view.preview('以下是浪漫主义风格｜这是一段说明。\n\n比赛结果｜第一、第二、第三。\n\n共鸣，源自悬念｜这是一段正文。').headlines.length,0);
+});
 test('display removes leading UI only and preserves semantic markup with capture line paragraphs',()=>{
  const view=ui();assert.equal(view.displayText('Gemini said\n\nWriting\n\n# Title\n\nWriting matters.'),'# Title\n\nWriting matters.');
  assert.equal(view.displayText('The story begins.\nWriting\ncontinues.'),'The story begins.\nWriting\ncontinues.');
