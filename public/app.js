@@ -28,20 +28,23 @@ function signal(story,kind){
  });queues.set(story.ticket,job);return job;
 }
 function olympicsRoute(){const h=location.hash.slice(1);return !h||h==='olympics'||h.startsWith('olympics/')||h.startsWith('edition/')||h.startsWith('brief/');}
-let loadGeneration=0,routeGeneration=0;
-function apiPath(path){const q=new URLSearchParams({lang,utm_source:params.get('utm_source')||'direct'});if(preview)q.set('preview','1');if(consent&&!olympicsRoute())q.set('measure','1');if(olympicsRoute())q.set('preview','1');return path+'?'+q;}
+let loadGeneration=0,routeGeneration=0,curatedAvailable=false;
+function storySelectionRoute(){const h=location.hash.slice(1);return h==='stories'||h.startsWith('story/');}
+function apiPath(path){const q=new URLSearchParams({lang,utm_source:params.get('utm_source')||'direct'});if(preview)q.set('preview','1');if(consent&&!olympicsRoute()&&!storySelectionRoute())q.set('measure','1');if(olympicsRoute()||storySelectionRoute())q.set('preview','1');return path+'?'+q;}
 function meta(s){return `<div class="meta"><span class="tag">${esc(lang==='zh'?({'AI & business':'AI 与商业','AI & power':'AI 与权力','Science & wonder':'科学与惊奇','Security & ordinary life':'安全与生活'}[s.category]||s.category):s.category)}</span><span>${esc(formatDate(s.event_date))}</span><span>${esc(lang==='zh'?({'RESEARCH':'研究发表','ROBOTICS':'机器人','ANNOUNCEMENT':'已公布计划','MISSION':'航天任务','REPORTED INVESTIGATION':'调查报告'}[s.label.toUpperCase()]||s.label):s.label)}</span></div>`;}
 function setNav(){document.querySelector('[data-view=olympics]').textContent=t('Model Olympics','模型奥林匹克');const latest=stories.map(s=>s.event_date).sort().at(-1);$('#edition-date').textContent=latest?t('LATEST EVENT · ','最新事件 · ')+formatDate(latest):t('SOURCED STORIES','有据可查的故事');document.documentElement.lang=lang;$('.brand-line').textContent=t('The story inside the news.','新闻里，藏着故事。');document.querySelector('[data-view=stories]').textContent=t('The stories','故事');document.querySelector('[data-view=lab]').textContent=t('Hook lab 20×','标题实验室 20×');document.querySelector('[data-view=pulse]').textContent=t('The pulse','读者脉搏');$('#language').textContent=lang==='en'?'中文':'EN';document.querySelectorAll('[data-view]').forEach(b=>{b.setAttribute('aria-current',b.dataset.view===view?'page':'false');});$('#privacy').textContent=preview?t('Preview · signals excluded','预览 · 不计入数据'):t(`Anonymous signals: ${consent?'on':'off'}`,`匿名信号：${consent?'开启':'关闭'}`);}
 async function load(){
  cleanup();cleanup=()=>{};window.iSunOlympics.dispose();++routeGeneration;
  const generation=++loadGeneration;
- try{const r=await fetch(apiPath('/api/feed'));if(!r.ok)throw Error();const data=await r.json();if(generation!==loadGeneration)return;stories=data.stories;renderRoute();}
+ try{const r=await fetch(apiPath('/api/feed'));if(!r.ok)throw Error();const data=await r.json();if(generation!==loadGeneration)return;stories=data.stories;curatedAvailable=data.has_editorial_picks===true;renderRoute();}
  catch{if(generation!==loadGeneration)return;main.innerHTML=`<div class="empty">${t('The stories could not load. Your connection or our service may be taking a break.','故事暂时无法加载。可能是网络或服务暂时中断。')} <button id="retry">${t('Try again','重试')}</button></div>`;$('#retry').onclick=load;}
 }
 function navigate(v){cleanup();window.scrollTo(0,0);view=v;if(location.hash.slice(1)===v)load();else location.hash=v;}
 async function renderRoute(){
  cleanup();cleanup=()=>{};window.iSunOlympics.dispose();const generation=++routeGeneration;const hash=decodeURIComponent(location.hash.slice(1));
- document.body.classList.toggle('olympics-view',olympicsRoute());
+ const curated=curatedAvailable&&storySelectionRoute();
+ document.body.classList.toggle('olympics-view',olympicsRoute()||curated);
+ if(curated){view='stories';document.title=t('The Stories | iSun1.news','故事 | iSun1.news');activeReader=null;setNav();$('#consent').hidden=true;$('#edition-date').textContent=t('EDITORIAL SELECTIONS · EN / 中文','编辑选稿 · EN / 中文');const done=await window.iSunOlympics.render({main,lang,stories,hash,onNavigate:navigate});if(generation===routeGeneration)cleanup=typeof done==='function'?done:()=>{};return;}
  if(olympicsRoute()){view='olympics';document.title=t('Model Olympics | iSun1.news','模型奥林匹克 | iSun1.news');activeReader=null;setNav();$('#consent').hidden=true;$('#edition-date').textContent=t('MODEL OLYMPICS · WEEK 01','模型奥林匹克 · 第一周');const done=await window.iSunOlympics.render({main,lang,stories,hash:hash||'olympics',onNavigate:navigate});if(generation===routeGeneration)cleanup=typeof done==='function'?done:()=>{};return;}
  if(!safeGet('isun1-signals')&&!preview)$('#consent').hidden=false;
  if(hash.startsWith('story/')){const story=stories.find(s=>s.id===hash.slice(6));if(story){view='stories';setNav();renderStory(story);return;}}

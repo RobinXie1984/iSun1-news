@@ -1,6 +1,7 @@
 import {readFileSync,existsSync,readdirSync,lstatSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import {resolve,sep} from 'node:path';
+import vm from 'node:vm';
 
 // These links are public sources, never account/conversation links or signed downloads.
 export function mediaSourceURL(value){
@@ -102,6 +103,21 @@ export function validateEditionContext(value, articles){
  return value;
 }
 
+// Editorial selections reference immutable originals; they never imply audience performance.
+export function validateEditorialPicks(value, archive){
+ if(!exactFields(value,['schema_version','selected_at','selected_by','entries'])||value.schema_version!==1||value.selected_by!=='Maxwell'||!textField(value.selected_at,40)||!Number.isFinite(Date.parse(value.selected_at))||!Array.isArray(value.entries))throw Error('Invalid editorial picks');
+ const ids=new Set(archive.catalog.articles.map(row=>row.topic)),seen=new Set(),window={};
+ vm.runInNewContext(readFileSync(new URL('../public/olympics.js',import.meta.url),'utf8'),{window,URL});
+ if(value.entries.length!==ids.size*2)throw Error('Incomplete editorial picks');
+ for(const pick of value.entries){
+  if(!exactFields(pick,['topic','language','provider','article_path','headline_index','headline','sha256','reason'])||!['en','zh'].includes(pick.language)||!Number.isInteger(pick.headline_index)||pick.headline_index<0||pick.headline_index>2||!textField(pick.headline,500)||!textField(pick.reason,1000)||!/^[a-f0-9]{64}$/.test(pick.sha256))throw Error('Invalid editorial pick');
+  const key=pick.topic+'/'+pick.language,row=archive.catalog.articles.find(row=>row.topic===pick.topic&&row.language===pick.language&&row.provider===pick.provider&&row.status==='available'&&row.article_path===pick.article_path),raw=archive.articles[pick.article_path];
+  if(!row||seen.has(key)||typeof raw!=='string'||createHash('sha256').update(raw).digest('hex')!==pick.sha256||window.iSunOlympics.preview(raw).headlines[pick.headline_index]!==pick.headline)throw Error('Editorial pick must match original headline and bytes');
+  seen.add(key);
+ }
+ return value;
+}
+
 // Archive dates are collection batches; original event/report dates stay separate.
 // Topic IDs are globally unique so every already-published topic/download URL survives.
 export function loadOlympicsArchive(root='content/model-olympics'){
@@ -125,5 +141,7 @@ export function loadOlympicsArchive(root='content/model-olympics'){
  }
  const contextPath=resolve(root,'../edition-context.json');
  if(existsSync(contextPath))result.context=validateEditionContext(JSON.parse(readFileSync(contextPath,'utf8')),result.articles);
+ const picksPath=resolve(root,'../editorial-picks.json');
+ if(existsSync(picksPath))result.picks=validateEditorialPicks(JSON.parse(readFileSync(picksPath,'utf8')),result);
  return result;
 }

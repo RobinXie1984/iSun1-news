@@ -1,0 +1,407 @@
+{
+  "schema_version": 1,
+  "selected_at": "2026-10-06T11:39:27.334Z",
+  "selected_by": "Maxwell",
+  "entries": [
+    {
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/chatgpt/english.md",
+      "headline_index": 1,
+      "headline": "A Space for Your Imagination, a Place for Ads: ChatGPT’s Next Trust Test",
+      "sha256": "de603fe635c88b63e2ef8f3a55b0294b346bf8de2ffebfb382f6f64c152eb284",
+      "reason": "A private creative moment meets a commercial interruption; the proposed US test stays qualified."
+    },
+    {
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "画未成，商声将至：ChatGPT广告试验，能否守住答案之界？",
+      "sha256": "70cccd69b3f4f6f7de915d8b6c473131d64c76c100d9fea348e99154303bad87",
+      "reason": "A private creative moment meets a commercial interruption; the proposed US test stays qualified."
+    },
+    {
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "He Missed the Nobel Call. His Discovery Helped Give Neuroscience a Switch.",
+      "sha256": "07faa1fcc8a923e7d46bea989eacc53952a197712b9fb4a2fd217890120ced47",
+      "reason": "A missed Nobel call opens a human story before explaining the prepared-neuron breakthrough."
+    },
+    {
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《凌晨零时二十七分，他错过诺奖来电：一束光，究竟能问出脑中多少秘密？》",
+      "sha256": "cde845d2522bccb32fa551edf6bb04fe8ef4bfd9155dbbbe0f8e743eba9859df",
+      "reason": "A missed Nobel call opens a human story before explaining the prepared-neuron breakthrough."
+    },
+    {
+      "topic": "max-verstappen-first-win-october",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/max-verstappen-first-win-october/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Verstappen Finally Wins in 2026—But Sepang Made Him Fight for It Twice",
+      "sha256": "c3705c51dd642b560808b4c677a1f2483e368cc193ba33680771d804319e0d23",
+      "reason": "A famous champion, a first seasonal win and a lead lost at the start produce a clean reversal."
+    },
+    {
+      "topic": "max-verstappen-first-win-october",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/max-verstappen-first-win-october/chatgpt/chinese.md",
+      "headline_index": 1,
+      "headline": "四冠在身，一胜久候：维斯塔潘终在雪邦写下今岁首捷",
+      "sha256": "cbb591825352b02fe471b7903c5ec0f15e0d7c9e222c64912d6316b98247ab75",
+      "reason": "A famous champion, a first seasonal win and a lead lost at the start produce a clean reversal."
+    },
+    {
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Lula Trails, Flavio Bolsonaro Leads—and Brazil’s Presidency Comes Down to October 25",
+      "sha256": "eaa9ccbb71ff1f4f7db6cc1d411a6785c6c680ea7c588b8110dbba245464330c",
+      "reason": "Two named opponents and a fixed runoff date make the unresolved contest immediately legible."
+    },
+    {
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/chatgpt/chinese.md",
+      "headline_index": 2,
+      "headline": "《票居其首，未即登顶：弗拉维奥·博索纳罗领先之后，巴西仍待一决》",
+      "sha256": "f233bfb720e26b1238b5e01c7163a0a60f3c48284d03ccb650ce0e9d0f050123",
+      "reason": "Two named opponents and a fixed runoff date make the unresolved contest immediately legible."
+    },
+    {
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Zuckerberg Hired MongoDB’s CEO After Just 322 Days. What Is Meta Building?",
+      "sha256": "720f94939b2db0d0672c2ab10f89db5604cfa2be945821c8e7463d5def57f383",
+      "reason": "Zuckerberg and a precise 322-day tenure anchor the enterprise-AI question without inventing motives."
+    },
+    {
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/mark-zuckerberg-cj-desai-322-days/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "三百二十二日而易帜：扎克伯格延揽新将，企业AI何日渡关？",
+      "sha256": "a19f1067b02d15debb2e7a729dafb8b64184553d7253efffda6181aa9dcb0174",
+      "reason": "Zuckerberg and a precise 322-day tenure anchor the enterprise-AI question without inventing motives."
+    },
+    {
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "language": "en",
+      "provider": "grok",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/grok/english.md",
+      "headline_index": 0,
+      "headline": "Fifty-five minutes, nine aces, and then the man who has never lost in Beijing",
+      "sha256": "3b883b71c7613601d9c78e67eddaafa3cb569098e7df4249940f46530776ee4a",
+      "reason": "A 55-minute win meets an unbeaten opponent; the next-match tension comes from the reported record."
+    },
+    {
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/novak-djokovic-zverev-55-minutes/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "五十五分，九发爱司，兵临不败之城——兹维列夫将叩德约科维奇之北京门",
+      "sha256": "0c00f6f8136bfdce6cd73185cfd2baa918d8234c409a02d420e083ebefbc5e47",
+      "reason": "A 55-minute win meets an unbeaten opponent; the next-match tension comes from the reported record."
+    },
+    {
+      "topic": "elon-musk-tesla-486532",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/elon-musk-tesla-486532/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Elon Musk’s Tesla Delivered 486,532 Cars. The Number That Could Change the Story Is Still Missing.",
+      "sha256": "9b03fad7fc13df9a28f60df8b59261257e63b4034df23843504d58958d3140b8",
+      "reason": "Musk and the exact delivery count pull readers toward the still-unreported profit question."
+    },
+    {
+      "topic": "elon-musk-tesla-486532",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/elon-musk-tesla-486532/claude/chinese.md",
+      "headline_index": 1,
+      "headline": "万车奔涌，一问未解：马斯克之特斯拉，数可观而利未明",
+      "sha256": "7815463cbe48d43f40b65284990b1903fa952980aba30a770cebb5712ea38f7f",
+      "reason": "Musk and the exact delivery count pull readers toward the still-unreported profit question."
+    },
+    {
+      "topic": "taylor-swift-three-uk-number-ones",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Taylor Swift Has Three of Britain’s Top Five Singles. The Bigger Story Is What Just Returned.",
+      "sha256": "09b2bbcf68ad61fadb6bc951175eca76d82a71f0b57f139a6908d5abc428ef9e",
+      "reason": "Three songs in five slots and an older album's return create a concrete, readable contrast."
+    },
+    {
+      "topic": "taylor-swift-three-uk-number-ones",
+      "language": "zh",
+      "provider": "qwen",
+      "article_path": "articles/taylor-swift-three-uk-number-ones/qwen/chinese.md",
+      "headline_index": 0,
+      "headline": "英伦秋榜生异象：三曲踞五，旧碟还巅",
+      "sha256": "13e38ee30094353a27458ec87c10de5836fdbe8810c2d355a71208ba2f2a545f",
+      "reason": "Three songs in five slots and an older album's return create a concrete, readable contrast."
+    },
+    {
+      "topic": "ken-griffin-cmu-3-billion",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/ken-griffin-cmu-3-billion/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Ken Griffin Committed $3 Billion to Carnegie Mellon. The Biggest Test Comes After the Announcement.",
+      "sha256": "e1097f2cd07043a501d1a7192f03f0fde289e55145da37125ac550f28974c914",
+      "reason": "Griffin's $3 billion commitment is dramatic enough; the unfinished campus supplies the consequence."
+    },
+    {
+      "topic": "ken-griffin-cmu-3-billion",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/ken-griffin-cmu-3-billion/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《三十亿美元既许，万丈学宫何时成真？》",
+      "sha256": "aa4b0325918e079700f14bfcd22c5d0ac43ce8e857e3864605edd3d9b176e537",
+      "reason": "Griffin's $3 billion commitment is dramatic enough; the unfinished campus supplies the consequence."
+    },
+    {
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Ranveer Singh Is the Face of Meta’s India Glasses Launch. The Biggest Promise Arrives Later.",
+      "sha256": "10405156dd5c5687023ef2c873ae45bc9f6914fc8e42c1dc4150a8d53c7519a1",
+      "reason": "The celebrity is present and the future agent is pending; current Meta AI must not disappear from the story."
+    },
+    {
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/ranveer-singh-meta-glasses-44300/chatgpt/chinese.md",
+      "headline_index": 1,
+      "headline": "《一副轻镜，万象人间：愿知君所见，尚待几重关》",
+      "sha256": "16b385e64ef3b0bf6ec1f0d931e0094bc049fd2737bba67c51f675648076a3dd",
+      "reason": "The celebrity is present and the future agent is pending; current Meta AI must not disappear from the story."
+    },
+    {
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "language": "en",
+      "provider": "grok",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/grok/english.md",
+      "headline_index": 1,
+      "headline": "The AI Boom Still Has to Live Somewhere. SoftBank Just Paid $3.1 Billion for a Company That Buys Those Places.",
+      "sha256": "3d3ab972ed5bc1a5ff4f247f5bf48c45cf8cb71d3302afa326cfaa3d3109c39c",
+      "reason": "A company that owns infrastructure investments, not every asset outright; a physical AI metaphor with financial precision."
+    },
+    {
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/masayoshi-son-digitalbridge-31-billion/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《三十一亿美元落定：孙正义此番所购，究竟何物？》",
+      "sha256": "f7417fca215afde8a48b009744647b64b226c2aaf9a3b854a61a72c188f3eacd",
+      "reason": "A company that owns infrastructure investments, not every asset outright; a physical AI metaphor with financial precision."
+    },
+    {
+      "topic": "trump-ai-si-60-days",
+      "language": "en",
+      "provider": "grok",
+      "article_path": "articles/trump-ai-si-60-days/grok/english.md",
+      "headline_index": 2,
+      "headline": "Trump Didn’t Declare Superintelligence. He Relabeled the Paperwork.",
+      "sha256": "2df6d37a9739d159e95f3e87d8ed9693ab31393dd80fb08bdcdc880d5466fb1f",
+      "reason": "Trump's naming order supplies the absurdity; relabeled paperwork does not establish superintelligence."
+    },
+    {
+      "topic": "trump-ai-si-60-days",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/trump-ai-si-60-days/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《一纸易名，群机登神？且看六十日后如何落笔》",
+      "sha256": "83fd4d78cd55e4256c6bc14cf1a088fe764cdcf3531860bd0c9ecdea698c1b73",
+      "reason": "Trump's naming order supplies the absurdity; relabeled paperwork does not establish superintelligence."
+    },
+    {
+      "topic": "lisa-su-fei-fei-82-billion",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Lisa Su, Fei-Fei Li and the $8.2 Billion Question: What Happens When AI Starts Understanding Space?",
+      "sha256": "244f1af10be71c62413cb1d0b71c59a0f940ae228ab0dcc0f78336c08d671a9c",
+      "reason": "Two famous scientists, $8.2 billion and a spatial-intelligence question; a signed deal is not a completed acquisition."
+    },
+    {
+      "topic": "lisa-su-fei-fei-82-billion",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/lisa-su-fei-fei-82-billion/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《八十二亿问乾坤：苏姿丰、李飞飞欲启何门？》",
+      "sha256": "36ed0a283ccd09897e6621e892d4acddc826da0770f441e74380ad5ede8356ba",
+      "reason": "Two famous scientists, $8.2 billion and a spatial-intelligence question; a signed deal is not a completed acquisition."
+    },
+    {
+      "topic": "starliner-61-fixes-2028",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/starliner-61-fixes-2028/claude/english.md",
+      "headline_index": 1,
+      "headline": "The Spaceship That Carried Two Astronauts Up, Then Came Home Without Them",
+      "sha256": "efdfde0ee4a677776156a2406240e10fd391d773ed3eb1f832a15748ed2fd721",
+      "reason": "The capsule returned without its crew; the next planned empty flight stages the trust problem."
+    },
+    {
+      "topic": "starliner-61-fixes-2028",
+      "language": "zh",
+      "provider": "grok",
+      "article_path": "articles/starliner-61-fixes-2028/grok/chinese.md",
+      "headline_index": 1,
+      "headline": "六十一谏之后，星舟先以空舱问天，只为他日有人可归",
+      "sha256": "a0e49260b4d1180cb4d7de5c5e0b87ac05d62a9e947d6a7a4902cdb064d77ba1",
+      "reason": "The capsule returned without its crew; the next planned empty flight stages the trust problem."
+    },
+    {
+      "topic": "eviltokens-real-login-trap",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/eviltokens-real-login-trap/claude/english.md",
+      "headline_index": 0,
+      "headline": "The Login Page Was Real. That Was the Trap.",
+      "sha256": "3aee88235dcc8eaa82fc5a80e9dafd418859c5ea3771a5b85d6e0ba68a5eb2ae",
+      "reason": "The genuine login page is the reversal. Authorization explains the trap without calling MFA broken."
+    },
+    {
+      "topic": "eviltokens-real-login-trap",
+      "language": "zh",
+      "provider": "grok",
+      "article_path": "articles/eviltokens-real-login-trap/grok/chinese.md",
+      "headline_index": 0,
+      "headline": "屏上真码，即为罗网",
+      "sha256": "4bf0614f4c73126960fbdefb3b916f120b388d706be50ebbc5502b50e59c057a",
+      "reason": "The genuine login page is the reversal. Authorization explains the trap without calling MFA broken."
+    },
+    {
+      "topic": "mars-rocks-three-water-stories",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/mars-rocks-three-water-stories/claude/english.md",
+      "headline_index": 0,
+      "headline": "NASA Went Looking for a Lakeshore on Mars. The Rocks Had a Different Secret.",
+      "sha256": "f43bbec1d8f10f0baf89973c2831151647cf51e25f1827f8699defd84a6587e9",
+      "reason": "Expected lake sediment turns out to be cooled magma; rocks retain at least three water episodes, not evidence of life."
+    },
+    {
+      "topic": "mars-rocks-three-water-stories",
+      "language": "zh",
+      "provider": "grok",
+      "article_path": "articles/mars-rocks-three-water-stories/grok/chinese.md",
+      "headline_index": 1,
+      "headline": "火星寄书于石，千载始识其字",
+      "sha256": "2ae5b630763d8493e9e9efb826cfaf7b21a47f4bee2fd5df7c90790ea948e929",
+      "reason": "Expected lake sediment turns out to be cooled magma; rocks retain at least three water episodes, not evidence of life."
+    },
+    {
+      "topic": "ff-robots-american-dream",
+      "language": "en",
+      "provider": "grok",
+      "article_path": "articles/ff-robots-american-dream/grok/english.md",
+      "headline_index": 0,
+      "headline": "The Company That Says It Cannot Pay Its Bills Just Put Nine Robots On Sale for Immediate Delivery",
+      "sha256": "3a8482d60faa1a18e821003434fbd4567fd423a05224416810d4dbdc590966be",
+      "reason": "Delivery claims collide with debt and a single supplier; company claims remain attributed."
+    },
+    {
+      "topic": "ff-robots-american-dream",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/ff-robots-american-dream/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《九器出匣，一厂独系：法拉第未来险棋暗藏》",
+      "sha256": "964415050c62c0c421440db4ff84898f88bc05bf939a4e5bb84632d4d4f39478",
+      "reason": "Delivery claims collide with debt and a single supplier; company claims remain attributed."
+    },
+    {
+      "topic": "roman-cosmic-blind-spot",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/roman-cosmic-blind-spot/chatgpt/english.md",
+      "headline_index": 2,
+      "headline": "Same-Size Mirror. 100 Times the Sky. Why Roman’s Biggest Advantage Isn’t a Bigger Telescope.",
+      "sha256": "b3afcbccd7b049bbd488136d09f09ccf048c947876fc22a7be19aadf06aaee85",
+      "reason": "The same-sized mirror sees a wider field; the spatial metaphor avoids claiming Hubble knows only 0.1% of the universe."
+    },
+    {
+      "topic": "roman-cosmic-blind-spot",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/roman-cosmic-blind-spot/claude/chinese.md",
+      "headline_index": 1,
+      "headline": "《管中窥天三十年，今朝推门见星河》",
+      "sha256": "1fc5e2a57bdf22a55f0429dcc7df8ae5704e7b1f4559fcd0f6cac6df76af6f77",
+      "reason": "The same-sized mirror sees a wider field; the spatial metaphor avoids claiming Hubble knows only 0.1% of the universe."
+    },
+    {
+      "topic": "anthropic-paid-watchdog",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/anthropic-paid-watchdog/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Anthropic Is Paying for Its Own Watchdog. What Happens When the Findings Hurt?",
+      "sha256": "91d87816828d9dd9196504675f641be657d0220943873ea2552e4d1bfecdd74c",
+      "reason": "Who pays the watchdog is an obvious conflict; independence and future investment remain unresolved."
+    },
+    {
+      "topic": "anthropic-paid-watchdog",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/anthropic-paid-watchdog/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《犬食主粟，能吠主否？——十亿之约，静待第一纸逆耳之书》",
+      "sha256": "b1b57fcb641af330768c4f01d5a0bcfe9b90fec6613c79c07a9b45eef828ba08",
+      "reason": "Who pays the watchdog is an obvious conflict; independence and future investment remain unresolved."
+    },
+    {
+      "topic": "hotel-wifi-spy-trap",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/hotel-wifi-spy-trap/claude/english.md",
+      "headline_index": 0,
+      "headline": "The Hotel Login Page Was Real. That Was the Trap.",
+      "sha256": "aca645f08c37eaad164e0b8c59fa7c346fc8c596fb1d71872f82fc543b4de774",
+      "reason": "A real sign-in can authorize the wrong session. Keep hotel compromise and authorization mechanics distinct."
+    },
+    {
+      "topic": "hotel-wifi-spy-trap",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/hotel-wifi-spy-trap/chatgpt/chinese.md",
+      "headline_index": 2,
+      "headline": "《真门亦藏局：微软页面无伪，所允之人未必是君》",
+      "sha256": "dbce3e7998587988e9de83e61c32709c220106a46d6297b25a929ecba074b79f",
+      "reason": "A real sign-in can authorize the wrong session. Keep hotel compromise and authorization mechanics distinct."
+    }
+  ]
+}

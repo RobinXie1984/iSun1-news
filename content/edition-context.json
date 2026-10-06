@@ -1624,6 +1624,62 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/grok/english.md",
+      "captured_at": "2026-10-06T11:31:43.304Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/max-verstappen-first-win-october/grok/chinese.md",
+      "captured_at": "2026-10-06T11:33:38.577Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/grok/english.md",
+      "captured_at": "2026-10-06T11:31:44.319Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lula-flavio-bolsonaro-runoff-oct25/grok/chinese.md",
+      "captured_at": "2026-10-06T11:33:38.948Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/grok/english.md",
+      "captured_at": "2026-10-06T11:31:45.564Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/grok/chinese.md",
+      "captured_at": "2026-10-06T11:33:39.306Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/grok/english.md",
+      "captured_at": "2026-10-06T11:31:47.249Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/grok/chinese.md",
+      "captured_at": "2026-10-06T11:33:39.672Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

@@ -7,7 +7,7 @@ const get=(path,cookie)=>new Request(origin+path,{headers:cookie?{Cookie:cookie}
 // Load alternate content snapshots into the actual Worker without rebuilding dist.
 async function sourceWorker(stories,history=[]){
   const source=readFileSync(new URL('../src/worker.mjs',import.meta.url),'utf8').replace("'./engine.mjs'",JSON.stringify(new URL('../src/engine.mjs',import.meta.url).href));
-  const code=`const STORIES=${JSON.stringify(stories)};const HISTORY=${JSON.stringify(history)};const ASSETS={};\n${source}`;
+  const code=`const STORIES=${JSON.stringify(stories)};const HISTORY=${JSON.stringify(history)};const ASSETS={};const OLYMPICS={};\n${source}`;
   return (await import('data:text/javascript;base64,'+Buffer.from(code).toString('base64'))).default;
 }
 async function cohort(){const DB=createDB();const r=await worker.fetch(get('/api/feed?measure=1'),{DB});const cookie=r.headers.get('set-cookie').split(';')[0];const feed=await r.json();return {DB,cookie,feed};}

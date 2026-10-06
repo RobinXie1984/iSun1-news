@@ -47,7 +47,7 @@ async function feed(req,env,url){
     if(!hook)return json({error:'experiment_configuration_mismatch'},503);
     list.push({...story,selected_hook:hookId,headline:hook[lang],ticket});
   }
-  return json({stories:list,language:lang,preview,measurement:tracking?'anonymous':'off',latest_event_date:STORIES.map(s=>s.event_date).sort().at(-1),version:'0.1.2'},200,tracking?{'Set-Cookie':`isun1_v=${v}; Path=/; HttpOnly; SameSite=Lax; Max-Age=2592000${url.protocol==='https:'?'; Secure':''}`}:{ });
+  return json({stories:list,has_editorial_picks:Boolean(OLYMPICS.picks),language:lang,preview,measurement:tracking?'anonymous':'off',latest_event_date:STORIES.map(s=>s.event_date).sort().at(-1),version:'0.1.2'},200,tracking?{'Set-Cookie':`isun1_v=${v}; Path=/; HttpOnly; SameSite=Lax; Max-Age=2592000${url.protocol==='https:'?'; Secure':''}`}:{ });
 }
 async function signal(req,env,url){
   if(req.headers.get('Origin')!==url.origin)return json({error:'origin'},403);

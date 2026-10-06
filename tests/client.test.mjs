@@ -159,10 +159,11 @@ test('leaving a reader restores the destination page title',async()=>{
  b.location.hash='lab';b.emit('hashchange');await flush();assert.equal(b.document.title,'Hook Lab | iSun1.news');
 });
 
- test('pilot homepage remains outside the legacy experiment even with stored consent',async()=>{
+ test('pilot homepage and selected stories stay outside the legacy experiment even with stored consent',async()=>{
  const b=await browser({pilot:true});await b.tick(80);
  assert.deepEqual(b.requests,[]);assert.match(b.node('#main').innerHTML,/Model Olympics/);
  assert.ok(b.feedRequests.every(p=>new URL(p,'https://example.test').searchParams.get('measure')!== '1'));
  b.location.hash='stories';b.emit('hashchange');await flush();
- assert.equal(new URL(b.feedRequests.at(-1),'https://example.test').searchParams.get('measure'),'1');
+ assert.equal(new URL(b.feedRequests.at(-1),'https://example.test').searchParams.get('measure'),null);
+ assert.equal(new URL(b.feedRequests.at(-1),'https://example.test').searchParams.get('preview'),'1');
 });

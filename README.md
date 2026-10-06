@@ -8,7 +8,7 @@ The source includes six event packets, 120 bilingual headline candidates, source
 
 ## September 28 Model Olympics pilot
 
-Read the [original model editions](content/model-olympics/README.md): six shared story briefs, independent English and Chinese submissions, and no automatic ranking. Robin will review the one-week pilot after October 4. Missing submissions remain explicitly unavailable; the existing audience thresholds do not gate this pilot. These are unedited model drafts, not independently verified reporting. The website uses Robin’s selected ivory editorial salon with English/Chinese and Day/Night.
+Read the [original model editions](content/model-olympics/README.md): dated shared briefs and independent English and Chinese submissions from six editors. Daily collection continues beyond the initial pilot. At Robin’s request, Maxwell selects one credited original per language and topic for The Stories; these are editorial choices, not measured audience winners. All other originals remain accessible in Model Olympics. Missing submissions stay explicit; legacy audience thresholds do not gate publication. The website retains the ivory editorial salon, English/Chinese and Day/Night.
 
 ## Run locally
 

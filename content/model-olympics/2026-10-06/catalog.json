@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T07:23:07.412281+00:00",
+  "generated_at": "2026-10-06T11:33:39.672Z",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 20,
-  "unavailable_count": 4,
+  "available_count": 24,
+  "unavailable_count": 0,
   "articles": [
     {
       "provider": "chatgpt",
@@ -78,9 +78,9 @@
       "topic": "chatgpt-12-billion-visual-ad-test",
       "event_date": "2026-10-05",
       "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Grok human verification prevented collection; no article was submitted or substituted. / Grok 人机验证阻止采集，未提交或代写该稿。"
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/grok/english.md",
+      "status": "available",
+      "availability_note": "The planned US test, 1.2-billion company-reported weekly people, separation commitments and unfinished pilots remain qualified. Commentary about private creation, funding and tolerance is analysis rather than measured user evidence.\n\n拟议美国测试、公司自述每周12亿人、分离承诺与未完成试点均有限定。“开源智造之司”不是OpenAI正式名称，也不能作为其产品全部开源的断言。有关创作、融资与容忍的议论不是用户实测。"
     },
     {
       "provider": "grok",
@@ -89,9 +89,9 @@
       "topic": "chatgpt-12-billion-visual-ad-test",
       "event_date": "2026-10-05",
       "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Grok human verification prevented collection; no article was submitted or substituted. / Grok 人机验证阻止采集，未提交或代写该稿。"
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/grok/chinese.md",
+      "status": "available",
+      "availability_note": "The planned US test, 1.2-billion company-reported weekly people, separation commitments and unfinished pilots remain qualified. Commentary about private creation, funding and tolerance is analysis rather than measured user evidence.\n\n拟议美国测试、公司自述每周12亿人、分离承诺与未完成试点均有限定。“开源智造之司”不是OpenAI正式名称，也不能作为其产品全部开源的断言。有关创作、融资与容忍的议论不是用户实测。"
     },
     {
       "provider": "deepseek",
@@ -210,9 +210,9 @@
       "topic": "deisseroth-nobel-light-switch-neurons",
       "event_date": "2026-10-05",
       "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Grok human verification prevented collection; no article was submitted or substituted. / Grok 人机验证阻止采集，未提交或代写该稿。"
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/grok/english.md",
+      "status": "available",
+      "availability_note": "The text incorrectly says Stanford supplies no dialogue: its full report records the call request and Deisseroth’s reaction, omitted by the shared brief. It also treats direct genetic preparation as universal, overlooking newer techniques qualified by Stanford. The separate 2021 single-patient partial recovery remains distinct from the Nobel award.\n\n斯坦福完整报道记录了来电请求与得主反应，不能称只记时刻而“不及对答”；是简报未摘录。把直接遗传制备写成一律必需，忽略斯坦福对新方法的限定。2021年单例部分恢复与本次诺奖保留区分。"
     },
     {
       "provider": "grok",
@@ -221,9 +221,9 @@
       "topic": "deisseroth-nobel-light-switch-neurons",
       "event_date": "2026-10-05",
       "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Grok human verification prevented collection; no article was submitted or substituted. / Grok 人机验证阻止采集，未提交或代写该稿。"
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/grok/chinese.md",
+      "status": "available",
+      "availability_note": "The text incorrectly says Stanford supplies no dialogue: its full report records the call request and Deisseroth’s reaction, omitted by the shared brief. It also treats direct genetic preparation as universal, overlooking newer techniques qualified by Stanford. The separate 2021 single-patient partial recovery remains distinct from the Nobel award.\n\n斯坦福完整报道记录了来电请求与得主反应，不能称只记时刻而“不及对答”；是简报未摘录。把直接遗传制备写成一律必需，忽略斯坦福对新方法的限定。2021年单例部分恢复与本次诺奖保留区分。"
     },
     {
       "provider": "deepseek",
