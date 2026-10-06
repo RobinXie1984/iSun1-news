@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-06T07:23:07.412281+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 20,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "No material mismatch found against the locked brief. The text preserves the planned US test, company-reported weekly reach, separate ads and unverified commitments; proposed user reactions are explicitly hypothetical. This is a bounded source review, not a certification of the ad system.\n\n与锁定简报未见实质冲突。保留了美国拟议测试、公司自述周触达、广告与图像分离及承诺未独立验证等边界；用户反应明确是假设。此为限定来源核查，不是广告系统认证。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "No material mismatch found against the locked brief. Planned timing, reach versus impressions, separation commitments and incomplete evaluation pilots remain qualified. Literary reactions are marked as possible or analytical.\n\n与锁定简报未见实质冲突。计划时间、触达与曝光的区别、分离承诺及尚未完成的评估试点均有限定；文学化反应被标为可能或分析。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/claude/english.md",
+      "status": "available",
+      "availability_note": "The announcement says during image generation, not specifically the waiting interval; the opening narrows placement without evidence. The initial advertiser group has no stated size. The birthday-card and grandmother scenes are illustrations, not reported users. Brand-suitability pilots do not by themselves audit answer independence. The body otherwise preserves planned US scope and company attribution.\n\n公告说在图像生成过程中，并未指定等待间隙；开场把位置说得更窄。首批广告主未披露数量。贺卡、祖母厨房等场景是举例，不是采访事实。品牌适宜性试点本身不等于回答独立性审计；正文其余部分保留了美国拟议测试和公司归属。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/claude/chinese.md",
+      "status": "available",
+      "availability_note": "“十月下旬” is more specific than later this month; “少数广告主” and a waiting-only placement are also not specified. Claims about circulating public misreports lack a cited example. Brand-suitability evaluation should not be treated as an audit of unbiased answers. Planned US scope and the company-reported reach are otherwise preserved.\n\n“十月下旬”比原文“本月稍后”更具体；“少数广告主”及仅在等待时出现也未获明确支持。所谓坊间误传没有实例来源；品牌适宜性评估不能当作回答不受广告影响的审计。其余美国拟议测试及公司自述触达边界保留。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/gemini/english.md",
+      "status": "available",
+      "availability_note": "“Widespread industry discussion” is not evidenced here. The clean, previously uncommercial AI-era narrative overlooks the announcement’s existing ad formats. Advertising as the only or inevitable funding route, massive energy use for every prompt, and quantified user tolerance are unsupported generalizations. Pilots are being developed, not established certification. The core US test, reach and separation claims remain qualified.\n\n“广泛行业讨论”在此无证据。此前完全无商业化的叙事忽略了公告已有广告形式。广告是唯一或必然融资方式、每条指令均大量耗能、用户容忍规律等，均是无依据泛化。试点仍在开发，不是认证。美国测试、触达与分离等核心事实有限定。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "The source counts people, not weekly person-visits (“人次”). “十月下旬” is narrower than later this month. The final invitation to let an ad occupy a corner of the picture blurs the promised separation from the generated image. Assertions that advertising is economically inevitable and search users tolerate it better are analysis, not demonstrated findings.\n\n原文是人数，不是每周“人次”；“十月下旬”也比“本月稍后”更窄。结尾让广告占画卷一隅，混淆了与生成图像分离的承诺。广告在经济上不可避免、搜索用户更能容忍广告等，是议论，非实证结果。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Grok human verification prevented collection; no article was submitted or substituted. / Grok 人机验证阻止采集，未提交或代写该稿。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Grok human verification prevented collection; no article was submitted or substituted. / Grok 人机验证阻止采集，未提交或代写该稿。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/deepseek/english.md",
+      "status": "available",
+      "availability_note": "The headline “draw an ad instead” conflicts with the stated separation from generated images. First-person claims of having used and watched image generators are unsupported author experience. The claim that there was no keynote or celebrity cameo is also unverified. The body correctly dates a planned US test and distinguishes company reach from ad impressions; those qualifications do not repair the misleading headline.\n\n“改画广告”标题与广告不进入生成图像的承诺相冲突。自述曾使用、观看图像生成器属于无依据的亲身经历；没有发布会或名人亮相也未核实。正文正确保留美国拟议测试与触达不等于曝光的边界，但不能补救标题误导。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "“十月下旬” narrows the source’s later-this-month plan without support. Claims that the measurement yardstick is not set overstate the source, which describes existing tools and expanding partnerships. The ad-outside-image and company-reach boundaries are preserved; the literary first-person commentary is opinion, not evidence of personal product use.\n\n“十月下旬”无依据地收窄了“本月稍后”的计划。“尺未定”等说法夸大了未完成状态：原文已有衡量工具及合作扩展。广告在图外、触达为公司自述等边界保留；文学性第一人称议论不构成亲身使用证据。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/qwen/english.md",
+      "status": "available",
+      "availability_note": "The headline implies a compromised canvas; the source promises ads separate from the image. Waiting-period placement, new sentiment/recall metrics and detailed filtering architecture are not specified. “1.2 billion weekly interactions” changes a company-reported people count. Free-tier shares, certain billions of revenue and inevitable paid/free stratification are unsupported. The rollout remains a planned US test, not proof of hidden paid answers.\n\n标题暗示画布已被侵入，来源承诺广告与图像分开。等待间隙、情感/回忆指标及过滤架构细节未获支持。“十二亿周交互”偷换了公司自述人数；免费占比、必获数十亿收入及必然分层均无据。仍是美国拟议测试，不证明暗中付费答案。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/chatgpt-12-billion-visual-ad-test.md",
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "“十月下旬”, a small advertiser count and waiting-only placement exceed the announcement. Venture-funding retreat, ads as necessary for survival and certain revenue are unverified conclusions. The preserved second Chinese alternative also invents a 2026 ChatGPT debut and a 20–30% paying share, recasts total weekly reach as non-paying users, and invents collective shock and first-person product history. These are not reported facts.\n\n“十月下旬”、少数广告主及只在等待时出现超出公告。风投退潮、靠广告续命和必获收入均未核实。保留的第二份中文另稿还误写ChatGPT于2026年问世，编造二至三成付费占比，把总周触达写成不付费用户，并虚构集体震惊和第一人称使用史；这些不是报道事实。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "No material mismatch found in the main claims. Prepared-cell scope, award date, separate 2021 trial, one patient, partial recovery and Sahel/Roska attribution are preserved. The patient-detail disclaimer is conservative: Inserm does report locating, counting and touching objects, though not private emotions or ordinary-life outcomes. This review does not certify the wider medical analysis.\n\n核心主张未见实质冲突。预备细胞范围、获奖日期、独立的2021年单例部分恢复及萨赫尔/罗斯卡归属均保留。关于患者细节的留白偏保守：Inserm已报道定位、数数和触摸物体的测试能力，但未报告私人情绪或日常生活效果。此核查不认证全部医学分析。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "“事实所载，止于此处” wrongly implies Stanford stops at the missed call: its full article records the request to speak with Karl and his reaction. The brief merely omitted them. Inserm also describes object-location/counting/touching tests; that is distinct from inventing private feelings. Prepared cells, the separate 2021 single-patient partial recovery and its leaders are otherwise correctly scoped.\n\n“事实所载，止于此处”误称斯坦福记录止于漏接电话；完整原文有来电请求及本人反应，只是简报未摘录。Inserm也记录定位、计数及触摸物体的测试，这与杜撰私人感受有别。预备细胞、独立的2021年单例部分恢复及负责人其余范围正确。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/claude/english.md",
+      "status": "available",
+      "availability_note": "The claim that Stanford gives no dialogue or reaction is incorrect: its full article records both the call’s request and Deisseroth’s reaction. The brief omitted those details. “Others are left alone” and a flashlight “does nothing” are overly absolute; cell targeting does not imply zero downstream neural effects. The prepared-cell scope and separate 2021 single-patient result are otherwise preserved.\n\n“斯坦福未给出对话或反应”不实：完整原文记录了来电请求与得主反应，简报只是未摘录。“其他细胞不受影响”、手电筒“毫无作用”过于绝对；靶向细胞不等于没有下游神经效应。预备细胞范围及独立的2021年单例结果其余部分保留。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/claude/chinese.md",
+      "status": "available",
+      "availability_note": "“其后言语、心绪皆无记载” misdescribes Stanford: the full source includes dialogue and reactions. “不扰其旁” and “无效应” overstate selectivity into an absence of downstream effects. The 2021 patient, partial recovery, special goggles and separate Sahel/Roska leadership are correctly distinguished from the Nobel award.\n\n“其后言语、心绪皆无记载”误述斯坦福完整原文，其中有对话和反应。“不扰其旁”“无效应”把选择性夸成绝无下游影响。2021年患者、部分恢复、特制眼镜及萨赫尔/罗斯卡独立领衔，均正确区别于诺奖。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/gemini/english.md",
+      "status": "available",
+      "availability_note": "The table’s absolute requirement for direct genetic insertion and implanted light delivery is too broad: Stanford explicitly describes newer manipulation without direct genetic engineering; Inserm’s retinal case uses goggles. “A neuron does not react to light naturally” is also overgeneralized. Extra cell-count, immune and delivery assertions are not established by the locked sources. The 2021 single-patient case is correctly separated from the laureates.\n\n表格把直接基因插入和植入式送光写成绝对要求，范围过大：斯坦福明确提到无需直接基因工程的新方法；Inserm的视网膜例子使用眼镜。“神经元天然不响应光”也过于泛化。额外细胞数、免疫及递送断言未由锁定来源确立。2021年单例已与得主区分。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Medicine laureates are selected by the Nobel Assembly at Karolinska Institutet, not the Royal Swedish Academy of Sciences. Stanford does not establish that Deisseroth was asleep. Its cited inhibition example uses yellow light, not red; universal genetic insertion plus implanted-fiber requirements also exceed the source. The separate 2021 case is correctly limited, but saying it is no contribution of the laureates obscures the foundational technology relationship.\n\n医学奖由卡罗琳斯卡医学院诺贝尔大会评选，并非瑞典皇家科学院。斯坦福未证实戴氏当时沉睡；所举抑制实例是黄光，不是红光。必先基因转导并植光纤也写成了过宽的绝对要求。2021年独立病例的疗效范围正确，但称全非得主之功，忽略了奠基技术关系。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Grok human verification prevented collection; no article was submitted or substituted. / Grok 人机验证阻止采集，未提交或代写该稿。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Grok human verification prevented collection; no article was submitted or substituted. / Grok 人机验证阻止采集，未提交或代写该稿。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Stanford does record dialogue and reactions, contrary to the assertion that it does not. “Light switch inside your head” and “watch the brain think” need the prepared-cell qualification found later in the body. The blanket claim that human brains cannot ethically be perturbed is too broad. The separate 2021 partial-recovery case and its leaders are correctly scoped.\n\n斯坦福原文确实记录对话和反应，与文中否认相反。“你头里的开关”“看大脑思考”须带上正文后面的预备细胞限定。“不能合乎伦理地干预人脑”过于宽泛。独立的2021年部分视觉恢复及负责人范围正确。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "The suggestion that the call’s words and emotions are unknowable overlooks Stanford’s recorded dialogue and reactions. “与三位得主无涉” overcorrects attribution: Sahel and Roska led a separate trial, but it used optogenetics. The text otherwise preserves one patient, partial recovery, 2021 timing and no ordinary-light mind control.\n\n称来电言语心绪非外人所知，忽略了斯坦福已记录的对话和反应。“与三位得主无涉”矫枉过正：试验由萨赫尔和罗斯卡另行领衔，但仍使用光遗传学。单例、部分恢复、2021年及非普通光控脑等边界保留。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/qwen/english.md",
+      "status": "available",
+      "availability_note": "Missing the call does not prove a phone malfunction. “Harmless” viral vectors, exact knowledge of depression/Alzheimer’s/addiction circuits, a theoretical cure and inevitable future cures exceed the sources. A blanket requirement for genetic modification also overlooks Stanford’s newer-method qualification. The 2021 case must remain one patient’s partial vision with goggles; it cannot support restored normal vision or general brain treatment.\n\n漏接电话不证明手机故障。“无害”病毒载体、已精确掌握抑郁/阿尔茨海默病/成瘾回路、理论治愈及必然出现疗法，均超出来源。把基因改造写成一律必需，也忽略斯坦福新方法限定。2021年仍是配眼镜的单例部分恢复，不支持正常复明或普遍脑治疗。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "event_date": "2026-10-05",
+      "source_brief": "briefs/deisseroth-nobel-light-switch-neurons.md",
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "“翌日” shifts Stanford’s announcement from October 5 to October 6; it was the same day. “电波未达” invents a reason for the missed call. “无毒” vectors, known disease circuits and “重见天日” overstate safety, knowledge or recovery; the 2021 finding was partial vision in one prepared patient using special goggles. Imagined thoughts attributed to Deisseroth are not sourced.\n\n“翌日”把斯坦福10月5日的同日宣布错移到6日；“电波未达”虚构漏接原因。“无毒”载体、已知疾病回路及“重见天日”夸大安全、认知或疗效；2021年是配特制眼镜的单例部分视觉恢复。替戴氏安排的顿悟心声也无来源。"
+    }
+  ]
+}

@@ -1484,6 +1484,146 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/chatgpt/english.md",
+      "captured_at": "2026-10-06T07:12:03.865Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/chatgpt/chinese.md",
+      "captured_at": "2026-10-06T07:14:24.841Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/claude/english.md",
+      "captured_at": "2026-10-06T07:08:44.827Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/claude/chinese.md",
+      "captured_at": "2026-10-06T07:10:03.620Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/gemini/english.md",
+      "captured_at": "2026-10-06T07:08:36.640Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/gemini/chinese.md",
+      "captured_at": "2026-10-06T07:09:34.476Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/deepseek/english.md",
+      "captured_at": "2026-10-06T07:08:36.670Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/deepseek/chinese.md",
+      "captured_at": "2026-10-06T07:10:03.632Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/qwen/english.md",
+      "captured_at": "2026-10-06T07:09:34.131Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chatgpt-12-billion-visual-ad-test/qwen/chinese.md",
+      "captured_at": "2026-10-06T07:11:38.063Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/chatgpt/english.md",
+      "captured_at": "2026-10-06T07:17:25.303Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/chatgpt/chinese.md",
+      "captured_at": "2026-10-06T07:19:24.435Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/claude/english.md",
+      "captured_at": "2026-10-06T07:12:04.690Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/claude/chinese.md",
+      "captured_at": "2026-10-06T07:13:32.777Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/gemini/english.md",
+      "captured_at": "2026-10-06T07:14:55.063Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/gemini/chinese.md",
+      "captured_at": "2026-10-06T07:19:24.416Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/deepseek/english.md",
+      "captured_at": "2026-10-06T07:13:32.208Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/deepseek/chinese.md",
+      "captured_at": "2026-10-06T07:15:33.283Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/qwen/english.md",
+      "captured_at": "2026-10-06T07:14:24.862Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deisseroth-nobel-light-switch-neurons/qwen/chinese.md",
+      "captured_at": "2026-10-06T07:16:22.738Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

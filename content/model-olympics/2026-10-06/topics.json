@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "chatgpt-12-billion-visual-ad-test",
+      "title": {
+        "en": "ChatGPT says 1.2 billion people visit weekly. Will image-making become an ad break?",
+        "zh": "ChatGPT每周12亿人用：画张图，也要插广告了？"
+      },
+      "summary": {
+        "en": "OpenAI plans a US visual-ad test during image generation later in October. It says the ads will remain separate from generated images and will not influence answers.",
+        "zh": "OpenAI计划10月晚些时候在美国试投生成图片时的视觉广告，并称广告与生成图片分开、不会影响回答。"
+      },
+      "event_date": "2026-10-05"
+    },
+    {
+      "id": "deisseroth-nobel-light-switch-neurons",
+      "title": {
+        "en": "He can switch neurons with light. How did Karl Deisseroth miss the Nobel call?",
+        "zh": "他能用光开关神经细胞，却漏接诺奖电话：戴瑟罗斯做对了什么？"
+      },
+      "summary": {
+        "en": "Karl Deisseroth, Peter Hegemann and Georg Nagel share the 2026 medicine Nobel for optogenetics. The work changes how scientists test brain circuits; it is not a universal cure or mind-reading tool.",
+        "zh": "戴瑟罗斯、赫格曼与纳格尔共享2026年诺贝尔生理学或医学奖。光遗传学改变了研究脑回路的方法，但不是万能疗法或读心术。"
+      },
+      "event_date": "2026-10-05"
+    }
+  ]
+}
