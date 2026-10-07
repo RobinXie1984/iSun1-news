@@ -112,9 +112,12 @@ function mediaSourceURL(value){
     const headlines = []; let last = -1;
     for (let i = 0; i < Math.min(lines.length,80) && headlines.length < 3; i++) {
       const line = plain(lines[i]);
-      const style = /suspens|emotion|counter[ -]*intuitive|悬|情感|情深|情动|情韵|动情|共鸣|共情|抒情|浪漫|反直觉|逆直觉|反常识|反常|反转|逆思|逆向思维|反向直觉|反差|出人意料|磅礴史诗/i;
+      const style = /suspens|emotion|counter[ -]*intuitive|悬|情感|情怀|情深|情动|情韵|动情|寄情|共鸣|共情|抒情|浪漫|反思|反直觉|逆直觉|反常识|反常|反转|逆思|逆向思维|反向直觉|反差|出人意料|磅礴史诗/i;
       // An introductory sentence about romantic prose is not a headline option.
       if (/^(?:以下|这里|为您|这是|Here\b|Below\b)/i.test(line)) continue;
+      // Explicitly numbered Chinese options can omit a style label entirely.
+      const numbered = /^标题[一二三123][｜|]\s*(.+)$/.exec(line);
+      if (i < 8 && numbered && !style.test(numbered[1].split(/[:：]/)[0])) { headlines.push(numbered[1]); last = i; continue; }
       const bracket = /^(?:[一二三][、.．]\s*)?【([^】]+)】\s*(.+)$/.exec(line);
       // A bar after the style is a separator; a bar before it is label decoration.
       const bar = line.search(/[｜|]/);
@@ -133,8 +136,13 @@ function mediaSourceURL(value){
     }
     // Some originals explicitly group three unlabelled options under this heading.
     if (!headlines.length) {
+      const opening=lines.slice(0,8).map(plain).filter(Boolean).slice(0,3);
+      if(opening.length===3&&opening.every(line=>/^【[^】]{5,240}】$/.test(line))){
+        headlines.push(...opening.map(line=>line.slice(1,-1)));
+        last=lines.findIndex(line=>plain(line)===opening[2]);
+      }
       const start=lines.findIndex(line=>/^Three Headline Options$/i.test(plain(line)));
-      if(start>=0&&start<8){
+      if(!headlines.length&&start>=0&&start<8){
         const options=lines.slice(start+1).map(plain).filter(Boolean).slice(0,3);
         if(options.length===3&&options.every(line=>line.length>=15&&line.length<=240)){
           headlines.push(...options);last=start;

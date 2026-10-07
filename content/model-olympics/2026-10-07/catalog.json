@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-07T07:18:48.621802+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 24,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/claude/english.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/claude/chinese.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/gemini/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. The supplied sources do not establish “biggest merger in history,” that this deal is necessary for survival, or specific integration outcomes. $81 billion equity value and $110 billion enterprise value are distinct measures."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. The supplied sources do not establish “biggest merger in history,” that this deal is necessary for survival, or specific integration outcomes. $81 billion equity value and $110 billion enterprise value are distinct measures."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/grok/english.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. “One Family” omits RedBird, which jointly holds voting shares with the Ellison family. The supplied sources list CNN, CBS News and HBO, not four networks. $110 billion is enterprise value, not a personal cheque."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/qwen/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. The sources do not establish the cause of the fractional closing payment, political motives, or that Hollywood has only one remaining decision-maker. Ellison family and RedBird jointly hold voting shares; future results remain uncertain."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "david-ellison-warner-81-billion-close",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/david-ellison-warner-81-billion-close.md",
+      "article_path": "articles/david-ellison-warner-81-billion-close/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. The sources do not establish the cause of the fractional closing payment, political motives, or that Hollywood has only one remaining decision-maker. Ellison family and RedBird jointly hold voting shares; future results remain uncertain."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/claude/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. Figurative interaction fractions are not measured detection rates. The 2013 result established astrophysical high-energy neutrinos, not the existence of all neutrinos. Group membership is current, not an unchanged 38-year roster."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/claude/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. Figurative interaction fractions are not measured detection rates. The 2013 result established astrophysical high-energy neutrinos, not the existence of all neutrinos. Group membership is current, not an unchanged 38-year roster."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/gemini/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. Exact sensor counts, depth, particle flux and claims that critics dismissed the idea are not verified by this brief. IceCube observes rare interactions; it did not stop all particles or solve every cosmic mystery."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. Exact sensor counts, depth, particle flux and claims that critics dismissed the idea are not verified by this brief. IceCube observes rare interactions; it did not stop all particles or solve every cosmic mystery."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/grok/english.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Original model submission preserved. The linked factual brief is the verified reference; additional historical, scientific or interpretive claims are not automatically verified."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. 1988 to 2011 is 23 years, not 25; 1988 to the 2013 discovery is 25. Exact detector depth and personal hardship are not established by this brief. The telescope observes rare interactions rather than simply pointing down."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. 1988 to 2011 is 23 years, not 25; 1988 to the 2013 discovery is 25. Exact detector depth and personal hardship are not established by this brief. The telescope observes rare interactions rather than simply pointing down."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/qwen/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. “World’s most powerful telescope,” exact depth and a light-year lead-wall comparison are not established by the supplied brief. IceCube-Gen2 is proposed, not built; “paper plan” does not mean an imaginary project."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "event_date": "2026-10-06",
+      "source_brief": "briefs/francis-halzen-cubic-kilometre-nobel.md",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. “World’s most powerful telescope,” exact depth and a light-year lead-wall comparison are not established by the supplied brief. IceCube-Gen2 is proposed, not built; “paper plan” does not mean an imaginary project."
+    }
+  ]
+}

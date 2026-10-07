@@ -1680,6 +1680,174 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/chatgpt/english.md",
+      "captured_at": "2026-10-07T07:11:32.837Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/chatgpt/chinese.md",
+      "captured_at": "2026-10-07T07:14:21.081Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/claude/english.md",
+      "captured_at": "2026-10-07T07:08:35.101Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/claude/chinese.md",
+      "captured_at": "2026-10-07T07:09:55.751Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/gemini/english.md",
+      "captured_at": "2026-10-07T07:08:35.911Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/gemini/chinese.md",
+      "captured_at": "2026-10-07T07:09:41.907Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/grok/english.md",
+      "captured_at": "2026-10-07T07:08:37.077Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/grok/chinese.md",
+      "captured_at": "2026-10-07T07:09:56.043Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/deepseek/english.md",
+      "captured_at": "2026-10-07T07:08:38.242Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/deepseek/chinese.md",
+      "captured_at": "2026-10-07T07:10:28.436Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/qwen/english.md",
+      "captured_at": "2026-10-07T07:08:39.137Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/david-ellison-warner-81-billion-close/qwen/chinese.md",
+      "captured_at": "2026-10-07T07:09:56.415Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/chatgpt/english.md",
+      "captured_at": "2026-10-07T07:14:21.875Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/chatgpt/chinese.md",
+      "captured_at": "2026-10-07T07:17:19.715Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/claude/english.md",
+      "captured_at": "2026-10-07T07:11:18.455Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/claude/chinese.md",
+      "captured_at": "2026-10-07T07:14:21.112Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/gemini/english.md",
+      "captured_at": "2026-10-07T07:11:19.590Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/gemini/chinese.md",
+      "captured_at": "2026-10-07T07:14:21.146Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/grok/english.md",
+      "captured_at": "2026-10-07T07:11:20.677Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/grok/chinese.md",
+      "captured_at": "2026-10-07T07:14:21.182Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/deepseek/english.md",
+      "captured_at": "2026-10-07T07:11:21.846Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/deepseek/chinese.md",
+      "captured_at": "2026-10-07T07:14:21.217Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/qwen/english.md",
+      "captured_at": "2026-10-07T07:14:21.267Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/qwen/chinese.md",
+      "captured_at": "2026-10-07T07:17:19.668Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }

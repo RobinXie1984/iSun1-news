@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "david-ellison-warner-81-billion-close",
+      "title": {
+        "en": "David Ellison lands Warner Bros. for $81 billion. Who gets to tell the next story?",
+        "zh": "大卫·埃里森拿下华纳：810亿美元，买到了谁的故事？"
+      },
+      "summary": {
+        "en": "Paramount completed the acquisition on October 6. The $81 billion is equity value; $110 billion is enterprise value. CNN and CBS News now share a corporate parent; editorial outcomes remain uncertain.",
+        "zh": "派拉蒙于10月6日完成收购。810亿美元是股权价值，1100亿美元是企业价值。CNN与CBS新闻同属一家母公司；编辑独立与整合结果仍待观察。"
+      },
+      "event_date": "2026-10-06"
+    },
+    {
+      "id": "francis-halzen-cubic-kilometre-nobel",
+      "title": {
+        "en": "Francis Halzen put a cubic kilometre of ice to work. What did it catch?",
+        "zh": "哈尔岑把一立方公里南极冰变成望远镜：到底抓到了什么？"
+      },
+      "summary": {
+        "en": "The October 6 physics Nobel recognises Halzen’s role in IceCube and high-energy cosmic neutrinos. An international team turns rare interactions into a new view of the universe.",
+        "zh": "10月6日物理诺奖表彰哈尔岑对IceCube及高能宇宙中微子的贡献。国际团队借极罕见的粒子相互作用，打开新的宇宙观测窗口。"
+      },
+      "event_date": "2026-10-06"
+    }
+  ]
+}

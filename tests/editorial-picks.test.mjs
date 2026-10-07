@@ -5,12 +5,25 @@ import {readFileSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import {loadOlympicsArchive,validateEditorialPicks} from '../scripts/olympics-bundle.mjs';
 function ui(){const window={};vm.runInNewContext(readFileSync('public/olympics.js','utf8'),{window,URL,URLSearchParams,fetch(){throw Error('No signals or network in editorial render');}});return window.iSunOlympics;}
+test('numbered literary options retain their headlines without mistaking ordinary prose for labels',()=>{
+ const view=ui(),root='content/model-olympics/2026-10-07/articles/';
+ const ellison=readFileSync(root+'david-ellison-warner-81-billion-close/chatgpt/chinese.md','utf8');
+ const halzen=readFileSync(root+'francis-halzen-cubic-kilometre-nobel/chatgpt/chinese.md','utf8');
+ assert.equal(view.preview(ellison).headlines.length,3);
+ assert.equal(view.preview(ellison).headlines[1],'买尽银屏灯火，买得几许新梦？');
+ assert.equal(view.preview(halzen).headlines.length,3);
+ assert.equal(view.preview(halzen).headlines[1],'一人桂冠，众手星桥：冰原深处有知音');
+ const qwen=readFileSync(root+'francis-halzen-cubic-kilometre-nobel/qwen/chinese.md','utf8');
+ assert.equal(view.preview(qwen).headlines.length,3);
+ assert.equal(view.preview(qwen).headlines[0],'幽冥冰鉴：万丈玄渊寻魅录');
+ assert.equal(view.preview('普通正文谈寄情与反思。\n以下是浪漫主义的文章。').headlines.length,0);
+});
 const data=loadOlympicsArchive();
 test('every topic has two selected exact original editions, with independent language choices',()=>{
  assert.equal(data.picks.entries.length,data.topics.length*2);
  for(const pick of data.picks.entries){assert.equal(createHash('sha256').update(data.articles[pick.article_path]).digest('hex'),pick.sha256);assert.equal(ui().preview(data.articles[pick.article_path]).headlines[pick.headline_index],pick.headline);}
  assert.ok(data.topics.some(topic=>new Set(data.picks.entries.filter(p=>p.topic===topic.id).map(p=>p.provider)).size===2));
- assert.equal(data.catalog.unavailable_count,0);assert.equal(data.catalog.available_count,240);
+ assert.equal(data.catalog.unavailable_count,0);assert.equal(data.catalog.available_count,data.topics.length*12);
 });
 test('editorial metadata rejects fabricated headlines, stale bytes, wrong language and private fields',()=>{
  for(const changed of [

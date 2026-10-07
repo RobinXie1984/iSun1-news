@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-06T11:39:27.334Z",
+  "selected_at": "2026-10-07T07:20:01.751Z",
   "selected_by": "Maxwell",
   "entries": [
+    {
+      "topic": "david-ellison-warner-81-billion-close",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/david-ellison-warner-81-billion-close/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "David Ellison Closed the Warner Bros. Deal. The Biggest Question Comes After the Credits.",
+      "sha256": "d60d094c09f9494413666508f4ba6619076f3d887c040cc82c1205ad3e5197eb",
+      "reason": "David Ellison’s name anchors a completed deal and an unresolved question about who gets to tell the next story."
+    },
+    {
+      "topic": "david-ellison-warner-81-billion-close",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/david-ellison-warner-81-billion-close/chatgpt/chinese.md",
+      "headline_index": 1,
+      "headline": "买尽银屏灯火，买得几许新梦？",
+      "sha256": "f7e0a98eb923d51a693e420599ea78793d82dfa04ff5ba6eb6e0a65fca31b78a",
+      "reason": "A lyrical question makes creative choice personal while the body keeps joint ownership and financial measures precise."
+    },
+    {
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "He Proposed a Telescope Beneath the South Pole. Thirty-Eight Years Later, the Nobel Arrived.",
+      "sha256": "ab379b62d182839b278d914b29dfcb4cc89816f77a76f80eaa4fb24b1cebbf02",
+      "reason": "A person, a buried observatory and a 38-year clock create an immediate reversal without inventing his private struggle."
+    },
+    {
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/francis-halzen-cubic-kilometre-nobel/chatgpt/chinese.md",
+      "headline_index": 1,
+      "headline": "一人桂冠，众手星桥：冰原深处有知音",
+      "sha256": "6609ea94f08ba358c985bc921523afc81dc30824a309753466a6b27748ffbc78",
+      "reason": "One laureate and hundreds of collaborators supply human tension; the literary body retains the mechanism and project limits."
+    },
     {
       "topic": "chatgpt-12-billion-visual-ad-test",
       "language": "en",
