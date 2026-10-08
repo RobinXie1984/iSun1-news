@@ -112,7 +112,7 @@ function mediaSourceURL(value){
     const headlines = []; let last = -1;
     for (let i = 0; i < Math.min(lines.length,80) && headlines.length < 3; i++) {
       const line = plain(lines[i]);
-      const style = /suspens|emotion|counter[ -]*intuitive|悬|情感|情怀|情深|情动|情韵|动情|寄情|共鸣|共情|抒情|浪漫|反思|反直觉|逆直觉|反常识|反常|反转|逆思|逆向思维|反向直觉|反差|出人意料|磅礴史诗/i;
+      const style = /suspens|emotion|counter[ -]*intuitive|悬|懸|情感|情怀|情深|情动|情韵|动情|寄情|共鸣|共情|抒情|浪漫|反思|反直觉|逆直觉|反常识|反常|反转|逆思|逆向思维|反向直觉|反差|出人意料|磅礴史诗/i;
       // An introductory sentence about romantic prose is not a headline option.
       if (/^(?:以下|这里|为您|这是|Here\b|Below\b)/i.test(line)) continue;
       // Explicitly numbered Chinese options can omit a style label entirely.

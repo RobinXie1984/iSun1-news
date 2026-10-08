@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "jensen-satya-128gb-local-ai",
+      "title": {
+        "en": "Jensen and Satya put 128GB of AI on your desk. Who still needs the cloud?",
+        "zh": "黄仁勋与纳德拉把128GB AI搬上桌：云账单能少多少？"
+      },
+      "summary": {
+        "en": "Microsoft and NVIDIA announced RTX Spark PC preorders on October 7. Local and cloud routing remain hybrid; cost savings, privacy and benchmark gains depend on workloads and permissions.",
+        "zh": "微软与英伟达10月7日宣布RTX Spark电脑预售。本地与云端仍协同；节省多少成本、隐私是否改善，都取决于任务与权限。"
+      },
+      "event_date": "2026-10-07"
+    },
+    {
+      "id": "kagan-soai-molecular-mirror-nobel",
+      "title": {
+        "en": "Kagan and Soai won a Nobel for molecules with two hands. Why does the wrong hand matter?",
+        "zh": "卡根与索艾靠分子“左右手”拿诺奖：镜像相同，药效也相同吗？"
+      },
+      "summary": {
+        "en": "The October 7 chemistry Nobel honours non-linear effects and autocatalysis in asymmetric synthesis. Controlling molecular handedness matters to chemical manufacturing; this is not a new drug approval or proof of every origin-of-life claim.",
+        "zh": "10月7日化学诺奖表彰不对称合成的非线性效应与自催化。分子手性关系化学制造；这不是新药批准，也未破解生命起源所有谜题。"
+      },
+      "event_date": "2026-10-07"
+    }
+  ]
+}

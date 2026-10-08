@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-07T07:20:01.751Z",
+  "selected_at": "2026-10-08T07:14:35.381Z",
   "selected_by": "Maxwell",
   "entries": [
+    {
+      "topic": "jensen-satya-128gb-local-ai",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/jensen-satya-128gb-local-ai/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Jensen Huang and Satya Nadella Are Bringing AI Home. Who Gets the Keys?",
+      "sha256": "baf39b19b60c2f61d546431022ef580d619677bfa33e71f8226a04e8c4a9965b",
+      "reason": "Two familiar leaders bring AI onto the user’s own machine; permissions give the technical launch a direct human consequence."
+    },
+    {
+      "topic": "jensen-satya-128gb-local-ai",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/jensen-satya-128gb-local-ai/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《卧榻之侧，谁执其钥？黄仁勋、纳德拉共叩智能之门》",
+      "sha256": "1dba09d4e077393882eccc5cde6f4f635e8389e35e6205575d51e802c2708965",
+      "reason": "The key-and-door image makes agent authority personal, while dates, hybrid routing and vendor specifications remain qualified."
+    },
+    {
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "They Look Like Perfect Copies. Chemistry Knows the Difference.",
+      "sha256": "bf2d010e9fcceb1e86e44625941ea952a1ad3d829b44537f1e08cbc819eef5d8",
+      "reason": "An apparently perfect copy behaves differently: the glove opening makes molecular handedness immediately understandable."
+    },
+    {
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/claude/chinese.md",
+      "headline_index": 1,
+      "headline": "《左右同形，性情各异：一纸诺奖，敬微末之殊》",
+      "sha256": "210861fe1fc70957a36a9bc46cec4568231b7b9682b09ad092c8a9a7f8061982",
+      "reason": "A physical left-hand/right-glove scene leads into lyrical chemistry with distinct contributions and no invented private struggle."
+    },
     {
       "topic": "david-ellison-warner-81-billion-close",
       "language": "en",

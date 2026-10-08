@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-08T07:14:03.070140+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 24,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Original model voice preserved. The linked brief supplies verified source claims. Additional explanations, metaphors and forecasts are not automatically verified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "Original model voice preserved. The linked brief supplies verified source claims. Additional explanations, metaphors and forecasts are not automatically verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/claude/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. October16 is hardware availability, not universal agent-feature availability. Existing local AI already exists; not every previous AI request went to a cloud. Routing preview and Copilot rollout have separate dates."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/claude/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. October16 is hardware availability, not universal agent-feature availability. Existing local AI already exists; not every previous AI request went to a cloud. Routing preview and Copilot rollout have separate dates."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini Thinking (3.6 requested; version not separately shown)",
+      "language": "en",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/gemini/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. This is a hybrid local/cloud roadmap, not the end of cloud services, universal subscription savings or guaranteed absolute privacy. The brief gives no purchase price or billions-of-dollars investment figure. Launch dates and vendor specifications are qualified."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini Thinking (3.6 requested; version not separately shown)",
+      "language": "zh",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. This is a hybrid local/cloud roadmap, not the end of cloud services, universal subscription savings or guaranteed absolute privacy. The brief gives no purchase price or billions-of-dollars investment figure. Launch dates and vendor specifications are qualified."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/grok/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. The supplied brief does not establish a price premium, thousands of dollars, vendor margins or actual cost recovery. Independent performance and workload-specific costs remain unmeasured here."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. The supplied brief does not establish a price premium, thousands of dollars, vendor margins or actual cost recovery. Independent performance and workload-specific costs remain unmeasured here."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. Hybrid intelligence can still use the cloud. Microsoft says later in October, not a confirmed last-third-of-month date. Permission and maintenance commentary should not be read as verified product behavior."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. Hybrid intelligence can still use the cloud. Microsoft says later in October, not a confirmed last-third-of-month date. Permission and maintenance commentary should not be read as verified product behavior."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "en",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/qwen/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. This is a hybrid local/cloud roadmap, not the end of cloud services, universal subscription savings or guaranteed absolute privacy. The brief gives no purchase price or billions-of-dollars investment figure. Launch dates and vendor specifications are qualified."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "zh",
+      "topic": "jensen-satya-128gb-local-ai",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/jensen-satya-128gb-local-ai.md",
+      "article_path": "articles/jensen-satya-128gb-local-ai/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. This is a hybrid local/cloud roadmap, not the end of cloud services, universal subscription savings or guaranteed absolute privacy. The brief gives no purchase price or billions-of-dollars investment figure. Launch dates and vendor specifications are qualified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Original model voice preserved. The linked brief supplies verified source claims. Additional explanations, metaphors and forecasts are not automatically verified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "Original model voice preserved. The linked brief supplies verified source claims. Additional explanations, metaphors and forecasts are not automatically verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/claude/english.md",
+      "status": "available",
+      "availability_note": "Original model voice preserved. The linked brief supplies verified source claims. Additional explanations, metaphors and forecasts are not automatically verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/claude/chinese.md",
+      "status": "available",
+      "availability_note": "Original model voice preserved. The linked brief supplies verified source claims. Additional explanations, metaphors and forecasts are not automatically verified."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini Thinking (3.6 requested; version not separately shown)",
+      "language": "en",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/gemini/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. Private lab struggles, exact historical timelines and universal biological or pharmaceutical conclusions are not established by the short brief. The award is foundational chemistry, not a new drug approval."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini Thinking (3.6 requested; version not separately shown)",
+      "language": "zh",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. Private lab struggles, exact historical timelines and universal biological or pharmaceutical conclusions are not established by the short brief. The award is foundational chemistry, not a new drug approval."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/grok/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. Sixty years refers to Kagan’s ACS membership, not verified years in the lab or waiting for a Nobel. The named Japanese laureate is Kenso Soai; the Chinese name 園田健三 in this original does not identify him correctly."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. Sixty years refers to Kagan’s ACS membership, not verified years in the lab or waiting for a Nobel. The named Japanese laureate is Kenso Soai; the Chinese name 園田健三 in this original does not identify him correctly."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. The supplied announcement does not establish a century-long unsolved question. Mirror forms are not necessarily interchangeable; practical outcomes depend on the molecule and interaction."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. The supplied announcement does not establish a century-long unsolved question. Mirror forms are not necessarily interchangeable; practical outcomes depend on the molecule and interaction."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "en",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/qwen/english.md",
+      "status": "available",
+      "availability_note": "Original preserved. ACS membership years do not establish decades of private waiting, hardship or discovery dates. This prize does not prove the origin of life is solved, or that all opposite-handed molecules are harmful."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "zh",
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/kagan-soai-molecular-mirror-nobel.md",
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "Original preserved. ACS membership years do not establish decades of private waiting, hardship or discovery dates. This prize does not prove the origin of life is solved, or that all opposite-handed molecules are harmful."
+    }
+  ]
+}

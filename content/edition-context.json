@@ -1848,6 +1848,174 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/chatgpt/english.md",
+      "captured_at": "2026-10-08T07:09:57.355Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/chatgpt/chinese.md",
+      "captured_at": "2026-10-08T07:13:13.719Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/claude/english.md",
+      "captured_at": "2026-10-08T07:07:11.595Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/claude/chinese.md",
+      "captured_at": "2026-10-08T07:09:58.734Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/gemini/english.md",
+      "captured_at": "2026-10-08T07:07:15.134Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/gemini/chinese.md",
+      "captured_at": "2026-10-08T07:08:04.012Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/grok/english.md",
+      "captured_at": "2026-10-08T07:07:18.717Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/grok/chinese.md",
+      "captured_at": "2026-10-08T07:08:04.260Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/deepseek/english.md",
+      "captured_at": "2026-10-08T07:07:22.308Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/deepseek/chinese.md",
+      "captured_at": "2026-10-08T07:08:04.528Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/qwen/english.md",
+      "captured_at": "2026-10-08T07:07:35.968Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-satya-128gb-local-ai/qwen/chinese.md",
+      "captured_at": "2026-10-08T07:09:58.468Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/chatgpt/english.md",
+      "captured_at": "2026-10-08T07:09:58.945Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/chatgpt/chinese.md",
+      "captured_at": "2026-10-08T07:12:35.810Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/claude/english.md",
+      "captured_at": "2026-10-08T07:07:57.267Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/claude/chinese.md",
+      "captured_at": "2026-10-08T07:10:01.074Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/gemini/english.md",
+      "captured_at": "2026-10-08T07:07:58.956Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/gemini/chinese.md",
+      "captured_at": "2026-10-08T07:10:54.003Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/grok/english.md",
+      "captured_at": "2026-10-08T07:08:00.563Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/grok/chinese.md",
+      "captured_at": "2026-10-08T07:10:54.227Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/deepseek/english.md",
+      "captured_at": "2026-10-08T07:08:02.247Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/deepseek/chinese.md",
+      "captured_at": "2026-10-08T07:10:54.475Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/qwen/english.md",
+      "captured_at": "2026-10-08T07:10:00.051Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/kagan-soai-molecular-mirror-nobel/qwen/chinese.md",
+      "captured_at": "2026-10-08T07:11:59.344Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }

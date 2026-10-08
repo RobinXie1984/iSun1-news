@@ -18,6 +18,11 @@ test('numbered literary options retain their headlines without mistaking ordinar
  assert.equal(view.preview(qwen).headlines[0],'幽冥冰鉴：万丈玄渊寻魅录');
  assert.equal(view.preview('普通正文谈寄情与反思。\n以下是浪漫主义的文章。').headlines.length,0);
 });
+test('traditional Chinese suspense labels remain exact original headline options',()=>{
+ const raw=readFileSync('content/model-olympics/2026-10-08/articles/kagan-soai-molecular-mirror-nobel/grok/chinese.md','utf8');
+ assert.equal(ui().preview(raw).headlines.length,3);
+ assert.equal(ui().preview(raw).headlines[0],'鏡像未平，偏性自生——二士何以分得諾貝爾之殊');
+});
 const data=loadOlympicsArchive();
 test('every topic has two selected exact original editions, with independent language choices',()=>{
  assert.equal(data.picks.entries.length,data.topics.length*2);
