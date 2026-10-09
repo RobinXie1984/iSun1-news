@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-09T07:21:19.197719+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 24,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/claude/english.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/claude/chinese.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/gemini/english.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。 The revision log does not establish all 14 repairs are minor or leave every main statement unchanged. / 日志未证明14篇修订全属小修，或主论断皆未变。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。 The revision log does not establish all 14 repairs are minor or leave every main statement unchanged. / 日志未证明14篇修订全属小修，或主论断皆未变。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/grok/english.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "en",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/qwen/english.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。 719 is the current inventory, not established here as launch-day volume. / 719是现有库存，不能据此断言首发就是719篇。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "zh",
+      "topic": "sam-altman-math-three-withdrawals",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/sam-altman-math-three-withdrawals.md",
+      "article_path": "articles/sam-altman-math-three-withdrawals/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "Repository counts describe the October 9 snapshot. October 6/7 are calendar dates, not a measured 24-hour interval. No independent proof audit; revisions and withdrawals differ. / 数量为10月9日快照；相邻日期不等于精确24小时。未独立验算证明，修订与撤回不同。 719 is the current inventory, not established here as launch-day volume. / 719是现有库存，不能据此断言首发就是719篇。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/claude/english.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/claude/chinese.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/gemini/english.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。 SR-1 is planned as a nuclear-propulsion spacecraft, not merely a space-simulated ground test. / SR-1目标为核推进飞船，不能仅写成模拟太空的地面试验。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。 SR-1 is planned as a nuclear-propulsion spacecraft, not merely a space-simulated ground test. / SR-1目标为核推进飞船，不能仅写成模拟太空的地面试验。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/grok/english.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/grok/chinese.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/deepseek/english.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "en",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/qwen/english.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen3.8-Max",
+      "language": "zh",
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jared-isaacman-nuclear-space-2030.md",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "2030 means launch-ready, not installed; 2028 remains a target. Roughly two-week nights vary by location; nuclear power is not the only conceivable power architecture. / 2030为发射就绪目标，并非已安装；2028仍属计划。约两周长夜因地点而异，核能并非唯一可设想的供电方案。"
+    }
+  ]
+}

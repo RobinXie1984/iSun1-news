@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "sam-altman-math-three-withdrawals",
+      "title": {
+        "en": "Sam Altman’s AI math avalanche lost three papers. Who checks the rest?",
+        "zh": "奥特曼的AI数学洪流撤回3篇：剩下719篇，谁来验？"
+      },
+      "summary": {
+        "en": "OpenAI’s October 7 revision log withdraws three related manuscripts after a sign error. Its current catalogue lists 719 manuscripts; public corrections make verification, rather than output volume, the story.",
+        "zh": "OpenAI 10月7日更新记录因符号错误撤回3篇关联稿件，现列719篇。公开修订把故事焦点从产量拉回验证。"
+      },
+      "event_date": "2026-10-07"
+    },
+    {
+      "id": "jared-isaacman-nuclear-space-2030",
+      "title": {
+        "en": "Jared Isaacman wants a Moon reactor by 2030. Can NASA keep the lights on?",
+        "zh": "艾萨克曼要在2030年备好月球反应堆：漫长黑夜，靠什么扛？"
+      },
+      "summary": {
+        "en": "NASA and the Energy Department signed a broader nuclear-space cooperation pact on October 8, effective November 1. The 2030 launch-ready lunar reactor and 2028 spacecraft remain planned milestones.",
+        "zh": "NASA与能源部10月8日签署核能太空合作备忘录，11月1日生效。2030年发射就绪的月球反应堆与2028年飞船仍是目标。"
+      },
+      "event_date": "2026-10-08"
+    }
+  ]
+}

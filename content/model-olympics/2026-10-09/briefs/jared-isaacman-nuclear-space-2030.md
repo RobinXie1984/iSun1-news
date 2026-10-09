@@ -1,0 +1,7 @@
+# Jared Isaacman signs a nuclear-space pact; the Moon still needs dependable power
+Event date: 2026-10-08. Collection: 2026-10-09 Hong Kong.
+[N1] NASA Administrator Jared Isaacman and Energy Secretary Chris Wright signed a nuclear-space cooperation memorandum on October 8; it takes effect November 1. It covers research, fuel, testing, launch integration and operations.
+[N2] NASA describes a goal of a launch-ready lunar surface reactor by 2030, and Space Reactor-1 Freedom targeted for 2028. A launch-ready goal is not proof of a reactor installed on the Moon; a scheduled mission has not flown. Funding, delivered performance and completion are not verified by this brief.
+[N3] The proposed reactor would power habitats and infrastructure through darkness. Radioisotope systems, also discussed in the announcement, differ from fission reactors and propulsion; do not merge them or imply nuclear explosions propel these missions. The pact does not mean an operational nuclear Moon base already exists.
+Source N1-N3: NASA October 8 release, https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/
+Editorial tension (analysis): a permanent presence needs power when sunlight is unavailable; a signature starts cooperation, while engineering and safe deployment still have to deliver. No invented costs, launch dates beyond year targets, quotes, set-piece scenes, CEO motives or guaranteed travel-time reductions.

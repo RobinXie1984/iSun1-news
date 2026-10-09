@@ -2016,6 +2016,174 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/chatgpt/english.md",
+      "captured_at": "2026-10-09T07:13:42.145Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/chatgpt/chinese.md",
+      "captured_at": "2026-10-09T07:16:28.751Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/claude/english.md",
+      "captured_at": "2026-10-09T07:11:57.456Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/claude/chinese.md",
+      "captured_at": "2026-10-09T07:13:44.644Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/gemini/english.md",
+      "captured_at": "2026-10-09T07:12:19.475Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/gemini/chinese.md",
+      "captured_at": "2026-10-09T07:14:43.639Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/grok/english.md",
+      "captured_at": "2026-10-09T07:13:00.904Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/grok/chinese.md",
+      "captured_at": "2026-10-09T07:14:43.655Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/deepseek/english.md",
+      "captured_at": "2026-10-09T07:14:14.852Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/deepseek/chinese.md",
+      "captured_at": "2026-10-09T07:15:32.972Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/qwen/english.md",
+      "captured_at": "2026-10-09T07:14:15.803Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/sam-altman-math-three-withdrawals/qwen/chinese.md",
+      "captured_at": "2026-10-09T07:16:29.623Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/chatgpt/english.md",
+      "captured_at": "2026-10-09T07:16:28.769Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/chatgpt/chinese.md",
+      "captured_at": "2026-10-09T07:18:48.627Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/claude/english.md",
+      "captured_at": "2026-10-09T07:14:43.675Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/claude/chinese.md",
+      "captured_at": "2026-10-09T07:16:20.907Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/gemini/english.md",
+      "captured_at": "2026-10-09T07:15:46.003Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/gemini/chinese.md",
+      "captured_at": "2026-10-09T07:18:31.819Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/grok/english.md",
+      "captured_at": "2026-10-09T07:15:33.005Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/grok/chinese.md",
+      "captured_at": "2026-10-09T07:18:31.837Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/deepseek/english.md",
+      "captured_at": "2026-10-09T07:16:20.939Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/deepseek/chinese.md",
+      "captured_at": "2026-10-09T07:18:31.855Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/qwen/english.md",
+      "captured_at": "2026-10-09T07:18:31.871Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/qwen/chinese.md",
+      "captured_at": "2026-10-09T07:19:53.087Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }

@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-08T07:14:35.381Z",
+  "selected_at": "2026-10-09T07:21:43.318Z",
   "selected_by": "Maxwell",
   "entries": [
+    {
+      "topic": "sam-altman-math-three-withdrawals",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/sam-altman-math-three-withdrawals/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "OpenAI Released Hundreds of Math Manuscripts. Then One Sign Error Brought Three Down.",
+      "sha256": "40705769d9ca0f1cd2d0979755f88f2a96655a64f5d380a036ac648e7214df76",
+      "reason": "The one-sign/three-manuscript reversal opens directly, preserves dated counts and shows why verification matters."
+    },
+    {
+      "topic": "sam-altman-math-three-withdrawals",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/sam-altman-math-three-withdrawals/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《七百余篇方问世，一符之误动三篇》",
+      "sha256": "6c19c421c218a385c20e62127136cb947a90e9ac46b1ce3232f3c2f3d938a5c0",
+      "reason": "A single mistaken sign carries the classical opening; the prose distinguishes current counts, revision categories and uncertainty."
+    },
+    {
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/claude/english.md",
+      "headline_index": 1,
+      "headline": "Every Dream of Living on the Moon Runs Into the Same Wall: The Lights Have to Stay On",
+      "sha256": "bc0c753f18f1e8d80baa4b55f8cd5ee5c8da775db0fada8b24ac0e096d65cd70",
+      "reason": "Keeping the lights on turns lunar infrastructure into a human stake; the opening immediately separates a signature from an installed reactor."
+    },
+    {
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/jared-isaacman-nuclear-space-2030/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《一纸盟书之后，谁为广寒燃灯？》",
+      "sha256": "9a23b0ee384df2d4efb28d5b0cd78ce88722448d8c39f6ee13eb25bcd229b962",
+      "reason": "A lamp in the lunar night gives the reader a clear, lyrical question while launch-ready dates remain goals."
+    },
     {
       "topic": "jensen-satya-128gb-local-ai",
       "language": "en",
