@@ -2184,6 +2184,146 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/chatgpt/english.md",
+      "captured_at": "2026-10-10T07:04:28.646Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/chatgpt/chinese.md",
+      "captured_at": "2026-10-10T07:07:07.198Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/claude/english.md",
+      "captured_at": "2026-10-10T07:04:03.273Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/claude/chinese.md",
+      "captured_at": "2026-10-10T07:06:10.944Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/grok/english.md",
+      "captured_at": "2026-10-10T07:04:05.030Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/grok/chinese.md",
+      "captured_at": "2026-10-10T07:06:10.955Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/deepseek/english.md",
+      "captured_at": "2026-10-10T07:04:30.555Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/deepseek/chinese.md",
+      "captured_at": "2026-10-10T07:06:19.565Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/qwen/english.md",
+      "captured_at": "2026-10-10T07:05:09.661Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/qwen/chinese.md",
+      "captured_at": "2026-10-10T07:07:07.212Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/chatgpt/english.md",
+      "captured_at": "2026-10-10T07:06:11.003Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/chatgpt/chinese.md",
+      "captured_at": "2026-10-10T07:08:36.352Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/claude/english.md",
+      "captured_at": "2026-10-10T07:04:31.733Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/claude/chinese.md",
+      "captured_at": "2026-10-10T07:06:10.973Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/grok/english.md",
+      "captured_at": "2026-10-10T07:04:33.831Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/grok/chinese.md",
+      "captured_at": "2026-10-10T07:06:10.988Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/deepseek/english.md",
+      "captured_at": "2026-10-10T07:05:10.530Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/deepseek/chinese.md",
+      "captured_at": "2026-10-10T07:06:19.582Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/qwen/english.md",
+      "captured_at": "2026-10-10T07:06:11.781Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/qwen/chinese.md",
+      "captured_at": "2026-10-10T07:08:36.369Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }

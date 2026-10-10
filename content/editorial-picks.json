@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-09T07:21:43.318Z",
+  "selected_at": "2026-10-10T07:09:22.389Z",
   "selected_by": "Maxwell",
   "entries": [
+    {
+      "topic": "navi-pillay-peace-law-2026",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/navi-pillay-peace-law-2026/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Navi Pillay Won the Nobel Peace Prize. Can the Law She Represents Make Power Answer?",
+      "sha256": "22a572a5c530399d3dac9f20fc6675fd8aecfac8efe10445b79769e234588325",
+      "reason": "A named jurist and a direct power-versus-law question; the opening clearly distinguishes recognition from enforcement."
+    },
+    {
+      "topic": "navi-pillay-peace-law-2026",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/navi-pillay-peace-law-2026/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "一冠既授，万国谁听？皮莱获奖之后的天下之问",
+      "sha256": "d65cfbabd812e2bc8a9bbf7062a8db01804938f2b34ebfe168fbca692f82c2b8",
+      "reason": "The classical crown-versus-obedience question is vivid and supported; award and older appointment dates remain separate."
+    },
+    {
+      "topic": "jensen-huang-billion-science-five-years",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/jensen-huang-billion-science-five-years/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "NVIDIA Promised $1 Billion for U.S. Science. The Real Test Starts After the Applause.",
+      "sha256": "1265fbb8a8b4b5ecca3c3c91135891fd78564dec98125b019bf3aac30ea03302",
+      "reason": "A billion-dollar commitment followed by an immediate outcome test; clear company attribution and five-year qualification."
+    },
+    {
+      "topic": "jensen-huang-billion-science-five-years",
+      "language": "zh",
+      "provider": "grok",
+      "article_path": "articles/jensen-huang-billion-science-five-years/grok/chinese.md",
+      "headline_index": 1,
+      "headline": "待算之人望门开，一诺千里未成行",
+      "sha256": "15bc3b69c619e14ee76faaa58d53ff2e8849bd2cded38dd4cb6e403e6ca75bdc",
+      "reason": "Short, lyrical researcher stakes; the first paragraph preserves company pledge value, horizon and unknown delivery details."
+    },
     {
       "topic": "sam-altman-math-three-withdrawals",
       "language": "en",

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "title": {
+        "en": "Navi Pillay wins the Peace Prize. Can law restrain power?",
+        "zh": "皮莱摘诺贝尔和平奖：法律能管住强权吗？"
+      },
+      "summary": {
+        "en": "The Nobel Committee honours a jurist for international law; recognition is not an enforcement mechanism.",
+        "zh": "诺贝尔委员会表彰国际法工作者；荣誉并非执行权。"
+      }
+    },
+    {
+      "id": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "title": {
+        "en": "Jensen Huang pledges $1 billion for science. What actually arrives?",
+        "zh": "黄仁勋许10亿美元助科学：承诺最后如何落地？"
+      },
+      "summary": {
+        "en": "NVIDIA announces commitments valued at $1 billion over five years, not a verified cash transfer or completed breakthroughs.",
+        "zh": "英伟达宣布五年总值10亿美元的承诺，不等于现金已到账或突破已完成。"
+      }
+    }
+  ]
+}

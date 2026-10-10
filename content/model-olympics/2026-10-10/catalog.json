@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-10T07:08:56.104681+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 20,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/claude/english.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。 The brief does not establish that no war or ceasefire anywhere ended that Friday; the prize itself does not end one. / 资料不能证明那个星期五全球没有战争结束或停火；奖项本身不代表停战。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/claude/chinese.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。 The brief does not establish that no war or ceasefire anywhere ended that Friday; the prize itself does not end one. / 资料不能证明那个星期五全球没有战争结束或停火；奖项本身不代表停战。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested Gemini 3.6 Thinking is absent from the visible mode picker; only 3.6 Flash, 3.5 Thinking and 3.1 Pro available on October10. No substitute submitted."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested Gemini 3.6 Thinking is absent from the visible mode picker; only 3.6 Flash, 3.5 Thinking and 3.1 Pro available on October10. No substitute submitted."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/grok/english.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/grok/chinese.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/deepseek/english.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。 Sixty years of personal belief and never negotiating a ceasefire are not established by this brief. / “六十年相信”及“从未谈判停火”均未获资料证明。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。 Sixty years of personal belief and never negotiating a ceasefire are not established by this brief. / “六十年相信”及“从未谈判停火”均未获资料证明。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/qwen/english.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。 October9,2026 was Friday, not Thursday. The supplied record does not establish the opening oak-door scene or private character claims. / 2026年10月9日为星期五；资料未证明开篇木门场景或私人品格描述。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "navi-pillay-peace-law-2026",
+      "event_date": "2026-10-09",
+      "source_brief": "briefs/navi-pillay-peace-law-2026.md",
+      "article_path": "articles/navi-pillay-peace-law-2026/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "The prize honours legal work; it does not settle cases, create enforcement powers or establish peace achieved. / 奖项表彰法律工作，并非结案、扩大执法权或证明和平已成。 October9,2026 was Friday, not Thursday. The supplied record does not establish the opening oak-door scene or private character claims. / 2026年10月9日为星期五；资料未证明开篇木门场景或私人品格描述。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/claude/english.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/claude/chinese.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested Gemini 3.6 Thinking is absent from the visible mode picker; only 3.6 Flash, 3.5 Thinking and 3.1 Pro available on October10. No substitute submitted."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested Gemini 3.6 Thinking is absent from the visible mode picker; only 3.6 Flash, 3.5 Thinking and 3.1 Pro available on October10. No substitute submitted."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/grok/english.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。 The five-year horizon is supplied; absence of a detailed yearly schedule must not become no schedule at all. / 已有五年期限，缺少逐年详情不等于没有时间安排。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。 The five-year horizon is supplied; absence of a detailed yearly schedule must not become no schedule at all. / 已有五年期限，缺少逐年详情不等于没有时间安排。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/qwen/english.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "jensen-huang-billion-science-five-years",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/jensen-huang-billion-science-five-years.md",
+      "article_path": "articles/jensen-huang-billion-science-five-years/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "Company commitments valued at $1bn over five years; not a verified personal cash donation or completed scientific outcome. Cash/in-kind mix and yearly schedule UNKNOWN. / 公司五年价值十亿美元承诺，不是已核实的私人现金捐赠或既成科学成果；现金实物配比及逐年安排未详。"
+    }
+  ]
+}
