@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "title": {
+        "en": "Anne Carson wins the Nobel. Why does her marriage story take 29 tangos?",
+        "zh": "安妮·卡森摘诺奖：婚姻故事为何要跳29支探戈？"
+      },
+      "summary": {
+        "en": "The Swedish Academy honours a writer who crosses genres. Its biography describes a 29-part literary marriage drama; it is not a verified account of her own marriage.",
+        "zh": "瑞典学院表彰跨越文类的作家。官方传记介绍29段文学婚姻故事；作品情节不能写作作者本人的婚姻事实。"
+      }
+    },
+    {
+      "id": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "title": {
+        "en": "Microsoft gives AI agents three modes. Which one actually blocks access?",
+        "zh": "微软给AI三种模式：哪一种真能拦住越界？"
+      },
+      "summary": {
+        "en": "Microsoft announces MXC general availability. Permissive records access without enforcing the policy; Learning blocks and records it.",
+        "zh": "微软宣布MXC正式可用。Permissive记录却允许政策原本禁止的访问；Learning则拦截并记录。"
+      }
+    }
+  ]
+}

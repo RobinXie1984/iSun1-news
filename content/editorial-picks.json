@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-10T07:09:22.389Z",
+  "selected_at": "2026-10-11T07:12:45.967Z",
   "selected_by": "Maxwell",
   "entries": [
+    {
+      "topic": "anne-carson-nobel-29-tangos",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/anne-carson-nobel-29-tangos/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "A Marriage in 29 Tangos. A Book in a Box. How Anne Carson Won the Nobel.",
+      "sha256": "518291353934bb8d8a2b162e241b1bd67a8fdbf92b5f770a871f1f50b50693be",
+      "reason": "The concrete 29-part form earns attention; the opening separates fictional marriage from biography and the award from reader taste."
+    },
+    {
+      "topic": "anne-carson-nobel-29-tangos",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/anne-carson-nobel-29-tangos/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "二十九阕探戈，何以叩开诺奖之门？",
+      "sha256": "44e2b583b8063099f79bfe2de314a89386e1a31fa479825c9deee752503fa732",
+      "reason": "The concrete 29-part form earns attention; the opening separates fictional marriage from biography and the award from reader taste."
+    },
+    {
+      "topic": "microsoft-agent-three-modes-boundary",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Microsoft Put a Boundary Around AI Agents. One Setting Changes What Gets Through.",
+      "sha256": "64698ec176ff4a5c4f6d75aa2cb998f20eb4c4a4d17ee24fb4f50c9f6126cbee",
+      "reason": "The opening asks exactly what happens at the boundary; all three modes and the distinct --audit option stay clear. No independent protection guarantee."
+    },
+    {
+      "topic": "microsoft-agent-three-modes-boundary",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "城垣既筑，何以仍可越关？微软三令之谜",
+      "sha256": "2d8033778aef7699f0898b82600db936523e41729e634374109e3f5694ad7890",
+      "reason": "The opening asks exactly what happens at the boundary; all three modes and the distinct --audit option stay clear. No independent protection guarantee."
+    },
     {
       "topic": "navi-pillay-peace-law-2026",
       "language": "en",

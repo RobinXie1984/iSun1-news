@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-11T07:12:19.888633+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 20,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/claude/english.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/claude/chinese.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested Gemini3.6 Thinking absent from the visible October11 picker (3.6Flash, 3.5Thinking, 3.1Pro only). No substitute or prompt submitted."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested Gemini3.6 Thinking absent from the visible October11 picker (3.6Flash, 3.5Thinking, 3.1Pro only). No substitute or prompt submitted."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/grok/english.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。 The paraphrased citation in quotation marks is not the Academy’s exact published wording. / 引号中的评语为改述，非学院原文。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/deepseek/english.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。 The source does not explicitly warn against autobiographical reading; that precaution comes from our brief. / 不可将资料中的编者提醒归作学院明文警告。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/qwen/english.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。 Claims about Nobel genre bias, oldest literary rule and financial windfall were not independently verified; do not treat them as documented findings. / 诺奖文类偏好、最古老规则及经济所得等说法未独立核实。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "anne-carson-nobel-29-tangos",
+      "event_date": "2026-10-08",
+      "source_brief": "briefs/anne-carson-nobel-29-tangos.md",
+      "article_path": "articles/anne-carson-nobel-29-tangos/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "Award announced October8; named books are older distinct works. Fictional marriage is not author biography. Academy assessment is not measured sales or universal taste. / 10月8日授奖；各书为既有独立作品，虚构婚姻非作者传记，学院评价不是销量或普遍口碑。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/claude/english.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/claude/chinese.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested Gemini3.6 Thinking absent from the visible October11 picker (3.6Flash, 3.5Thinking, 3.1Pro only). No substitute or prompt submitted."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested Gemini3.6 Thinking absent from the visible October11 picker (3.6Flash, 3.5Thinking, 3.1Pro only). No substitute or prompt submitted."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/grok/english.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/grok/chinese.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/deepseek/english.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/qwen/english.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。 Permissive does not guarantee task completion. Learning records access attempts, not the agent’s internal reasoning. / Permissive不保证完成任务；Learning记录访问，不记录模型内部推理。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "microsoft-agent-three-modes-boundary",
+      "event_date": "2026-10-07",
+      "source_brief": "briefs/microsoft-agent-three-modes-boundary.md",
+      "article_path": "articles/microsoft-agent-three-modes-boundary/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "October7 vendor announcement, not independent security validation. Enforcement blocks; Learning blocks and records; Permissive allows and records, subject to other restrictions. README --audit is a separate option. / 10月7日厂商公告，非独立安全验证；三模式须区分，README的--audit另属特定选项。"
+    }
+  ]
+}

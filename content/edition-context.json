@@ -2324,6 +2324,146 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/chatgpt/english.md",
+      "captured_at": "2026-10-11T07:08:20.876Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/chatgpt/chinese.md",
+      "captured_at": "2026-10-11T07:10:57.692Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/claude/english.md",
+      "captured_at": "2026-10-11T07:07:58.033Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/claude/chinese.md",
+      "captured_at": "2026-10-11T07:09:20.496Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/grok/english.md",
+      "captured_at": "2026-10-11T07:07:58.080Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/grok/chinese.md",
+      "captured_at": "2026-10-11T07:09:04.276Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/deepseek/english.md",
+      "captured_at": "2026-10-11T07:07:58.116Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/deepseek/chinese.md",
+      "captured_at": "2026-10-11T07:09:28.039Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/qwen/english.md",
+      "captured_at": "2026-10-11T07:09:11.198Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/qwen/chinese.md",
+      "captured_at": "2026-10-11T07:10:57.707Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/chatgpt/english.md",
+      "captured_at": "2026-10-11T07:09:27.475Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/chatgpt/chinese.md",
+      "captured_at": "2026-10-11T07:11:45.132Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/claude/english.md",
+      "captured_at": "2026-10-11T07:08:22.552Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/claude/chinese.md",
+      "captured_at": "2026-10-11T07:10:35.839Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/grok/english.md",
+      "captured_at": "2026-10-11T07:08:46.823Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/grok/chinese.md",
+      "captured_at": "2026-10-11T07:10:35.854Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/deepseek/english.md",
+      "captured_at": "2026-10-11T07:08:24.478Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/deepseek/chinese.md",
+      "captured_at": "2026-10-11T07:09:28.072Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/qwen/english.md",
+      "captured_at": "2026-10-11T07:10:35.870Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/qwen/chinese.md",
+      "captured_at": "2026-10-11T07:12:12.988Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }
