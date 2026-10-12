@@ -112,6 +112,13 @@ export default {
       }
       if(req.method!=='GET'&&req.method!=='HEAD')return json({error:'method'},405);
       if(url.pathname==='/robots.txt')return new Response('User-agent: *\nAllow: /\nDisallow: /api/\n');
+      if(Object.hasOwn(EDITORIAL_ART,url.pathname)){
+        if(!env.EDITORIAL_ART)return json({error:'editorial_asset_binding_unavailable',status:'UNKNOWN'},503);
+        const response=await env.EDITORIAL_ART.fetch(req);
+        const imageHeaders=new Headers(response.headers);for(const [key,value] of Object.entries(headers))imageHeaders.set(key,value);
+        imageHeaders.set('Content-Type','image/jpeg');imageHeaders.set('Cache-Control','public, max-age=86400');
+        return new Response(req.method==='HEAD'?null:response.body,{status:response.status,headers:imageHeaders});
+      }
       const picture=Object.hasOwn(MEDIA,url.pathname)?MEDIA[url.pathname]:null;
       if(picture)return new Response(req.method==='HEAD'?null:Uint8Array.from(atob(picture),c=>c.charCodeAt(0)),{headers:{...headers,'Content-Type':url.pathname.endsWith('.mp4')?'video/mp4':url.pathname.endsWith('.png')?'image/png':url.pathname.endsWith('.webp')?'image/webp':'image/jpeg','Cache-Control':'public, max-age=3600'}});
       const asset=Object.hasOwn(ASSETS,url.pathname)?ASSETS[url.pathname]:undefined;

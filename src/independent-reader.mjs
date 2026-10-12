@@ -2,12 +2,12 @@
 // The original Sites database remains intact; this runtime collects no observations.
 export function independentReader(canonical) {
  const unavailable=()=>new Response(JSON.stringify({error:'observations_unavailable',status:'UNKNOWN',reason:'Historical observations remain on the original runtime. This reader collects no new signals.'}),{status:503,headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}});
- return {async fetch(request) {
+ return {async fetch(request,env={}) {
   const url=new URL(request.url);let response;
   if(['/api/metrics','/api/signal','/api/forget'].includes(url.pathname))response=unavailable();
   else {
    if(url.pathname==='/api/feed'){url.searchParams.set('preview','1');url.searchParams.delete('measure');request=new Request(url,request);}
-   response=await canonical.fetch(request,{});
+   response=await canonical.fetch(request,{EDITORIAL_ART:env.EDITORIAL_ART});
    if(url.pathname==='/app.js'&&request.method==='GET'&&response.ok){
     let app=await response.text();
     const changes=[

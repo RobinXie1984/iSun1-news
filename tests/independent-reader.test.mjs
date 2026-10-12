@@ -16,3 +16,12 @@ test('independent app cannot imply active measurement or allow opt-in',async()=>
  const r=await reader.fetch(new Request(origin+'/app.js'));const app=await r.text();assert.match(app,/consent=false/);assert.match(app,/analytics paused/);assert.match(app,/allow'\).disabled=true/);assert.doesNotMatch(app,/consent=safeGet/);assert.match(r.headers.get('content-security-policy'),/connect-src 'self'/);
  assert.equal(readFileSync('public/app.js','utf8').includes("consent=safeGet"),true,'Canonical app remains unchanged');
 });
+test('editorial JPEG assets use the scoped asset binding and fail closed when unavailable',async()=>{
+ const manifest=JSON.parse(readFileSync('content/editorial-art.json')),path=manifest.entries[0].variants[0].path;
+ let calls=0;const env={get DB(){throw Error('No DB for editorial assets');},EDITORIAL_ART:{async fetch(request){calls++;assert.equal(new URL(request.url).pathname,path);return new Response(request.method==='HEAD'?null:readFileSync('public'+path),{headers:{'Content-Type':'image/jpeg','ETag':'"checked"'}});}}};
+ for(const method of ['GET','HEAD']){const r=await reader.fetch(new Request(origin+path,{method}),env);assert.equal(r.status,200);assert.match(r.headers.get('Content-Type'),/image\/jpeg/);assert.equal(r.headers.get('X-iSun1-Runtime'),'independent');assert.equal(r.headers.get('Set-Cookie'),null);assert.equal(r.headers.get('ETag'),'"checked"');assert.equal((await r.arrayBuffer()).byteLength,method==='HEAD'?0:readFileSync('public'+path).length);}
+ assert.equal(calls,2);
+ assert.equal((await reader.fetch(new Request(origin+path))).status,503);
+ assert.equal((await reader.fetch(new Request(origin+'/editorial-art/imagegen-v2/unreviewed.jpg'),env)).status,404);assert.equal(calls,2);
+ assert.equal((await reader.fetch(new Request(origin+path,{method:'POST'}),env)).status,405);assert.equal(calls,2);
+});

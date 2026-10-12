@@ -29,9 +29,16 @@ if(editionPaths.length){
   media[path]=bytes.toString('base64');
  }
 }
+const editorialArt=JSON.parse(readFileSync('content/editorial-art.json','utf8'));
+if(editorialArt.schema_version!==1||!Array.isArray(editorialArt.entries)||editorialArt.entries.length!==olympics.topics.length)throw Error('Missing editorial art');
+const editorialPaths={};
+for(const topic of olympics.topics){const rows=editorialArt.entries.filter(x=>x.topic===topic.id);if(rows.length!==1||rows[0].variants.length!==2)throw Error('Editorial art coverage mismatch');for(const item of rows[0].variants){
+ if(![600,1200].includes(item.width)||item.path!=='/editorial-art/imagegen-v2/'+topic.id+'-'+item.width+'.jpg')throw Error('Unreviewed editorial art path');
+ const bytes=readFileSync('public'+item.path);if(bytes.length!==item.bytes||createHash('sha256').update(bytes).digest('hex')!==item.sha256)throw Error('Editorial art checksum mismatch');editorialPaths[item.path]=item.sha256;
+}}
 const engine=readFileSync('src/engine.mjs','utf8').replace(/^export /gm,'');
 const worker=readFileSync('src/worker.mjs','utf8').replace(/^import .*;\n/gm,'');
-writeFileSync('dist/server/index.js',`const OLYMPICS=${JSON.stringify(olympics)};\nconst STORIES=${JSON.stringify(stories)};\nconst HISTORY=${JSON.stringify(history)};\nconst ASSETS=${JSON.stringify(assets)};\nconst MEDIA=${JSON.stringify(media)};\n${engine}\n${worker}`);
+writeFileSync('dist/server/index.js',`const EDITORIAL_ART=${JSON.stringify(editorialPaths)};\nconst OLYMPICS=${JSON.stringify(olympics)};\nconst STORIES=${JSON.stringify(stories)};\nconst HISTORY=${JSON.stringify(history)};\nconst ASSETS=${JSON.stringify(assets)};\nconst MEDIA=${JSON.stringify(media)};\n${engine}\n${worker}`);
 writeFileSync('dist/.openai/hosting.json',JSON.stringify(hosting,null,2)+'\n');
 cpSync('drizzle','dist/.openai/drizzle',{recursive:true});
 writeFileSync('dist/server/wrangler.json',JSON.stringify({name:'isun1-story-engine',main:'index.js',compatibility_date:'2026-09-20',compatibility_flags:['nodejs_compat'],d1_databases:[{binding:'DB',database_name:'isun1-attention'}]},null,2));

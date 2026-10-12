@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "kind": "AI conceptual editorial illustration",
+  "generator": "built-in IMAGEGEN",
+  "entries": [
+    {
+      "topic": "anne-carson-nobel-29-tangos",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/anne-carson-nobel-29-tangos-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 201456,
+          "sha256": "9fdeb45d15b4b486f3c03ed9e63fa83cf4501e4a4255ba9d9b972338faaff820"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/anne-carson-nobel-29-tangos-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 62055,
+          "sha256": "e1015c92493a202f903b9e8f6a53e9867fbf8c54d9a26bbba4b92c6966e4560c"
+        }
+      ]
+    },
+    {
+      "topic": "anthropic-haiku-ten-cents-million",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/anthropic-haiku-ten-cents-million-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 185158,
+          "sha256": "4db787bcc3e98de08c82e117c46ef4c25ed1fa1ef3aca575008a15645a167b2d"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/anthropic-haiku-ten-cents-million-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 59798,
+          "sha256": "3b7880264074be8fafe28d07455afedee39042c1f770715fcc92bcade642387a"
+        }
+      ]
+    },
+    {
+      "topic": "anthropic-paid-watchdog",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/anthropic-paid-watchdog-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 202226,
+          "sha256": "f60e140b3cb4d6ad0bee2ac3450551eb68237b7eeb1f1fb3b32d92c6990ccf3f"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/anthropic-paid-watchdog-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 65256,
+          "sha256": "5296fb969d45c7867fb06803f470fdc558b5e9904e0542d55296e9084d44baa9"
+        }
+      ]
+    },
+    {
+      "topic": "chatgpt-12-billion-visual-ad-test",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/chatgpt-12-billion-visual-ad-test-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 246997,
+          "sha256": "afdb9773e3751f61c363c460003805e004d6c988c3306137a73a6320bc06b3a5"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/chatgpt-12-billion-visual-ad-test-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 70008,
+          "sha256": "c22166705c80043cb5dae924625d395e49f623f9be01f83ca3c23da1ed40c2e7"
+        }
+      ]
+    },
+    {
+      "topic": "david-ellison-warner-81-billion-close",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/david-ellison-warner-81-billion-close-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 261714,
+          "sha256": "db852dda0705df25c85d203cf458dc3fec53a3cfb0476ba74a05c67d06b67b13"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/david-ellison-warner-81-billion-close-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 72398,
+          "sha256": "f1552ed914806be53563e13090a254b8e35d68d9914a50922e5e727fb19f91a5"
+        }
+      ]
+    },
+    {
+      "topic": "deisseroth-nobel-light-switch-neurons",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/deisseroth-nobel-light-switch-neurons-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 195682,
+          "sha256": "f908aa1a0fcc7e4f3466eb4f947f3a15f65af60adb39fdadf688bd604533dda4"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/deisseroth-nobel-light-switch-neurons-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 60225,
+          "sha256": "6ac5149271eadf3f5189adbc857191214eb0bd29fda55534607b13931651bf23"
+        }
+      ]
+    },
+    {
+      "topic": "elon-musk-tesla-486532",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/elon-musk-tesla-486532-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 205272,
+          "sha256": "0bf4fb93348ee97e186343ce07b2e30a6fa8a16a577fdbcd0c45000db4118ae6"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/elon-musk-tesla-486532-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 61418,
+          "sha256": "5e78633e55025cfb777e7c8e25ae5a1106a2fcafba4419f1f60c92370e24a8c0"
+        }
+      ]
+    },
+    {
+      "topic": "eviltokens-real-login-trap",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/eviltokens-real-login-trap-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 212637,
+          "sha256": "5817257958a4a0c793d6c63fef5091ea722d1237210f31e49e4ec477068693cb"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/eviltokens-real-login-trap-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 65979,
+          "sha256": "17d88f9194f91b2f25cfbe3e4217dc45bf447f9d770482da37a8945a72b4d073"
+        }
+      ]
+    },
+    {
+      "topic": "ff-robots-american-dream",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/ff-robots-american-dream-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 239382,
+          "sha256": "e0acedb674b32cdec9b935e48aff8302ad8950794d7c329f51f734476ee5f7d3"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/ff-robots-american-dream-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 70405,
+          "sha256": "cf9083e312a9b7f8b71fd3aaa73adf74511545b0dd4ed510679a588806a1fd3d"
+        }
+      ]
+    },
+    {
+      "topic": "francis-halzen-cubic-kilometre-nobel",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/francis-halzen-cubic-kilometre-nobel-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 227888,
+          "sha256": "21939d8e8cf01babd178e4ee49046e6c448c7ac2acf14b3b623409e45ae55d96"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/francis-halzen-cubic-kilometre-nobel-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 65614,
+          "sha256": "e4bbcb3e5e8c4fd7899e9f5d472f7f04dc61267dc2dbefdb3ad043c13924559b"
+        }
+      ]
+    },
+    {
+      "topic": "hotel-wifi-spy-trap",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/hotel-wifi-spy-trap-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 172071,
+          "sha256": "24b07e8a749afda35cb27c97c31469bfb6576983a450ddbb0ccc723385a8fe62"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/hotel-wifi-spy-trap-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 53631,
+          "sha256": "c7e4294e3ced9575dd8011c9bf4ca2ab53affcca3b715f3f63992565f8cd237d"
+        }
+      ]
+    },
+    {
+      "topic": "jared-isaacman-nuclear-space-2030",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/jared-isaacman-nuclear-space-2030-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 232410,
+          "sha256": "f75b91c45a327d8f67fd122cba2ea4b08758acf0d80a585660707a1fc6bdeb54"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/jared-isaacman-nuclear-space-2030-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 71423,
+          "sha256": "633667bfd1352a6fcdb72b297388ab316a69c6b9be261579ae76a997748c2c5d"
+        }
+      ]
+    },
+    {
+      "topic": "jared-isaacman-station-bids-dec8",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/jared-isaacman-station-bids-dec8-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 205695,
+          "sha256": "d6330517d815d5a2a2438f0a81f2fd5c957f3a8376488d92d2616491dc336680"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/jared-isaacman-station-bids-dec8-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 64515,
+          "sha256": "1cf8446570e4e255f9bf0c7d08ea143436142853ff5ade2c90937231d8e4e052"
+        }
+      ]
+    },
+    {
+      "topic": "jensen-huang-billion-science-five-years",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/jensen-huang-billion-science-five-years-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 257388,
+          "sha256": "0fa9f2faaf984c4f6c78d0f61a1fce5b00bfc79ac52538a0f4e04f0f7fc6ee7d"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/jensen-huang-billion-science-five-years-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 81457,
+          "sha256": "6bfbbe741bdeddfd2e3d1eb2fbb63acac36f4db41a58feb01abd4ded1ee0db7d"
+        }
+      ]
+    },
+    {
+      "topic": "jensen-satya-128gb-local-ai",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/jensen-satya-128gb-local-ai-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 214426,
+          "sha256": "14db634580eae7769909890c5843a05f79096f7691f917c093839a6c606007b4"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/jensen-satya-128gb-local-ai-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 68822,
+          "sha256": "30551389b762a3a6e05a0c3cd839f27e91efe67dbe4d5eae6c4f2444b25fa1eb"
+        }
+      ]
+    },
+    {
+      "topic": "kagan-soai-molecular-mirror-nobel",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/kagan-soai-molecular-mirror-nobel-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 239637,
+          "sha256": "a80a6b1bbfb954a51ac8e3510b64a74020c63221d68d83bf4a06681061fec668"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/kagan-soai-molecular-mirror-nobel-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 77826,
+          "sha256": "dc5ff512e5fe5d43fb8a3f6daeefbb8343cb4bbcaeaefde919360c80d57a3353"
+        }
+      ]
+    },
+    {
+      "topic": "ken-griffin-cmu-3-billion",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/ken-griffin-cmu-3-billion-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 236111,
+          "sha256": "97e6b799af4aaf3df336c15d5b6e922b2f9c15144e67e43742f5dc763819c776"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/ken-griffin-cmu-3-billion-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 73966,
+          "sha256": "7c9ae0d32e72db6d6b85756f781501bf050469bcade0c4549269b244c9733443"
+        }
+      ]
+    },
+    {
+      "topic": "lisa-su-fei-fei-82-billion",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/lisa-su-fei-fei-82-billion-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 202679,
+          "sha256": "d0a58f139592d45d8e575b3f7ddd5f3c44b4231e50426624f560ecee3a944293"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/lisa-su-fei-fei-82-billion-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 60681,
+          "sha256": "e09943de597b15f2b40f1eb0136bbb6b7fa7a55a9c063f72e9b25f663cdaffec"
+        }
+      ]
+    },
+    {
+      "topic": "lula-flavio-bolsonaro-runoff-oct25",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/lula-flavio-bolsonaro-runoff-oct25-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 222810,
+          "sha256": "b55b2ddc7556d6f01662ce81eaaff27d3b3820132fb2f3588c70469205b25a02"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/lula-flavio-bolsonaro-runoff-oct25-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 69135,
+          "sha256": "8f6f40b7656256f6bcdc571fa775317c7ce50306579090e2099e6c0d4cb9cae5"
+        }
+      ]
+    },
+    {
+      "topic": "mark-zuckerberg-cj-desai-322-days",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/mark-zuckerberg-cj-desai-322-days-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 260869,
+          "sha256": "bd88532236f2ea1bf0e9889e437247ddca936cc75daf12f73c2301014b31f5d0"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/mark-zuckerberg-cj-desai-322-days-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 75314,
+          "sha256": "49fdb7bdb3c54412ab0eef24190251fb9cc7a141dc7f4b1739c29f432591e12f"
+        }
+      ]
+    },
+    {
+      "topic": "mars-rocks-three-water-stories",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/mars-rocks-three-water-stories-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 268764,
+          "sha256": "3c969e84fc98ac05cf69b85ed9f85f0b1b5dc4dc3a72012b36b53daffe3c3eb9"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/mars-rocks-three-water-stories-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 81481,
+          "sha256": "239a29a4f6cf893dab84267340833b594946f63f3b411f91e0884eaa02e990d8"
+        }
+      ]
+    },
+    {
+      "topic": "masayoshi-son-digitalbridge-31-billion",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/masayoshi-son-digitalbridge-31-billion-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 246890,
+          "sha256": "c9e140b8f646a15912737eb274f2f77ca518a8aeee2b9df77ecc0c258240c80d"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/masayoshi-son-digitalbridge-31-billion-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 76235,
+          "sha256": "daa68bf86351ffad24143d58651b44f125602040569e4730a18fe33bc91b2450"
+        }
+      ]
+    },
+    {
+      "topic": "max-verstappen-first-win-october",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/max-verstappen-first-win-october-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 253170,
+          "sha256": "38d2a39cf1b424b7363974a148c408cca0a17cd20336df0917d5d06c3b95d368"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/max-verstappen-first-win-october-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 82914,
+          "sha256": "49d6058ee3434cf38321f6a255824a85677c4e1bc403539e9374819605b929f6"
+        }
+      ]
+    },
+    {
+      "topic": "microsoft-agent-three-modes-boundary",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/microsoft-agent-three-modes-boundary-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 253910,
+          "sha256": "9478c72275d19ea86a28ba6b6112ce439a0bb2b493ec071cbcd5c915c705d603"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/microsoft-agent-three-modes-boundary-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 69097,
+          "sha256": "6560806f8cd98a602415c589e8327612f5666891d9e327656b6fe4c0ca662587"
+        }
+      ]
+    },
+    {
+      "topic": "navi-pillay-peace-law-2026",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/navi-pillay-peace-law-2026-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 230586,
+          "sha256": "41819338305f574df05e59e69c5eb7faf41a6b773a8d77e1db3cad00b2874f66"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/navi-pillay-peace-law-2026-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 69581,
+          "sha256": "b696faf8aabb5643f793cf7c6920eb371ab70ec0b3c026df4cffcf0753b405c4"
+        }
+      ]
+    },
+    {
+      "topic": "novak-djokovic-zverev-55-minutes",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/novak-djokovic-zverev-55-minutes-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 224049,
+          "sha256": "7e63030f9b893422f6253a3a340c0b49ab9df38a8b1a721e6745d3cf908b0b71"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/novak-djokovic-zverev-55-minutes-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 68715,
+          "sha256": "df58a5f6c7af94f45c8ff9863c8e278fb8d7fb45fffddd4303976616c6bbc8c7"
+        }
+      ]
+    },
+    {
+      "topic": "ranveer-singh-meta-glasses-44300",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/ranveer-singh-meta-glasses-44300-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 191671,
+          "sha256": "bd6fb9bc44d3efa2f4b0b30404cb5d866bf6e5169164590e1d760e1dbc435a0c"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/ranveer-singh-meta-glasses-44300-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 63238,
+          "sha256": "320d4b95f41b534ec1ec8c9b99060cef9ed03c2349e24b7d6f47bdee07e76c9e"
+        }
+      ]
+    },
+    {
+      "topic": "roman-cosmic-blind-spot",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/roman-cosmic-blind-spot-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 279881,
+          "sha256": "f031eab1cf0d98bfd664755e6fa6c9d931d727181d519aab8f69b082fcc710f6"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/roman-cosmic-blind-spot-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 74856,
+          "sha256": "931a3520a5609c2f28a44bf9b398a4b67214cc58e5cc5a6d191119a4b267c18e"
+        }
+      ]
+    },
+    {
+      "topic": "sam-altman-math-three-withdrawals",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/sam-altman-math-three-withdrawals-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 213161,
+          "sha256": "da3fa780993094fcef1058365c3dad56d386730751016ef0889e2d9dd202b79a"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/sam-altman-math-three-withdrawals-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 67386,
+          "sha256": "89604cbbaff1e96f052395dbce588c1c45e92ee9c5a76fc2c040fa629e6014c4"
+        }
+      ]
+    },
+    {
+      "topic": "starliner-61-fixes-2028",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/starliner-61-fixes-2028-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 221363,
+          "sha256": "6b1202e89dd1b1c0ee2b0f7a6e0c2053c4fafd524cb24c18526c5f0b45fcb83b"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/starliner-61-fixes-2028-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 68309,
+          "sha256": "a53069d7de4a0d42a0b85b11db793bfd62f8641c7b44cf6319b70914d233da80"
+        }
+      ]
+    },
+    {
+      "topic": "taylor-swift-three-uk-number-ones",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/taylor-swift-three-uk-number-ones-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 200539,
+          "sha256": "fe917a41b97109424f3573f8ee8b772355c40cdf241cf2b8979d51febc47dfc4"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/taylor-swift-three-uk-number-ones-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 64290,
+          "sha256": "a8988970d3c195aedcb7002686bf4c826e9a1a178790a975abe829baa65affa9"
+        }
+      ]
+    },
+    {
+      "topic": "trump-ai-si-60-days",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/trump-ai-si-60-days-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 168463,
+          "sha256": "ae24c4bf501fa46039d987187477ab010a491265f15730b93f9cf4d95d785569"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/trump-ai-si-60-days-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 54408,
+          "sha256": "371c483e6aa90566f67e4e65460a70b76a4f658301eb66cdeaa23da037fdbced"
+        }
+      ]
+    }
+  ]
+}
