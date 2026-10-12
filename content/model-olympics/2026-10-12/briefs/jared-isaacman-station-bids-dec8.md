@@ -1,0 +1,8 @@
+# Isaacman's commercial station search
+Announced October9,2026; collected October12. Do not call this today's announcement.
+S1. NASA released its final request for proposals for commercial low-Earth-orbit destinations. Administrator Jared Isaacman says NASA intends to retain a sustained US presence after ISS retirement and wants credible technical plans and workable economics. These are goals, not accomplished replacement capacity.
+S2. Proposals are due December8,2026; awards are expected spring2027, not guaranteed. Companies are asked to design, build, test, certify and operate destinations offering end-to-end station and transportation services.
+S3. NASA intends firm-fixed-price, multi-award indefinite-delivery/indefinite-quantity contracts: at least two contractors through early development, then competitive task orders for final design/test/evaluation and certification/services from one or more. This is the planned procurement structure, not announced winners or spending already paid.
+Truthful surprise: NASA wants commercial destinations that can serve it AND develop other customers. Going to orbit does not automatically produce a working business. Do not claim NASA sold the ISS, abandoned orbit, selected a winner or opened a space hotel.
+Unknown: selected firms, total award value, finished stations, verified profitability, precise retirement date from this release. Do not import older transition dates as newly settled facts. No invented astronaut scene or private feelings.
+Source: https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/

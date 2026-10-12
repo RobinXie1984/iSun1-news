@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-11T07:12:45.967Z",
+  "selected_at": "2026-10-12T07:08:34.870Z",
   "selected_by": "Maxwell",
   "entries": [
+    {
+      "topic": "jared-isaacman-station-bids-dec8",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/jared-isaacman-station-bids-dec8/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "NASA Wants a Successor to the ISS. The Hardest Part May Begin After It Reaches Orbit.",
+      "sha256": "7f96b81f70075cb24d49f6d20c8e730312abc37546e790b3b57fd3aeb42e7280",
+      "reason": "A recognizable orbital successor and a conditional business challenge. Opening distinguishes RFP, later award and operating demand."
+    },
+    {
+      "topic": "jared-isaacman-station-bids-dec8",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/jared-isaacman-station-bids-dec8/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "天宫可筑，谁付星河之资？",
+      "sha256": "ef1471fbbde7e03e76d79c42a25210e96f45685e03ab44d8eb5ec70dc96ae525",
+      "reason": "A recognizable orbital successor and a conditional business challenge. Opening distinguishes RFP, later award and operating demand."
+    },
+    {
+      "topic": "anthropic-haiku-ten-cents-million",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/anthropic-haiku-ten-cents-million/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Anthropic Put a Ten-Cent Price on AI Input. The Expensive Part Comes Next.",
+      "sha256": "4dfda181571636b500b880778e7722fb48c706414d19e8d97cd8985ff5ff93c2",
+      "reason": "Concrete ten-cent input hook; prompt-length tiers, output costs, verification and vendor-only benchmarks stay visible. Not a measured saving."
+    },
+    {
+      "topic": "anthropic-haiku-ten-cents-million",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/anthropic-haiku-ten-cents-million/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "一角开千卷，谁付收残局？",
+      "sha256": "eb796379daa408d648bfcb515749229fff0560d53f06c40c634bcbc937be1170",
+      "reason": "Concrete ten-cent input hook; prompt-length tiers, output costs, verification and vendor-only benchmarks stay visible. Not a measured saving."
+    },
     {
       "topic": "anne-carson-nobel-29-tangos",
       "language": "en",

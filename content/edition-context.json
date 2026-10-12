@@ -2464,6 +2464,146 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/chatgpt/english.md",
+      "captured_at": "2026-10-12T07:03:20.386Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/chatgpt/chinese.md",
+      "captured_at": "2026-10-12T07:06:31.075Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/claude/english.md",
+      "captured_at": "2026-10-12T07:02:21.729Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/claude/chinese.md",
+      "captured_at": "2026-10-12T07:04:04.578Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/grok/english.md",
+      "captured_at": "2026-10-12T07:02:23.317Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/grok/chinese.md",
+      "captured_at": "2026-10-12T07:04:04.592Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/deepseek/english.md",
+      "captured_at": "2026-10-12T07:02:24.832Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/deepseek/chinese.md",
+      "captured_at": "2026-10-12T07:04:04.609Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/qwen/english.md",
+      "captured_at": "2026-10-12T07:03:21.044Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/qwen/chinese.md",
+      "captured_at": "2026-10-12T07:05:21.778Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/chatgpt/english.md",
+      "captured_at": "2026-10-12T07:03:21.829Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/chatgpt/chinese.md",
+      "captured_at": "2026-10-12T07:07:05.567Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/claude/english.md",
+      "captured_at": "2026-10-12T07:02:25.636Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/claude/chinese.md",
+      "captured_at": "2026-10-12T07:04:04.626Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/grok/english.md",
+      "captured_at": "2026-10-12T07:02:27.082Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/grok/chinese.md",
+      "captured_at": "2026-10-12T07:04:04.644Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/deepseek/english.md",
+      "captured_at": "2026-10-12T07:02:29.757Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/deepseek/chinese.md",
+      "captured_at": "2026-10-12T07:04:04.658Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/qwen/english.md",
+      "captured_at": "2026-10-12T07:03:22.630Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/qwen/chinese.md",
+      "captured_at": "2026-10-12T07:05:21.806Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "jared-isaacman-station-bids-dec8",
+      "event_date": "2026-10-09",
+      "title": {
+        "en": "Isaacman wants a new home in orbit. Who can make the economics work?",
+        "zh": "艾萨克曼要找太空新家：谁能算赢这笔账？"
+      },
+      "summary": {
+        "en": "NASA invites commercial station proposals by December8, with awards expected spring2027. A solicitation is not a selected or operational replacement.",
+        "zh": "NASA征集商业空间站方案，12月8日截止，预计2027年春授标。征集并非已选定或已运行的替代站。"
+      }
+    },
+    {
+      "id": "anthropic-haiku-ten-cents-million",
+      "event_date": "2026-10-07",
+      "title": {
+        "en": "Anthropic prices a million input tokens at ten cents. Where is the catch?",
+        "zh": "Anthropic百万输入token卖一毛美元：便宜到哪一步？"
+      },
+      "summary": {
+        "en": "Haiku5.5 has a lower price for prompts up to100,000tokens. Longer prompts use a higher tier; output, retries and task success still matter.",
+        "zh": "Haiku5.5对不超过10万token的提示词设低价。更长提示用高价档，输出、重试与任务成功仍影响成本。"
+      }
+    }
+  ]
+}
