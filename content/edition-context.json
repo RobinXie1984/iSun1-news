@@ -2604,6 +2604,90 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/gemini/english.md",
+      "captured_at": "2026-10-12T07:48:18.741Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/navi-pillay-peace-law-2026/gemini/chinese.md",
+      "captured_at": "2026-10-12T07:50:09.984Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/gemini/english.md",
+      "captured_at": "2026-10-12T07:48:19.845Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jensen-huang-billion-science-five-years/gemini/chinese.md",
+      "captured_at": "2026-10-12T07:50:10.003Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/gemini/english.md",
+      "captured_at": "2026-10-12T07:48:20.528Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anne-carson-nobel-29-tangos/gemini/chinese.md",
+      "captured_at": "2026-10-12T07:50:10.020Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/gemini/english.md",
+      "captured_at": "2026-10-12T07:48:21.547Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/microsoft-agent-three-modes-boundary/gemini/chinese.md",
+      "captured_at": "2026-10-12T07:50:10.039Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/gemini/english.md",
+      "captured_at": "2026-10-12T07:48:22.237Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/jared-isaacman-station-bids-dec8/gemini/chinese.md",
+      "captured_at": "2026-10-12T07:50:10.055Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/gemini/english.md",
+      "captured_at": "2026-10-12T07:48:23.327Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-haiku-ten-cents-million/gemini/chinese.md",
+      "captured_at": "2026-10-12T07:50:10.105Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }

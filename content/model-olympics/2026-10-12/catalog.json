@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T07:08:09.891458+00:00",
+  "generated_at": "2026-10-12T07:51:15.855933+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 20,
-  "unavailable_count": 4,
+  "available_count": 24,
+  "unavailable_count": 0,
   "articles": [
     {
       "provider": "chatgpt",
@@ -51,25 +51,25 @@
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.6 Thinking",
+      "model": "Gemini 3.5 Thinking",
       "language": "en",
       "topic": "jared-isaacman-station-bids-dec8",
       "event_date": "2026-10-09",
       "source_brief": "briefs/jared-isaacman-station-bids-dec8.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested Gemini3.6Thinking absent from actual October12 picker (3.6Flash,3.5Thinking,3.1Pro only). No substitute or submission."
+      "article_path": "articles/jared-isaacman-station-bids-dec8/gemini/english.md",
+      "status": "available",
+      "availability_note": "Gemini3.5Thinking original collected October12. Original event date retained; no independent full fact check. / 3.5Thinking原稿于10月12日补采，保留事件日期，尚未经独立全文核查。"
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.6 Thinking",
+      "model": "Gemini 3.5 Thinking",
       "language": "zh",
       "topic": "jared-isaacman-station-bids-dec8",
       "event_date": "2026-10-09",
       "source_brief": "briefs/jared-isaacman-station-bids-dec8.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested Gemini3.6Thinking absent from actual October12 picker (3.6Flash,3.5Thinking,3.1Pro only). No substitute or submission."
+      "article_path": "articles/jared-isaacman-station-bids-dec8/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Gemini3.5Thinking original collected October12. Original event date retained; no independent full fact check. / 3.5Thinking原稿于10月12日补采，保留事件日期，尚未经独立全文核查。"
     },
     {
       "provider": "grok",
@@ -183,25 +183,25 @@
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.6 Thinking",
+      "model": "Gemini 3.5 Thinking",
       "language": "en",
       "topic": "anthropic-haiku-ten-cents-million",
       "event_date": "2026-10-07",
       "source_brief": "briefs/anthropic-haiku-ten-cents-million.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested Gemini3.6Thinking absent from actual October12 picker (3.6Flash,3.5Thinking,3.1Pro only). No substitute or submission."
+      "article_path": "articles/anthropic-haiku-ten-cents-million/gemini/english.md",
+      "status": "available",
+      "availability_note": "Gemini3.5Thinking original collected October12. Original event date retained; no independent full fact check. / 3.5Thinking原稿于10月12日补采，保留事件日期，尚未经独立全文核查。"
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.6 Thinking",
+      "model": "Gemini 3.5 Thinking",
       "language": "zh",
       "topic": "anthropic-haiku-ten-cents-million",
       "event_date": "2026-10-07",
       "source_brief": "briefs/anthropic-haiku-ten-cents-million.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested Gemini3.6Thinking absent from actual October12 picker (3.6Flash,3.5Thinking,3.1Pro only). No substitute or submission."
+      "article_path": "articles/anthropic-haiku-ten-cents-million/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Gemini3.5Thinking original collected October12. Original event date retained; no independent full fact check. / 3.5Thinking原稿于10月12日补采，保留事件日期，尚未经独立全文核查。"
     },
     {
       "provider": "grok",
