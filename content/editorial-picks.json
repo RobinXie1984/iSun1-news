@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-12T07:08:34.870Z",
+  "selected_at": "2026-10-12T08:11:11.260Z",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -36,12 +36,12 @@
     {
       "topic": "anthropic-haiku-ten-cents-million",
       "language": "zh",
-      "provider": "chatgpt",
-      "article_path": "articles/anthropic-haiku-ten-cents-million/chatgpt/chinese.md",
-      "headline_index": 0,
-      "headline": "一角开千卷，谁付收残局？",
-      "sha256": "eb796379daa408d648bfcb515749229fff0560d53f06c40c634bcbc937be1170",
-      "reason": "Concrete ten-cent input hook; prompt-length tiers, output costs, verification and vendor-only benchmarks stay visible. Not a measured saving."
+      "provider": "gemini",
+      "article_path": "articles/anthropic-haiku-ten-cents-million/gemini/chinese.md",
+      "headline_index": 2,
+      "headline": "《廉价未必质劣，微芒亦可成炬？——解析 Claude Haiku 5.5 之玄机》",
+      "sha256": "c986192bd5aeb66e7157419e9c7f76aa5634843d17ee5bc391957c8f5d3a68b5",
+      "reason": "Gemini’s concise Chinese edition makes the two price tiers and offline benchmark limits easier to follow; the counter-intuitive headline asks about value without promising success."
     },
     {
       "topic": "anne-carson-nobel-29-tangos",
@@ -96,12 +96,12 @@
     {
       "topic": "navi-pillay-peace-law-2026",
       "language": "zh",
-      "provider": "chatgpt",
-      "article_path": "articles/navi-pillay-peace-law-2026/chatgpt/chinese.md",
-      "headline_index": 0,
-      "headline": "一冠既授，万国谁听？皮莱获奖之后的天下之问",
-      "sha256": "d65cfbabd812e2bc8a9bbf7062a8db01804938f2b34ebfe168fbca692f82c2b8",
-      "reason": "The classical crown-versus-obedience question is vivid and supported; award and older appointment dates remain separate."
+      "provider": "gemini",
+      "article_path": "articles/navi-pillay-peace-law-2026/gemini/chinese.md",
+      "headline_index": 1,
+      "headline": "《持法如月，照彻千山：记纳维·皮莱与万国公法之薪火》",
+      "sha256": "94df940177a9615576682a6e13de268a4598139e00779d7f496a5619aadb1bed",
+      "reason": "Gemini’s compact lunar metaphor gives the moral authority/enforcement tension a clearer reading arc than the longer incumbent. Award and legal force remain distinct."
     },
     {
       "topic": "jensen-huang-billion-science-five-years",

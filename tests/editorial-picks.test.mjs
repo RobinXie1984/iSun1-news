@@ -1,3 +1,4 @@
+import worker from '../dist/server/index.js';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import vm from 'node:vm';
@@ -64,4 +65,22 @@ test('italic option wrappers and recognized sandbox UI disappear only in present
  assert.equal(view.preview(raw).headlines[0],'NASA Went Looking for a Lakeshore on Mars. The Rocks Had a Different Secret.');
  const roman=data.articles['articles/roman-cosmic-blind-spot/chatgpt/english.md'];assert.match(roman,/^:chatgpt-content-reference/);assert.doesNotMatch(view.displayText(roman),/sandbox:/);
  assert.equal(view.displayText('A story mentions sandbox:/files here.'),'A story mentions sandbox:/files here.');
+});
+test('every archived story and provider edition has a local, captioned conceptual illustration without modifying the manuscript',async()=>{
+ const view=ui(),main={innerHTML:'',classList:{add(){},remove(){}},addEventListener(){},removeEventListener(){}};
+ const stories=JSON.parse(readFileSync('content/stories.json','utf8'));
+ for(const topic of data.topics){
+  const svg=readFileSync('public/editorial-art/'+topic.id+'.svg','utf8');
+  assert.match(svg,/viewBox="0 0 1200 800"/);assert.doesNotMatch(svg,/<script|<foreignObject|href=/i);
+  const response=await worker.fetch(new Request('https://example.test/editorial-art/'+topic.id+'.svg'),{get DB(){throw Error('Art must not measure readers');}});
+  assert.equal(response.status,200);assert.match(response.headers.get('content-type'),/image\/svg\+xml/);assert.equal(await response.text(),svg);
+  for(const language of ['en','zh']){
+   await view.render({main,data,stories,lang:language,hash:'story/'+topic.id});
+   assert.equal((main.innerHTML.match(/data-op-editorial-art/g)||[]).length,1);
+   assert.match(main.innerHTML,/width="1200" height="800"/);
+   assert.ok(main.innerHTML.includes(language==='en'?'not a news photograph':'非新闻照片'));
+  }
+ }
+ await view.render({main,data,stories,lang:'en',hash:'edition/anne-carson-nobel-29-tangos/gemini'});
+ assert.match(main.innerHTML,/data-op-editorial-art/);assert.match(main.innerHTML,/op-prose/);
 });
