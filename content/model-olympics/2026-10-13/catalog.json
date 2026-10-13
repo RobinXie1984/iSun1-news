@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T07:36:50.610289+00:00",
+  "generated_at": "2026-10-13T08:34:24.653043+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 20,
-  "unavailable_count": 4,
+  "available_count": 24,
+  "unavailable_count": 0,
   "articles": [
     {
       "provider": "chatgpt",
@@ -51,25 +51,25 @@
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.5 Thinking",
+      "model": "Gemini 3.6 Thinking",
       "language": "en",
       "topic": "scott-guthrie-maia-96-167kw",
       "event_date": "2026-10-12",
       "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "RequestedGemini3.5Thinking is absent in the actual October13mode picker:3.6Flash,3.6Thinking,3.1Pro. No request sent and no substitute used. / 10月13日实际选项为3.6Flash、3.6Thinking、3.1Pro；指定3.5Thinking不可选，未提交或替代。"
+      "article_path": "articles/scott-guthrie-maia-96-167kw/gemini/english.md",
+      "status": "available",
+      "availability_note": "Gemini3.6Thinking original collectedOctober13; originalOctober12event date retained. Vendor capabilities/plans are not independent results. / 3.6Thinking原稿于10月13日补采，保留10月12日事件日期；厂商能力与计划不等于独立结果。 Starts now must not imply Maia300 is already deployed: itsproduction start isplanned2027. Home-count/refrigerator-size analogies andcategorical necessity are not verified inthisbrief. / 现在开始不应暗示Maia300已部署，其计划始于2027；住宅数量、冰箱尺寸比喻与必然性未在资料核验。"
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.5 Thinking",
+      "model": "Gemini 3.6 Thinking",
       "language": "zh",
       "topic": "scott-guthrie-maia-96-167kw",
       "event_date": "2026-10-12",
       "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "RequestedGemini3.5Thinking is absent in the actual October13mode picker:3.6Flash,3.6Thinking,3.1Pro. No request sent and no substitute used. / 10月13日实际选项为3.6Flash、3.6Thinking、3.1Pro；指定3.5Thinking不可选，未提交或替代。"
+      "article_path": "articles/scott-guthrie-maia-96-167kw/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Gemini3.6Thinking original collectedOctober13; originalOctober12event date retained. Vendor capabilities/plans are not independent results. / 3.6Thinking原稿于10月13日补采，保留10月12日事件日期；厂商能力与计划不等于独立结果。 Starts now must not imply Maia300 is already deployed: itsproduction start isplanned2027. Home-count/refrigerator-size analogies andcategorical necessity are not verified inthisbrief. / 现在开始不应暗示Maia300已部署，其计划始于2027；住宅数量、冰箱尺寸比喻与必然性未在资料核验。167kW is a power envelope, not token throughput. The7x claim is up-to, not universal; Maia200 is not established as the firstgeneration. / 167千瓦是功率包络，非token吞吐；7倍为至多，非普遍；Maia200未确立为初代。"
     },
     {
       "provider": "grok",
@@ -183,25 +183,25 @@
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.5 Thinking",
+      "model": "Gemini 3.6 Thinking",
       "language": "en",
       "topic": "meta-muse-wonder-14-months",
       "event_date": "2026-10-12",
       "source_brief": "briefs/meta-muse-wonder-14-months.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "RequestedGemini3.5Thinking is absent in the actual October13mode picker:3.6Flash,3.6Thinking,3.1Pro. No request sent and no substitute used. / 10月13日实际选项为3.6Flash、3.6Thinking、3.1Pro；指定3.5Thinking不可选，未提交或替代。"
+      "article_path": "articles/meta-muse-wonder-14-months/gemini/english.md",
+      "status": "available",
+      "availability_note": "Gemini3.6Thinking original collectedOctober13; originalOctober12event date retained. Vendor capabilities/plans are not independent results. / 3.6Thinking原稿于10月13日补采，保留10月12日事件日期；厂商能力与计划不等于独立结果。 Quiet/silent/behindcloseddoors andgrueling are not established by14months ofoverhaul. The brief lacks prices/benchmarks/independent tests; that doesnotprove nonehavebeen released ordevelopers cannot evaluateAPI-accessible models. / 十四个月重建不证明秘密、沉默、闭门或艰苦；资料未载价格、评测及独立测试，不等于从未公开，也不证明开发者无法评估API可用模型。"
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.5 Thinking",
+      "model": "Gemini 3.6 Thinking",
       "language": "zh",
       "topic": "meta-muse-wonder-14-months",
       "event_date": "2026-10-12",
       "source_brief": "briefs/meta-muse-wonder-14-months.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "RequestedGemini3.5Thinking is absent in the actual October13mode picker:3.6Flash,3.6Thinking,3.1Pro. No request sent and no substitute used. / 10月13日实际选项为3.6Flash、3.6Thinking、3.1Pro；指定3.5Thinking不可选，未提交或替代。"
+      "article_path": "articles/meta-muse-wonder-14-months/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Gemini3.6Thinking original collectedOctober13; originalOctober12event date retained. Vendor capabilities/plans are not independent results. / 3.6Thinking原稿于10月13日补采，保留10月12日事件日期；厂商能力与计划不等于独立结果。 Quiet/silent/behindcloseddoors andgrueling are not established by14months ofoverhaul. The brief lacks prices/benchmarks/independent tests; that doesnotprove nonehavebeen released ordevelopers cannot evaluateAPI-accessible models. / 十四个月重建不证明秘密、沉默、闭门或艰苦；资料未载价格、评测及独立测试，不等于从未公开，也不证明开发者无法评估API可用模型。"
     },
     {
       "provider": "grok",

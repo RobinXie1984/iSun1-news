@@ -2828,6 +2828,34 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/gemini/english.md",
+      "captured_at": "2026-10-13T08:26:21.013Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/gemini/chinese.md",
+      "captured_at": "2026-10-13T08:33:15.557Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/gemini/english.md",
+      "captured_at": "2026-10-13T08:26:56.436Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/gemini/chinese.md",
+      "captured_at": "2026-10-13T08:33:15.668Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }
