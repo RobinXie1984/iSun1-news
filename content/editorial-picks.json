@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-12T08:11:11.260Z",
+  "selected_at": "2026-10-13T07:37:23.642Z",
   "selected_by": "Maxwell",
   "entries": [
+    {
+      "topic": "scott-guthrie-maia-96-167kw",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Microsoft’s 96-Chip AI Rack Has a 167-Kilowatt Question to Answer",
+      "sha256": "95c006393e06bffb828fdf8bfc0053368cef5260849157b5c40b9d9c3040d641",
+      "reason": "The96-accelerator/167kW constraint puts a concrete physical question ahead of vendor promises; plans, baselines and arithmetic remain qualified."
+    },
+    {
+      "topic": "scott-guthrie-maia-96-167kw",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《九十六芯列阵，谁解云天电力之围？》",
+      "sha256": "be053321883e5822aaf125c77662962ccccbe9f2c38f6fe9aa5982108769dbc0",
+      "reason": "The96-accelerator/167kW constraint puts a concrete physical question ahead of vendor promises; plans, baselines and arithmetic remain qualified."
+    },
+    {
+      "topic": "meta-muse-wonder-14-months",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/meta-muse-wonder-14-months/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Meta Spent 14 Months Rebuilding Its AI. The Real Test Begins When It Remembers You.",
+      "sha256": "8784fcbdd3b2e9ce7dbf6ecd492b05a0477fd607d8ec21aa412c50d9a1ef3e14",
+      "reason": "The14-month rebuild becomes a personal story about memory, changed intent and consent; the rollout and vendor claims remain bounded."
+    },
+    {
+      "topic": "meta-muse-wonder-14-months",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/meta-muse-wonder-14-months/chatgpt/chinese.md",
+      "headline_index": 1,
+      "headline": "《愿君记我，莫囚我于昨日》",
+      "sha256": "5d3748af133b3e68247870c01529a81c4ab0452ed7ff1c893a82fac8d70dcc13",
+      "reason": "The14-month rebuild becomes a personal story about memory, changed intent and consent; the rollout and vendor claims remain bounded."
+    },
     {
       "topic": "jared-isaacman-station-bids-dec8",
       "language": "en",

@@ -18,7 +18,7 @@ const errors=[...validateStories(stories),...history.flatMap(s=>validateStories(
 if([...stories,...history].some(s=>!registry.some(r=>r.experiment_id===s.experiment.id)))errors.push('Review new experiments, then run npm run seal.');if(errors.length)throw new Error(errors.join('\n'));
 mkdirSync('dist/server',{recursive:true});mkdirSync('dist/.openai',{recursive:true});
 const assets=Object.fromEntries(['index.html','app.js','style.css','theme.js','olympics.js','olympics.css',...['chatgpt','claude','gemini','grok','deepseek','qwen'].map(n=>'icons/'+n+'.svg')].map(f=>['/'+(f==='index.html'?'':f),readFileSync('public/'+f,'utf8')]));
-for(const topic of olympics.topics){const file='editorial-art/'+topic.id+'.svg'; assets['/'+file]=readFileSync('public/'+file,'utf8');}
+for(const topic of olympics.topics){const file='editorial-art/'+topic.id+'.svg'; if(existsSync('public/'+file))assets['/'+file]=readFileSync('public/'+file,'utf8');}
 const media=Object.fromEntries(['mars','robot','galaxy','oversight','security','eviltokens'].map(name=>['/images/'+name+'.jpg',readFileSync('public/images/'+name+'.jpg').toString('base64')]));
 const editionPaths=[...new Set((olympics.media?.editions||[]).flatMap(e=>e.items.map(i=>i.asset_path).filter(Boolean)))];
 if(editionPaths.length){

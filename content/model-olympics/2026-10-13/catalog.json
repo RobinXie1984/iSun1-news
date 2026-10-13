@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-13T07:36:50.610289+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 20,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/claude/english.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/claude/chinese.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.5 Thinking",
+      "language": "en",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "RequestedGemini3.5Thinking is absent in the actual October13mode picker:3.6Flash,3.6Thinking,3.1Pro. No request sent and no substitute used. / 10月13日实际选项为3.6Flash、3.6Thinking、3.1Pro；指定3.5Thinking不可选，未提交或替代。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.5 Thinking",
+      "language": "zh",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "RequestedGemini3.5Thinking is absent in the actual October13mode picker:3.6Flash,3.6Thinking,3.1Pro. No request sent and no substitute used. / 10月13日实际选项为3.6Flash、3.6Thinking、3.1Pro；指定3.5Thinking不可选，未提交或替代。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/grok/english.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/grok/chinese.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。 千倍之速 in a headline is not supported; reported rack throughput is up to7x versusMaia200. / 标题千倍无来源支持，披露为相对Maia200机架吞吐至多7倍。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/deepseek/english.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。 The Chinese title says十六万七千瓦 (167,000kW); the source says167kW. / 中文标题写成十六万七千瓦，来源为167千瓦。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/qwen/english.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。 The opening system paragraph says Microsoft is deploying the rack; Maia300 deployment is planned for2027, not demonstrated current operation. / 开篇机架段写正部署，Maia300实为计划2027年，非已运行证据。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/scott-guthrie-maia-96-167kw.md",
+      "article_path": "articles/scott-guthrie-maia-96-167kw/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "October12vendor announcement, collectedOctober13. Maia300 deployment begins2027 as a plan;96accelerators/167kW is the stated rack envelope, not observed site consumption.40% andup-to7x have different baselines; customer savings and independent performanceUNKNOWN. / 10月12日厂商公告、13日采集。Maia300计划2027年开始部署；96加速器、167千瓦为机架规格，非实测耗电。40%与至多7倍的基准不同，客户节省与独立性能未知。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/claude/english.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/claude/chinese.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。 UniversalAIforgetting, all-lifetime-memory and categorical absence of outside evidence exceed what this short brief verifies. These are not independent findings. / 一切AI遗忘、记住平生所有言语及外部证据绝对不存在，超出这份短资料的核验范围，非独立结论。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.5 Thinking",
+      "language": "en",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "RequestedGemini3.5Thinking is absent in the actual October13mode picker:3.6Flash,3.6Thinking,3.1Pro. No request sent and no substitute used. / 10月13日实际选项为3.6Flash、3.6Thinking、3.1Pro；指定3.5Thinking不可选，未提交或替代。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.5 Thinking",
+      "language": "zh",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "RequestedGemini3.5Thinking is absent in the actual October13mode picker:3.6Flash,3.6Thinking,3.1Pro. No request sent and no substitute used. / 10月13日实际选项为3.6Flash、3.6Thinking、3.1Pro；指定3.5Thinking不可选，未提交或替代。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/grok/english.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。 Across every conversation should not imply every detail retained; source says relevant information acrossconversations. / 所有对话不应暗示每项细节都留存，来源仅说相关信息跨对话。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/grok/chinese.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/deepseek/english.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。 14months of silence/closed doors is not established by an overhaul announcement. / 重建十四个月，不等于已证实十四个月沉默或闭门。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/qwen/english.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "source_brief": "briefs/meta-muse-wonder-14-months.md",
+      "article_path": "articles/meta-muse-wonder-14-months/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "October12Meta announcement, collectedOctober13. ActiveMemory/Focus andsafety are vendor descriptions. API/Code access differs from upcoming broaderMuse rollout. Full additional safety report forthcoming; no independent test byus. / 10月12日Meta公告、13日采集。记忆、专注与防护为厂商描述；API/Code与后续更广Muse上线不同，完整补充安全报告尚待，我们未独立实测。"
+    }
+  ]
+}

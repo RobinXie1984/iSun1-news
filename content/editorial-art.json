@@ -610,6 +610,44 @@
           "sha256": "371c483e6aa90566f67e4e65460a70b76a4f658301eb66cdeaa23da037fdbced"
         }
       ]
+    },
+    {
+      "topic": "meta-muse-wonder-14-months",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/meta-muse-wonder-14-months-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 192992,
+          "sha256": "b4e121cec9d1a0a6726cba7f7467d77e61c89093c707a4fc7d5c647d83b9943f"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/meta-muse-wonder-14-months-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 62186,
+          "sha256": "e23effe8924325c7dbe4cb33cbc35e90a8dbe3faf6ce69e2600ca2ef7fed6371"
+        }
+      ]
+    },
+    {
+      "topic": "scott-guthrie-maia-96-167kw",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/scott-guthrie-maia-96-167kw-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 272536,
+          "sha256": "16ce685fda613fcfc4e47533f1e0a0e1c6fc91b513d95d6c0d6a19850c2cba33"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/scott-guthrie-maia-96-167kw-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 79475,
+          "sha256": "75382d83519d50dc91d3a675a5a91aec70457b4697ba6e8f9a7222c95abb8678"
+        }
+      ]
     }
   ]
 }

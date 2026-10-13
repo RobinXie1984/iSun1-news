@@ -86,3 +86,8 @@ test('every archived story and provider edition has a local, captioned conceptua
  await view.render({main,data,stories,lang:'en',hash:'edition/anne-carson-nobel-29-tangos/gemini'});
  assert.match(main.innerHTML,/data-op-editorial-art/);assert.match(main.innerHTML,/op-prose/);
 });
+test('traditional counter-intuitive labels expose the exact original headline, without rewriting its claim',()=>{
+ const raw=readFileSync('content/model-olympics/2026-10-13/articles/scott-guthrie-maia-96-167kw/grok/chinese.md','utf8');
+ const options=ui().preview(raw).headlines;assert.equal(options.length,3);assert.equal(options[2],'欲得千倍之速，先求一瓦之省，微軟此計非在增機');
+ assert.equal(ui().preview('反直覺：原句甲\n逆直覺：原句乙\nSuspenseful: Original three').headlines.length,3);
+});

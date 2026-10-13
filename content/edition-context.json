@@ -2688,6 +2688,146 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/chatgpt/english.md",
+      "captured_at": "2026-10-13T07:22:10.351Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/chatgpt/chinese.md",
+      "captured_at": "2026-10-13T07:32:07.426Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/claude/english.md",
+      "captured_at": "2026-10-13T07:14:42.059Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/claude/chinese.md",
+      "captured_at": "2026-10-13T07:18:50.950Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/grok/english.md",
+      "captured_at": "2026-10-13T07:17:22.110Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/grok/chinese.md",
+      "captured_at": "2026-10-13T07:22:11.785Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/deepseek/english.md",
+      "captured_at": "2026-10-13T07:18:49.940Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/deepseek/chinese.md",
+      "captured_at": "2026-10-13T07:22:49.943Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/qwen/english.md",
+      "captured_at": "2026-10-13T07:18:48.610Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/scott-guthrie-maia-96-167kw/qwen/chinese.md",
+      "captured_at": "2026-10-13T07:22:11.836Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/chatgpt/english.md",
+      "captured_at": "2026-10-13T07:22:48.470Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/chatgpt/chinese.md",
+      "captured_at": "2026-10-13T07:30:31.981Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/claude/english.md",
+      "captured_at": "2026-10-13T07:15:47.160Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/claude/chinese.md",
+      "captured_at": "2026-10-13T07:18:51.033Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/grok/english.md",
+      "captured_at": "2026-10-13T07:20:37.161Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/grok/chinese.md",
+      "captured_at": "2026-10-13T07:22:50.054Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/deepseek/english.md",
+      "captured_at": "2026-10-13T07:20:39.963Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/deepseek/chinese.md",
+      "captured_at": "2026-10-13T07:22:49.993Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/qwen/english.md",
+      "captured_at": "2026-10-13T07:20:38.982Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/meta-muse-wonder-14-months/qwen/chinese.md",
+      "captured_at": "2026-10-13T07:22:50.114Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }

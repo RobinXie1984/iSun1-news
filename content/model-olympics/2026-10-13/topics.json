@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "scott-guthrie-maia-96-167kw",
+      "event_date": "2026-10-12",
+      "title": {
+        "en": "Microsoft packs96 AI chips into167kilowatts. Can its2027 promise pay off?",
+        "zh": "微软把96颗AI芯片装进167千瓦：2027年的承诺能兑现吗？"
+      },
+      "summary": {
+        "en": "Maia200 is in production; Maia300 is planned for2027. Reported efficiency gains are Microsoft claims, not independently reproduced results.",
+        "zh": "Maia200已投产，Maia300计划2027年部署。效率提升为微软披露，未独立复验。"
+      }
+    },
+    {
+      "id": "meta-muse-wonder-14-months",
+      "event_date": "2026-10-12",
+      "title": {
+        "en": "Meta spent14months rebuilding itsAI effort. Now it wants an agent that remembers you.",
+        "zh": "Meta重建AI十四个月，现在要让智能体记住你。"
+      },
+      "summary": {
+        "en": "MuseWonder launches through developer channels; wider Muse rollout is pending. Memory and task persistence remain vendor capabilities, not evidence of universal reliability.",
+        "zh": "MuseWonder先进入开发者渠道，更广Muse上线尚待。记忆与任务坚持是厂商能力主张，非普遍可靠性证明。"
+      }
+    }
+  ]
+}
