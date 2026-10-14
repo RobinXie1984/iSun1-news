@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-14T07:20:36.605Z",
+  "selected_at": "2026-10-14T08:20:15.176Z",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -16,12 +16,12 @@
     {
       "topic": "anthropic-scion-30000-merges",
       "language": "zh",
-      "provider": "claude",
-      "article_path": "articles/anthropic-scion-30000-merges/claude/chinese.md",
-      "headline_index": 0,
-      "headline": "《日并三万，旧器难承：Anthropic 何以弃 Git 而另起炉灶？》",
-      "sha256": "92cf5a033e52688b1817bb58ae23ac3bd93537f0ea9dc430bc122c9f62f5719f",
-      "reason": "Concrete30,000 daily merges and clear internal scope make the infrastructure reversal readable; vendor claims and general-use limits retained."
+      "provider": "gemini",
+      "article_path": "articles/anthropic-scion-30000-merges/gemini/chinese.md",
+      "headline_index": 2,
+      "headline": "《智械未替匠人，先倾卷帙：三万并纳之变》",
+      "sha256": "36d309145f0ecd268535cf70ce91719ec93ff9ddae6489cee5489ca1cf915bf5",
+      "reason": "A compact literary arc links30,000dailymerges, the newsourcecontrol machinery and continuinghumanjudgment. ShorterthanpreviousChinese edition withlessrepeatedlessonstructure. Theheadline refers to thisproject, not companywideemployment; vendorresults remainattributed."
     },
     {
       "topic": "griffin-153-decibels-moon",

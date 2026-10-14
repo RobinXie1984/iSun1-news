@@ -69,7 +69,7 @@
       "source_brief": "briefs/anthropic-scion-30000-merges.md",
       "article_path": "articles/anthropic-scion-30000-merges/gemini/chinese.md",
       "status": "available",
-      "availability_note": "Gemini3.8Thinking collectedOctober14; October13report date retained. Originalunedited; sources versus analysis remain distinct. / 3.8原稿14日采集，保留13日报道日期；原文不改，区分来源与分析。 Gitbroken is a capacitymetaphor, not anoutage; dailycommits should mean mergedcodechanges. Human dailylinecounts, onlinecommentary, billionlinecodebase and impossiblehumanreview are not established bybrief.200x footprint and25%CIcapacity differ from totalcost/universalspeed. / Git崩坏为容量比喻非宕机；每日提交应指合并变更。人类每日代码行数、网上评论、十亿行库及人工审阅不可能均未获资料支持；200倍足迹与25%CI非总成本或普遍速度。"
+      "availability_note": "Anthropic’sOctober13report says humanengineers continuedarchitecture decisions andchange-intentreview. Theheadline refers to thatproject, not proof ofnojoblosses companywide. Mayvolume wasabout2,500, notverified asmorethan2,500. September exceeded30,000mergedchanges.200xCPU/memoryfootprint and25%CIcapacity aredistinctvendorreportedmeasures, nottotalcost, universalperformanceor independentbenchmarks. / 10月13日厂商报告中，人类仍负责架构及变更意图审阅；标题限于此项目，不证明全公司无人失业。五月为约2500而非已确认超过2500，九月逾三万次合并。200倍CPU／内存足迹及25%CI容量为不同厂商指标，非总成本、普遍性能或独立评测。"
     },
     {
       "provider": "grok",
