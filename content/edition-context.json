@@ -2940,6 +2940,34 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/gemini/english.md",
+      "captured_at": "2026-10-14T07:59:39.371Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/gemini/chinese.md",
+      "captured_at": "2026-10-14T08:04:17.133Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/gemini/english.md",
+      "captured_at": "2026-10-14T08:02:31.600Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/gemini/chinese.md",
+      "captured_at": "2026-10-14T08:07:56.915Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

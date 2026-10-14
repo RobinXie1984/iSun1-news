@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T07:20:13.105471+00:00",
+  "generated_at": "2026-10-14T08:08:08.427334+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 12,
-  "unavailable_count": 12,
+  "available_count": 16,
+  "unavailable_count": 8,
   "articles": [
     {
       "provider": "chatgpt",
@@ -51,25 +51,25 @@
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.6 Thinking",
+      "model": "Gemini 3.8 Thinking",
       "language": "en",
       "topic": "anthropic-scion-30000-merges",
       "event_date": "2026-10-13",
       "source_brief": "briefs/anthropic-scion-30000-merges.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested3.6 Thinking absent from actual picker (3.8Thinking offered). No request submitted; replacement awaits Robin. / 当前选择器无3.6，提供3.8；未提交，等Robin决定。"
+      "article_path": "articles/anthropic-scion-30000-merges/gemini/english.md",
+      "status": "available",
+      "availability_note": "Gemini3.8Thinking collectedOctober14; October13report date retained. Originalunedited; sources versus analysis remain distinct. / 3.8原稿14日采集，保留13日报道日期；原文不改，区分来源与分析。 Gitbroken is a capacitymetaphor, not anoutage; dailycommits should mean mergedcodechanges. Human dailylinecounts, onlinecommentary, billionlinecodebase and impossiblehumanreview are not established bybrief.200x footprint and25%CIcapacity differ from totalcost/universalspeed. / Git崩坏为容量比喻非宕机；每日提交应指合并变更。人类每日代码行数、网上评论、十亿行库及人工审阅不可能均未获资料支持；200倍足迹与25%CI非总成本或普遍速度。"
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.6 Thinking",
+      "model": "Gemini 3.8 Thinking",
       "language": "zh",
       "topic": "anthropic-scion-30000-merges",
       "event_date": "2026-10-13",
       "source_brief": "briefs/anthropic-scion-30000-merges.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested3.6 Thinking absent from actual picker (3.8Thinking offered). No request submitted; replacement awaits Robin. / 当前选择器无3.6，提供3.8；未提交，等Robin决定。"
+      "article_path": "articles/anthropic-scion-30000-merges/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Gemini3.8Thinking collectedOctober14; October13report date retained. Originalunedited; sources versus analysis remain distinct. / 3.8原稿14日采集，保留13日报道日期；原文不改，区分来源与分析。 Gitbroken is a capacitymetaphor, not anoutage; dailycommits should mean mergedcodechanges. Human dailylinecounts, onlinecommentary, billionlinecodebase and impossiblehumanreview are not established bybrief.200x footprint and25%CIcapacity differ from totalcost/universalspeed. / Git崩坏为容量比喻非宕机；每日提交应指合并变更。人类每日代码行数、网上评论、十亿行库及人工审阅不可能均未获资料支持；200倍足迹与25%CI非总成本或普遍速度。"
     },
     {
       "provider": "grok",
@@ -183,25 +183,25 @@
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.6 Thinking",
+      "model": "Gemini 3.8 Thinking",
       "language": "en",
       "topic": "griffin-153-decibels-moon",
       "event_date": "2026-10-13",
       "source_brief": "briefs/griffin-153-decibels-moon.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested3.6 Thinking absent from actual picker (3.8Thinking offered). No request submitted; replacement awaits Robin. / 当前选择器无3.6，提供3.8；未提交，等Robin决定。"
+      "article_path": "articles/griffin-153-decibels-moon/gemini/english.md",
+      "status": "available",
+      "availability_note": "Gemini3.8Thinking collectedOctober14; October13report date retained. Originalunedited; sources versus analysis remain distinct. / 3.8原稿14日采集，保留13日报道日期；原文不改，区分来源与分析。 The provider retains a truncated headlineprefix afterretry. Completevacuum, hearinginjurythreshold, spacecraft internals, missioncontrolsplit, FLIPscouting/iceoutcomes, hundreds ofeliminatedfailuremodes andOctobercompletiondate are unverified additions. / 重试后原稿带截断标题；绝对真空、听损阈值、内部系统、控制分工、月车与冰探测成果、消除数百故障及十月完成日期均未核实。 Groundtests passed, notlaunch/landing.153decibels is up-to; FalconHeavylaunchplannedlater2026. Cargo conversion conflicts, weightunverified. Briefabsenceofdate doesnotprove nooutsideconfirmeddate; testpunishment doesnotestablishintent tobreakspacecraft. / 通过地面测试非发射登月；153为至多，发射为计划；载荷换算冲突、重量未核实。资料无日期不证明外界亦无；测试不证明意在毁坏。"
     },
     {
       "provider": "gemini",
-      "model": "Gemini 3.6 Thinking",
+      "model": "Gemini 3.8 Thinking",
       "language": "zh",
       "topic": "griffin-153-decibels-moon",
       "event_date": "2026-10-13",
       "source_brief": "briefs/griffin-153-decibels-moon.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested3.6 Thinking absent from actual picker (3.8Thinking offered). No request submitted; replacement awaits Robin. / 当前选择器无3.6，提供3.8；未提交，等Robin决定。"
+      "article_path": "articles/griffin-153-decibels-moon/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Gemini3.8Thinking collectedOctober14; October13report date retained. Originalunedited; sources versus analysis remain distinct. / 3.8原稿14日采集，保留13日报道日期；原文不改，区分来源与分析。 The provider retains a truncated headlineprefix afterretry. Completevacuum, hearinginjurythreshold, spacecraft internals, missioncontrolsplit, FLIPscouting/iceoutcomes, hundreds ofeliminatedfailuremodes andOctobercompletiondate are unverified additions. / 重试后原稿带截断标题；绝对真空、听损阈值、内部系统、控制分工、月车与冰探测成果、消除数百故障及十月完成日期均未核实。 Groundtests passed, notlaunch/landing.153decibels is up-to; FalconHeavylaunchplannedlater2026. Cargo conversion conflicts, weightunverified. Briefabsenceofdate doesnotprove nooutsideconfirmeddate; testpunishment doesnotestablishintent tobreakspacecraft. / 通过地面测试非发射登月；153为至多，发射为计划；载荷换算冲突、重量未核实。资料无日期不证明外界亦无；测试不证明意在毁坏。 Passingallconceivablepunishment isnotproved. / 非已通过一切可想象磨难。"
     },
     {
       "provider": "grok",
