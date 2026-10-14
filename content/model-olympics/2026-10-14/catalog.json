@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-14T07:20:13.105471+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 12,
+  "unavailable_count": 12,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested GPT-6 Astra Medium / Work returned selected model at capacity twice. First existing conversation retained; no substitute model. Other topic not submitted after bounded retry. / 所需模型两次容量不足，保留原线程；未换模型，另一题未提交。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested GPT-6 Astra Medium / Work returned selected model at capacity twice. First existing conversation retained; no substitute model. Other topic not submitted after bounded retry. / 所需模型两次容量不足，保留原线程；未换模型，另一题未提交。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": "articles/anthropic-scion-30000-merges/claude/english.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": "articles/anthropic-scion-30000-merges/claude/chinese.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。 The report does not establish an absence of incremental improvements or compare build-versus-buy choices. / 报告不能证明完全没有逐步优化，或已比较自建与采购。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested3.6 Thinking absent from actual picker (3.8Thinking offered). No request submitted; replacement awaits Robin. / 当前选择器无3.6，提供3.8；未提交，等Robin决定。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested3.6 Thinking absent from actual picker (3.8Thinking offered). No request submitted; replacement awaits Robin. / 当前选择器无3.6，提供3.8；未提交，等Robin决定。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: new-chat endpoint remains at automatic Cloudflare security verification; no challenge bypass or prompt submission. / 新对话入口停在自动安全核验，未绕过或提交。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: new-chat endpoint remains at automatic Cloudflare security verification; no challenge bypass or prompt submission. / 新对话入口停在自动安全核验，未绕过或提交。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": "articles/anthropic-scion-30000-merges/deepseek/english.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": "articles/anthropic-scion-30000-merges/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。 Cost increases and fixed human-review capacity are analysis, not measured source facts. / 成本上升及审阅人数不变是分析，非来源实测。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": "articles/anthropic-scion-30000-merges/qwen/english.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/anthropic-scion-30000-merges.md",
+      "article_path": "articles/anthropic-scion-30000-merges/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested GPT-6 Astra Medium / Work returned selected model at capacity twice. First existing conversation retained; no substitute model. Other topic not submitted after bounded retry. / 所需模型两次容量不足，保留原线程；未换模型，另一题未提交。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested GPT-6 Astra Medium / Work returned selected model at capacity twice. First existing conversation retained; no substitute model. Other topic not submitted after bounded retry. / 所需模型两次容量不足，保留原线程；未换模型，另一题未提交。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": "articles/griffin-153-decibels-moon/claude/english.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。 Passed tests do not mean every imaginable test, a successful landing or no confirmed date anywhere. Cargo-mass conversions on the source page conflict; neither number is adopted as verified cargo mass. / 通过测试不等于所有可想象测试、成功登月或各处均无确定日期。来源载荷换算冲突，两数均不采纳为已核实载荷。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": "articles/griffin-153-decibels-moon/claude/chinese.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。 Passed tests do not mean every imaginable test, a successful landing or no confirmed date anywhere. Cargo-mass conversions on the source page conflict; neither number is adopted as verified cargo mass. / 通过测试不等于所有可想象测试、成功登月或各处均无确定日期。来源载荷换算冲突，两数均不采纳为已核实载荷。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "en",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested3.6 Thinking absent from actual picker (3.8Thinking offered). No request submitted; replacement awaits Robin. / 当前选择器无3.6，提供3.8；未提交，等Robin决定。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.6 Thinking",
+      "language": "zh",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: requested3.6 Thinking absent from actual picker (3.8Thinking offered). No request submitted; replacement awaits Robin. / 当前选择器无3.6，提供3.8；未提交，等Robin决定。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: new-chat endpoint remains at automatic Cloudflare security verification; no challenge bypass or prompt submission. / 新对话入口停在自动安全核验，未绕过或提交。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: new-chat endpoint remains at automatic Cloudflare security verification; no challenge bypass or prompt submission. / 新对话入口停在自动安全核验，未绕过或提交。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": "articles/griffin-153-decibels-moon/deepseek/english.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。 Passed tests do not mean every imaginable test, a successful landing or no confirmed date anywhere. Cargo-mass conversions on the source page conflict; neither number is adopted as verified cargo mass. / 通过测试不等于所有可想象测试、成功登月或各处均无确定日期。来源载荷换算冲突，两数均不采纳为已核实载荷。"
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": "articles/griffin-153-decibels-moon/deepseek/chinese.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。 Passed tests do not mean every imaginable test, a successful landing or no confirmed date anywhere. Cargo-mass conversions on the source page conflict; neither number is adopted as verified cargo mass. / 通过测试不等于所有可想象测试、成功登月或各处均无确定日期。来源载荷换算冲突，两数均不采纳为已核实载荷。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": "articles/griffin-153-decibels-moon/qwen/english.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。 Passed tests do not mean every imaginable test, a successful landing or no confirmed date anywhere. Cargo-mass conversions on the source page conflict; neither number is adopted as verified cargo mass. / 通过测试不等于所有可想象测试、成功登月或各处均无确定日期。来源载荷换算冲突，两数均不采纳为已核实载荷。"
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/griffin-153-decibels-moon.md",
+      "article_path": "articles/griffin-153-decibels-moon/qwen/chinese.md",
+      "status": "available",
+      "availability_note": "October13 primary report, collectedOctober14. Reported figures and plans retain attribution. Original prose untouched; analysis is not independent evidence. / 10月13日一手报告，14日采集。数字及计划保留归因，原稿不改，分析非独立证据。 Passed tests do not mean every imaginable test, a successful landing or no confirmed date anywhere. Cargo-mass conversions on the source page conflict; neither number is adopted as verified cargo mass. / 通过测试不等于所有可想象测试、成功登月或各处均无确定日期。来源载荷换算冲突，两数均不采纳为已核实载荷。"
+    }
+  ]
+}

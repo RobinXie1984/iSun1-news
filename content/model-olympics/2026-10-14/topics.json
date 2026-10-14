@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "anthropic-scion-30000-merges",
+      "event_date": "2026-10-13",
+      "title": {
+        "en": "Claude helped flood Anthropic with30,000 daily merges. Git was replaced.",
+        "zh": "Claude催出每天三万次合并，Anthropic换掉Git。"
+      },
+      "summary": {
+        "en": "Anthropic reports a five-month internal migration to Scion. More code is not independent proof of better code.",
+        "zh": "Anthropic披露五个月内部迁移至Scion，代码增量并非质量独立证明。"
+      }
+    },
+    {
+      "id": "griffin-153-decibels-moon",
+      "event_date": "2026-10-13",
+      "title": {
+        "en": "Before SpaceX takes Griffin to the Moon, NASA blasted it with153decibels.",
+        "zh": "SpaceX送它登月前，NASA先用153分贝轰它。"
+      },
+      "summary": {
+        "en": "Griffin-1 passed ground environmental tests. Launch later this year remains planned; a lunar landing is not yet achieved.",
+        "zh": "Griffin-1通过地面环境测试，今年稍后发射仍为计划，尚未登月。"
+      }
+    }
+  ]
+}

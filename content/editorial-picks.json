@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-13T07:37:23.642Z",
+  "selected_at": "2026-10-14T07:20:36.605Z",
   "selected_by": "Maxwell",
   "entries": [
+    {
+      "topic": "anthropic-scion-30000-merges",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/anthropic-scion-30000-merges/claude/english.md",
+      "headline_index": 0,
+      "headline": "30,000 Code Changes a Day: The Moment Anthropic’s AI Outgrew Git",
+      "sha256": "4225d1037829eaaee6444c2d52cd1731c153c743501818b3879c1dbaca5c1285",
+      "reason": "Concrete30,000 daily merges and clear internal scope make the infrastructure reversal readable; vendor claims and general-use limits retained."
+    },
+    {
+      "topic": "anthropic-scion-30000-merges",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/anthropic-scion-30000-merges/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《日并三万，旧器难承：Anthropic 何以弃 Git 而另起炉灶？》",
+      "sha256": "92cf5a033e52688b1817bb58ae23ac3bd93537f0ea9dc430bc122c9f62f5719f",
+      "reason": "Concrete30,000 daily merges and clear internal scope make the infrastructure reversal readable; vendor claims and general-use limits retained."
+    },
+    {
+      "topic": "griffin-153-decibels-moon",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/griffin-153-decibels-moon/claude/english.md",
+      "headline_index": 0,
+      "headline": "153 Decibels, Two Weeks of Fire and Ice, and One Question NASA Can’t Answer Yet",
+      "sha256": "57e4054ce9f47c0265c5d96b16441c9f7bc5e9623f3855e0b2b3ced172152198",
+      "reason": "Physical sound and thermal ordeal give the story an immediate image; ground tests remain distinct from the planned launch and unknown landing."
+    },
+    {
+      "topic": "griffin-153-decibels-moon",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/griffin-153-decibels-moon/claude/chinese.md",
+      "headline_index": 1,
+      "headline": "《震之撼之，炙之冻之，只为他日一落广寒》",
+      "sha256": "e73eeda142950bfcedea34b8c38571eda4b47326292d1f4f118655149db0884c",
+      "reason": "Physical sound and thermal ordeal give the story an immediate image; ground tests remain distinct from the planned launch and unknown landing."
+    },
     {
       "topic": "scott-guthrie-maia-96-167kw",
       "language": "en",

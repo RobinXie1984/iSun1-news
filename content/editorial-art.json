@@ -648,6 +648,44 @@
           "sha256": "75382d83519d50dc91d3a675a5a91aec70457b4697ba6e8f9a7222c95abb8678"
         }
       ]
+    },
+    {
+      "topic": "anthropic-scion-30000-merges",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/anthropic-scion-30000-merges-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 263130,
+          "sha256": "e8e9981162d6ede0e3ba209aefcf6fa69718507a1d152ab36e6754937e4331a5"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/anthropic-scion-30000-merges-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 81662,
+          "sha256": "38869f3bb3092ae9e2fbd0b792131a00706590e55c3009bfe91c83a02e93e7f9"
+        }
+      ]
+    },
+    {
+      "topic": "griffin-153-decibels-moon",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/griffin-153-decibels-moon-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 247183,
+          "sha256": "624557db9a4b69f6fa96e543af852fd8f530e18b48c560f0266f2042051db945"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/griffin-153-decibels-moon-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 73695,
+          "sha256": "b32b8b0ab7286d043565442c5813fbe62f781a583ec7a339ecfc038ec9c247e2"
+        }
+      ]
     }
   ]
 }

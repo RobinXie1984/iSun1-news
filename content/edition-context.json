@@ -2856,6 +2856,90 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/claude/english.md",
+      "captured_at": "2026-10-14T07:12:06.903Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/claude/chinese.md",
+      "captured_at": "2026-10-14T07:13:26.223Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/deepseek/english.md",
+      "captured_at": "2026-10-14T07:12:08.233Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/deepseek/chinese.md",
+      "captured_at": "2026-10-14T07:14:09.721Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/qwen/english.md",
+      "captured_at": "2026-10-14T07:13:10.150Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/qwen/chinese.md",
+      "captured_at": "2026-10-14T07:14:41.254Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/claude/english.md",
+      "captured_at": "2026-10-14T07:14:34.449Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/claude/chinese.md",
+      "captured_at": "2026-10-14T07:16:20.189Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/deepseek/english.md",
+      "captured_at": "2026-10-14T07:16:20.260Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/deepseek/chinese.md",
+      "captured_at": "2026-10-14T07:18:21.102Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/qwen/english.md",
+      "captured_at": "2026-10-14T07:17:58.890Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/qwen/chinese.md",
+      "captured_at": "2026-10-14T07:20:00.808Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "UNKNOWN"
     }
   ]
 }
