@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-15T07:16:34.736348+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 8,
+  "unavailable_count": 16,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The requested signed-in ChatGPT Work session is unavailable. The accessible existing account shows Free and Work requires an upgrade; no substitute submission or upgrade was made."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The requested signed-in ChatGPT Work session is unavailable. The accessible existing account shows Free and Work requires an upgrade; no substitute submission or upgrade was made."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": "articles/perseverance-4522km-autonav/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: NASA’s October12 report (updated October13) describes an October11 total-distance milestone, not top speed or confirmed life. The60m margin and22.5m/sol across all mission sols are the editor’s arithmetic, not driving-day averages. Human waypoint choice remains. Recharging can refer to the onboard batteries, supplied by the MMRTG; this is not a solar rover. Metaphors and workflow conclusions are editorial analysis."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": "articles/perseverance-4522km-autonav/claude/chinese.md",
+      "status": "available",
+      "availability_note": "核验说明：NASA10月12日发布、13日更新，事件为11日累计里程纪录，非极速纪录或生命证据。六十米及全任务日均22.5米为编辑计算，并非实际行驶日均数。航点仍由人定；“充能”可指MMRTG供电的机载电池，并非太阳能车。比喻及工作方式推论属编辑分析。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": "articles/perseverance-4522km-autonav/gemini/english.md",
+      "status": "available",
+      "availability_note": "Correction and scope: NASA lists rover mass as1,025kg, not the original’s“two-ton”claim (JPL landing quick facts). The brief establishes neither fixed current Earth–Mars distance nor equal top speeds, exact historical drive loops/training datasets, peak records for other rovers, or exact2028end date.45.22km is cumulative travel, not crossing Mars. Fifteen versus5.5years is not an exact3×speed or productivity result; eventOctober11, not today. Extra engineering/history claims remain unverified here."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": "articles/perseverance-4522km-autonav/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "纠正与范围：NASA列毅力号质量1025公斤（JPL着陆资料），英文原稿“两吨”不符。简报未证当前固定地火距离、两车极速相同、历史逐日操作流程、训练集、其他车的峰值，亦未定2028年终止日。45.22公里为累计里程，非横穿火星；近十五年与五年半不是精确三倍速度或生产率。事件为10月11日。额外工程历史细节未在此核验。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Automatic security verification did not complete during bounded checks. No story prompt was submitted; generation remains UNKNOWN."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Automatic security verification did not complete during bounded checks. No story prompt was submitted; generation remains UNKNOWN."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing signed-in session is unavailable. Sign-in is required and the prior editor identity could not be verified through the available account chooser. No new account or duplicate prompt was created."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing signed-in session is unavailable. Sign-in is required and the prior editor identity could not be verified through the available account chooser. No new account or duplicate prompt was created."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing signed-in session is unavailable. The login form requires authentication; no verified saved login was available and no story prompt was submitted."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "source_brief": "briefs/perseverance-4522km-autonav.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing signed-in session is unavailable. The login form requires authentication; no verified saved login was available and no story prompt was submitted."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The requested signed-in ChatGPT Work session is unavailable. The accessible existing account shows Free and Work requires an upgrade; no substitute submission or upgrade was made."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The requested signed-in ChatGPT Work session is unavailable. The accessible existing account shows Free and Work requires an upgrade; no substitute submission or upgrade was made."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": "articles/microsoft-billion-scams-suppliers/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: all scale/action figures are Microsoft’s October14 claims, not independent forensic verification.1billion messages ≠ victims;75,000organizations were targeted, not necessarily compromised.100,000blocked domains ≠ seized domains. Brand impersonation is not proof of hacking; language is not nationality. Arrests, refunds and lasting impact are UNKNOWN, not zero. Opening inbox/bank examples and supplier analogies are general editorial framing, not a documented victim scene. No comments service is currently offered by this reader."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": "articles/microsoft-billion-scams-suppliers/claude/chinese.md",
+      "status": "available",
+      "availability_note": "核验说明：规模与行动数字均为微软10月14日所报，并非独立取证。十亿消息不等于受害人数；七万五千机构是遭瞄准，非已证失守。封锁十万域名不等于查封十万域名。仿冒品牌不等于攻破品牌；语言不能证明国籍。拘捕、退款与长期效果皆未知，并非零。信箱、银行等例子及工厂比喻属一般编辑表达，非已记录受害现场；本站暂无评论服务。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": "articles/microsoft-billion-scams-suppliers/gemini/english.md",
+      "status": "available",
+      "availability_note": "Correction: missing arrest/refund evidence is UNKNOWN; it does not establish“zero arrests”, no money recovered, operators at large or no possible restitution. Claims of an ex-parte legal process, precise filter bypass, medical disruption, months of rebuilding and destroyed capital are not verified by the shared brief. All scale/action figures remain Microsoft’s claims.1billion messages ≠ victims; blocked ≠ seized domains; language ≠ nationality. The original is preserved with these limits, not endorsed as independent forensic findings."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": "articles/microsoft-billion-scams-suppliers/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "纠正：未有拘捕、退款证据应作未知，不能断言零拘捕、未追回款项、嫌犯在逃或绝无赔偿。单方诉讼形式、过滤完全失效、医疗受损、数月重建及资本尽毁等细节，简报未证。规模与行动数字仍仅为微软所报；十亿消息非受害人数，封锁非查封，中文非国籍证据。保留原稿不等于背书其额外推断。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Automatic security verification did not complete during bounded checks. No story prompt was submitted; generation remains UNKNOWN."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Automatic security verification did not complete during bounded checks. No story prompt was submitted; generation remains UNKNOWN."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing signed-in session is unavailable. Sign-in is required and the prior editor identity could not be verified through the available account chooser. No new account or duplicate prompt was created."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing signed-in session is unavailable. Sign-in is required and the prior editor identity could not be verified through the available account chooser. No new account or duplicate prompt was created."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing signed-in session is unavailable. The login form requires authentication; no verified saved login was available and no story prompt was submitted."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing signed-in session is unavailable. The login form requires authentication; no verified saved login was available and no story prompt was submitted."
+    }
+  ]
+}

@@ -2968,6 +2968,62 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/perseverance-4522km-autonav/claude/english.md",
+      "captured_at": "2026-10-15T07:10:24.564Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/perseverance-4522km-autonav/claude/chinese.md",
+      "captured_at": "2026-10-15T07:12:33.449Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/perseverance-4522km-autonav/gemini/english.md",
+      "captured_at": "2026-10-15T07:12:23.831Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/perseverance-4522km-autonav/gemini/chinese.md",
+      "captured_at": "2026-10-15T07:14:15.686Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-billion-scams-suppliers/claude/english.md",
+      "captured_at": "2026-10-15T07:14:34.628Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-billion-scams-suppliers/claude/chinese.md",
+      "captured_at": "2026-10-15T07:16:03.270Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-billion-scams-suppliers/gemini/english.md",
+      "captured_at": "2026-10-15T07:09:01.183Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-billion-scams-suppliers/gemini/chinese.md",
+      "captured_at": "2026-10-15T07:10:42.410Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

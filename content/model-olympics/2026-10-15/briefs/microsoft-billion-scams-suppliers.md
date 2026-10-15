@@ -1,0 +1,7 @@
+# Microsoft's cybercrime-supplier disruption
+Report October14,2026; collectedOctober15. Allscale/resultsareMicrosoft's report, not ourindependentforensics.
+C1. Microsoft andHealth-ISAC actedagainstYAMStore,CoGUI,IronMan; Microsoftsays theseenabled over1billionmaliciousmessages sinceJanuary2026, targeting over75,000organizations inmorethan150countries. Messagesare notuniquevictims, successfulcompromises orrecoveredmoney.
+C2. Investigatorsidentifiedmorethan2,300impersonationtemplates; someexpiredlegitimatedomains were rebuilt toobtain andresellfraudulentaccounts. Abrandappearing inatemplate doesnotmean itsrealnetworkwashacked. Chineselanguage marketplace isnotproofofnationality orstatebacking.
+C3. Microsoftsays aSouthernDistrictofFlorida courtorder enabled seizure/redirection ofinfrastructuredomains. It disabled over20,000YAM-linkedaccounts andisblockingover100,000impersonation/frauddomains; blockingcounts do not equal allseizeddomains. JapanNPA,JC3 andindustrypartners supportedinvestigation.
+C4. Disruptioncontinues; noverifiedarrests, completeeradication, victimrefunds orindependentimpactmeasurement inthisbrief. Tension: targetthe supplychain ratherthanchaseeachmessage; legitimateplatformtrustcanbeabused. No inventedvictim/scammerdialogue, attributionofguilt beyondreport, technicalattackinstructions orquote.
+Source: https://blogs.microsoft.com/on-the-issues/2026/10/14/disrupting-the-service-economy-behind-transnational-cybercrime-operations/

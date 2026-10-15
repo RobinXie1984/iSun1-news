@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-14T08:20:15.176Z",
+  "selected_at": "2026-10-15T07:17:02.693Z",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -722,6 +722,46 @@
       "headline": "《真门亦藏局：微软页面无伪，所允之人未必是君》",
       "sha256": "dbce3e7998587988e9de83e61c32709c220106a46d6297b25a929ecba074b79f",
       "reason": "A real sign-in can authorize the wrong session. Keep hotel compromise and authorization mechanics distinct."
+    },
+    {
+      "topic": "perseverance-4522km-autonav",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/perseverance-4522km-autonav/claude/english.md",
+      "headline_index": 0,
+      "headline": "60 Meters: The Margin That Just Rewrote the Off-World Driving Record",
+      "sha256": "e1ee654547e17f03fa8ea1ee9ff208e319f3ef378bd104d18613119537e9d8ad",
+      "reason": "A concrete60m difference invites the larger navigation story. The event date is explicit; this is a total-distance milestone, not a speed record."
+    },
+    {
+      "topic": "perseverance-4522km-autonav",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/perseverance-4522km-autonav/claude/chinese.md",
+      "headline_index": 2,
+      "headline": "《致远不在疾驰，而在使机自择其途》",
+      "sha256": "1cfe66f0cef537c93e08f468f85263e92dc6ddbf1809f4907aa864abd824f5ac",
+      "reason": "A clear human-machine division of labour gives the positive engineering story an earned philosophical payoff without promising life or limitless autonomy."
+    },
+    {
+      "topic": "microsoft-billion-scams-suppliers",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/microsoft-billion-scams-suppliers/claude/english.md",
+      "headline_index": 0,
+      "headline": "A Billion Messages, Three Storefronts, One Court Order: Inside Microsoft's Move Against the Cybercrime Supply Chain",
+      "sha256": "9ca5792a6388a200d8ac74db7c1532e8350e5d21bb60bb172d7e6a6abd589479",
+      "reason": "A billion messages, three suppliers and one court order make the scale and mechanism legible; Microsoft attribution and unknown impact are retained."
+    },
+    {
+      "topic": "microsoft-billion-scams-suppliers",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/microsoft-billion-scams-suppliers/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《十亿书函，三肆一令：伪书之源，竟在何方？》",
+      "sha256": "fb89a5315276893d771ce0639648f84f49de8653feb021333015a117e002f0e7",
+      "reason": "Numbers plus a direct question reveal the hidden supplier and preserve the distinction between attempted messages and actual damage."
     }
   ]
 }

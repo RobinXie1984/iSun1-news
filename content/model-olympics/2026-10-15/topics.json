@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "perseverance-4522km-autonav",
+      "event_date": "2026-10-11",
+      "title": {
+        "en": "NASA’s rover beat a nearly 15-year driving record in five-and-a-half years. Who was steering?",
+        "zh": "NASA火星车五年半跑赢前辈近十五年，谁在掌方向盘？"
+      },
+      "summary": {
+        "en": "Perseverance passed 45.22km; NASA credits AutoNav, with humans choosing waypoints. More reach means more science, not proof of life or limitless autonomy.",
+        "zh": "毅力号累计45.22公里，NASA归功于AutoNav，但航点仍由人选择。行得更远不等于发现生命或无限自治。"
+      }
+    },
+    {
+      "id": "microsoft-billion-scams-suppliers",
+      "event_date": "2026-10-14",
+      "title": {
+        "en": "Microsoft followed scam messages—and found the shops supplying them.",
+        "zh": "微软追查诈骗短信，追到了骗子的供货商。"
+      },
+      "summary": {
+        "en": "Microsoft reports action against services behind over 1 billion malicious messages. Blocking domains is not the same as eliminating fraud.",
+        "zh": "微软披露打击支撑逾十亿条恶意消息的服务商；封域名不等于诈骗绝迹。"
+      }
+    }
+  ]
+}

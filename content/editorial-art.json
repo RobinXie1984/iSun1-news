@@ -686,6 +686,44 @@
           "sha256": "b32b8b0ab7286d043565442c5813fbe62f781a583ec7a339ecfc038ec9c247e2"
         }
       ]
+    },
+    {
+      "topic": "microsoft-billion-scams-suppliers",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/microsoft-billion-scams-suppliers-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 214678,
+          "sha256": "61184b839133f6316cd8b7b017fcddfe236b0f1f68f02a2771df412549bc3002"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/microsoft-billion-scams-suppliers-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 68626,
+          "sha256": "2266c3646f40ebca11dfd5c0bf06148ac4a7e4cbd823ffd0b76f279d7225bca0"
+        }
+      ]
+    },
+    {
+      "topic": "perseverance-4522km-autonav",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/perseverance-4522km-autonav-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 329027,
+          "sha256": "56b40196092b19be4c04acd0f0c55ebdea9d2e110fe8a4aeb47e6999066b289f"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/perseverance-4522km-autonav-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 92936,
+          "sha256": "ae98de9e176a2df649c31e8d3fba59fcece20dfa8e088385d49663ea56467b4f"
+        }
+      ]
     }
   ]
 }
