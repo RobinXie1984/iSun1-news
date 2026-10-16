@@ -724,6 +724,44 @@
           "sha256": "ae98de9e176a2df649c31e8d3fba59fcece20dfa8e088385d49663ea56467b4f"
         }
       ]
+    },
+    {
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/greenland-lake-b-hidden-reservoir-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 292113,
+          "sha256": "c766bf058bf0c071584de19c1f8ecff948249bf99dcdcaaf65e79085c461a9c9"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/greenland-lake-b-hidden-reservoir-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 80454,
+          "sha256": "600306a959a046d38f49297ecbcca66a81ab095add0d2af986e15b69192ff288"
+        }
+      ]
+    },
+    {
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/tsmc-4672-billion-two-nanometres-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 247373,
+          "sha256": "71df3c1c1612fae047786bc0355873d03888fe308050ef205448addfbe087835"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/tsmc-4672-billion-two-nanometres-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 78891,
+          "sha256": "b94f1a1be17176894cb3171b5cbb9c1227e0cefef05e6d90a167099c05b04dae"
+        }
+      ]
     }
   ]
 }

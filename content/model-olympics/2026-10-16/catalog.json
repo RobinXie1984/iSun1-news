@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-16T07:12:17.886444+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 8,
+  "unavailable_count": 16,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The requested existing ChatGPT Work session requires sign-in. No substitute account/model, upgrade or new prompt was used."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The requested existing ChatGPT Work session requires sign-in. No substitute account/model, upgrade or new prompt was used."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/claude/english.md",
+      "status": "available",
+      "availability_note": "Source scope: ESA reports satellite inference, not a direct view through the ice. The universal claim that nobody has ever photographed the lake is not established here. ESA says2022had the lowest surface melt, suggesting an input threshold; the compact brief omitted that detail. Storage0.37±0.11billion m³ and63±23%refer to this catchment; ±values should not be read as guaranteed bounds. Pool/month comparisons are the editor’s illustrations, not observed drainage duration.600m is below sea level, not ice thickness. Storage is temporary; the full paper was inaccessible and ecosystem impacts remain uncertain."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源范围：ESA所述为卫星推断，非穿透冰层直接摄影；“从未有人拍到”这类绝对断言，在此未获证明。ESA称2022年表面融化最少，提示入水阈值；简报未收入此细节。0.37±0.11十亿立方米与63±23%限于当地集水区，误差不可视作保证上下界。泳池、月份换算是编辑举例，非实测排水时长。六百米是海平面以下，非冰厚。蓄水仅属暂时；论文全文未能读取，生态后果仍未知。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source scope:600m refers to bedrock elevation below sea level, not measured ice thickness or the lake’s water depth. The storage and runoff estimates retain±uncertainty and apply only to this catchment. ESA reports2022low melt and a possible threshold, not a demonstrated pressure/thermal mechanism. Observations2018–2024underlie the October15report. No permanent sea-level protection, natural self-healing or urgent global coastal-defence conclusion is established. Full paper not accessed; retain ESA attribution and uncertain downstream causality."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源范围：六百米指基岩低于海平面的高程，并非实测冰厚或湖水深度；“万仞、千丈冻土”等仅为原稿文学表达，无尺寸依据，也不能把冰盖说成已证冻土。蓄量与径流占比须保留±误差，限于该集水区。ESA称2022融化较少、或有阈值，未证热压机制。观测为2018至2024年，报道为10月15日。永久阻海升、自然自愈或全球防线紧迫结论均未证；论文全文未读。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Automatic verification has cleared, but the current page is signed out with Fast mode only. The authorized Expert account is unavailable; no substitute submission was made."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Automatic verification has cleared, but the current page is signed out with Fast mode only. The authorized Expert account is unavailable; no substitute submission was made."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The current page requires sign-in; the prior editor account is unavailable. No new account or story prompt was created."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The current page requires sign-in; the prior editor account is unavailable. No new account or story prompt was created."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The retained page remains at the login form. Existing editor authentication is unavailable; no new account or story prompt was created."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The retained page remains at the login form. Existing editor authentication is unavailable; no new account or story prompt was created."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The requested existing ChatGPT Work session requires sign-in. No substitute account/model, upgrade or new prompt was used."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The requested existing ChatGPT Work session requires sign-in. No substitute account/model, upgrade or new prompt was used."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: company disclosures, not an independent audit. Q3 revenue US$46.72billion; net margin51.1%. Q4US$52.3–54.3billion is guidance, with the stated FX assumption. “Harder next quarter” is the editor’s expectation/baseline argument, not a reported fact. “Record-shattering” and “every screen” are unsupported by this brief; the75-day headline is misleading because Q4began October1. Margin is not a standalone measure of competition or cash flow. No AI-only share, stock reaction or guaranteed return is established; this reader has no comments service."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：数字为公司披露，非独立审计。第三季美元营收467.2亿、净利率51.1%；第四季523至543亿美元仍为指定汇率下的指引。“下一季更难”是编辑对基准与预期的分析，非公司报告事实。英文“打破纪录”“每块屏幕”简报未证；75天后才开考亦误导，第四季已于10月1日开始。利润率不能单独证明竞争或现金流。AI独占份额、股价反应及保证回报皆未证；本站暂无评论服务。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/gemini/english.md",
+      "status": "available",
+      "availability_note": "Correction/scope: provider-rendered currency passages contain math-formatting artifacts. Official figures are revenue NT$1,494.24billion and net income NT$763.06billion; US revenue$46.72billion, up41.2%, versus NT-dollar growth50.9%. Gross/operating/net margins66.4%/58.7%/51.1%are distinct.79%is a wafer-revenue share, not a proven threshold. Claims of mathematical impossibility, an unassailable monopoly or guaranteed historic peak are unsupported opinion. The Q4range is guidance; no AI-only allocation, market reaction or investment return is established."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "纠正与范围：原稿币值段落有模型数学排版乱码；官方数为营收新台币14942.4亿、净利7630.6亿，美元营收467.2亿、年增41.2%；新台币年增50.9%，不可混用。“较诸岁首同席”应按年比较，不是年初。毛利、营利、净利率66.4%、58.7%、51.1%不同；79%是晶圆营收份额，不是门槛。实业五成净利并非数学不可能；绝对护城河或巅峰论未经证明。第四季仍是指引，AI独占份额、股价及投资回报均未证。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Automatic verification has cleared, but the current page is signed out with Fast mode only. The authorized Expert account is unavailable; no substitute submission was made."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Automatic verification has cleared, but the current page is signed out with Fast mode only. The authorized Expert account is unavailable; no substitute submission was made."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The current page requires sign-in; the prior editor account is unavailable. No new account or story prompt was created."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The current page requires sign-in; the prior editor account is unavailable. No new account or story prompt was created."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The retained page remains at the login form. Existing editor authentication is unavailable; no new account or story prompt was created."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The retained page remains at the login form. Existing editor authentication is unavailable; no new account or story prompt was created."
+    }
+  ]
+}

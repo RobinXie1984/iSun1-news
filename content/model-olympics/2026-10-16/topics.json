@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "greenland-lake-b-hidden-reservoir",
+      "event_date": "2026-10-15",
+      "title": {
+        "en": "Greenland hid a lake. Satellites caught the ice rising 10 metres.",
+        "zh": "格陵兰藏着一座湖，卫星看见冰面升了十米。"
+      },
+      "summary": {
+        "en": "Lake B temporarily stores meltwater beneath an ice cap. Better understanding of its delayed release can improve hydrological models, not stop warming.",
+        "zh": "冰下B湖暂存融水，延迟排放。认识这段隐秘水路有助改善水文模型，并非阻止变暖。"
+      }
+    },
+    {
+      "id": "tsmc-4672-billion-two-nanometres",
+      "event_date": "2026-10-15",
+      "title": {
+        "en": "TSMC booked $46.72 billion. Its 2nm ramp still has to deliver the next quarter.",
+        "zh": "台积电一季营收467.2亿美元，二纳米还得兑现下一季。"
+      },
+      "summary": {
+        "en": "TSMC reports strong leading-edge demand and 2nm at 8% of wafer revenue. Its $52.3–54.3 billion Q4 outlook is guidance, not money already earned.",
+        "zh": "台积电称先进制程需求强劲，二纳米占晶圆营收8%。第四季523至543亿美元仍是指引，尚未入账。"
+      }
+    }
+  ]
+}

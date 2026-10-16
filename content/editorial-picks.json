@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-15T07:17:02.693Z",
+  "selected_at": "2026-10-16T07:12:44.534Z",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -762,6 +762,46 @@
       "headline": "《十亿书函，三肆一令：伪书之源，竟在何方？》",
       "sha256": "fb89a5315276893d771ce0639648f84f49de8653feb021333015a117e002f0e7",
       "reason": "Numbers plus a direct question reveal the hidden supplier and preserve the distinction between attempted messages and actual damage."
+    },
+    {
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/claude/english.md",
+      "headline_index": 0,
+      "headline": "For six years, the ice over one patch of Greenland kept rising and falling. Satellites finally worked out why.",
+      "sha256": "51e18f25fd79292ed927b10fbc2204eaf477f6c6eb25d5aed4a5648b2fb0d6bb",
+      "reason": "A six-year surface-motion puzzle makes the hidden discovery immediately legible; uncertainty and the2022exception remain annotated."
+    },
+    {
+      "topic": "greenland-lake-b-hidden-reservoir",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "冰下有湖，六载不见其形，何以知之？",
+      "sha256": "8b1bccf0d0b6abc0a5a36bfb829258a84553a1964d1919b03b15bd01d20922f6",
+      "reason": "The question turns invisible water into an intelligible inference story; less ornate and more specific than unsupported ice-thickness imagery."
+    },
+    {
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/claude/english.md",
+      "headline_index": 2,
+      "headline": "TSMC Kept 51 Cents of Every Revenue Dollar as Profit. That Makes Its Next Quarter Harder.",
+      "sha256": "762a2525fb99abe45607591d9fcbe1f4f1ea4d70aebc2961ffbae6472f47b219",
+      "reason": "A concrete reported net margin leads into the next-quarter expectation question. The difficulty claim is explicitly editorial analysis, not a verified future result."
+    },
+    {
+      "topic": "tsmc-4672-billion-two-nanometres",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/claude/chinese.md",
+      "headline_index": 2,
+      "headline": "《百金而存其半，愈盈愈难：台积电利厚之日，正是考题加重之时》",
+      "sha256": "9728f5e11d69d9c8834570dae0fd9b83373033ca7b90bb4fa00e351132a5e2c5",
+      "reason": "Retained profit provides a concrete hook; the higher-bar argument is marked interpretation and guidance remains prospective."
     }
   ]
 }

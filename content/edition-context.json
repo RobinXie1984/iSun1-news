@@ -3024,6 +3024,62 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/claude/english.md",
+      "captured_at": "2026-10-16T07:07:15.453Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/claude/chinese.md",
+      "captured_at": "2026-10-16T07:09:07.150Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/gemini/english.md",
+      "captured_at": "2026-10-16T07:07:30.491Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/gemini/chinese.md",
+      "captured_at": "2026-10-16T07:09:17.067Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/claude/english.md",
+      "captured_at": "2026-10-16T07:10:20.482Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/claude/chinese.md",
+      "captured_at": "2026-10-16T07:11:59.704Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/gemini/english.md",
+      "captured_at": "2026-10-16T07:07:37.987Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/gemini/chinese.md",
+      "captured_at": "2026-10-16T07:09:17.103Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }
