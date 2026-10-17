@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-17T07:07:38.960838+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 8,
+  "unavailable_count": 16,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Requested existing ChatGPT Work account requires sign-in. No anonymous or alternate-account submission."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Requested existing ChatGPT Work account requires sign-in. No anonymous or alternate-account submission."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": "articles/mit-weather-two-six-weeks/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: MIT reports the hybrid submission doubled the original model’s predictive power, and separately improved on climatological averages. It does not establish twice the accuracy of climatology. These are two-to-six-week probabilistic results, not exact street-level weather, the end of chaos, or verified local operational benefits. Full Nature paper and metric definitions were not retrieved. Kenya contact is interest, not rollout or crop gains. Fictional probability examples and comparisons are editorial illustrations. Specific unprovided event types, spending, model architecture and universal superlatives are not verified. The metaphor of studying “human error” should mean systematic model forecast errors."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": "articles/mit-weather-two-six-weeks/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：MIT称混合模型相对原模型的预测力翻倍，另称胜过气候均值；并非比气候均值准确两倍。两至六周为概率结果，不是某街某日精准天气，也未推翻混沌或证实本地实际效益。Nature全文与指标定义未取得。肯尼亚仅接洽，非部署或增产。原稿概率示例、类比属编辑举例；未经提供的事件类别、开支、架构及绝对最高评价未核实。“人类之误”应理解为模型系统性偏差。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": "articles/mit-weather-two-six-weeks/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: MIT reports the hybrid submission doubled the original model’s predictive power, and separately improved on climatological averages. It does not establish twice the accuracy of climatology. These are two-to-six-week probabilistic results, not exact street-level weather, the end of chaos, or verified local operational benefits. Full Nature paper and metric definitions were not retrieved. Kenya contact is interest, not rollout or crop gains. Fictional probability examples and comparisons are editorial illustrations. Specific unprovided event types, spending, model architecture and universal superlatives are not verified. The metaphor of studying “human error” should mean systematic model forecast errors."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": "articles/mit-weather-two-six-weeks/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：MIT称混合模型相对原模型的预测力翻倍，另称胜过气候均值；并非比气候均值准确两倍。两至六周为概率结果，不是某街某日精准天气，也未推翻混沌或证实本地实际效益。Nature全文与指标定义未取得。肯尼亚仅接洽，非部署或增产。原稿概率示例、类比属编辑举例；未经提供的事件类别、开支、架构及绝对最高评价未核实。“人类之误”应理解为模型系统性偏差。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Human-verification overlay cleared, but account remains signed out; anonymous Fast is not requested Expert. No prompt submitted."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Human-verification overlay cleared, but account remains signed out; anonymous Fast is not requested Expert. No prompt submitted."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing DeepSeek interface requires sign-in; no authorized model/mode could be verified."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing DeepSeek interface requires sign-in; no authorized model/mode could be verified."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing Qwen interface requires sign-in; requested3.8-Max unavailable."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/mit-weather-two-six-weeks.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing Qwen interface requires sign-in; requested3.8-Max unavailable."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Requested existing ChatGPT Work account requires sign-in. No anonymous or alternate-account submission."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Requested existing ChatGPT Work account requires sign-in. No anonymous or alternate-account submission."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": "articles/microsoft-nisource-20-year-power/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: this is NiSource’s October16 announcement, not an independent bill or regulatory audit. Service is expected in2028;1,100MW is planned pooled capacity. Total projected$1.75billion spans the data-center-contract portfolio, not an annual Microsoft gift.$350million is the arithmetic difference between rounded portfolio estimates, not an independently established Microsoft-only contribution or uniform20-year allocation.$140 is “as much as”, not guaranteed for every household.600MW batteries serve multiple customers; duration/MWh, fuel mix and emissions are unknown. This brief does not establish no prior regulatory review, real household experience, land preparation/distance, or zero current service. Any kitchen-table scene is imagined; generic grid-risk and technology claims are analysis, not observed consequences of this project."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": "articles/microsoft-nisource-20-year-power/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：这是NiSource于10月16日的公告，非独立账单或监管审计。预计2028供电，1100MW为规划中的组合容量。17.5亿美元是数据中心合同组合全周期节省预测，不是微软年度赠款；3.5亿美元只是两项取整预测之差，不能确认全部归因微软，更不可平均摊作二十年每户所得。140美元为“可达”，非户户保证。600MW电池服务多家客户，时长／MWh、燃料与排放未知。“绿电、备用容量、百万户、从未经监管审核”等均未由简报证实；厨房场景属想象，地块准备、距离及当前零供电亦未核实。通用电网风险是分析，不能写成本项目已发生后果。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": "articles/microsoft-nisource-20-year-power/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: this is NiSource’s October16 announcement, not an independent bill or regulatory audit. Service is expected in2028;1,100MW is planned pooled capacity. Total projected$1.75billion spans the data-center-contract portfolio, not an annual Microsoft gift.$350million is the arithmetic difference between rounded portfolio estimates, not an independently established Microsoft-only contribution or uniform20-year allocation.$140 is “as much as”, not guaranteed for every household.600MW batteries serve multiple customers; duration/MWh, fuel mix and emissions are unknown. This brief does not establish no prior regulatory review, real household experience, land preparation/distance, or zero current service. Any kitchen-table scene is imagined; generic grid-risk and technology claims are analysis, not observed consequences of this project."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": "articles/microsoft-nisource-20-year-power/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：这是NiSource于10月16日的公告，非独立账单或监管审计。预计2028供电，1100MW为规划中的组合容量。17.5亿美元是数据中心合同组合全周期节省预测，不是微软年度赠款；3.5亿美元只是两项取整预测之差，不能确认全部归因微软，更不可平均摊作二十年每户所得。140美元为“可达”，非户户保证。600MW电池服务多家客户，时长／MWh、燃料与排放未知。“绿电、备用容量、百万户、从未经监管审核”等均未由简报证实；厨房场景属想象，地块准备、距离及当前零供电亦未核实。通用电网风险是分析，不能写成本项目已发生后果。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Human-verification overlay cleared, but account remains signed out; anonymous Fast is not requested Expert. No prompt submitted."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Human-verification overlay cleared, but account remains signed out; anonymous Fast is not requested Expert. No prompt submitted."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing DeepSeek interface requires sign-in; no authorized model/mode could be verified."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing DeepSeek interface requires sign-in; no authorized model/mode could be verified."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing Qwen interface requires sign-in; requested3.8-Max unavailable."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "source_brief": "briefs/microsoft-nisource-20-year-power.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "The existing Qwen interface requires sign-in; requested3.8-Max unavailable."
+    }
+  ]
+}

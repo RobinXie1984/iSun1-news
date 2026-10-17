@@ -3080,6 +3080,62 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-weather-two-six-weeks/claude/english.md",
+      "captured_at": "2026-10-17T07:01:29.316Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-weather-two-six-weeks/claude/chinese.md",
+      "captured_at": "2026-10-17T07:03:23.116Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-weather-two-six-weeks/gemini/english.md",
+      "captured_at": "2026-10-17T07:01:09.176Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-weather-two-six-weeks/gemini/chinese.md",
+      "captured_at": "2026-10-17T07:02:55.196Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-nisource-20-year-power/claude/english.md",
+      "captured_at": "2026-10-17T07:05:24.195Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-nisource-20-year-power/claude/chinese.md",
+      "captured_at": "2026-10-17T07:07:32.418Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-nisource-20-year-power/gemini/english.md",
+      "captured_at": "2026-10-17T07:04:08.725Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-nisource-20-year-power/gemini/chinese.md",
+      "captured_at": "2026-10-17T07:05:35.515Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

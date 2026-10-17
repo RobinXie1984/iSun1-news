@@ -762,6 +762,44 @@
           "sha256": "b94f1a1be17176894cb3171b5cbb9c1227e0cefef05e6d90a167099c05b04dae"
         }
       ]
+    },
+    {
+      "topic": "mit-weather-two-six-weeks",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/mit-weather-two-six-weeks-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 265709,
+          "sha256": "14fb437a9038398b5bf944c8e63a178c0869fde0d6969cce521cbc860961e476"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/mit-weather-two-six-weeks-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 79083,
+          "sha256": "ad12814b8f9f29d1662be341afdf7a77cb5c6927fa4743450f728a2d9d2275c9"
+        }
+      ]
+    },
+    {
+      "topic": "microsoft-nisource-20-year-power",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/microsoft-nisource-20-year-power-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 288880,
+          "sha256": "4373cd53a65be43387089f1902746e29c192015c1a88ac06d8ae8def0f9ba621"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/microsoft-nisource-20-year-power-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 82229,
+          "sha256": "3542cc09b2fe44c064c7fdaec19eabd5f2bddb1b3adcc27ea6130e8b5157d080"
+        }
+      ]
     }
   ]
 }

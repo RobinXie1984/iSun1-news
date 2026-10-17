@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-16T07:12:44.534Z",
+  "selected_at": "2026-10-17T07:08:31.132668+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -802,6 +802,46 @@
       "headline": "《百金而存其半，愈盈愈难：台积电利厚之日，正是考题加重之时》",
       "sha256": "9728f5e11d69d9c8834570dae0fd9b83373033ca7b90bb4fa00e351132a5e2c5",
       "reason": "Retained profit provides a concrete hook; the higher-bar argument is marked interpretation and guidance remains prospective."
+    },
+    {
+      "topic": "mit-weather-two-six-weeks",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/mit-weather-two-six-weeks/claude/english.md",
+      "headline_index": 1,
+      "headline": "The Storm You Can't See Yet: Why a Few Extra Weeks of Warning Could Matter to Farmers, Grid Operators and Families",
+      "sha256": "c74ce7441a99764a813316d6e3db18ced6a9ee635356fb37263e89776679f89e",
+      "reason": "A clear human planning consequence with conditional benefit; fewer unsupported certainties than the competing headlines."
+    },
+    {
+      "topic": "mit-weather-two-six-weeks",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/mit-weather-two-six-weeks/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《旬月之外，风雨何来？——两周至六周之天机，或已窥见一隅》",
+      "sha256": "9d8fe18f95635a0f10115aceaff2b3b162aaadf41b403b09a5c3ee9b0e2ba883",
+      "reason": "Names the two-to-six-week puzzle with an explicit uncertainty qualifier and a legible literary question."
+    },
+    {
+      "topic": "microsoft-nisource-20-year-power",
+      "language": "en",
+      "provider": "gemini",
+      "article_path": "articles/microsoft-nisource-20-year-power/gemini/english.md",
+      "headline_index": 1,
+      "headline": "A $140 Promise: Big Tech Pledges to Lower Household Power Bills, but the Savings Are Still on Paper",
+      "sha256": "68f285ed754dff1074456ab78b72f8be32497525ff969e8bba86f12912986730",
+      "reason": "The concrete $140 household hook immediately states that savings remain on paper; starts from the actual announcement rather than an imagined kitchen scene. Source qualifications retained separately."
+    },
+    {
+      "topic": "microsoft-nisource-20-year-power",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/microsoft-nisource-20-year-power/claude/chinese.md",
+      "headline_index": 2,
+      "headline": "巨擘入邑，电费或减：数据中心未必夺民之利，然细则不可不察",
+      "sha256": "79209fbf9b7e8e18df22106e3d09fe141988d29219f1efeddd2b3f8b34a65f1f",
+      "reason": "Conditional lower bills provide constructive tension; avoids the competing green-power claim and unsupported household allocation arithmetic."
     }
   ]
 }

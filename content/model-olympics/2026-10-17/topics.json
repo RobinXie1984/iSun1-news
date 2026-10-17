@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "mit-weather-two-six-weeks",
+      "event_date": "2026-10-14",
+      "title": {
+        "en": "MIT’s weather breakthrough learns from mistakes. Can it buy us two weeks?",
+        "zh": "MIT让天气预报学会改错，能否多争取两周？"
+      },
+      "summary": {
+        "en": "An add-on improves probabilistic forecasts in the two-to-six-week window. Better preparation is a possibility; guaranteed local predictions are not.",
+        "zh": "一层纠错工具改善两至六周概率预报。提前准备更有希望，但不保证某地某日准确。"
+      }
+    },
+    {
+      "id": "microsoft-nisource-20-year-power",
+      "event_date": "2026-10-16",
+      "title": {
+        "en": "Microsoft signed for 20 years of power. Who gets the promised $140?",
+        "zh": "微软签下二十年电力，承诺的140美元能落到谁家？"
+      },
+      "summary": {
+        "en": "NiSource says Microsoft funds its required infrastructure, with service expected in 2028. Projected household savings are not money already delivered.",
+        "zh": "NiSource称微软负担所需设施，预计2028年供电。家庭节省仍是预测，尚未兑现。"
+      }
+    }
+  ]
+}

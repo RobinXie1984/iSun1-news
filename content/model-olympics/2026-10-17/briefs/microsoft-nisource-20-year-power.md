@@ -1,0 +1,11 @@
+# Microsoft signs for power; the household savings remain a forecast
+
+NiSource announcement October 16, 2026; collected October 17. Company disclosures, not an independent rate audit. Central question: can AI infrastructure pay its own way without shifting costs onto households?
+
+N1. NiSource announced a Microsoft energy agreement for its previously announced northwest Indiana data-center campus. Microsoft is EXPECTED to begin electric service in 2028 under a 20-year term. GenCo's pooled portfolio is to grow by approximately 1,100 MW. These are planned resources/service, not electricity already delivered today. MW is power, not MWh of energy.
+N2. NiSource says Microsoft fully funds generation and transmission needed for its load; its GenCo structure is designed to protect existing NIPSCO electric customers from incremental data-center costs. This is the disclosed structure and intended protection, not proof all future bills can never rise.
+N3. The company increases TOTAL expected NIPSCO customer savings over the life of data-center contracts from $1.4 billion to approximately $1.75 billion. This is a portfolio total, not $1.75 billion newly created by Microsoft alone and not annual savings. The stated 'as much as $140 per customer annually' is an upper projection, not a universal cheque or guaranteed bill reduction.
+N4. GenCo contracted 600 MW of battery storage through a long-term tolling agreement with a facility to be developed by an AGP Group affiliate. It serves multiple large-load customers, not Microsoft exclusively. Battery duration/MWh, total contract price, generation fuel mix, actual carbon emissions and measured household savings are not established here.
+N5. Further financial/operational detail is promised on the third-quarter earnings call. The release flags regulatory approvals, construction, financing, customer plans and possible termination/reduced capacity among forward-looking risks. NiSource CEO Lloyd Yates and Microsoft energy executive Jeff Riles describe affordability goals; no invented Satya Nadella statement, motives, ratepayer experience or share-price move.
+
+Source: https://www.nisource.com/news/article/nisource-announces-long-term-agreement-with-microsoft-expected-to-increase-customer-savings-and-support-indiana-s-economic-growth
