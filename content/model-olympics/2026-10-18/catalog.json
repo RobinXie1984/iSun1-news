@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-18T07:09:39.320444+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 8,
+  "unavailable_count": 16,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Requested existing ChatGPT Work interface requires sign-in; no anonymous/alternate account submission."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Requested existing ChatGPT Work interface requires sign-in; no anonymous/alternate account submission."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": "articles/mit-nk-cells-in-body/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: these are MIT-attributed mouse-model results, not patient evidence. About80% concerns targeted NK-cell reprogramming, not remission. Three of five is a small melanoma subgroup, not60% of people. Humanized mice remain mice. Human efficacy, safety, durability, price and availability remain unestablished; no CAR NK approval at the report date. The Nature paper was not retrieved. Illustrative cells are generated concepts, not microscopy. No supplied evidence establishes that a human version does not exist anywhere, off-target effects cannot be fatal, exact expression duration, manufacturing prices, near-term community delivery or measured cost savings."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": "articles/mit-nk-cells-in-body/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：本文结果为MIT所述小鼠实验，非患者证据。约八成指靶NK细胞改造率，非缓解率；五只中三只不是人群六成治愈。人源化小鼠仍是鼠。人体效果、安全、持久性、费用和可及性未定，报道日无获FDA批准的CAR NK疗法。Nature全文未取得；配图为生成概念，非显微照片。未证实全球不存在人体版本、脱靶不会致命、表达精确时长、制造价格或近期社区推广及节省。 人名中文译写未独立核实；“百不失一”等比喻并非精准安全保证。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": "articles/mit-nk-cells-in-body/gemini/english.md",
+      "status": "available",
+      "availability_note": "MIT reports mouse results, not clinical outcomes.80% is targeted NK reprogramming, not remission;3/5 is one small melanoma cohort, not60% of patients. Humanized mice remain mice. Human safety, efficacy, durability, price and availability are unestablished; no approved CAR NK therapy at the report date. Nature full paper not retrieved. Gemini searched beyond the brief and adds unreviewed source labels. Cure/saving-life headlines, minimal-toxicity claims, exact prices, waiting periods, storage, community availability and guaranteed prevention of fatal off-target harm are not verified. Transient mRNA does not ensure safety. Generated illustration is conceptual, not microscopy. No clinical advice."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": "articles/mit-nk-cells-in-body/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：本文结果为MIT所述小鼠实验，非患者证据。约八成指靶NK细胞改造率，非缓解率；五只中三只不是人群六成治愈。人源化小鼠仍是鼠。人体效果、安全、持久性、费用和可及性未定，报道日无获FDA批准的CAR NK疗法。Nature全文未取得；配图为生成概念，非显微照片。未证实全球不存在人体版本、脱靶不会致命、表达精确时长、制造价格或近期社区推广及节省。 Gemini另行搜索并加入未经核验的Wisevoter等来源。标题治愈暗示、“免去伤及无辜之祸”、瞬间转化、精确加工时间费用、肝脾规避和反复用药后果均未获本次来源验证；mRNA短暂不等于保证安全。陈渊等人名译写亦未核实。不构成临床建议。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing Grok interface remains signed out; anonymous Fast is not the requested Expert model. No new prompt submitted."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing Grok interface remains signed out; anonymous Fast is not the requested Expert model. No new prompt submitted."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing DeepSeek requires sign-in; requested DeepThink plus Search not verified."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing DeepSeek requires sign-in; requested DeepThink plus Search not verified."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing Qwen interface is at authentication; requested3.8-Max not available without sign-in."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "source_brief": "briefs/mit-nk-cells-in-body.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing Qwen interface is at authentication; requested3.8-Max not available without sign-in."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Requested existing ChatGPT Work interface requires sign-in; no anonymous/alternate account submission."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Requested existing ChatGPT Work interface requires sign-in; no anonymous/alternate account submission."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": "articles/norris-ln4-36-car-grid/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: FIA announced selected2027 teams onOctober14. Twelve×three=36, six additional planned junior cars; not a newF1 team or guaranteed promotion. Norris is a co-founder, not established sole owner; exact investment, driver roster, fees, scholarships and actual2027 outcomes are not disclosed in this source. Lack of disclosure does not prove no announcement anywhere. A common car/tyre does not eliminate all equipment/setup disparities. No supplied evidence establishes worsening prices, a confirmed cost crisis, new qualifying rules, crashes/red flags, precise team data holdings, team strategies or public/paddock reactions. Those are opinions/speculation, not measured consequences. Hungarian support round is subject to contract. The current series is FIA FREC; FRECA is its predecessor. Staffing growth and incumbent advantages are analysis, not measured outcomes."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": "articles/norris-ln4-36-car-grid/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：FIA于10月14日公布2027入选车队，十二队各三车为36辆，计划增六辆青年赛车；非新F1车队，亦不保证晋级。诺里斯是联合创办人，未证实独资。投资、名单、费用、奖学金及2027结果在此来源未披露，不代表全球从无其他公告。统一车胎不等于所有器材与调校差异消失；费用更高、成本危机、新排位规程、事故红旗、数据储备、策略及公众反应均未由简报确立。匈牙利伴赛仍待合同。 当前系列为FIA FREC；FRECA为前身。就业增长与旧队优势属分析，未有本次实测。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": "articles/norris-ln4-36-car-grid/gemini/english.md",
+      "status": "available",
+      "availability_note": "FIA selected twelve three-car teams for2027 Formula Regional:36 cars, six more, not a newF1 team or guaranteed promotion. Norris is a co-founder; investment, fees, roster, scholarships and2027 results are undisclosed here, not proven absent worldwide. Standard cars/tyres do not erase all equipment/setup disparities. Gemini searched beyond the brief; six-figure fees, qualifying-rule changes, collision predictions, data holdings, precise team strategies and paddock reactions are not verified. Its cost-crisis headline and socioeconomic absolutes are opinions, not established consequences. Hungarian support round remains subject to contract. Artwork is conceptual, not event photography."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": "articles/norris-ln4-36-car-grid/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：FIA于10月14日公布2027入选车队，十二队各三车为36辆，计划增六辆青年赛车；非新F1车队，亦不保证晋级。诺里斯是联合创办人，未证实独资。投资、名单、费用、奖学金及2027结果在此来源未披露，不代表全球从无其他公告。统一车胎不等于所有器材与调校差异消失；费用更高、成本危机、新排位规程、事故红旗、数据储备、策略及公众反应均未由简报确立。匈牙利伴赛仍待合同。 Gemini另行搜索，加入未经核实的具体赛道/排位规则、数十万费用、事故增加、车队数据及制造生态判断。“六席不过价高者得”等是强烈推断，并非已证实招募或资助政策。图式与数值均保留为模型原文，非独立验证。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing Grok interface remains signed out; anonymous Fast is not the requested Expert model. No new prompt submitted."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing Grok interface remains signed out; anonymous Fast is not the requested Expert model. No new prompt submitted."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "en",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing DeepSeek requires sign-in; requested DeepThink plus Search not verified."
+    },
+    {
+      "provider": "deepseek",
+      "model": "DeepSeek DeepThink + Search",
+      "language": "zh",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing DeepSeek requires sign-in; requested DeepThink plus Search not verified."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "en",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing Qwen interface is at authentication; requested3.8-Max not available without sign-in."
+    },
+    {
+      "provider": "qwen",
+      "model": "Qwen 3.8-Max",
+      "language": "zh",
+      "topic": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "source_brief": "briefs/norris-ln4-36-car-grid.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Existing Qwen interface is at authentication; requested3.8-Max not available without sign-in."
+    }
+  ]
+}

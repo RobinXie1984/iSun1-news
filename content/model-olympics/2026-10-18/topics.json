@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "mit-nk-cells-in-body",
+      "event_date": "2026-10-13",
+      "title": {
+        "en": "MIT reprogrammed immune cells inside mice. Could the body become the factory?",
+        "zh": "MIT在小鼠体内改造免疫细胞，身体能否成为工厂？"
+      },
+      "summary": {
+        "en": "A nanoparticle approach may simplify cell manufacturing. Encouraging mouse results do not establish a treatment for people.",
+        "zh": "纳米颗粒方法或可简化细胞制造；小鼠结果令人期待，却尚非人类疗法。"
+      }
+    },
+    {
+      "id": "norris-ln4-36-car-grid",
+      "event_date": "2026-10-14",
+      "title": {
+        "en": "Lando Norris joins the team owners. Do 36 cars mean a wider road to F1?",
+        "zh": "诺里斯加入车队老板行列，36辆赛车能否拓宽通往F1之路？"
+      },
+      "summary": {
+        "en": "LN4 Fusion and Invicta join an expanded 2027 Formula Regional grid. More places do not establish cheaper access or guaranteed promotion.",
+        "zh": "LN4 Fusion与Invicta加入扩容的2027区域方程式；席位增加，并不等于费用降低或保证晋级。"
+      }
+    }
+  ]
+}

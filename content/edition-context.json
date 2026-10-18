@@ -3136,6 +3136,62 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-nk-cells-in-body/claude/english.md",
+      "captured_at": "2026-10-18T07:03:36.063Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-nk-cells-in-body/claude/chinese.md",
+      "captured_at": "2026-10-18T07:05:18.637Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-nk-cells-in-body/gemini/english.md",
+      "captured_at": "2026-10-18T07:03:11.529Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-nk-cells-in-body/gemini/chinese.md",
+      "captured_at": "2026-10-18T07:04:29.164Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/norris-ln4-36-car-grid/claude/english.md",
+      "captured_at": "2026-10-18T07:07:10.385Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/norris-ln4-36-car-grid/claude/chinese.md",
+      "captured_at": "2026-10-18T07:09:31.834Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/norris-ln4-36-car-grid/gemini/english.md",
+      "captured_at": "2026-10-18T07:03:11.577Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/norris-ln4-36-car-grid/gemini/chinese.md",
+      "captured_at": "2026-10-18T07:04:29.207Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

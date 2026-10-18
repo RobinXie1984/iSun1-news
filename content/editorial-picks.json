@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-17T07:08:31.132668+00:00",
+  "selected_at": "2026-10-18T07:09:45.143543+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -842,6 +842,46 @@
       "headline": "巨擘入邑，电费或减：数据中心未必夺民之利，然细则不可不察",
       "sha256": "79209fbf9b7e8e18df22106e3d09fe141988d29219f1efeddd2b3f8b34a65f1f",
       "reason": "Conditional lower bills provide constructive tension; avoids the competing green-power claim and unsupported household allocation arithmetic."
+    },
+    {
+      "topic": "mit-nk-cells-in-body",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/mit-nk-cells-in-body/claude/english.md",
+      "headline_index": 0,
+      "headline": "The Factory Was Inside Us All Along: MIT Rewrites Immune Cells Without Taking Them Out of the Body (in Mice, for Now)",
+      "sha256": "865c9e4f329956f536cbd89ca3909576fdc6494705773614f3cb64d4c8f9ccef",
+      "reason": "The factory metaphor makes the mechanism immediately tangible and includes the mouse qualification in the headline. Gemini cure/saving-life headlines overpromise."
+    },
+    {
+      "topic": "mit-nk-cells-in-body",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/mit-nk-cells-in-body/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《兵不离营，令已易帜：体内重塑免疫之术，止于鼠乎？》",
+      "sha256": "58da0c6b3a2d8c81c74e03750e59e013d0cd1053d7b9657e442b92e6b6610ab6",
+      "reason": "A concise classical image of soldiers staying in camp, followed by an explicit mouse-to-human question. The original clearly keeps sources and unknowns together."
+    },
+    {
+      "topic": "norris-ln4-36-car-grid",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/norris-ln4-36-car-grid/claude/english.md",
+      "headline_index": 0,
+      "headline": "Lando Norris Just Entered a Racing Series. It Isn't the One You Think.",
+      "sha256": "2e51757d517cf03c7f0e333aed75479654654fc712494ebd06ed9095774598c8",
+      "reason": "The recognizable founder and unexpected junior-series entry create an immediate hook without declaring an unverified cost crisis."
+    },
+    {
+      "topic": "norris-ln4-36-car-grid",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/norris-ln4-36-car-grid/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《冠军入局，非在巅峰：诺里斯新车队所赴何处？》",
+      "sha256": "cb093a6e09053f64417aeaaf8238ed8975bbb6cbcebb6304be17104e70a8a678",
+      "reason": "The champion and named founder anchor a clear literary question; original distinguishes planned seats, cost and promotion more carefully than the competing fatalistic claims."
     }
   ]
 }

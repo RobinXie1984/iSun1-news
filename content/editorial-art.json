@@ -800,6 +800,44 @@
           "sha256": "3542cc09b2fe44c064c7fdaec19eabd5f2bddb1b3adcc27ea6130e8b5157d080"
         }
       ]
+    },
+    {
+      "topic": "mit-nk-cells-in-body",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/mit-nk-cells-in-body-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 346921,
+          "sha256": "9e8a72b7512b9cf784f7d926912dce0da4e4a0a6da3d20efeacc8f5af107474c"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/mit-nk-cells-in-body-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 113060,
+          "sha256": "eba728714a59aab2c5780aab49fed2c54551b034b3862d06cb81c9be17b87858"
+        }
+      ]
+    },
+    {
+      "topic": "norris-ln4-36-car-grid",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/norris-ln4-36-car-grid-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 325722,
+          "sha256": "9d39c41541647f72bd2f07bb4bcc901f385fb6091c249a44670c31093321a289"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/norris-ln4-36-car-grid-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 105226,
+          "sha256": "8460dda7b734f50493537c1fcc3bbb25e3ae537b3e2528527fd9f2988b392548"
+        }
+      ]
     }
   ]
 }
