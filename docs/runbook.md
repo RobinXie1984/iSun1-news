@@ -2,6 +2,8 @@
 
 ## Change a story
 
+New Model Olympics batches use catalog schema version 2 with ChatGPT, Claude, Gemini and Grok, each in English and Chinese. Historical version 1 catalogs retain all six editors and originals, including DeepSeek and Qwen. Do not create excluded-provider missing slots in new batches or rewrite historical manuscripts. Record recovery capture dates separately from original event dates.
+
 1. Discover candidate events with `npm run discover`; inspect primary evidence independently. A feed title alone is not verification.
 2. Establish dates, claims, sources, surprise, conflict, consequence and uncertainty before writing twenty bilingual framings.
 3. Preserve existing published packets and their experiment IDs. To revise a stimulus, retain its exact previous packet in history and create a distinct experiment ID.

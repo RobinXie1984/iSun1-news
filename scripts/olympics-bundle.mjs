@@ -47,10 +47,12 @@ export function loadOlympics(root='content/model-olympics/2026-09-28'){
   return bytes.toString('utf8');
  };
  const catalog=JSON.parse(read('catalog.json')),articles={},briefs={};
- if(!exactFields(catalog,['schema_version','generated_at','description','available_count','unavailable_count','articles'])||catalog.schema_version!==1||!Array.isArray(catalog.articles)||!catalog.articles.length)throw Error('Invalid archive catalog');
- const providers=['chatgpt','claude','gemini','grok','deepseek','qwen'];
+ if(!exactFields(catalog,['schema_version','generated_at','description','available_count','unavailable_count','articles'])||![1,2].includes(catalog.schema_version)||!Array.isArray(catalog.articles)||!catalog.articles.length)throw Error('Invalid archive catalog');
+ // Version 1 preserves the historical six-editor archive. New batches use the
+ // four editors requested by Robin on October 18, without invented missing slots.
+ const providers=catalog.schema_version===2?['chatgpt','claude','gemini','grok']:['chatgpt','claude','gemini','grok','deepseek','qwen'];
  const topicIDs=new Set(catalog.articles.map(row=>row.topic));
- if(catalog.articles.length!==topicIDs.size*providers.length*2)throw Error('Expected six models and two languages per topic');
+ if(catalog.articles.length!==topicIDs.size*providers.length*2)throw Error(catalog.schema_version===2?'Expected four models and two languages per topic':'Expected six models and two languages per topic');
  const seen=new Set();
  for(const row of catalog.articles){
   if(!exactFields(row,['provider','model','language','topic','event_date','source_brief','article_path','status','availability_note'])||!providers.includes(row.provider)||typeof row.topic!=='string'||!/^[a-z0-9-]+$/.test(row.topic)||!textField(row.model,200)||!/^\d{4}-\d{2}-\d{2}$/.test(row.event_date)||(row.availability_note!==null&&!textField(row.availability_note,1000)))throw Error('Invalid archive row');

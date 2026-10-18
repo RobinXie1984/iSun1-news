@@ -8,7 +8,7 @@ The source includes six event packets, 120 bilingual headline candidates, source
 
 ## September 28 Model Olympics pilot
 
-Read the [original model editions](content/model-olympics/README.md): dated shared briefs and independent English and Chinese submissions from six editors. Daily collection continues beyond the initial pilot. At Robin’s request, Maxwell selects one credited original per language and topic for The Stories; these are editorial choices, not measured audience winners. All other originals remain accessible in Model Olympics. Missing submissions stay explicit; legacy audience thresholds do not gate publication. The website retains the ivory editorial salon, English/Chinese and Day/Night.
+Read the [original model editions](content/model-olympics/README.md): dated shared briefs and independent English and Chinese submissions from six editors. Daily collection continues beyond the initial pilot. New batches use four editors: ChatGPT, Claude, Gemini and Grok; DeepSeek and Qwen remain preserved in historical six-editor batches. Version 2 catalogs account for four editors in both languages, and the reader follows each topic’s actual editor set. At Robin’s request, Maxwell selects one credited original per language and topic for The Stories; these are editorial choices, not measured audience winners. All other originals remain accessible in Model Olympics. Missing submissions stay explicit; legacy audience thresholds do not gate publication. The website retains the ivory editorial salon, English/Chinese and Day/Night.
 
 ## Run locally
 

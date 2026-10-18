@@ -64,6 +64,27 @@ test('duplicate topic IDs cannot overwrite an earlier dated edition',t=>{
  assert.throws(()=>loadOlympicsArchive(f.root),/Topic ID already published/);
 });
 
+test('four-editor batches omit excluded slots while preserving historical six-editor readers',async t=>{
+ const f=fixture(t),rows=f.catalog.articles.filter(row=>!['deepseek','qwen'].includes(row.provider));
+ const catalog={...f.catalog,schema_version:2,available_count:0,unavailable_count:8,articles:rows};
+ f.write('catalog.json',catalog);
+ const data=loadOlympicsArchive(f.root),b=browser();
+ assert.equal(data.catalog.available_count,72);
+ assert.equal(data.catalog.unavailable_count,8);
+ let html=await b.render(data,'olympics/'+f.topic);
+ assert.match(html,/One story\. Four voices\./);
+ assert.equal((html.match(/class="op-voice"/g)||[]).length,4);
+ assert.doesNotMatch(html,/#edition\/new-fixture-story\/(?:deepseek|qwen)/);
+ html=await b.render(data,'olympics/eviltokens-real-login-trap');
+ assert.match(html,/One story\. Six voices\./);
+ assert.equal((html.match(/class="op-voice"/g)||[]).length,6);
+ assert.match(html,/#edition\/eviltokens-real-login-trap\/qwen/);
+ f.write('catalog.json',{...catalog,articles:rows.slice(1)});
+ assert.throws(()=>loadOlympicsArchive(f.root),/four models/);
+ f.write('catalog.json',{...catalog,articles:rows.map((row,i)=>i?row:{...row,provider:'deepseek'})});
+ assert.throws(()=>loadOlympicsArchive(f.root),/Invalid archive row/);
+});
+
 test('romantic-prose introductions never become headlines and distinct provider labels survive',()=>{
  const window={};vm.runInNewContext(readFileSync('public/olympics.js','utf8'),{window,URL});
  const raw='为您提供基于上述新闻材料创作的古典浪漫主义文言文作品及三种标题选择：\n\n标题选项\n\n悬念钩人：《测试悬念：此舟何日归？》\n\n情感共鸣：《测试共鸣：星河犹明》\n\n逆直觉：《测试逆直觉：此路何以重来？》\n\n这是完整原稿的开篇段落。';
