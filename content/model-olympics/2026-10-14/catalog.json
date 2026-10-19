@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T08:08:08.427334+00:00",
+  "generated_at": "2026-10-19T07:08:12.188195+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 16,
-  "unavailable_count": 8,
+  "available_count": 18,
+  "unavailable_count": 6,
   "articles": [
     {
       "provider": "chatgpt",
@@ -12,9 +12,9 @@
       "topic": "anthropic-scion-30000-merges",
       "event_date": "2026-10-13",
       "source_brief": "briefs/anthropic-scion-30000-merges.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested GPT-6 Astra Medium / Work returned selected model at capacity twice. First existing conversation retained; no substitute model. Other topic not submitted after bounded retry. / 所需模型两次容量不足，保留原线程；未换模型，另一题未提交。"
+      "article_path": "articles/anthropic-scion-30000-merges/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "RecoveredOctober19 in existingGPT-6AstraMediumWork thread; originalOctober13report/October14brief retained. Anthropic figures are company self-reports, not independent benchmarks.30,000 means merged code changes, not uniformGitcommits, quality or profit.200x footprint and25%CIcapacity are distinct measures, not universal speed or total cost. No firing, universalGitdeath or publicdrop-inreplacement established. Hypothetical team examples are analysis; extra comparisons and programmer-productivity claims are not independently verified."
     },
     {
       "provider": "chatgpt",
@@ -23,9 +23,9 @@
       "topic": "anthropic-scion-30000-merges",
       "event_date": "2026-10-13",
       "source_brief": "briefs/anthropic-scion-30000-merges.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested GPT-6 Astra Medium / Work returned selected model at capacity twice. First existing conversation retained; no substitute model. Other topic not submitted after bounded retry. / 所需模型两次容量不足，保留原线程；未换模型，另一题未提交。"
+      "article_path": "articles/anthropic-scion-30000-merges/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "19日于原GPT-6AstraMediumWork对话续收，保留13日报道、14日简报。Anthropic数据为自报，非独立基准；三万指合并代码变更，非同义提交、质量或利润。200倍足迹与25%CI容量不同，不是普遍速度或总成本。未证实裁员、Git普遍失效或公共替代品；假设举例属分析，额外生产力比较未独立核实。"
     },
     {
       "provider": "claude",

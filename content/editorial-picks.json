@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-18T07:09:45.143543+00:00",
+  "selected_at": "2026-10-19T07:12:38.980329+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -882,6 +882,46 @@
       "headline": "《冠军入局，非在巅峰：诺里斯新车队所赴何处？》",
       "sha256": "cb093a6e09053f64417aeaaf8238ed8975bbb6cbcebb6304be17104e70a8a678",
       "reason": "The champion and named founder anchor a clear literary question; original distinguishes planned seats, cost and promotion more carefully than the competing fatalistic claims."
+    },
+    {
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Japan Wants to Bring Home a Piece of a Martian Moon. What Will NASA’s 15% Reveal?",
+      "sha256": "6c308de0f8b431fa7618a54816913fd9ccb7c0e6a8340ee007896ee1ea5e11b3",
+      "reason": "A precise, conditional hook connects Japan, NASA and the surprising sample share without promising a completed mission or claiming15%of a moon."
+    },
+    {
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《一掬星尘，身世何解？日本拟探火卫，美国何取一成五》",
+      "sha256": "1f881924ca2b901e5efda304fd41b72c917b75f07060ae1b4b7128c707c78950",
+      "reason": "The literary title keeps the unresolved origin question and correctly conveys15%of returned samples; competing numerical and mission-duration errors are annotated."
+    },
+    {
+      "topic": "safaricom-government-trust-11000",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/safaricom-government-trust-11000/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "A Trusted Brand Got People Interested in a Government Portal. Then the Trust Scores Told a Different Story.",
+      "sha256": "fec27d2e4f2b25c12af4ce1ecc941548da27ca172f0c7891e562c72e37163d9e",
+      "reason": "A recognizable trusted-brand tension and distinct willingness/trust outcomes create attention without conflating company-only attribution with partnership."
+    },
+    {
+      "topic": "safaricom-government-trust-11000",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/safaricom-government-trust-11000/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《同一门户，三种署名：万余人之信，究竟落于谁家？》",
+      "sha256": "6933f5bb2683dadc64e12b75ff283efa039d6733248af43c6ea5db9c080c88d0",
+      "reason": "One portal, three attributions and more than10,000respondents make the causal question tangible; the title avoids fabricated participant quotations."
     }
   ]
 }

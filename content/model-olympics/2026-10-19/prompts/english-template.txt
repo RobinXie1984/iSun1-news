@@ -1,0 +1,8 @@
+Create a high-engagement, story-driven article (~2000 words) in English, based on the news material provided below.
+Requirements:
+1. Provide3viral headline options:Suspenseful,Emotional Resonance,Counter-intuitive.
+2. Punchy pacing, memorable original lines or takeaways, end with an interactive question.
+3. Your own voice; preserve dates, attribution and uncertainty. Do not invent quotations, scenes or private emotions. Separate analysis from source facts.
+4. Return complete article directly here as text/Markdown, no separate document/artifact/canvas/file. No browsing needed; use this common brief.
+
+News Material:

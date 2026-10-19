@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "title": {
+        "en": "Japan wants a piece of a Martian moon. Why does NASA get 15%?",
+        "zh": "日本要带回一块火星卫星，NASA为何分得15%？"
+      },
+      "summary": {
+        "en": "MMX targets an October19 US-time launch and a2031 sample return. Its instruments may settle a moon-origin puzzle; none of those future milestones is achieved yet.",
+        "zh": "MMX目标美东10月19日发射、2031年返样，仪器或解卫星身世之谜；这些未来里程碑尚未实现。"
+      }
+    },
+    {
+      "id": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "title": {
+        "en": "11,000 people heard about an app. Why did a trusted company hurt trust in government?",
+        "zh": "逾1.1万人听说一款政务平台，为何可信公司反让政府失分？"
+      },
+      "summary": {
+        "en": "A Kenya survey separates willingness to use a service from trust in its public provider. Private-brand appeal need not transfer political confidence.",
+        "zh": "肯尼亚调查区分使用意愿与政府信任：企业品牌的吸引力，未必能转移政治信任。"
+      }
+    }
+  ]
+}

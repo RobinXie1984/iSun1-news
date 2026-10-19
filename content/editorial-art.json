@@ -838,6 +838,44 @@
           "sha256": "8460dda7b734f50493537c1fcc3bbb25e3ae537b3e2528527fd9f2988b392548"
         }
       ]
+    },
+    {
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/jaxa-mmx-phobos-15-percent-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 353106,
+          "sha256": "26f3161763150587da61286aea2fb32bd5fe31105f685cf9ad6b84b052f4d19d"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/jaxa-mmx-phobos-15-percent-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 118964,
+          "sha256": "6dbfc40a834ba3bdd00bc7e49026e0a1122b109d5bbb4ab809adb922fc7b1099"
+        }
+      ]
+    },
+    {
+      "topic": "safaricom-government-trust-11000",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/safaricom-government-trust-11000-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 298794,
+          "sha256": "97e7644a5b58f9289a5c687bfd3b62f0a123fe5982ddff8dc41b29fa40aa09ca"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/safaricom-government-trust-11000-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 98167,
+          "sha256": "22fd74cd908279a2c50e225c974f2ac258ea26aa6dba66467843161f68410cb7"
+        }
+      ]
     }
   ]
 }

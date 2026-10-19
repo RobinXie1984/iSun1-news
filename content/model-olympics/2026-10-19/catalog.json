@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-19T07:09:33.827724+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 16,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/jaxa-mmx-phobos-15-percent.md",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source check: NASA’sOct15report, updatedOct16, gives a targetedOct19EDT/Oct20JST-HKT launch,2027arrival, sampling no earlier thanDec2028 and2031return. These remain plans, not verified outcomes.15% means about15% of total returned sample, not a moon or ownership. Origin hypotheses are unsettled; no life finding, sample mass, total cost or commercial gain established. Generatedscene is conceptual, not actualMMXhardware or completedlanding. “Tonight” depends on timezone; use the explicitHKTtime."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/jaxa-mmx-phobos-15-percent.md",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：NASA15日报道、16日更新，目标美东19日／日本及香港20日发射，2027抵达、最早2028年12月采样、2031返地，均非已实现结果。15%为返样总量约15%，不是卫星或所有权；身世二说未定，未发现生命，质量、总成本与商业收益未在此确立。配图是想象场景，非MMX精确硬件或已登月证据。“今夜”须以明确香港时刻为准。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/jaxa-mmx-phobos-15-percent.md",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: NASA’sOct15report, updatedOct16, gives a targetedOct19EDT/Oct20JST-HKT launch,2027arrival, sampling no earlier thanDec2028 and2031return. These remain plans, not verified outcomes.15% means about15% of total returned sample, not a moon or ownership. Origin hypotheses are unsettled; no life finding, sample mass, total cost or commercial gain established. Generatedscene is conceptual, not actualMMXhardware or completedlanding. “Tonight” depends on timezone; use the explicitHKTtime. The12-yeartrip headline conflicts with2026–2031plan; Phobos is not the smaller ofMars’s two moons. “Shouldn’t exist” is rhetoric, not a demonstrated anomaly."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/jaxa-mmx-phobos-15-percent.md",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：NASA15日报道、16日更新，目标美东19日／日本及香港20日发射，2027抵达、最早2028年12月采样、2031返地，均非已实现结果。15%为返样总量约15%，不是卫星或所有权；身世二说未定，未发现生命，质量、总成本与商业收益未在此确立。配图是想象场景，非MMX精确硬件或已登月证据。“今夜”须以明确香港时刻为准。 “十五分之一”为约6.67%，不等于15%；原稿多处此写法错误，应以“约百分之十五”为准。“十载往返”与2026至2031规划不符。原文保留并另注。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/jaxa-mmx-phobos-15-percent.md",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: NASA’sOct15report, updatedOct16, gives a targetedOct19EDT/Oct20JST-HKT launch,2027arrival, sampling no earlier thanDec2028 and2031return. These remain plans, not verified outcomes.15% means about15% of total returned sample, not a moon or ownership. Origin hypotheses are unsettled; no life finding, sample mass, total cost or commercial gain established. Generatedscene is conceptual, not actualMMXhardware or completedlanding. “Tonight” depends on timezone; use the explicitHKTtime. Theheadline’s15%ofamoon is wrong: sample share only. Launchpadscene/privateengineeringemotions, H3details, jumping-into-orbit, exact2cmcoring, absolute dust-contamination and biology assertions were not verified. Source says a fewinchesdeeper, not2cm. Extrawebsources remain unreviewed."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/jaxa-mmx-phobos-15-percent.md",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：NASA15日报道、16日更新，目标美东19日／日本及香港20日发射，2027抵达、最早2028年12月采样、2031返地，均非已实现结果。15%为返样总量约15%，不是卫星或所有权；身世二说未定，未发现生命，质量、总成本与商业收益未在此确立。配图是想象场景，非MMX精确硬件或已登月证据。“今夜”须以明确香港时刻为准。 标题“一成半之壤”必须限定返样总量；发射台景象及私情未核实。2028年12月“不早于”不等于该月之后才可；本次无精确钻深或生物学成果证据。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/jaxa-mmx-phobos-15-percent.md",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/grok/english.md",
+      "status": "available",
+      "availability_note": "Source check: NASA’sOct15report, updatedOct16, gives a targetedOct19EDT/Oct20JST-HKT launch,2027arrival, sampling no earlier thanDec2028 and2031return. These remain plans, not verified outcomes.15% means about15% of total returned sample, not a moon or ownership. Origin hypotheses are unsettled; no life finding, sample mass, total cost or commercial gain established. Generatedscene is conceptual, not actualMMXhardware or completedlanding. “Tonight” depends on timezone; use the explicitHKTtime. Added orbitalfrequency, geochemistry and samplingperformance claims are not independently verified. A launch window does not itself establish a completed launch or decisive origin answer."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "jaxa-mmx-phobos-15-percent",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/jaxa-mmx-phobos-15-percent.md",
+      "article_path": "articles/jaxa-mmx-phobos-15-percent/grok/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：NASA15日报道、16日更新，目标美东19日／日本及香港20日发射，2027抵达、最早2028年12月采样、2031返地，均非已实现结果。15%为返样总量约15%，不是卫星或所有权；身世二说未定，未发现生命，质量、总成本与商业收益未在此确立。配图是想象场景，非MMX精确硬件或已登月证据。“今夜”须以明确香港时刻为准。 原稿“乙巳九月”不能作为2026年10月报道日期；以明确公历日期为准。额外轨道／元素推论及“一决”修辞不等于已解身世。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/safaricom-government-trust-11000.md",
+      "article_path": "articles/safaricom-government-trust-11000/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source check: MIT describes an onlineNairobi-area survey of more than11,000, with stated willingness/interest and trust before/after messaging. Lower relativegovernmenttrust concerns company-only attribution versus government-only, not proof jointpartnership always destroys trust. Jointcredit did not overall beat government-only; baselinebeliefs moderated effects.43% is separate2023context, not2026nationaltrust. No actualusage,tax,vote,long-term politicaloutcome or exact effectsize established. Fulljournalpaper not retrieved. Hypothetical roles, logos, clicks and participant reactions are analysis, not field observation."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/safaricom-government-trust-11000.md",
+      "article_path": "articles/safaricom-government-trust-11000/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：MIT转述内罗毕周边逾1.1万人网上调查，测信息前后信任及自陈意愿／兴趣，非实际使用。政府相对信任降低指企业单独署名对比政府独署，不证明共同合作必毁公信；共同署名总体未胜政府独署，原先信任会调节结果。43%为另项2023背景，非2026全国数值。实际使用、税务、选举、长期政治结果及效应量未在此确立，期刊全文未取得。徽标、点击、角色和受访者反应的假设属分析，非现场观察。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/safaricom-government-trust-11000.md",
+      "article_path": "articles/safaricom-government-trust-11000/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: MIT describes an onlineNairobi-area survey of more than11,000, with stated willingness/interest and trust before/after messaging. Lower relativegovernmenttrust concerns company-only attribution versus government-only, not proof jointpartnership always destroys trust. Jointcredit did not overall beat government-only; baselinebeliefs moderated effects.43% is separate2023context, not2026nationaltrust. No actualusage,tax,vote,long-term politicaloutcome or exact effectsize established. Fulljournalpaper not retrieved. Hypothetical roles, logos, clicks and participant reactions are analysis, not field observation. Thequoted headline is an invented illustrativevoice, not a participant quotation. Logo/half-second framing and participant competence/motives are not measuredhere."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/safaricom-government-trust-11000.md",
+      "article_path": "articles/safaricom-government-trust-11000/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：MIT转述内罗毕周边逾1.1万人网上调查，测信息前后信任及自陈意愿／兴趣，非实际使用。政府相对信任降低指企业单独署名对比政府独署，不证明共同合作必毁公信；共同署名总体未胜政府独署，原先信任会调节结果。43%为另项2023背景，非2026全国数值。实际使用、税务、选举、长期政治结果及效应量未在此确立，期刊全文未取得。徽标、点击、角色和受访者反应的假设属分析，非现场观察。 “弹指”“注册”与受访者熟于数字等判断未由本次资料确立；注册增加不能替代使用意愿。通用为政建议为作者观点，非研究验证。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/safaricom-government-trust-11000.md",
+      "article_path": "articles/safaricom-government-trust-11000/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: MIT describes an onlineNairobi-area survey of more than11,000, with stated willingness/interest and trust before/after messaging. Lower relativegovernmenttrust concerns company-only attribution versus government-only, not proof jointpartnership always destroys trust. Jointcredit did not overall beat government-only; baselinebeliefs moderated effects.43% is separate2023context, not2026nationaltrust. No actualusage,tax,vote,long-term politicaloutcome or exact effectsize established. Fulljournalpaper not retrieved. Hypothetical roles, logos, clicks and participant reactions are analysis, not field observation. “Eviscerates faith”, replacementofgovernment and provenuserwins overstate evidence. Randomization, statisticalsignificance, quantitativeimpact, private-platform architecture and broadlegitimacymechanisms were not independently verified from the institutional report."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/safaricom-government-trust-11000.md",
+      "article_path": "articles/safaricom-government-trust-11000/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：MIT转述内罗毕周边逾1.1万人网上调查，测信息前后信任及自陈意愿／兴趣，非实际使用。政府相对信任降低指企业单独署名对比政府独署，不证明共同合作必毁公信；共同署名总体未胜政府独署，原先信任会调节结果。43%为另项2023背景，非2026全国数值。实际使用、税务、选举、长期政治结果及效应量未在此确立，期刊全文未取得。徽标、点击、角色和受访者反应的假设属分析，非现场观察。 “公信崩落／替代政府／用户已增”等强断语超出资料；本次未独立验证随机化、显著性、机制、实际转化或普遍政治后果。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/safaricom-government-trust-11000.md",
+      "article_path": "articles/safaricom-government-trust-11000/grok/english.md",
+      "status": "available",
+      "availability_note": "Source check: MIT describes an onlineNairobi-area survey of more than11,000, with stated willingness/interest and trust before/after messaging. Lower relativegovernmenttrust concerns company-only attribution versus government-only, not proof jointpartnership always destroys trust. Jointcredit did not overall beat government-only; baselinebeliefs moderated effects.43% is separate2023context, not2026nationaltrust. No actualusage,tax,vote,long-term politicaloutcome or exact effectsize established. Fulljournalpaper not retrieved. Hypothetical roles, logos, clicks and participant reactions are analysis, not field observation. Counter-intuitiveheadline conflates jointpartnership with company-onlymessaging; source separates them. “Closed the trust gap” is ambiguous; privatebranding effects are not actualpoliticalbehavior."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "safaricom-government-trust-11000",
+      "event_date": "2026-10-15",
+      "source_brief": "briefs/safaricom-government-trust-11000.md",
+      "article_path": "articles/safaricom-government-trust-11000/grok/chinese.md",
+      "status": "available",
+      "availability_note": "来源核验：MIT转述内罗毕周边逾1.1万人网上调查，测信息前后信任及自陈意愿／兴趣，非实际使用。政府相对信任降低指企业单独署名对比政府独署，不证明共同合作必毁公信；共同署名总体未胜政府独署，原先信任会调节结果。43%为另项2023背景，非2026全国数值。实际使用、税务、选举、长期政治结果及效应量未在此确立，期刊全文未取得。徽标、点击、角色和受访者反应的假设属分析，非现场观察。 标题“伙伴增兴，政府失信”混同共同合作与企业独署；正文须按分组及相对信任理解，不是政府绝对失信或真实行为结果。"
+    }
+  ]
+}

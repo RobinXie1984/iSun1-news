@@ -29,7 +29,8 @@ test('every topic has two selected exact original editions, with independent lan
  assert.equal(data.picks.entries.length,data.topics.length*2);
  for(const pick of data.picks.entries){assert.equal(createHash('sha256').update(data.articles[pick.article_path]).digest('hex'),pick.sha256);assert.equal(ui().preview(data.articles[pick.article_path]).headlines[pick.headline_index],pick.headline);}
  assert.ok(data.topics.some(topic=>new Set(data.picks.entries.filter(p=>p.topic===topic.id).map(p=>p.provider)).size===2));
- assert.equal(data.catalog.available_count+data.catalog.unavailable_count,data.topics.length*12);
+ const expectedSlots=data.batches.reduce((sum,batch)=>{const catalog=JSON.parse(readFileSync('content/model-olympics/'+batch.date+'/catalog.json','utf8'));return sum+batch.topic_ids.length*(catalog.schema_version===2?8:12);},0);
+ assert.equal(data.catalog.available_count+data.catalog.unavailable_count,expectedSlots);
  for(const row of data.catalog.articles.filter(row=>row.status!=='available')){assert.equal(row.status,'UNKNOWN');assert.equal(row.article_path,null);assert.ok(row.availability_note);assert.ok(!data.picks.entries.some(p=>p.topic===row.topic&&p.language===row.language&&p.provider===row.provider));}
 });
 test('editorial metadata rejects fabricated headlines, stale bytes, wrong language and private fields',()=>{
