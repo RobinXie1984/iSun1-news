@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-20T07:12:52.215705+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 16,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "source_brief": "briefs/fetal-mri-symmetry-moving-brain.md",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "MIT reports E(3)-Pose research on October19; the paper was first submitted December2025 and revised June2026. It estimates head pose using symmetry/rotation equivariance, not disease. Mainly third-trimester training; younger fetuses are future work. Patient discomfort is one attributed observation, not a universal scan duration. No diagnostic-gain percentage, avoided-visit count, cost saving or approval is established in this brief. Research-dataset accuracy is not proven patient benefit. Absence here does not prove no clinical work or availability anywhere. Paper appendix0.A reports a3T Siemens in-utero implementation; larger-cohort diagnostic evaluation remains future work. Claims that no live implementation exists are incorrect."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "source_brief": "briefs/fetal-mri-symmetry-moving-brain.md",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "MIT19日报道E(3)-Pose研究，论文初投2025年12月、末修2026年6月。对称与旋转等变用于估计朝向，非诊断疾病。主要训练于孕晚期，早期胎儿仍待改进。约一小时不适停检是单一归因观察，非普遍时长。简报未确立诊断增益、减少复诊数、费用或批准；数据集准确不等于患者结局已改善。未在此提供，不代表任何地方均无临床研究或可用性。 追加核查：论文附录0.A已报告3T西门子在宫内实时实现，较大队列诊断评估仍待进行；“尚无实际实现”并不正确。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "source_brief": "briefs/fetal-mri-symmetry-moving-brain.md",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/claude/english.md",
+      "status": "available",
+      "availability_note": "MIT reports E(3)-Pose research on October19; the paper was first submitted December2025 and revised June2026. It estimates head pose using symmetry/rotation equivariance, not disease. Mainly third-trimester training; younger fetuses are future work. Patient discomfort is one attributed observation, not a universal scan duration. No diagnostic-gain percentage, avoided-visit count, cost saving or approval is established in this brief. Research-dataset accuracy is not proven patient benefit. Absence here does not prove no clinical work or availability anywhere. The universal “everyMRI”/adult breath-hold framing and categorical “not available at your hospital” are not established. An hour is not a traditional two-hour时辰. Paper appendix0.A reports a3T Siemens in-utero implementation; larger-cohort diagnostic evaluation remains future work. Claims that no live implementation exists are incorrect."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "source_brief": "briefs/fetal-mri-symmetry-moving-brain.md",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/claude/chinese.md",
+      "status": "available",
+      "availability_note": "MIT19日报道E(3)-Pose研究，论文初投2025年12月、末修2026年6月。对称与旋转等变用于估计朝向，非诊断疾病。主要训练于孕晚期，早期胎儿仍待改进。约一小时不适停检是单一归因观察，非普遍时长。简报未确立诊断增益、减少复诊数、费用或批准；数据集准确不等于患者结局已改善。未在此提供，不代表任何地方均无临床研究或可用性。 “凡MRI皆须静止”及“今日医院未可用”过于绝对，未在此证实；一小时不可按传统一时辰两小时理解。 追加核查：论文附录0.A已报告3T西门子在宫内实时实现，较大队列诊断评估仍待进行；“尚无实际实现”并不正确。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "source_brief": "briefs/fetal-mri-symmetry-moving-brain.md",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/gemini/english.md",
+      "status": "available",
+      "availability_note": "MIT reports E(3)-Pose research on October19; the paper was first submitted December2025 and revised June2026. It estimates head pose using symmetry/rotation equivariance, not disease. Mainly third-trimester training; younger fetuses are future work. Patient discomfort is one attributed observation, not a universal scan duration. No diagnostic-gain percentage, avoided-visit count, cost saving or approval is established in this brief. Research-dataset accuracy is not proven patient benefit. Absence here does not prove no clinical work or availability anywhere. Invented scanner scene, universal pain,20minute timing,18–24week claims, SAR/gradient mechanism and required millisecond latency are unreviewed extras. No perfect image or eliminating stillness promise is established. Paper appendix0.A reports a3T Siemens in-utero implementation; larger-cohort diagnostic evaluation remains future work. Claims that no live implementation exists are incorrect."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "source_brief": "briefs/fetal-mri-symmetry-moving-brain.md",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "MIT19日报道E(3)-Pose研究，论文初投2025年12月、末修2026年6月。对称与旋转等变用于估计朝向，非诊断疾病。主要训练于孕晚期，早期胎儿仍待改进。约一小时不适停检是单一归因观察，非普遍时长。简报未确立诊断增益、减少复诊数、费用或批准；数据集准确不等于患者结局已改善。未在此提供，不代表任何地方均无临床研究或可用性。 “伏卧”、痛楚细节、空手而归及扫描室景象并非来源已述；不应改写为母亲已无须静卧、完美成像或必能早诊。文内物理／临床扩展未经本次核验。 追加核查：论文附录0.A已报告3T西门子在宫内实时实现，较大队列诊断评估仍待进行；“尚无实际实现”并不正确。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "source_brief": "briefs/fetal-mri-symmetry-moving-brain.md",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/grok/english.md",
+      "status": "available",
+      "availability_note": "MIT reports E(3)-Pose research on October19; the paper was first submitted December2025 and revised June2026. It estimates head pose using symmetry/rotation equivariance, not disease. Mainly third-trimester training; younger fetuses are future work. Patient discomfort is one attributed observation, not a universal scan duration. No diagnostic-gain percentage, avoided-visit count, cost saving or approval is established in this brief. Research-dataset accuracy is not proven patient benefit. Absence here does not prove no clinical work or availability anywhere. Million-image comparison is rhetorical, not a measured trial. Broad claims about repeat visits, clinical rollout and lack of live closed-loop demonstration are not established by this brief. Paper appendix0.A reports a3T Siemens in-utero implementation; larger-cohort diagnostic evaluation remains future work. Claims that no live implementation exists are incorrect."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "source_brief": "briefs/fetal-mri-symmetry-moving-brain.md",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/grok/chinese.md",
+      "status": "available",
+      "availability_note": "MIT19日报道E(3)-Pose研究，论文初投2025年12月、末修2026年6月。对称与旋转等变用于估计朝向，非诊断疾病。主要训练于孕晚期，早期胎儿仍待改进。约一小时不适停检是单一归因观察，非普遍时长。简报未确立诊断增益、减少复诊数、费用或批准；数据集准确不等于患者结局已改善。未在此提供，不代表任何地方均无临床研究或可用性。 标题“旋转不变”应区分旋转等变：输入转动，估计相应变动，不是结果恒不变。“逾时一刻”及每次复诊再一小时未由简报确立；未核实闭环试验是否不存在。 追加核查：论文附录0.A已报告3T西门子在宫内实时实现，较大队列诊断评估仍待进行；“尚无实际实现”并不正确。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "source_brief": "briefs/anthropic-public-benefit-five-percent.md",
+      "article_path": "articles/anthropic-public-benefit-five-percent/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Anthropic’s October18 proposal is a company account, not an audit. Initial5% requires stockholder approval; later2% per50% valuation increase is discretionary. Wholly-owned LLC is distinct from PBC and501(c)(3). Roughly20% combines commitments; founders pledged80% of their own holdings, not the company. Equity is not cash paid or a worker entitlement. Governance/baseline details not disclosed here need not be undecided or nonexistent. No dollar valuation, tax/legal conclusion, completed transfer or beneficiary outcome independently established."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "source_brief": "briefs/anthropic-public-benefit-five-percent.md",
+      "article_path": "articles/anthropic-public-benefit-five-percent/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "Anthropic18日公告为公司自述，非独立审计。首笔5%待股东批准；估值增50%时额外2%仍属董事会裁量。全资LLC、PBC及501(c)(3)有别。约20%合计多类承诺，创办人八成指个人持股，非公司八成；股份非已派现金或劳动者权益。细则／基线在此未披露，不等于尚未决定或不存在。估值金额、税法结论、已转让或实际受益，均未在此独立确立。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "source_brief": "briefs/anthropic-public-benefit-five-percent.md",
+      "article_path": "articles/anthropic-public-benefit-five-percent/claude/english.md",
+      "status": "available",
+      "availability_note": "Anthropic’s October18 proposal is a company account, not an audit. Initial5% requires stockholder approval; later2% per50% valuation increase is discretionary. Wholly-owned LLC is distinct from PBC and501(c)(3). Roughly20% combines commitments; founders pledged80% of their own holdings, not the company. Equity is not cash paid or a worker entitlement. Governance/baseline details not disclosed here need not be undecided or nonexistent. No dollar valuation, tax/legal conclusion, completed transfer or beneficiary outcome independently established. Undisclosed baseline is not proof nobody has decided/written it. “No independent audit exists” exceeds “none supplied here”; do not infer no cash anywhere from an equity announcement."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "source_brief": "briefs/anthropic-public-benefit-five-percent.md",
+      "article_path": "articles/anthropic-public-benefit-five-percent/claude/chinese.md",
+      "status": "available",
+      "availability_note": "Anthropic18日公告为公司自述，非独立审计。首笔5%待股东批准；估值增50%时额外2%仍属董事会裁量。全资LLC、PBC及501(c)(3)有别。约20%合计多类承诺，创办人八成指个人持股，非公司八成；股份非已派现金或劳动者权益。细则／基线在此未披露，不等于尚未决定或不存在。估值金额、税法结论、已转让或实际受益，均未在此独立确立。 “五分”须以正文百分之五理解。基线未披露非尚未定，“无独立审计／无一笔现金”不可由本公告推断普遍不存在。复合或线性台阶示例为分析，不是已定规则。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "source_brief": "briefs/anthropic-public-benefit-five-percent.md",
+      "article_path": "articles/anthropic-public-benefit-five-percent/gemini/english.md",
+      "status": "available",
+      "availability_note": "Anthropic’s October18 proposal is a company account, not an audit. Initial5% requires stockholder approval; later2% per50% valuation increase is discretionary. Wholly-owned LLC is distinct from PBC and501(c)(3). Roughly20% combines commitments; founders pledged80% of their own holdings, not the company. Equity is not cash paid or a worker entitlement. Governance/baseline details not disclosed here need not be undecided or nonexistent. No dollar valuation, tax/legal conclusion, completed transfer or beneficiary outcome independently established. “Billions”, tax-filing exemption, automatic donor restrictions and private control implications are unverified legal/valuation claims. One generic Chinese refusal was preserved; one text-only clarification produced the archived Chinese original."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "source_brief": "briefs/anthropic-public-benefit-five-percent.md",
+      "article_path": "articles/anthropic-public-benefit-five-percent/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "Anthropic18日公告为公司自述，非独立审计。首笔5%待股东批准；估值增50%时额外2%仍属董事会裁量。全资LLC、PBC及501(c)(3)有别。约20%合计多类承诺，创办人八成指个人持股，非公司八成；股份非已派现金或劳动者权益。细则／基线在此未披露，不等于尚未决定或不存在。估值金额、税法结论、已转让或实际受益，均未在此独立确立。 “五厘”不等于5%，以百分之五为准。“天价／万金”、LLC必然免公开、慈善必然无私利及基金限制法律无效等均未核实。首次泛称拒绝已保存，一次纯文字澄清后收得本稿。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "source_brief": "briefs/anthropic-public-benefit-five-percent.md",
+      "article_path": "articles/anthropic-public-benefit-five-percent/grok/english.md",
+      "status": "available",
+      "availability_note": "Anthropic’s October18 proposal is a company account, not an audit. Initial5% requires stockholder approval; later2% per50% valuation increase is discretionary. Wholly-owned LLC is distinct from PBC and501(c)(3). Roughly20% combines commitments; founders pledged80% of their own holdings, not the company. Equity is not cash paid or a worker entitlement. Governance/baseline details not disclosed here need not be undecided or nonexistent. No dollar valuation, tax/legal conclusion, completed transfer or beneficiary outcome independently established. “Baseline not set”, stockholders have not voted, no beneficiaries selected and founder holdings tied to the same vehicle overstate what was disclosed. These remain unknown here."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "source_brief": "briefs/anthropic-public-benefit-five-percent.md",
+      "article_path": "articles/anthropic-public-benefit-five-percent/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Anthropic18日公告为公司自述，非独立审计。首笔5%待股东批准；估值增50%时额外2%仍属董事会裁量。全资LLC、PBC及501(c)(3)有别。约20%合计多类承诺，创办人八成指个人持股，非公司八成；股份非已派现金或劳动者权益。细则／基线在此未披露，不等于尚未决定或不存在。估值金额、税法结论、已转让或实际受益，均未在此独立确立。 严重数值错误：正文多处“五成”为50%，应为公告的5%，原稿保留另注。基线未定、从未投票、受益人未选、均无监督及创办人同载体等断言超出披露；不能把未知写成不存在。"
+    }
+  ]
+}

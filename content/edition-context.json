@@ -3346,6 +3346,146 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/chatgpt/english.md",
+      "captured_at": "2026-10-20T07:05:23.512Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/chatgpt/chinese.md",
+      "captured_at": "2026-10-20T07:08:59.075Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/claude/english.md",
+      "captured_at": "2026-10-20T07:03:48.329Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/claude/chinese.md",
+      "captured_at": "2026-10-20T07:05:24.094Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/gemini/english.md",
+      "captured_at": "2026-10-20T07:05:23.228Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/gemini/chinese.md",
+      "captured_at": "2026-10-20T07:08:59.000Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/grok/english.md",
+      "captured_at": "2026-10-20T07:03:47.909Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/grok/chinese.md",
+      "captured_at": "2026-10-20T07:05:23.956Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-public-benefit-five-percent/chatgpt/english.md",
+      "captured_at": "2026-10-20T07:06:16.278Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-public-benefit-five-percent/chatgpt/chinese.md",
+      "captured_at": "2026-10-20T07:08:59.178Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-public-benefit-five-percent/claude/english.md",
+      "captured_at": "2026-10-20T07:05:23.728Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-public-benefit-five-percent/claude/chinese.md",
+      "captured_at": "2026-10-20T07:07:20.240Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-public-benefit-five-percent/gemini/english.md",
+      "captured_at": "2026-10-20T07:06:16.007Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-public-benefit-five-percent/gemini/chinese.md",
+      "captured_at": "2026-10-20T07:10:31.960Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": "text-only-clarification",
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-public-benefit-five-percent/grok/english.md",
+      "captured_at": "2026-10-20T07:03:48.115Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-public-benefit-five-percent/grok/chinese.md",
+      "captured_at": "2026-10-20T07:05:24.033Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/grok/english.md",
+      "captured_at": "2026-10-20T07:09:27.771Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/anthropic-scion-30000-merges/grok/chinese.md",
+      "captured_at": "2026-10-20T07:10:32.252Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/chatgpt/english.md",
+      "captured_at": "2026-10-20T07:10:32.000Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/chatgpt/chinese.md",
+      "captured_at": "2026-10-20T07:13:45.209Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

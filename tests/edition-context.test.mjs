@@ -54,3 +54,17 @@ test('render shows capture context, unknown coverage and all three card headline
  await view.render({main,data,hash:'edition/starliner-61-fixes-2028/claude'});
  assert.match(main.innerHTML,/interleaved\/duplicated/);assert.match(main.innerHTML,/coverage UNKNOWN/);assert.match(main.innerHTML,/capture time, not generation time/);assert.doesNotMatch(main.innerHTML,/claude.ai\/chat/);
 });
+
+test('one text-only translation clarification is disclosed separately from historical interleaving',async()=>{
+ const data=loadOlympicsArchive(),context=structuredClone(data.context),path='articles/starliner-61-fixes-2028/claude/english.md';
+ context.editions.find(row=>row.article_path===path).input_deviation='text-only-clarification';
+ assert.doesNotThrow(()=>validateEditionContext(context,data.articles));
+ const bad=structuredClone(context);bad.editions.find(row=>row.article_path===path).input_deviation='invented-exception';
+ assert.throws(()=>validateEditionContext(bad,data.articles),/context/);
+ const main={innerHTML:'',classList:{add(){},remove(){}},addEventListener(){},removeEventListener(){}};
+ await ui().render({main,data:{...data,context},lang:'en',hash:'edition/starliner-61-fixes-2028/claude'});
+ assert.match(main.innerHTML,/one same-thread text-only translation clarification/);assert.doesNotMatch(main.innerHTML,/interleaved\/duplicated/);
+ context.editions.find(row=>row.article_path==='articles/starliner-61-fixes-2028/claude/chinese.md').input_deviation='text-only-clarification';
+ await ui().render({main,data:{...data,context},lang:'zh',hash:'edition/starliner-61-fixes-2028/claude'});
+ assert.match(main.innerHTML,/一次纯文字翻译澄清/);assert.doesNotMatch(main.innerHTML,/发生交错/);
+});

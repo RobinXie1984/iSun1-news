@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "fetal-mri-symmetry-moving-brain",
+      "event_date": "2026-10-19",
+      "title": {
+        "en": "The baby keeps moving. Can the MRI learn to follow?",
+        "zh": "胎儿不停动，磁共振能否跟着拍？"
+      },
+      "summary": {
+        "en": "E(3)-Pose builds head symmetry into motion estimation. Better fetal imaging is the promise; improved clinical diagnoses and fewer repeat visits remain unproven here.",
+        "zh": "E(3)-Pose把头部对称性嵌入姿态估计；成像或可改善，但诊断提升及减少复诊尚未在此证实。"
+      }
+    },
+    {
+      "id": "anthropic-public-benefit-five-percent",
+      "event_date": "2026-10-18",
+      "title": {
+        "en": "Anthropic pledges5%of its shares. Who decides the public benefit?",
+        "zh": "Anthropic拟拨5%股份做公益，谁来定义公众利益？"
+      },
+      "summary": {
+        "en": "A proposed wholly-owned LLC could grow its stake at board discretion. Equity commitments, cash distributions and independent governance are different claims.",
+        "zh": "拟设全资LLC，董事会可酌情增拨；股份承诺、现金派发与独立治理是三回事。"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-19T07:12:38.980329+00:00",
+  "selected_at": "2026-10-20T07:13:37.748789+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -922,6 +922,46 @@
       "headline": "《同一门户，三种署名：万余人之信，究竟落于谁家？》",
       "sha256": "6933f5bb2683dadc64e12b75ff283efa039d6733248af43c6ea5db9c080c88d0",
       "reason": "One portal, three attributions and more than10,000respondents make the causal question tangible; the title avoids fabricated participant quotations."
+    },
+    {
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/chatgpt/english.md",
+      "headline_index": 1,
+      "headline": "She Stopped an Uncomfortable Scan After About an Hour. Researchers Are Working on a Better Way.",
+      "sha256": "2c9073ffadb77a8a4cba57ddeb711b868aaab529d49713981de1a33d82840d46",
+      "reason": "One attributed hour-long uncomfortable scan supplies a human hook without claiming measured clinical improvement. Competing scene/pain claims and categorical lack of hardware were corrected separately."
+    },
+    {
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/fetal-mri-symmetry-moving-brain/chatgpt/chinese.md",
+      "headline_index": 2,
+      "headline": "欲察其真，何必责其静？教机器循生命而行",
+      "sha256": "93183d76af3ed02af578c45ffc27b59f3cb4de297baa04c9f63316a4ac67d4d6",
+      "reason": "A concise literary question makes following movement intuitive; the original separates pose estimation, patient outcomes and the attributed observation more carefully than alternatives."
+    },
+    {
+      "topic": "anthropic-public-benefit-five-percent",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/anthropic-public-benefit-five-percent/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Anthropic Wants to Commit 5% of Its Shares to the Public. Who Decides What the Public Gets?",
+      "sha256": "44712722cf229efa1ecd3b43a51b9880921b3af216553c575f7285cd9010496d",
+      "reason": "Names the company and5%proposal as an intention, then asks who decides the benefit; avoids unsupported valuation, finished-transfer or unset-baseline claims."
+    },
+    {
+      "topic": "anthropic-public-benefit-five-percent",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/anthropic-public-benefit-five-percent/chatgpt/chinese.md",
+      "headline_index": 2,
+      "headline": "《济世不独问金多，更须问谁执其钥》",
+      "sha256": "dbb4f7070e7fa0cb9608a1981ea5e677d6a05788b43742ce68ee3e3084e8b224",
+      "reason": "The key image brings governance into a short literary title without ambiguous fractions. Original retains explicit5%, approval and discretion; other drafts contain numerical or legal overstatement."
     }
   ]
 }

@@ -876,6 +876,44 @@
           "sha256": "22fd74cd908279a2c50e225c974f2ac258ea26aa6dba66467843161f68410cb7"
         }
       ]
+    },
+    {
+      "topic": "fetal-mri-symmetry-moving-brain",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/fetal-mri-symmetry-moving-brain-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 222257,
+          "sha256": "7b8c5985e7b1374f7eeb0e7163bbd13b936c017a839011f144c19a2b4bb3aecc"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/fetal-mri-symmetry-moving-brain-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 80161,
+          "sha256": "2ffba2b8296cc38c45ff6ed056b72304c67d837d06dac555cd714f0f9afba9a9"
+        }
+      ]
+    },
+    {
+      "topic": "anthropic-public-benefit-five-percent",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/anthropic-public-benefit-five-percent-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 254789,
+          "sha256": "93f16bfebb3e73c36f283f2dc61dee5f68efd7f45c83028db588d4d62771fd2b"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/anthropic-public-benefit-five-percent-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 85906,
+          "sha256": "071b4b4d169cc6962a6380342e65de6ce5846fcf480eb310ae9df43fcc169d9a"
+        }
+      ]
     }
   ]
 }

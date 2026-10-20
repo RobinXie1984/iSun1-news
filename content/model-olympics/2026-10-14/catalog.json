@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T07:08:12.188195+00:00",
+  "generated_at": "2026-10-20T07:14:37.819538+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 18,
-  "unavailable_count": 6,
+  "available_count": 22,
+  "unavailable_count": 2,
   "articles": [
     {
       "provider": "chatgpt",
@@ -78,9 +78,9 @@
       "topic": "anthropic-scion-30000-merges",
       "event_date": "2026-10-13",
       "source_brief": "briefs/anthropic-scion-30000-merges.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: new-chat endpoint remains at automatic Cloudflare security verification; no challenge bypass or prompt submission. / 新对话入口停在自动安全核验，未绕过或提交。"
+      "article_path": "articles/anthropic-scion-30000-merges/grok/english.md",
+      "status": "available",
+      "availability_note": "Recovered October20 with the original October14 brief about the October13 Anthropic account. Company figures remain self-reported, not independent benchmarks.30,000 merged changes are not uniform commits, quality, profit or job losses.200x footprint and25%CIcapacity are separate measures. Scion is not a public/general Git replacement. “Git broke”, migration comparisons and broad developer-economics claims are analysis, not independently verified outcomes."
     },
     {
       "provider": "grok",
@@ -89,9 +89,9 @@
       "topic": "anthropic-scion-30000-merges",
       "event_date": "2026-10-13",
       "source_brief": "briefs/anthropic-scion-30000-merges.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: new-chat endpoint remains at automatic Cloudflare security verification; no challenge bypass or prompt submission. / 新对话入口停在自动安全核验，未绕过或提交。"
+      "article_path": "articles/anthropic-scion-30000-merges/grok/chinese.md",
+      "status": "available",
+      "availability_note": "20日按原14日简报续收，13日Anthropic报道的数据仍为自报，非独立基准。三万是合并代码变更，非同义提交、质量、利润或裁员。200倍足迹与25%CI容量为不同指标；Scion非公共通用Git替代品。“Git崩溃”、他司迁移需数年及普遍开发经济判断属分析，未独立核实。"
     },
     {
       "provider": "deepseek",
@@ -144,9 +144,9 @@
       "topic": "griffin-153-decibels-moon",
       "event_date": "2026-10-13",
       "source_brief": "briefs/griffin-153-decibels-moon.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested GPT-6 Astra Medium / Work returned selected model at capacity twice. First existing conversation retained; no substitute model. Other topic not submitted after bounded retry. / 所需模型两次容量不足，保留原线程；未换模型，另一题未提交。"
+      "article_path": "articles/griffin-153-decibels-moon/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October20 using the original October14 brief of NASA’s October13 report.153dB,thermal cycling and other environmental tests were on Earth, not lunar survival. Later2026launch was a plan at the original report date, not verified current launch/landing status.10planned demonstrations/sixcountries are payload plans. Cargo mass omitted because source conversions conflict. FalconHeavy involvement does not establish a personal Musk decision. No quantified reliability or flawless-landing guarantee established."
     },
     {
       "provider": "chatgpt",
@@ -155,9 +155,9 @@
       "topic": "griffin-153-decibels-moon",
       "event_date": "2026-10-13",
       "source_brief": "briefs/griffin-153-decibels-moon.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: requested GPT-6 Astra Medium / Work returned selected model at capacity twice. First existing conversation retained; no substitute model. Other topic not submitted after bounded retry. / 所需模型两次容量不足，保留原线程；未换模型，另一题未提交。"
+      "article_path": "articles/griffin-153-decibels-moon/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "20日按原14日简报续收，来源为NASA13日报道。153分贝、热循环等均为地面测试，非登月生存证明。2026稍后发射是当时计划，不是本次核实的现今发射／着陆状态。十项示范、六国为载荷规划；质量换算冲突故不列。猎鹰重型参与，不代表马斯克亲自决定；可靠率及完美着陆未获确立。"
     },
     {
       "provider": "claude",
