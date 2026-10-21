@@ -20,6 +20,7 @@ mkdirSync('dist/server',{recursive:true});mkdirSync('dist/.openai',{recursive:tr
 const assets=Object.fromEntries(['index.html','app.js','style.css','theme.js','olympics.js','olympics.css',...['chatgpt','claude','gemini','grok','deepseek','qwen'].map(n=>'icons/'+n+'.svg')].map(f=>['/'+(f==='index.html'?'':f),readFileSync('public/'+f,'utf8')]));
 for(const topic of olympics.topics){const file='editorial-art/'+topic.id+'.svg'; if(existsSync('public/'+file))assets['/'+file]=readFileSync('public/'+file,'utf8');}
 const media=Object.fromEntries(['mars','robot','galaxy','oversight','security','eviltokens'].map(name=>['/images/'+name+'.jpg',readFileSync('public/images/'+name+'.jpg').toString('base64')]));
+for(const name of ['isun1-day.webp','isun1-night.webp','isun1-icon.png'])media['/brand/'+name]=readFileSync('public/brand/'+name).toString('base64');
 const editionPaths=[...new Set((olympics.media?.editions||[]).flatMap(e=>e.items.map(i=>i.asset_path).filter(Boolean)))];
 if(editionPaths.length){
  const sums=new Map(readFileSync('public/edition-media/SHA256SUMS','utf8').trim().split('\n').map(line=>[line.slice(66),line.slice(0,64)]));
