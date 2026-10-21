@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-21T15:02:06.445998+00:00",
+  "selected_at": "2026-10-21T16:13:19.645Z",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -746,12 +746,12 @@
     {
       "topic": "microsoft-billion-scams-suppliers",
       "language": "en",
-      "provider": "claude",
-      "article_path": "articles/microsoft-billion-scams-suppliers/claude/english.md",
+      "provider": "chatgpt",
+      "article_path": "articles/microsoft-billion-scams-suppliers/chatgpt/english.md",
       "headline_index": 0,
-      "headline": "A Billion Messages, Three Storefronts, One Court Order: Inside Microsoft's Move Against the Cybercrime Supply Chain",
-      "sha256": "9ca5792a6388a200d8ac74db7c1532e8350e5d21bb60bb172d7e6a6abd589479",
-      "reason": "A billion messages, three suppliers and one court order make the scale and mechanism legible; Microsoft attribution and unknown impact are retained."
+      "headline": "A Billion Malicious Messages. Microsoft Went After What Was Behind Them.",
+      "sha256": "b9cb0a318e90f5ae6c272771ac80f7f2b4a29a7e58fae170d6ba4e848863fa56",
+      "reason": "Replace Claude with GPT: the shorter headline creates a clear upstream mystery; the opening immediately separates message volume from victims, then follows templates, accounts and domains to the intervention. Claude’s triple-number headline is crowded; Gemini and Grok overstate disruption or infer outcomes. Lasting harm reduction remains unknown."
     },
     {
       "topic": "microsoft-billion-scams-suppliers",
@@ -766,12 +766,12 @@
     {
       "topic": "greenland-lake-b-hidden-reservoir",
       "language": "en",
-      "provider": "claude",
-      "article_path": "articles/greenland-lake-b-hidden-reservoir/claude/english.md",
+      "provider": "chatgpt",
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/chatgpt/english.md",
       "headline_index": 0,
-      "headline": "For six years, the ice over one patch of Greenland kept rising and falling. Satellites finally worked out why.",
-      "sha256": "51e18f25fd79292ed927b10fbc2204eaf477f6c6eb25d5aed4a5648b2fb0d6bb",
-      "reason": "A six-year surface-motion puzzle makes the hidden discovery immediately legible; uncertainty and the2022exception remain annotated."
+      "headline": "Greenland’s Ice Rose 10 Metres. The Hidden Explanation Was Water.",
+      "sha256": "012c58c416931ff536658015fb2080a1b3c25df97a5d008fa48983968ca36692",
+      "reason": "Replace Claude with GPT: the 10-metre movement creates an immediate physical puzzle and the opening promptly explains satellite inference. Its storage-versus-delay sequence is clearer than Claude’s absolute nobody-has-photographed framing. Gemini overextends climate consequences; Grok remains report-like. Retain the source note restoring ESA’s possible low-melt explanation for 2022."
     },
     {
       "topic": "greenland-lake-b-hidden-reservoir",
@@ -796,52 +796,52 @@
     {
       "topic": "tsmc-4672-billion-two-nanometres",
       "language": "zh",
-      "provider": "claude",
-      "article_path": "articles/tsmc-4672-billion-two-nanometres/claude/chinese.md",
-      "headline_index": 2,
-      "headline": "《百金而存其半，愈盈愈难：台积电利厚之日，正是考题加重之时》",
-      "sha256": "9728f5e11d69d9c8834570dae0fd9b83373033ca7b90bb4fa00e351132a5e2c5",
-      "reason": "Retained profit provides a concrete hook; the higher-bar argument is marked interpretation and guidance remains prospective."
+      "provider": "chatgpt",
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/chatgpt/chinese.md",
+      "headline_index": 1,
+      "headline": "《世人仰望云端，谁为未来铸骨》",
+      "sha256": "52645c7c1758136a878315163c547972492d534492817f347476d53c8c281382",
+      "reason": "Replace Claude with GPT: 铸骨 sustains a coherent physical-manufacturing image, with cleaner prose and correct currency/growth distinctions. Claude’s 五成九 shorthand is ambiguous beside 50.9%; Gemini’s numeric rendering is damaged and rhetoric excessive; Grok asserts unverified utilization and profit causes. The chosen headline avoids an unspecified-currency trillion claim; guidance remains a forecast."
     },
     {
       "topic": "mit-weather-two-six-weeks",
       "language": "en",
-      "provider": "claude",
-      "article_path": "articles/mit-weather-two-six-weeks/claude/english.md",
-      "headline_index": 1,
-      "headline": "The Storm You Can't See Yet: Why a Few Extra Weeks of Warning Could Matter to Farmers, Grid Operators and Families",
-      "sha256": "c74ce7441a99764a813316d6e3db18ced6a9ee635356fb37263e89776679f89e",
-      "reason": "A clear human planning consequence with conditional benefit; fewer unsupported certainties than the competing headlines."
+      "provider": "chatgpt",
+      "article_path": "articles/mit-weather-two-six-weeks/chatgpt/english.md",
+      "headline_index": 2,
+      "headline": "To Improve Weather Forecasts, Researchers Taught AI to Study Their Failures.",
+      "sha256": "5e3255f1b84ae0cdb7cdc452b35f57f33478f414b2b063860b961dcf404c6522",
+      "reason": "Replace Claude with GPT: the short headline explains the counterintuitive mechanism directly, then the opening connects two-to-six-week probabilities to decisions. Claude’s selected storm headline is long and vague; Gemini implies disaster foresight; Grok claims unsupported strongest gains. Keep the annotation limiting nobody-has-demonstrated rhetoric and distinguishing predictive skill from guaranteed daily accuracy."
     },
     {
       "topic": "mit-weather-two-six-weeks",
       "language": "zh",
-      "provider": "claude",
-      "article_path": "articles/mit-weather-two-six-weeks/claude/chinese.md",
+      "provider": "chatgpt",
+      "article_path": "articles/mit-weather-two-six-weeks/chatgpt/chinese.md",
+      "headline_index": 1,
+      "headline": "愿在人间风雨前，多留数周从容",
+      "sha256": "cc1f7ec731b1b72a10d513b7da86dfa2b07a2c004d91661420b7d74f0205690c",
+      "reason": "Replace Claude with GPT: 愿在人间风雨前，多留数周从容 gives the research a humane purpose; the continuous literary argument moves from forecast errors to time for action. Claude’s labels interrupt the rhythm, Gemini’s rhetoric overwhelms limits, and Grok turns weeks into 旬. Probabilistic skill and Kenya interest remain distinct from proven benefits or deployment."
+    },
+    {
+      "topic": "microsoft-nisource-20-year-power",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/microsoft-nisource-20-year-power/chatgpt/english.md",
       "headline_index": 0,
-      "headline": "《旬月之外，风雨何来？——两周至六周之天机，或已窥见一隅》",
-      "sha256": "9d8fe18f95635a0f10115aceaff2b3b162aaadf41b403b09a5c3ee9b0e2ba883",
-      "reason": "Names the two-to-six-week puzzle with an explicit uncertainty qualifier and a legible literary question."
-    },
-    {
-      "topic": "microsoft-nisource-20-year-power",
-      "language": "en",
-      "provider": "gemini",
-      "article_path": "articles/microsoft-nisource-20-year-power/gemini/english.md",
-      "headline_index": 1,
-      "headline": "A $140 Promise: Big Tech Pledges to Lower Household Power Bills, but the Savings Are Still on Paper",
-      "sha256": "68f285ed754dff1074456ab78b72f8be32497525ff969e8bba86f12912986730",
-      "reason": "The concrete $140 household hook immediately states that savings remain on paper; starts from the actual announcement rather than an imagined kitchen scene. Source qualifications retained separately."
+      "headline": "Microsoft Signed for 20 Years of Power. Who Pays If the Plan Changes?",
+      "sha256": "4f8209800c480800743623c62bbacbf42556393e1843ffed99dc88623afc3878",
+      "reason": "Replace Gemini with GPT: who pays if plans change is a specific consequential question supported by the disclosed forward risks. The $140 opening brings scale home while clearly marking the portfolio projection; the body traces cost allocation and verification. Gemini closes with an unnecessary ban-or-trust binary, Claude begins with an imagined scene, and Grok adds unverified economic claims."
     },
     {
       "topic": "microsoft-nisource-20-year-power",
       "language": "zh",
-      "provider": "claude",
-      "article_path": "articles/microsoft-nisource-20-year-power/claude/chinese.md",
-      "headline_index": 2,
-      "headline": "巨擘入邑，电费或减：数据中心未必夺民之利，然细则不可不察",
-      "sha256": "79209fbf9b7e8e18df22106e3d09fe141988d29219f1efeddd2b3f8b34a65f1f",
-      "reason": "Conditional lower bills provide constructive tension; avoids the competing green-power claim and unsupported household allocation arithmetic."
+      "provider": "chatgpt",
+      "article_path": "articles/microsoft-nisource-20-year-power/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《微软订电二十载：云端宏图，谁付灯下之账？》",
+      "sha256": "335008544f59cb6391eb2ee058e92e46726058ead46c15fb8f6f7e534659c90c",
+      "reason": "Replace Claude with GPT: 云端宏图，谁付灯下之账 connects technology and household stakes in a compact image. The body sustains that image and clearly separates promised protection, projected savings and measured results. Claude is more segmented, Gemini assumes harm and clean power, and Grok confuses storage duration with MWh."
     },
     {
       "topic": "mit-nk-cells-in-body",
@@ -876,12 +876,12 @@
     {
       "topic": "norris-ln4-36-car-grid",
       "language": "zh",
-      "provider": "claude",
-      "article_path": "articles/norris-ln4-36-car-grid/claude/chinese.md",
-      "headline_index": 0,
-      "headline": "《冠军入局，非在巅峰：诺里斯新车队所赴何处？》",
-      "sha256": "cb093a6e09053f64417aeaaf8238ed8975bbb6cbcebb6304be17104e70a8a678",
-      "reason": "The champion and named founder anchor a clear literary question; original distinguishes planned seats, cost and promotion more carefully than the competing fatalistic claims."
+      "provider": "chatgpt",
+      "article_path": "articles/norris-ln4-36-car-grid/chatgpt/chinese.md",
+      "headline_index": 2,
+      "headline": "《诺里斯另起车队：未入F1，先问青云路》",
+      "sha256": "4b5922de3b42d61cbd78d2fedc48ed79c433061ae4fa542d88bbde83120db04f",
+      "reason": "Replace Claude with GPT: 未入F1，先问青云路 states the actual level and gives a continuous opportunity-versus-access narrative, rather than a chaptered fact/comment template. Use option three, not the ambiguous six-seat option; the visible note explains two teams add six seats, LN4 has three. Gemini invents reactions and Grok assumes the expansion changes little."
     },
     {
       "topic": "jaxa-mmx-phobos-15-percent",
