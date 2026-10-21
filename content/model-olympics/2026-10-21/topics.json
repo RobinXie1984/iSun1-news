@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "title": {
+        "en": "Surgery with a sticky note? The promise—and the next human test.",
+        "zh": "手术像贴便条？黏合技术的希望与下一场人体试验。"
+      },
+      "summary": {
+        "en": "SanaHeal’s wet-tissue adhesive has trauma-bleeding approval according to MIT; broader surgical trials are planned for2027. Less stitching is a possibility, not a proven universal replacement.",
+        "zh": "据MIT报道，SanaHeal湿组织黏合技术已获止创伤出血批准，更广手术应用拟于2027年开展人体试验；少缝针是可能性，非普遍替代已获证实。"
+      }
+    },
+    {
+      "id": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "title": {
+        "en": "The AI joins the orchestra. Who gets heard?",
+        "zh": "AI加入交响乐，谁的声音被听见？"
+      },
+      "summary": {
+        "en": "Tod Machover’s new symphony uses Live AI to connect human musicians; its October22–24 Boston performances remain ahead of this report. The democracy is a musical idea, not a measured political result.",
+        "zh": "Tod Machover新交响曲以Live AI连接真人乐手，波士顿10月22至24日演出尚未举行；民主是音乐构想，非经验证的政治效果。"
+      }
+    }
+  ]
+}

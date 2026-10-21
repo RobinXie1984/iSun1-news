@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-20T07:13:37.748789+00:00",
+  "selected_at": "2026-10-21T15:02:06.445998+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -962,6 +962,46 @@
       "headline": "《济世不独问金多，更须问谁执其钥》",
       "sha256": "dbb4f7070e7fa0cb9608a1981ea5e677d6a05788b43742ce68ee3e3084e8b224",
       "reason": "The key image brings governance into a short literary title without ambiguous fractions. Original retains explicit5%, approval and discretion; other drafts contain numerical or legal overstatement."
+    },
+    {
+      "topic": "sanaheal-sticky-note-surgery",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/sanaheal-sticky-note-surgery/chatgpt/english.md",
+      "headline_index": 2,
+      "headline": "The Future of Surgical Repair May Begin by Getting Water Out of the Way",
+      "sha256": "183302c6e3273486c909c346dc45830babc6e97f39ddf797b5817c07a586788e",
+      "reason": "Water-removal mechanism is a clear, surprising physical hook. Original keeps approval attributed and2027trials prospective, without unsupported medical detail or universal hardest-surface claim."
+    },
+    {
+      "topic": "sanaheal-sticky-note-surgery",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/sanaheal-sticky-note-surgery/chatgpt/chinese.md",
+      "headline_index": 2,
+      "headline": "《欲合伤口，先问流水：外科新胶，巧在除隔》",
+      "sha256": "ca41b859481dc8c968c5526aecba301983d6d9e194e7fba213cdb50229aab571",
+      "reason": "A short literary mechanism question pays off in the early hydrogel water-absorption account; source/analysis/timing boundaries remain unusually clear. No implication that every wound is now treatable."
+    },
+    {
+      "topic": "machover-live-ai-symphony",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/machover-live-ai-symphony/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "The AI Will Be Live. The Orchestra Will Be Human. Who Gets Heard?",
+      "sha256": "5361a17de63c20963d2c12040fd792427fbd20143c077b1a8030317ac1be37ea",
+      "reason": "Human orchestra and live AI are immediately intelligible; who gets heard connects technology to felt stakes while the article keeps the premiere and outcomes future."
+    },
+    {
+      "topic": "machover-live-ai-symphony",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/machover-live-ai-symphony/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "《明夕弦动，机巧能否助众乐相闻？》",
+      "sha256": "aff22291aafe359e12fd9b77861560767feb3b78a3a74daeaefea82ea8275df5",
+      "reason": "The compact lyrical question names the actual listening problem. The text retains three movements and human makers; the source note marks imaginative setup and dates明夕toOctober21."
     }
   ]
 }

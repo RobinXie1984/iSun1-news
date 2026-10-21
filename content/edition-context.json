@@ -3486,6 +3486,118 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sanaheal-sticky-note-surgery/chatgpt/english.md",
+      "captured_at": "2026-10-21T14:57:14.925Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sanaheal-sticky-note-surgery/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:00:54.647Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sanaheal-sticky-note-surgery/claude/english.md",
+      "captured_at": "2026-10-21T14:57:23.227Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sanaheal-sticky-note-surgery/claude/chinese.md",
+      "captured_at": "2026-10-21T14:59:39.929Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sanaheal-sticky-note-surgery/gemini/english.md",
+      "captured_at": "2026-10-21T14:55:58.715Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sanaheal-sticky-note-surgery/gemini/chinese.md",
+      "captured_at": "2026-10-21T14:57:52.376Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sanaheal-sticky-note-surgery/grok/english.md",
+      "captured_at": "2026-10-21T14:57:23.477Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sanaheal-sticky-note-surgery/grok/chinese.md",
+      "captured_at": "2026-10-21T14:58:11.718Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/machover-live-ai-symphony/chatgpt/english.md",
+      "captured_at": "2026-10-21T14:57:15.206Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/machover-live-ai-symphony/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:00:54.699Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/machover-live-ai-symphony/claude/english.md",
+      "captured_at": "2026-10-21T14:57:52.400Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/machover-live-ai-symphony/claude/chinese.md",
+      "captured_at": "2026-10-21T14:59:39.976Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/machover-live-ai-symphony/gemini/english.md",
+      "captured_at": "2026-10-21T14:59:40.075Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/machover-live-ai-symphony/gemini/chinese.md",
+      "captured_at": "2026-10-21T15:01:16.642Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/machover-live-ai-symphony/grok/english.md",
+      "captured_at": "2026-10-21T14:57:52.555Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/machover-live-ai-symphony/grok/chinese.md",
+      "captured_at": "2026-10-21T14:59:40.026Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

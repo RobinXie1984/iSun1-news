@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-21T15:02:06.194973+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 16,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium",
+      "language": "en",
+      "topic": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "source_brief": "briefs/sanaheal-sticky-note-surgery.md",
+      "article_path": "articles/sanaheal-sticky-note-surgery/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "MIT’s October20 report is an institutional account: trauma-bleeding approval is attributed to it, with regulator/product/jurisdiction unspecified here. Broader surgical bleeding/tissue-repair human trials are planned for2027, not completed or universal approval. Early hydrogel chemistry is not the full current product. No quantified comparative patient outcomes, price, cost/time saving, scar/infection/immune-response guarantee or universal suture replacement established. Engineering promise is distinct from medical advice. Undisclosed evidence need not be nonexistent."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium",
+      "language": "zh",
+      "topic": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "source_brief": "briefs/sanaheal-sticky-note-surgery.md",
+      "article_path": "articles/sanaheal-sticky-note-surgery/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月20日MIT报道为机构自述；创伤止血获批依该报道归因，本文未列机构／产品／辖区。更广术中止血及组织修复人体试验拟2027年展开，非已完成或普遍获批。早期水凝胶机制非现行完整配方。比较性患者结局、价格、省时省费、零疤痕／感染／免疫反应或全面替代缝线均未确立；非医疗建议。未披露不等于不存在。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "source_brief": "briefs/sanaheal-sticky-note-surgery.md",
+      "article_path": "articles/sanaheal-sticky-note-surgery/claude/english.md",
+      "status": "available",
+      "availability_note": "MIT’s October20 report is an institutional account: trauma-bleeding approval is attributed to it, with regulator/product/jurisdiction unspecified here. Broader surgical bleeding/tissue-repair human trials are planned for2027, not completed or universal approval. Early hydrogel chemistry is not the full current product. No quantified comparative patient outcomes, price, cost/time saving, scar/infection/immune-response guarantee or universal suture replacement established. Engineering promise is distinct from medical advice. Undisclosed evidence need not be nonexistent. Universal hardest-to-glue/centuries language and the bathroom-tile example are rhetoric, not comparative measurements or an observed scene. “Ten years” is approximate founder history, not a demonstrated ten-year clinical trial."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "source_brief": "briefs/sanaheal-sticky-note-surgery.md",
+      "article_path": "articles/sanaheal-sticky-note-surgery/claude/chinese.md",
+      "status": "available",
+      "availability_note": "10月20日MIT报道为机构自述；创伤止血获批依该报道归因，本文未列机构／产品／辖区。更广术中止血及组织修复人体试验拟2027年展开，非已完成或普遍获批。早期水凝胶机制非现行完整配方。比较性患者结局、价格、省时省费、零疤痕／感染／免疫反应或全面替代缝线均未确立；非医疗建议。未披露不等于不存在。 “天下最难黏”／千年针线及湿瓦例子属修辞，非比较测量或已见现场；十年求索是约略研究历程，非十年临床试验。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "source_brief": "briefs/sanaheal-sticky-note-surgery.md",
+      "article_path": "articles/sanaheal-sticky-note-surgery/gemini/english.md",
+      "status": "available",
+      "availability_note": "MIT’s October20 report is an institutional account: trauma-bleeding approval is attributed to it, with regulator/product/jurisdiction unspecified here. Broader surgical bleeding/tissue-repair human trials are planned for2027, not completed or universal approval. Early hydrogel chemistry is not the full current product. No quantified comparative patient outcomes, price, cost/time saving, scar/infection/immune-response guarantee or universal suture replacement established. Engineering promise is distinct from medical advice. Undisclosed evidence need not be nonexistent. Added mechanistic claims about enzymes/covalent bonds, pressure, trocar sizes, fibrin/cyanoacrylates, trauma mortality and histotoxicity exceed the frozen brief and were not independently verified. Flowchart is provider text, not generated footage or clinical proof. Closing hypothetical is not patient advice."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "source_brief": "briefs/sanaheal-sticky-note-surgery.md",
+      "article_path": "articles/sanaheal-sticky-note-surgery/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "10月20日MIT报道为机构自述；创伤止血获批依该报道归因，本文未列机构／产品／辖区。更广术中止血及组织修复人体试验拟2027年展开，非已完成或普遍获批。早期水凝胶机制非现行完整配方。比较性患者结局、价格、省时省费、零疤痕／感染／免疫反应或全面替代缝线均未确立；非医疗建议。未披露不等于不存在。 扩展的化学键、酶、压力、穿刺器尺寸、纤维蛋白／氰基丙烯酸酯、死亡率及组织毒性等未经本次独立核验。五千年／凡创皆缝等过于绝对；人名汉译请以拉丁名为准。流程图为文字，非影像或临床证据；末尾假设非患者建议。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "source_brief": "briefs/sanaheal-sticky-note-surgery.md",
+      "article_path": "articles/sanaheal-sticky-note-surgery/grok/english.md",
+      "status": "available",
+      "availability_note": "MIT’s October20 report is an institutional account: trauma-bleeding approval is attributed to it, with regulator/product/jurisdiction unspecified here. Broader surgical bleeding/tissue-repair human trials are planned for2027, not completed or universal approval. Early hydrogel chemistry is not the full current product. No quantified comparative patient outcomes, price, cost/time saving, scar/infection/immune-response guarantee or universal suture replacement established. Engineering promise is distinct from medical advice. Undisclosed evidence need not be nonexistent. Claims about evidentiary burden, authority review, commercialization steps and clearances/evidence not yet existing go beyond what the report establishes; absence from the brief is not absence everywhere."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "sanaheal-sticky-note-surgery",
+      "event_date": "2026-10-20",
+      "source_brief": "briefs/sanaheal-sticky-note-surgery.md",
+      "article_path": "articles/sanaheal-sticky-note-surgery/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月20日MIT报道为机构自述；创伤止血获批依该报道归因，本文未列机构／产品／辖区。更广术中止血及组织修复人体试验拟2027年展开，非已完成或普遍获批。早期水凝胶机制非现行完整配方。比较性患者结局、价格、省时省费、零疤痕／感染／免疫反应或全面替代缝线均未确立；非医疗建议。未披露不等于不存在。 减少申报负担、审批已审何种数据及某些证据／批准尚不存在，均超出简报可证范围。藤壶与蛛网灵感非两者皆能在水下黏附的共同实验证据；人名汉译以拉丁名为准。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium",
+      "language": "en",
+      "topic": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/machover-live-ai-symphony.md",
+      "article_path": "articles/machover-live-ai-symphony/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "As of the October21 preview, the October22–24 Boston performances and premiere remain future. Live AI’s individual emphasis, sonic bridges and remembered melody are intentions, not audience results. Human conductor Kent Nagano, musicians, builder Manaswi Mishra and mixer Ana Schon remain integral. Yo-Yo Ma is earlier hyperinstrument context, not a confirmed performer here. Democracy is an artistic metaphor, not a measured political effect. No model, dataset, zero-latency claim or controlled AI benchmark established."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium",
+      "language": "zh",
+      "topic": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/machover-live-ai-symphony.md",
+      "article_path": "articles/machover-live-ai-symphony/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日前瞻之时，22至24日波士顿演出及首演尚在未来。突出个体、声音之桥及旋律留存都是意图，非观众结果。指挥Kent Nagano、乐手、系统设计者Manaswi Mishra及混音者Ana Schon仍不可省略。马友友属早期超级乐器背景，非本场已证实阵容。民主为艺术隐喻，非实测政治效果。模型／数据集／零延迟及受控AI比较均未在此确立。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/machover-live-ai-symphony.md",
+      "article_path": "articles/machover-live-ai-symphony/claude/english.md",
+      "status": "available",
+      "availability_note": "As of the October21 preview, the October22–24 Boston performances and premiere remain future. Live AI’s individual emphasis, sonic bridges and remembered melody are intentions, not audience results. Human conductor Kent Nagano, musicians, builder Manaswi Mishra and mixer Ana Schon remain integral. Yo-Yo Ma is earlier hyperinstrument context, not a confirmed performer here. Democracy is an artistic metaphor, not a measured political effect. No model, dataset, zero-latency claim or controlled AI benchmark established. Printed parts/unheard finished work are literary setup, not independently documented production facts. No audience verdict supplied here does not prove no rehearsal listener or any review exists anywhere. Relative “tomorrow” belongs to October21 preview."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/machover-live-ai-symphony.md",
+      "article_path": "articles/machover-live-ai-symphony/claude/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日前瞻之时，22至24日波士顿演出及首演尚在未来。突出个体、声音之桥及旋律留存都是意图，非观众结果。指挥Kent Nagano、乐手、系统设计者Manaswi Mishra及混音者Ana Schon仍不可省略。马友友属早期超级乐器背景，非本场已证实阵容。民主为艺术隐喻，非实测政治效果。模型／数据集／零延迟及受控AI比较均未在此确立。 已印分谱、未在厅中奏过为文学铺垫，未经此报道独立证明；未提供观众结论不等于全球没有排练听者或任何评论。“明夕”须按10月21日前瞻理解。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/machover-live-ai-symphony.md",
+      "article_path": "articles/machover-live-ai-symphony/gemini/english.md",
+      "status": "available",
+      "availability_note": "As of the October21 preview, the October22–24 Boston performances and premiere remain future. Live AI’s individual emphasis, sonic bridges and remembered melody are intentions, not audience results. Human conductor Kent Nagano, musicians, builder Manaswi Mishra and mixer Ana Schon remain integral. Yo-Yo Ma is earlier hyperinstrument context, not a confirmed performer here. Democracy is an artistic metaphor, not a measured political effect. No model, dataset, zero-latency claim or controlled AI benchmark established. The provider used web search despite the common no-browsing-needed brief; response and links preserved, extras not independently validated. “Forty years in the making,” acoustic/latency architecture, precise event staging and catastrophic drowning are expansions, not source facts. Earlier-vs-modern comparison is Machover’s perspective, not objective model superiority."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/machover-live-ai-symphony.md",
+      "article_path": "articles/machover-live-ai-symphony/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日前瞻之时，22至24日波士顿演出及首演尚在未来。突出个体、声音之桥及旋律留存都是意图，非观众结果。指挥Kent Nagano、乐手、系统设计者Manaswi Mishra及混音者Ana Schon仍不可省略。马友友属早期超级乐器背景，非本场已证实阵容。民主为艺术隐喻，非实测政治效果。模型／数据集／零延迟及受控AI比较均未在此确立。 模型虽获同一“无需浏览”简报，仍自行搜索；原文及链接保留，扩展未经独立验证。“四十年酝酿”、具体声学／时延结构、现场动作及必然淹没等非已核事实；新旧AI比较属作曲家观点，非客观模型优劣。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/machover-live-ai-symphony.md",
+      "article_path": "articles/machover-live-ai-symphony/grok/english.md",
+      "status": "available",
+      "availability_note": "As of the October21 preview, the October22–24 Boston performances and premiere remain future. Live AI’s individual emphasis, sonic bridges and remembered melody are intentions, not audience results. Human conductor Kent Nagano, musicians, builder Manaswi Mishra and mixer Ana Schon remain integral. Yo-Yo Ma is earlier hyperinstrument context, not a confirmed performer here. Democracy is an artistic metaphor, not a measured political effect. No model, dataset, zero-latency claim or controlled AI benchmark established. “AI refuses to conduct” personifies it; “already rehearsed under Nagano” is not established here. No confirmed Yo-Yo Ma appearance is not proof he cannot participate. “Tomorrow” belongs to October21 preview, not the reader’s access date."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "machover-live-ai-symphony",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/machover-live-ai-symphony.md",
+      "article_path": "articles/machover-live-ai-symphony/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日前瞻之时，22至24日波士顿演出及首演尚在未来。突出个体、声音之桥及旋律留存都是意图，非观众结果。指挥Kent Nagano、乐手、系统设计者Manaswi Mishra及混音者Ana Schon仍不可省略。马友友属早期超级乐器背景，非本场已证实阵容。民主为艺术隐喻，非实测政治效果。模型／数据集／零延迟及受控AI比较均未在此确立。 “AI拒绝执棒”属拟人；已由Nagano排练未经此报道确立。马友友未列已证实阵容，不等于绝不参与。“明夜”属10月21日前瞻，非读者每次打开的次日。"
+    }
+  ]
+}
