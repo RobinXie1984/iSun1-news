@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T07:08:12.206309+00:00",
+  "generated_at": "2026-10-21T15:28:13.806143+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 12,
-  "unavailable_count": 12,
+  "available_count": 16,
+  "unavailable_count": 8,
   "articles": [
     {
       "provider": "chatgpt",
@@ -12,9 +12,9 @@
       "topic": "mit-nk-cells-in-body",
       "event_date": "2026-10-13",
       "source_brief": "briefs/mit-nk-cells-in-body.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Requested existing ChatGPT Work interface requires sign-in; no anonymous/alternate account submission."
+      "article_path": "articles/mit-nk-cells-in-body/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. MIT’s October13 account reports mouse experiments, not patient outcomes.80% is targeted NK-cell reprogramming; three of five refers to a small melanoma mouse group, not human cure rate. Humanized mice remain mice. Safety, efficacy, durability, price and availability in humans are not established. No CAR NK FDA approval at the report date according to MIT; Nature Biotechnology full paper was not retrieved."
     },
     {
       "provider": "chatgpt",
@@ -23,9 +23,9 @@
       "topic": "mit-nk-cells-in-body",
       "event_date": "2026-10-13",
       "source_brief": "briefs/mit-nk-cells-in-body.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Requested existing ChatGPT Work interface requires sign-in; no anonymous/alternate account submission."
+      "article_path": "articles/mit-nk-cells-in-body/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。MIT13日报道为小鼠实验，非患者结果。八成指靶NK细胞重编程，五只中三只为小规模黑色素瘤鼠组，非人体治愈率。人源化鼠仍是鼠；人体安全、效果、持久性、价格与可及性未定。MIT称报道日无FDA批准CAR NK疗法；Nature Biotechnology全文未取得。"
     },
     {
       "provider": "claude",
@@ -144,9 +144,9 @@
       "topic": "norris-ln4-36-car-grid",
       "event_date": "2026-10-14",
       "source_brief": "briefs/norris-ln4-36-car-grid.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Requested existing ChatGPT Work interface requires sign-in; no anonymous/alternate account submission."
+      "article_path": "articles/norris-ln4-36-car-grid/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. FIA’s October14 announcement selects2027 junior Formula Regional teams, not a newF1 franchise.12×3=36 planned cars, six more; Norris is co-founder, not established sole owner. Shared cars/tyres do not prove equal budgets or access. Fees, scholarships, driver lineup, investment and2027 outcomes are undisclosed here, not necessarily absent everywhere. Hungary support round remains subject to contract. The six extra grid places belong to the two-team championship expansion, not LN4 Fusion alone; each team has three. Attention, sponsorship and access effects remain interpretation."
     },
     {
       "provider": "chatgpt",
@@ -155,9 +155,9 @@
       "topic": "norris-ln4-36-car-grid",
       "event_date": "2026-10-14",
       "source_brief": "briefs/norris-ln4-36-car-grid.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Requested existing ChatGPT Work interface requires sign-in; no anonymous/alternate account submission."
+      "article_path": "articles/norris-ln4-36-car-grid/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。FIA14日公布2027青年区域方程式入选队伍，非新F1车队。十二队各三车共36辆、增六辆；诺里斯为联合创办人，非已证独资。统一车胎不证明预算或准入平等。费用、奖学金、车手、投资及2027结果在此未披露，非各处均不存在。匈牙利伴赛仍待合同。 标题六席指两支新增队伍带来的全赛事扩容，并非LN4 Fusion独得六席；每队三车。关注、赞助与准入影响为分析。"
     },
     {
       "provider": "claude",

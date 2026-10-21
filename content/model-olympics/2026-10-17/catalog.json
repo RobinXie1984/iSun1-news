@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-17T07:07:38.960838+00:00",
+  "generated_at": "2026-10-21T15:28:13.790392+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 8,
-  "unavailable_count": 16,
+  "available_count": 16,
+  "unavailable_count": 8,
   "articles": [
     {
       "provider": "chatgpt",
@@ -12,9 +12,9 @@
       "topic": "mit-weather-two-six-weeks",
       "event_date": "2026-10-14",
       "source_brief": "briefs/mit-weather-two-six-weeks.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Requested existing ChatGPT Work account requires sign-in. No anonymous or alternate-account submission."
+      "article_path": "articles/mit-weather-two-six-weeks/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. MIT’s October14 institutional account reports a hybrid postprocessing method improving two-to-six-week probabilistic forecasts. Doubled predictive power is not universal accuracy or twice climatology; metric definitions/full Nature paper were not retrieved. Kenya contact is interest, not deployment. Open-source/low-cost claims retain attribution; no measured local skill, crop gains, lives saved or avoided losses established. ‘Nobody has demonstrated’ is a broad rhetorical assertion; this brief establishes only that the reported method does not promise exact local daily weather. No operational benefit is inferred from the illustrative preparation scenarios."
     },
     {
       "provider": "chatgpt",
@@ -23,9 +23,9 @@
       "topic": "mit-weather-two-six-weeks",
       "event_date": "2026-10-14",
       "source_brief": "briefs/mit-weather-two-six-weeks.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Requested existing ChatGPT Work account requires sign-in. No anonymous or alternate-account submission."
+      "article_path": "articles/mit-weather-two-six-weeks/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。MIT14日机构报道为混合后处理改善两至六周概率预报。预测力翻倍非普遍准确率或两倍气候均值；指标定义及Nature全文未取得。肯尼亚接洽非部署。开源低成本保留归因；本地能力、增产、救命或避免损失均未证。 ‘无人证明过’为宽泛修辞；简报仅支持本方法不承诺精准本地逐日天气。筹备情境为举例，非已证业务效益。"
     },
     {
       "provider": "claude",
@@ -78,9 +78,9 @@
       "topic": "mit-weather-two-six-weeks",
       "event_date": "2026-10-14",
       "source_brief": "briefs/mit-weather-two-six-weeks.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Human-verification overlay cleared, but account remains signed out; anonymous Fast is not requested Expert. No prompt submitted."
+      "article_path": "articles/mit-weather-two-six-weeks/grok/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. MIT’s October14 institutional account reports a hybrid postprocessing method improving two-to-six-week probabilistic forecasts. Doubled predictive power is not universal accuracy or twice climatology; metric definitions/full Nature paper were not retrieved. Kenya contact is interest, not deployment. Open-source/low-cost claims retain attribution; no measured local skill, crop gains, lives saved or avoided losses established. ‘Hardest window’, ‘strongest gains’, specific soil/sea-ice/convection bias mechanisms and examples involving blocking/MJO are not established by the supplied summary. Model-agnostic does not mean equal gains everywhere; inferred reliability is not verified operational calibration."
     },
     {
       "provider": "grok",
@@ -89,9 +89,9 @@
       "topic": "mit-weather-two-six-weeks",
       "event_date": "2026-10-14",
       "source_brief": "briefs/mit-weather-two-six-weeks.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Human-verification overlay cleared, but account remains signed out; anonymous Fast is not requested Expert. No prompt submitted."
+      "article_path": "articles/mit-weather-two-six-weeks/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。MIT14日机构报道为混合后处理改善两至六周概率预报。预测力翻倍非普遍准确率或两倍气候均值；指标定义及Nature全文未取得。肯尼亚接洽非部署。开源低成本保留归因；本地能力、增产、救命或避免损失均未证。 重大时间单位错误：标题及开头“二旬至六旬”为20至60天，研究为两至六周（14至42天），不可互换；原稿保留，未经修正不入选。“增益最强”及具体偏差机制未由摘要确立。"
     },
     {
       "provider": "deepseek",
@@ -144,9 +144,9 @@
       "topic": "microsoft-nisource-20-year-power",
       "event_date": "2026-10-16",
       "source_brief": "briefs/microsoft-nisource-20-year-power.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Requested existing ChatGPT Work account requires sign-in. No anonymous or alternate-account submission."
+      "article_path": "articles/microsoft-nisource-20-year-power/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. NiSource’s October16 announcement is not a rate audit. Service expected2028 for20years;1,100MW is planned pooled capacity, not delivered energy. Projected$1.75billion savings spans the contract portfolio/lifetimes; not annual or Microsoft-only. “As much as$140” is an upper projection.600MW batteries serve multiple customers; duration/MWh, fuel mix, price, emissions and actual household savings remain unknown here."
     },
     {
       "provider": "chatgpt",
@@ -155,9 +155,9 @@
       "topic": "microsoft-nisource-20-year-power",
       "event_date": "2026-10-16",
       "source_brief": "briefs/microsoft-nisource-20-year-power.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Requested existing ChatGPT Work account requires sign-in. No anonymous or alternate-account submission."
+      "article_path": "articles/microsoft-nisource-20-year-power/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。NiSource16日公告非电价审计。预计2028开始、为期20年；1100MW为计划组合容量，非已供电量。17.5亿美元是合同组合全周期节省预测，非每年或微软单独贡献；每年“可达140美元”为上限预测。600MW电池服务多客户；时长、电量、燃料、价格、排放及实际家庭节省在此未知。"
     },
     {
       "provider": "claude",
@@ -210,9 +210,9 @@
       "topic": "microsoft-nisource-20-year-power",
       "event_date": "2026-10-16",
       "source_brief": "briefs/microsoft-nisource-20-year-power.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Human-verification overlay cleared, but account remains signed out; anonymous Fast is not requested Expert. No prompt submitted."
+      "article_path": "articles/microsoft-nisource-20-year-power/grok/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. NiSource’s October16 announcement is not a rate audit. Service expected2028 for20years;1,100MW is planned pooled capacity, not delivered energy. Projected$1.75billion savings spans the contract portfolio/lifetimes; not annual or Microsoft-only. “As much as$140” is an upper projection.600MW batteries serve multiple customers; duration/MWh, fuel mix, price, emissions and actual household savings remain unknown here. ‘No savings in any mailbox’, allocation across hundreds of thousands/twenty-plus years and promised disclosure of specific battery details exceed the announcement. Generic grid-cost discussion is analysis, not observed project outcome. Current service outside this future arrangement is not established."
     },
     {
       "provider": "grok",
@@ -221,9 +221,9 @@
       "topic": "microsoft-nisource-20-year-power",
       "event_date": "2026-10-16",
       "source_brief": "briefs/microsoft-nisource-20-year-power.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Human-verification overlay cleared, but account remains signed out; anonymous Fast is not requested Expert. No prompt submitted."
+      "article_path": "articles/microsoft-nisource-20-year-power/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。NiSource16日公告非电价审计。预计2028开始、为期20年；1100MW为计划组合容量，非已供电量。17.5亿美元是合同组合全周期节省预测，非每年或微软单独贡献；每年“可达140美元”为上限预测。600MW电池服务多客户；时长、电量、燃料、价格、排放及实际家庭节省在此未知。 ‘尚无任何账单受惠’、摊至几十万户／二十余年及承诺披露特定电池数据均超出公告。通用电网成本讨论为分析，非本项目实测结果；其他现行供电未获核实。 另有单位错误：“持续时长（以兆瓦时计）”不对；时长用小时，MWh为储能量。"
     },
     {
       "provider": "deepseek",

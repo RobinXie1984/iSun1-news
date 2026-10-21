@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T07:16:34.736348+00:00",
+  "generated_at": "2026-10-21T15:28:13.739358+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 8,
-  "unavailable_count": 16,
+  "available_count": 16,
+  "unavailable_count": 8,
   "articles": [
     {
       "provider": "chatgpt",
@@ -12,9 +12,9 @@
       "topic": "perseverance-4522km-autonav",
       "event_date": "2026-10-11",
       "source_brief": "briefs/perseverance-4522km-autonav.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "The requested signed-in ChatGPT Work session is unavailable. The accessible existing account shows Free and Work requires an upgrade; no substitute submission or upgrade was made."
+      "article_path": "articles/perseverance-4522km-autonav/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. NASA’s October12 report, updated13, describes the October11 total-distance record.45.22−45.16km is60m; elapsed mission years do not establish top speed. Over90% refers to driving distance using AutoNav; humans choose waypoints.412m/sol is a maximum, not average. Idubi is a search for ancient hydrothermal traces, not confirmed life; future longevity/results remain unknown."
     },
     {
       "provider": "chatgpt",
@@ -23,9 +23,9 @@
       "topic": "perseverance-4522km-autonav",
       "event_date": "2026-10-11",
       "source_brief": "briefs/perseverance-4522km-autonav.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "The requested signed-in ChatGPT Work session is unavailable. The accessible existing account shows Free and Work requires an upgrade; no substitute submission or upgrade was made."
+      "article_path": "articles/perseverance-4522km-autonav/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。NASA12日发布、13日更新，事件为11日累计里程纪录。45.22减45.16公里为60米；历时不证明极速。逾九成指AutoNav参与的里程，航点仍由人定；412米为单日最高，非平均。Idubi探寻古热液痕迹，非发现生命；未来寿命与结果未知。"
     },
     {
       "provider": "claude",
@@ -78,9 +78,9 @@
       "topic": "perseverance-4522km-autonav",
       "event_date": "2026-10-11",
       "source_brief": "briefs/perseverance-4522km-autonav.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Automatic security verification did not complete during bounded checks. No story prompt was submitted; generation remains UNKNOWN."
+      "article_path": "articles/perseverance-4522km-autonav/grok/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. NASA’s October12 report, updated13, describes the October11 total-distance record.45.22−45.16km is60m; elapsed mission years do not establish top speed. Over90% refers to driving distance using AutoNav; humans choose waypoints.412m/sol is a maximum, not average. Idubi is a search for ancient hydrothermal traces, not confirmed life; future longevity/results remain unknown. MATERIAL ERROR: twice calls the difference half a kilometre; it is0.06km/60m. Original preserved, excluded from selection unchanged. ‘Did not drive faster’ is also unproved: no top-speed comparison supplied. Claims about time spent moving, risk, stop/request behavior and specific wear history exceed the brief."
     },
     {
       "provider": "grok",
@@ -89,9 +89,9 @@
       "topic": "perseverance-4522km-autonav",
       "event_date": "2026-10-11",
       "source_brief": "briefs/perseverance-4522km-autonav.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Automatic security verification did not complete during bounded checks. No story prompt was submitted; generation remains UNKNOWN."
+      "article_path": "articles/perseverance-4522km-autonav/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。NASA12日发布、13日更新，事件为11日累计里程纪录。45.22减45.16公里为60米；历时不证明极速。逾九成指AutoNav参与的里程，航点仍由人定；412米为单日最高，非平均。Idubi探寻古热液痕迹，非发现生命；未来寿命与结果未知。 重大数值错误：中文把机遇号／勇气号约5%写成“五成”（50%），应为百分之五／半成；英文两次把60米写成半公里。原稿保留，未经修正均不入选。极速比较、行驶时间占比及具体故障史未证。"
     },
     {
       "provider": "deepseek",
@@ -144,9 +144,9 @@
       "topic": "microsoft-billion-scams-suppliers",
       "event_date": "2026-10-14",
       "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "The requested signed-in ChatGPT Work session is unavailable. The accessible existing account shows Free and Work requires an upgrade; no substitute submission or upgrade was made."
+      "article_path": "articles/microsoft-billion-scams-suppliers/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. Microsoft’s October14 figures are company claims, not independent forensics.1billion messages is not victims;75,000 targeted organizations is not confirmed compromises. Blocking100,000 domains differs from seizure. Brand impersonation and Chinese-language markets do not establish a breached brand, nationality or state backing. Arrests, refunds, eradication and lasting measured impact are unknown here."
     },
     {
       "provider": "chatgpt",
@@ -155,9 +155,9 @@
       "topic": "microsoft-billion-scams-suppliers",
       "event_date": "2026-10-14",
       "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "The requested signed-in ChatGPT Work session is unavailable. The accessible existing account shows Free and Work requires an upgrade; no substitute submission or upgrade was made."
+      "article_path": "articles/microsoft-billion-scams-suppliers/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。微软14日数字为公司自述，非独立取证。十亿消息非受害人数，7.5万被瞄准机构非已攻破；封锁十万域名非查封十万。品牌仿冒与中文市场不证明品牌被侵入、国籍或国家背景。拘捕、退款、根除及持久成效在此未知。"
     },
     {
       "provider": "claude",
@@ -210,9 +210,9 @@
       "topic": "microsoft-billion-scams-suppliers",
       "event_date": "2026-10-14",
       "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Automatic security verification did not complete during bounded checks. No story prompt was submitted; generation remains UNKNOWN."
+      "article_path": "articles/microsoft-billion-scams-suppliers/grok/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. Microsoft’s October14 figures are company claims, not independent forensics.1billion messages is not victims;75,000 targeted organizations is not confirmed compromises. Blocking100,000 domains differs from seizure. Brand impersonation and Chinese-language markets do not establish a breached brand, nationality or state backing. Arrests, refunds, eradication and lasting measured impact are unknown here. Some editorial cautions are wrongly attributed as Microsoft’s explicit statements. Suppliers ‘removed’, measured traffic reduction, raised costs, near-zero marginal cost and court-scope/legal sufficiency claims are not established. General defensive advice is commentary; unknown impact must not become demonstrated benefit."
     },
     {
       "provider": "grok",
@@ -221,9 +221,9 @@
       "topic": "microsoft-billion-scams-suppliers",
       "event_date": "2026-10-14",
       "source_brief": "briefs/microsoft-billion-scams-suppliers.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Automatic security verification did not complete during bounded checks. No story prompt was submitted; generation remains UNKNOWN."
+      "article_path": "articles/microsoft-billion-scams-suppliers/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。微软14日数字为公司自述，非独立取证。十亿消息非受害人数，7.5万被瞄准机构非已攻破；封锁十万域名非查封十万。品牌仿冒与中文市场不证明品牌被侵入、国籍或国家背景。拘捕、退款、根除及持久成效在此未知。 部分编辑核验提醒被误写成微软明确表述。供应商已消失、流量实降、成本已升、边际成本近零及法院范围／证明标准均未确立。通用防护建议为评论，未知效果不得写成已证效益。"
     },
     {
       "provider": "deepseek",

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T07:12:17.886444+00:00",
+  "generated_at": "2026-10-21T15:28:13.765568+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 8,
-  "unavailable_count": 16,
+  "available_count": 16,
+  "unavailable_count": 8,
   "articles": [
     {
       "provider": "chatgpt",
@@ -12,9 +12,9 @@
       "topic": "greenland-lake-b-hidden-reservoir",
       "event_date": "2026-10-15",
       "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "The requested existing ChatGPT Work session requires sign-in. No substitute account/model, upgrade or new prompt was used."
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. ESA’s October15 account interprets2018–2024 satellite observations, not a direct image through ice.0.37±0.11billion m³ and63±23% are estimates for this catchment, not Greenland overall.600m is below sea level, not ice thickness. Storage delays release2–3months; it does not permanently stop sea-level rise. Romer Sø connection is suggested, not exclusive proof. Full paper was not retrieved. ESA discusses low2022surface melt as a possible input threshold; the compact brief omitted it. The draft correctly limits its unknown-cause statement to supplied evidence. Broader implications are interpretation, not measured ecosystem benefit."
     },
     {
       "provider": "chatgpt",
@@ -23,9 +23,9 @@
       "topic": "greenland-lake-b-hidden-reservoir",
       "event_date": "2026-10-15",
       "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "The requested existing ChatGPT Work session requires sign-in. No substitute account/model, upgrade or new prompt was used."
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。ESA15日报道解读2018至2024卫星观测，非透冰直摄。0.37±0.11十亿立方米与63±23%为该集水区估算，非全格陵兰。600米指海平面以下，非冰厚。蓄水延迟2至3个月，非永久阻止海平面上升；Romer Sø联系属推测，非唯一因果证明。论文全文未取得。 ESA提及2022低融化及可能入水阈值，简报未收入；稿中成因未知限于所供材料。宏观意义属解读，非实测生态效益。"
     },
     {
       "provider": "claude",
@@ -78,9 +78,9 @@
       "topic": "greenland-lake-b-hidden-reservoir",
       "event_date": "2026-10-15",
       "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Automatic verification has cleared, but the current page is signed out with Fast mode only. The authorized Expert account is unavailable; no substitute submission was made."
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/grok/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. ESA’s October15 account interprets2018–2024 satellite observations, not a direct image through ice.0.37±0.11billion m³ and63±23% are estimates for this catchment, not Greenland overall.600m is below sea level, not ice thickness. Storage delays release2–3months; it does not permanently stop sea-level rise. Romer Sø connection is suggested, not exclusive proof. Full paper was not retrieved. ‘No field party drilled’ and broad absence-of-measurement claims are not established. ESA does discuss low2022melt as a possible threshold; the compact brief omitted it, so ‘ESA does not explain’ overstates. Release timing and ecological consequences remain uncertain; background hydrology is analysis."
     },
     {
       "provider": "grok",
@@ -89,9 +89,9 @@
       "topic": "greenland-lake-b-hidden-reservoir",
       "event_date": "2026-10-15",
       "source_brief": "briefs/greenland-lake-b-hidden-reservoir.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Automatic verification has cleared, but the current page is signed out with Fast mode only. The authorized Expert account is unavailable; no substitute submission was made."
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。ESA15日报道解读2018至2024卫星观测，非透冰直摄。0.37±0.11十亿立方米与63±23%为该集水区估算，非全格陵兰。600米指海平面以下，非冰厚。蓄水延迟2至3个月，非永久阻止海平面上升；Romer Sø联系属推测，非唯一因果证明。论文全文未取得。 重大数量级错误：原稿“0.37±0.11亿立方米”少十倍，应为3.7±1.1亿立方米（0.37±0.11十亿）；原稿留存，未经修正不入选。“无钻探取样”未证。ESA提及2022低融化，简报省略不等于ESA完全未解释。"
     },
     {
       "provider": "deepseek",
@@ -144,9 +144,9 @@
       "topic": "tsmc-4672-billion-two-nanometres",
       "event_date": "2026-10-15",
       "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "The requested existing ChatGPT Work session requires sign-in. No substitute account/model, upgrade or new prompt was used."
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. TSMC’s October15 company disclosures concern Q3 endedSeptember30, not an independent audit. US$46.72billion revenue grew41.2%; NT$1,494.24billion grew50.9%. Net incomeNT$763.06billion; net margin51.1%. Node shares are wafer revenue, not chip counts. Q4US$52.3–54.3billion is conditional guidance, not earned revenue. AI-only revenue, customer allocations, share-price response and guaranteed investment returns are not established."
     },
     {
       "provider": "chatgpt",
@@ -155,9 +155,9 @@
       "topic": "tsmc-4672-billion-two-nanometres",
       "event_date": "2026-10-15",
       "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "The requested existing ChatGPT Work session requires sign-in. No substitute account/model, upgrade or new prompt was used."
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。台积电15日披露截至9月30日的第三季，非独立审计。美元营收467.2亿增41.2%；台币14942.4亿增50.9%。净利7630.6亿台币，净利率51.1%。制程占比为晶圆营收，非芯片数量。第四季523至543亿美元为条件性指引，非已实现；AI独占营收、客户分配、股价反应及保证回报未证。"
     },
     {
       "provider": "claude",
@@ -210,9 +210,9 @@
       "topic": "tsmc-4672-billion-two-nanometres",
       "event_date": "2026-10-15",
       "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Automatic verification has cleared, but the current page is signed out with Fast mode only. The authorized Expert account is unavailable; no substitute submission was made."
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/grok/english.md",
+      "status": "available",
+      "availability_note": "Recovered October21 from the original dated brief. TSMC’s October15 company disclosures concern Q3 endedSeptember30, not an independent audit. US$46.72billion revenue grew41.2%; NT$1,494.24billion grew50.9%. Net incomeNT$763.06billion; net margin51.1%. Node shares are wafer revenue, not chip counts. Q4US$52.3–54.3billion is conditional guidance, not earned revenue. AI-only revenue, customer allocations, share-price response and guaranteed investment returns are not established. High utilization/full tools, marginal-cost economics and allocation of profit to particular nodes are interpretations, not separately disclosed measurements. No verified global manufacturing superlative or future demand guarantee follows from this brief."
     },
     {
       "provider": "grok",
@@ -221,9 +221,9 @@
       "topic": "tsmc-4672-billion-two-nanometres",
       "event_date": "2026-10-15",
       "source_brief": "briefs/tsmc-4672-billion-two-nanometres.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Automatic verification has cleared, but the current page is signed out with Fast mode only. The authorized Expert account is unavailable; no substitute submission was made."
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日按原日期简报补收。台积电15日披露截至9月30日的第三季，非独立审计。美元营收467.2亿增41.2%；台币14942.4亿增50.9%。净利7630.6亿台币，净利率51.1%。制程占比为晶圆营收，非芯片数量。第四季523至543亿美元为条件性指引，非已实现；AI独占营收、客户分配、股价反应及保证回报未证。 高利用率、设备满负荷、边际成本及各制程利润归属为解读，非另获披露的实测值。简报不证明全球制造最高评价或未来需求保证。"
     },
     {
       "provider": "deepseek",

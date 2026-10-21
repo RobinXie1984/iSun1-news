@@ -3598,6 +3598,216 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/grok/english.md",
+      "captured_at": "2026-10-21T15:17:46.525Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/griffin-153-decibels-moon/grok/chinese.md",
+      "captured_at": "2026-10-21T15:21:34.107Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/perseverance-4522km-autonav/chatgpt/english.md",
+      "captured_at": "2026-10-21T15:18:23.257Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/perseverance-4522km-autonav/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:21:33.826Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/perseverance-4522km-autonav/grok/english.md",
+      "captured_at": "2026-10-21T15:18:45.807Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/perseverance-4522km-autonav/grok/chinese.md",
+      "captured_at": "2026-10-21T15:21:34.311Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-billion-scams-suppliers/chatgpt/english.md",
+      "captured_at": "2026-10-21T15:22:04.744Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-billion-scams-suppliers/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:25:06.619Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-billion-scams-suppliers/grok/english.md",
+      "captured_at": "2026-10-21T15:20:55.852Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-billion-scams-suppliers/grok/chinese.md",
+      "captured_at": "2026-10-21T15:22:32.955Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/chatgpt/english.md",
+      "captured_at": "2026-10-21T15:22:06.387Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:25:07.084Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/grok/english.md",
+      "captured_at": "2026-10-21T15:20:57.027Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/greenland-lake-b-hidden-reservoir/grok/chinese.md",
+      "captured_at": "2026-10-21T15:22:33.500Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/chatgpt/english.md",
+      "captured_at": "2026-10-21T15:22:08.025Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:25:07.593Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/grok/english.md",
+      "captured_at": "2026-10-21T15:21:24.433Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tsmc-4672-billion-two-nanometres/grok/chinese.md",
+      "captured_at": "2026-10-21T15:22:33.959Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-weather-two-six-weeks/chatgpt/english.md",
+      "captured_at": "2026-10-21T15:22:53.625Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-weather-two-six-weeks/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:25:58.381Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-weather-two-six-weeks/grok/english.md",
+      "captured_at": "2026-10-21T15:22:23.747Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-weather-two-six-weeks/grok/chinese.md",
+      "captured_at": "2026-10-21T15:23:50.434Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-nisource-20-year-power/chatgpt/english.md",
+      "captured_at": "2026-10-21T15:23:47.350Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-nisource-20-year-power/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:25:58.788Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-nisource-20-year-power/grok/english.md",
+      "captured_at": "2026-10-21T15:22:25.491Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/microsoft-nisource-20-year-power/grok/chinese.md",
+      "captured_at": "2026-10-21T15:23:50.760Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-nk-cells-in-body/chatgpt/english.md",
+      "captured_at": "2026-10-21T15:25:03.772Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-nk-cells-in-body/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:27:52.145Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/norris-ln4-36-car-grid/chatgpt/english.md",
+      "captured_at": "2026-10-21T15:25:05.159Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/norris-ln4-36-car-grid/chatgpt/chinese.md",
+      "captured_at": "2026-10-21T15:27:52.593Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }
