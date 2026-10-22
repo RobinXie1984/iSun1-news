@@ -3808,6 +3808,118 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/blue-energy-1500-ton-shipyard/chatgpt/english.md",
+      "captured_at": "2026-10-22T07:13:21.701Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/blue-energy-1500-ton-shipyard/chatgpt/chinese.md",
+      "captured_at": "2026-10-22T07:17:10.630Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/blue-energy-1500-ton-shipyard/claude/english.md",
+      "captured_at": "2026-10-22T07:11:54.073Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/blue-energy-1500-ton-shipyard/claude/chinese.md",
+      "captured_at": "2026-10-22T07:13:21.885Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/blue-energy-1500-ton-shipyard/gemini/english.md",
+      "captured_at": "2026-10-22T07:11:54.101Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/blue-energy-1500-ton-shipyard/gemini/chinese.md",
+      "captured_at": "2026-10-22T07:13:21.909Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/blue-energy-1500-ton-shipyard/grok/english.md",
+      "captured_at": "2026-10-22T07:11:54.052Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/blue-energy-1500-ton-shipyard/grok/chinese.md",
+      "captured_at": "2026-10-22T07:12:43.159Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/chatgpt/english.md",
+      "captured_at": "2026-10-22T07:15:45.320Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/chatgpt/chinese.md",
+      "captured_at": "2026-10-22T07:18:21.764Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/claude/english.md",
+      "captured_at": "2026-10-22T07:13:21.979Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/claude/chinese.md",
+      "captured_at": "2026-10-22T07:14:48.532Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/gemini/english.md",
+      "captured_at": "2026-10-22T07:14:48.555Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/gemini/chinese.md",
+      "captured_at": "2026-10-22T07:17:10.654Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/grok/english.md",
+      "captured_at": "2026-10-22T07:13:21.951Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/grok/chinese.md",
+      "captured_at": "2026-10-22T07:14:48.512Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

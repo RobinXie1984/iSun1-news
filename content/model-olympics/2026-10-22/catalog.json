@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-22T07:18:30.646373+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 16,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/blue-energy-1500-ton-shipyard.md",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "MIT’s October22 institutional report attributes the approach/design approvals to NRC; the docket was not independently inspected here. Design/approach approval and September application filing do not establish full site construction or operating permission; undisclosed does not mean nonexistent. Schedule/revenue/$5,000-per-kW later-project cost are targets, not outcomes or electricity prices. The planned Victoria hybrid starts with1GWgas in2030, then up to1.5GWnuclear from2032; neither full2032conversion nor lifecycle zero-carbon is established. Benefits remain expectations."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/blue-energy-1500-ton-shipyard.md",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月22日MIT机构报道将路径／设计批准归于NRC；本次未独立核阅卷宗。设计／路径批准及九月申请递交，不确立全址建造或运行许可；未披露不等于不存在。组装／建造／营收及后续每千瓦5000美元成本均为公司目标，非交付成果或电价。拟议Victoria混合项目先于2030年以1吉瓦燃气发电，再自2032年引入最多1.5吉瓦核电；非全面转核或全周期零碳保证。诸益仍为预期。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/blue-energy-1500-ton-shipyard.md",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/claude/english.md",
+      "status": "available",
+      "availability_note": "MIT’s October22 institutional report attributes the approach/design approvals to NRC; the docket was not independently inspected here. Design/approach approval and September application filing do not establish full site construction or operating permission; undisclosed does not mean nonexistent. Schedule/revenue/$5,000-per-kW later-project cost are targets, not outcomes or electricity prices. The planned Victoria hybrid starts with1GWgas in2030, then up to1.5GWnuclear from2032; neither full2032conversion nor lifecycle zero-carbon is established. Benefits remain expectations. Nuclear failure being only a building-site problem is broad rhetoric, not a demonstrated universal cause. Yard environment, transport limits, gas-phase infrastructure reuse and financing arguments are analysis; no reduced financing cost or completed plant is proven."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/blue-energy-1500-ton-shipyard.md",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/claude/chinese.md",
+      "status": "available",
+      "availability_note": "10月22日MIT机构报道将路径／设计批准归于NRC；本次未独立核阅卷宗。设计／路径批准及九月申请递交，不确立全址建造或运行许可；未披露不等于不存在。组装／建造／营收及后续每千瓦5000美元成本均为公司目标，非交付成果或电价。拟议Victoria混合项目先于2030年以1吉瓦燃气发电，再自2032年引入最多1.5吉瓦核电；非全面转核或全周期零碳保证。诸益仍为预期。 核电之困只在工地属概括修辞，非普遍因果定论；船厂环境、运输限制、燃气设施复用及融资推论均属分析，非已证节省。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/blue-energy-1500-ton-shipyard.md",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/gemini/english.md",
+      "status": "available",
+      "availability_note": "MIT’s October22 institutional report attributes the approach/design approvals to NRC; the docket was not independently inspected here. Design/approach approval and September application filing do not establish full site construction or operating permission; undisclosed does not mean nonexistent. Schedule/revenue/$5,000-per-kW later-project cost are targets, not outcomes or electricity prices. The planned Victoria hybrid starts with1GWgas in2030, then up to1.5GWnuclear from2032; neither full2032conversion nor lifecycle zero-carbon is established. Benefits remain expectations. Added standards/licensing procedures, fixed geographic limits,7–12year history,50–200%first-build premium,30–40%interest share, overnight-cost classification and gas-infrastructure/repayment claims were not independently verified. Absence from the brief does not prove permits/contracts absent. Chinese三年见利还本 overstates revenue as profit/payback;半数利息 is unsupported. Diagrams are model text, not project evidence."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/blue-energy-1500-ton-shipyard.md",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "10月22日MIT机构报道将路径／设计批准归于NRC；本次未独立核阅卷宗。设计／路径批准及九月申请递交，不确立全址建造或运行许可；未披露不等于不存在。组装／建造／营收及后续每千瓦5000美元成本均为公司目标，非交付成果或电价。拟议Victoria混合项目先于2030年以1吉瓦燃气发电，再自2032年引入最多1.5吉瓦核电；非全面转核或全周期零碳保证。诸益仍为预期。 扩展标准／许可程序、绝对选址限制、7至12年历史、首建贵50至200%、利息30至40%、隔夜成本口径及燃气设施／偿债主张均未独立核实。不可由简报未载断言许可／合同不存在；“三年见利还本”把营收夸为利润回本，“半数利息”无据。图表为模型文字，非项目证据。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/blue-energy-1500-ton-shipyard.md",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/grok/english.md",
+      "status": "available",
+      "availability_note": "MIT’s October22 institutional report attributes the approach/design approvals to NRC; the docket was not independently inspected here. Design/approach approval and September application filing do not establish full site construction or operating permission; undisclosed does not mean nonexistent. Schedule/revenue/$5,000-per-kW later-project cost are targets, not outcomes or electricity prices. The planned Victoria hybrid starts with1GWgas in2030, then up to1.5GWnuclear from2032; neither full2032conversion nor lifecycle zero-carbon is established. Benefits remain expectations. Transport impossibility, already-compressed fabrication, comparative US cost estimates and all future filings/evidence not existing are stronger than the frozen source establishes. Headline contrast does not mean shipyards replace nuclear specialists."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/blue-energy-1500-ton-shipyard.md",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月22日MIT机构报道将路径／设计批准归于NRC；本次未独立核阅卷宗。设计／路径批准及九月申请递交，不确立全址建造或运行许可；未披露不等于不存在。组装／建造／营收及后续每千瓦5000美元成本均为公司目标，非交付成果或电价。拟议Victoria混合项目先于2030年以1吉瓦燃气发电，再自2032年引入最多1.5吉瓦核电；非全面转核或全周期零碳保证。诸益仍为预期。 “重不可陆运”、工期已压缩、美国成本比较及所有后续卷宗／证据尚不存在，超出来源可证范围；标题并不证明船厂工人取代核级专业人员。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/volkswagen-330000-copilot-26000-agents.md",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Microsoft’s October21 vendor announcement reports >330,000 employees equipped, earlier Copilot Chat >300,000monthly active users and >26,000agents active in the past month. Different scopes prevent an adoption-rate division. Equipped is not use or benefit. Agent definitions/tasks/autonomy are unspecified; activity is not human-equivalent labor or vehicle control. Productivity/trust descriptions are company assessments, not quantified outcomes or independent audits. Missing measures are not zero benefit. Fabric expansion is intent; an event programme is not proof of occurrence."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/volkswagen-330000-copilot-26000-agents.md",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "微软10月21日供应商公告称逾33万员工获配工具、早期Copilot Chat月活逾30万、过去一月活跃代理逾2.6万。产品／群体／窗口不同，不能相除为使用率。配备非每日使用、全额付费功能或获益；代理定义／唯一性／任务／自主性未明，活动量非等价人力或控车能力。提效及可信为公司评估，非量化结果或独立审计；缺少测量不等于零效益。Fabric扩展属意向，列入议程不等于活动已发生。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/volkswagen-330000-copilot-26000-agents.md",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/claude/english.md",
+      "status": "available",
+      "availability_note": "Microsoft’s October21 vendor announcement reports >330,000 employees equipped, earlier Copilot Chat >300,000monthly active users and >26,000agents active in the past month. Different scopes prevent an adoption-rate division. Equipped is not use or benefit. Agent definitions/tasks/autonomy are unspecified; activity is not human-equivalent labor or vehicle control. Productivity/trust descriptions are company assessments, not quantified outcomes or independent audits. Missing measures are not zero benefit. Fabric expansion is intent; an event programme is not proof of occurrence. “Nobody has answered” is not established globally; headline emphasis is editorial judgment. A/B/C companies are explicit hypotheticals, not Volkswagen facts. “Most important” data layer and universal agent-as-configuration definition are interpretation, not measured results."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/volkswagen-330000-copilot-26000-agents.md",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/claude/chinese.md",
+      "status": "available",
+      "availability_note": "微软10月21日供应商公告称逾33万员工获配工具、早期Copilot Chat月活逾30万、过去一月活跃代理逾2.6万。产品／群体／窗口不同，不能相除为使用率。配备非每日使用、全额付费功能或获益；代理定义／唯一性／任务／自主性未明，活动量非等价人力或控车能力。提效及可信为公司评估，非量化结果或独立审计；缺少测量不等于零效益。Fabric扩展属意向，列入议程不等于活动已发生。 “一问至今未解”非全球未有人回答；标题轻重属编辑判断。甲乙丙公司明确为假设，非大众事实；数据底座最重要及代理一律为软件配置，属推论而非测量。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/volkswagen-330000-copilot-26000-agents.md",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/gemini/english.md",
+      "status": "available",
+      "availability_note": "Microsoft’s October21 vendor announcement reports >330,000 employees equipped, earlier Copilot Chat >300,000monthly active users and >26,000agents active in the past month. Different scopes prevent an adoption-rate division. Equipped is not use or benefit. Agent definitions/tasks/autonomy are unspecified; activity is not human-equivalent labor or vehicle control. Productivity/trust descriptions are company assessments, not quantified outcomes or independent audits. Missing measures are not zero benefit. Fabric expansion is intent; an event programme is not proof of occurrence. Provider searched the web. “Largest controlled deployment,” deliberately unmeasured, peak MAU, hundreds of millions invested, Ford time figures and a verbatim Vassarotti quotation exceed the frozen brief and were not independently verified here. No evidence of vehicle control is not proof agents never touch machines. Examples and diagrams are explanatory; no global inability to measure AI is established."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/volkswagen-330000-copilot-26000-agents.md",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "微软10月21日供应商公告称逾33万员工获配工具、早期Copilot Chat月活逾30万、过去一月活跃代理逾2.6万。产品／群体／窗口不同，不能相除为使用率。配备非每日使用、全额付费功能或获益；代理定义／唯一性／任务／自主性未明，活动量非等价人力或控车能力。提效及可信为公司评估，非量化结果或独立审计；缺少测量不等于零效益。Fabric扩展属意向，列入议程不等于活动已发生。 模型自行搜索。中文反直觉标题把人数写成三十万；应以正文逾33万配备为准。“言笑晏晏”等非已见现场。“最大受控部署”、刻意不测、月活峰值、数亿美元投入、福特工时及Vassarotti逐字引语均超出冻结简报，本次未独立核实。未证控车不等于代理绝不接触机器；例子及图表为说明，不能推出全球尚无AI成效尺规。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/volkswagen-330000-copilot-26000-agents.md",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/grok/english.md",
+      "status": "available",
+      "availability_note": "Microsoft’s October21 vendor announcement reports >330,000 employees equipped, earlier Copilot Chat >300,000monthly active users and >26,000agents active in the past month. Different scopes prevent an adoption-rate division. Equipped is not use or benefit. Agent definitions/tasks/autonomy are unspecified; activity is not human-equivalent labor or vehicle control. Productivity/trust descriptions are company assessments, not quantified outcomes or independent audits. Missing measures are not zero benefit. Fabric expansion is intent; an event programme is not proof of occurrence. “Half a million hands” is inaccurate rhetoric, not an alternate count for >330,000employees. A fixed once-per30days agent definition and task-instance meaning are not supplied. Inferences about software objects, why data are undisclosed and wider corporate patterns remain interpretation."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/volkswagen-330000-copilot-26000-agents.md",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/grok/chinese.md",
+      "status": "available",
+      "availability_note": "微软10月21日供应商公告称逾33万员工获配工具、早期Copilot Chat月活逾30万、过去一月活跃代理逾2.6万。产品／群体／窗口不同，不能相除为使用率。配备非每日使用、全额付费功能或获益；代理定义／唯一性／任务／自主性未明，活动量非等价人力或控车能力。提效及可信为公司评估，非量化结果或独立审计；缺少测量不等于零效益。Fabric扩展属意向，列入议程不等于活动已发生。 “半百万手”是不准确修辞，非逾33万员工的另一统计数。代理一律为任务实例、30日运行一次即计数，均无此来源定义。软件对象、未公开原因及行业规律属推论。"
+    }
+  ]
+}

@@ -952,6 +952,44 @@
           "sha256": "878769b03782cd0f44b608ea68e0f5de7d7618deaf1ee33bd29b6d83cc1bca84"
         }
       ]
+    },
+    {
+      "topic": "blue-energy-1500-ton-shipyard",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/blue-energy-1500-ton-shipyard-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 301854,
+          "sha256": "372e0ab6e2ea9104e3d2721cec9c3e93b46fb34a32d2f9b9968b350b1c1a0a23"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/blue-energy-1500-ton-shipyard-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 84707,
+          "sha256": "a4188d9cd5d0f2a7632e5e3389069742e4036f104e2b8d17d2e0ea8fdef72c99"
+        }
+      ]
+    },
+    {
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/volkswagen-330000-copilot-26000-agents-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 241843,
+          "sha256": "d047cd2183e5a245a75d795b1eecab3ef963dbfc05cb0b72df9ad19307ad6736"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/volkswagen-330000-copilot-26000-agents-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 76633,
+          "sha256": "03fe0c2e33d4647786d1bdff2da1bdd0b6694ca83264e7fea49d255f50dd0ae8"
+        }
+      ]
     }
   ]
 }

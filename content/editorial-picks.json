@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-21T16:13:19.645Z",
+  "selected_at": "2026-10-22T07:18:37.872062+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1002,6 +1002,46 @@
       "headline": "《明夕弦动，机巧能否助众乐相闻？》",
       "sha256": "aff22291aafe359e12fd9b77861560767feb3b78a3a74daeaefea82ea8275df5",
       "reason": "The compact lyrical question names the actual listening problem. The text retains three movements and human makers; the source note marks imaginative setup and dates明夕toOctober21."
+    },
+    {
+      "topic": "blue-energy-1500-ton-shipyard",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "The 1,500-Ton Bet That Could Change How Nuclear Power Gets Built",
+      "sha256": "859dee58bc2180357e5ee67ba220cfdaef45ab658792b9b7ec20d71039aea3cc",
+      "reason": "Concrete1,500-ton physical scale creates curiosity immediately; the opening names shipyards and keeps gas-first dates, targets and permissions bounded."
+    },
+    {
+      "topic": "blue-energy-1500-ton-shipyard",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/blue-energy-1500-ton-shipyard/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "一块重约1500吨：Blue Energy欲借船厂造核电，离万家灯火尚有几关？",
+      "sha256": "8b079e53a243fff4b072b9c1a9847e54643c9ddf3fb8143f68d30e158074981e",
+      "reason": "The short giant-block question pays off with a readable manufacturing explanation and lyrical closing; precise2030gas/2032nuclear and capital-cost boundaries survive."
+    },
+    {
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/claude/english.md",
+      "headline_index": 1,
+      "headline": "When Your Whole Company Gets an AI Coworker, Who Decides If It’s Actually Helping?",
+      "sha256": "a6d0b1b90f25adc869e44f8a84329df93c4c3394b4737c92eebdf07d4b1d8164",
+      "reason": "A direct human usefulness question invites readers in; door/footstep/destination separates access,use,value without false precision. Hypotheticals and company assessments clearly marked."
+    },
+    {
+      "topic": "volkswagen-330000-copilot-26000-agents",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/volkswagen-330000-copilot-26000-agents/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "《微软称大众逾33万员工获配Copilot：门已大开，实效何时可见？》",
+      "sha256": "89f1f7ca41154c093d15b4e826e513e030e0065bccaaf7769c00ae28f4811838",
+      "reason": "A clear scale-led question keeps supplied access distinct from human value; plain classical phrasing, stable dates and honest measurement limits fit the salon."
     }
   ]
 }

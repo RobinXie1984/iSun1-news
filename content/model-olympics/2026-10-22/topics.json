@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "blue-energy-1500-ton-shipyard",
+      "event_date": "2026-10-22",
+      "title": {
+        "en": "Build a nuclear plant like a ship? The first power would still be gas.",
+        "zh": "像造船一样建核电？最先发出的电仍来自燃气。"
+      },
+      "summary": {
+        "en": "Blue Energy proposes1,500-ton prefabricated blocks and staged gas-to-nuclear construction. A2030gas start and2032reactor additions are plans; lower costs are projections, not operating results.",
+        "zh": "Blue Energy以1500吨预制模块及燃气转核电分期建设破题；2030燃气起步、2032增核均为计划，降本非已运行结果。"
+      }
+    },
+    {
+      "id": "volkswagen-330000-copilot-26000-agents",
+      "event_date": "2026-10-21",
+      "title": {
+        "en": "330,000 people equipped with Copilot. What counts as useful work?",
+        "zh": "33万人配上Copilot，AI的成效该怎么证明？"
+      },
+      "summary": {
+        "en": "Microsoft reports a330,000-plus employee rollout and26,000 active agents at Volkswagen. Access, monthly activity and measured productivity are three different numbers.",
+        "zh": "微软称大众逾33万员工获配Copilot，过去一月逾2.6万agent活跃；获配、月活与实测生产率是三种不同指标。"
+      }
+    }
+  ]
+}
