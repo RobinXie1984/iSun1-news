@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-22T07:18:37.872062+00:00",
+  "selected_at": "2026-10-23T07:14:08.399320+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1042,6 +1042,46 @@
       "headline": "《微软称大众逾33万员工获配Copilot：门已大开，实效何时可见？》",
       "sha256": "89f1f7ca41154c093d15b4e826e513e030e0065bccaaf7769c00ae28f4811838",
       "reason": "A clear scale-led question keeps supplied access distinct from human value; plain classical phrasing, stable dates and honest measurement limits fit the salon."
+    },
+    {
+      "topic": "hubble-arc-counterarc-8-billion",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/hubble-arc-counterarc-8-billion/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Hubble Sees the Same Galaxy Twice—and the Distortion Holds a Hidden Clue",
+      "sha256": "fa77641ca2eaca00a1c2b1f1bca70bb136e79c656f2539aa84ac3a7963d771cc",
+      "reason": "The same galaxy seen twice is immediately visual and intriguing; the opening pays it off in two arcs, then separates mass inference from particle identity and futureRoman work."
+    },
+    {
+      "topic": "hubble-arc-counterarc-8-billion",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/hubble-arc-counterarc-8-billion/claude/chinese.md",
+      "headline_index": 1,
+      "headline": "《天设明镜，隐于星海；旧镜为师，新镜将行》",
+      "sha256": "16ce7fabb0ff856e7755804c1a98e184e74a40f6f1ee8c0de0bf3bfee3ad1c7a",
+      "reason": "The compact old-mirror/new-mirror image gives wonder and continuity; the source section preserves the two distances, one source and prospectivecomplementarity. Successor wording does not implyHubbleretirement."
+    },
+    {
+      "topic": "coding-monitors-43-72-31",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/coding-monitors-43-72-31/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "The AI Watchdog Saw the Actions. Could It Spot the Plan?",
+      "sha256": "5ae613a1e7620a5848768b1a641e2437d6a7aa2dec2bb692846ac5dfbc2b4b56",
+      "reason": "AIwatchdog/action/plan makes the conflict plain without a misleadingbenchmarkpercentage. The early September/informedattacker/approximation qualification survives."
+    },
+    {
+      "topic": "coding-monitors-43-72-31",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/coding-monitors-43-72-31/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "步步皆过审，何以仍失守？AI守门者未识的全盘之局",
+      "sha256": "1a8bd3c0f28aac4098c2489be15e311b96d7b80d1fc0433725f2e75b79cbf464",
+      "reason": "A direct monitor-versus-plan question with readable classicalcadence; sourceconditions keep laboratoryrates distinctfromuserbreachprobabilities."
     }
   ]
 }

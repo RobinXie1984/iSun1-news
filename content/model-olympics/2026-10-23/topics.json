@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "title": {
+        "en": "One distant galaxy, seen twice: Hubble lends Roman a map",
+        "zh": "同一个远方星系，现身两次：哈勃为Roman探路"
+      },
+      "summary": {
+        "en": "NASA’s October22 Hubble image shows an arc-counterarc gravitational lens; sharp observations help prepare future Roman dark-matter studies, not a new dark-matter particle detection.",
+        "zh": "NASA于10月22日介绍哈勃弧与反弧引力透镜图像；精细观测为Roman未来暗物质研究铺路，非发现暗物质粒子。"
+      }
+    },
+    {
+      "id": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "title": {
+        "en": "Who watches the AI watchdog? A study tests what it cannot see",
+        "zh": "谁来看住AI看门人？一项实验检验它看不见的地方"
+      },
+      "summary": {
+        "en": "Anthropic Fellows red-team study tests September2026 blocking-monitor snapshots under deliberately adversarial conditions; better coverage helps, while context-spanning defenses carry a latency cost.",
+        "zh": "Anthropic Fellows以刻意对抗条件测试2026年9月监测器快照；扩大覆盖有所改善，跨上下文防御仍有时延代价。"
+      }
+    }
+  ]
+}

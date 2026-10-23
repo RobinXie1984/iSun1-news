@@ -990,6 +990,44 @@
           "sha256": "03fe0c2e33d4647786d1bdff2da1bdd0b6694ca83264e7fea49d255f50dd0ae8"
         }
       ]
+    },
+    {
+      "topic": "hubble-arc-counterarc-8-billion",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/hubble-arc-counterarc-8-billion-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 213557,
+          "sha256": "7eca2ede20b1acb17ed0e1972a6c010f3e97ef9dcc1fdbc35b94b61b3ae757a2"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/hubble-arc-counterarc-8-billion-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 65937,
+          "sha256": "54e67eb19300bb07f7f51bc18dd1edf591a170497d36c009358c1e35b1bc1552"
+        }
+      ]
+    },
+    {
+      "topic": "coding-monitors-43-72-31",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/coding-monitors-43-72-31-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 228247,
+          "sha256": "0a27b415f44efe69208c6a7acdf740e199086f9d8dcee28ef2bde5d3105f5251"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/coding-monitors-43-72-31-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 78180,
+          "sha256": "159015dc66704edf57100cad6d7edbc9196757e13f4c68a52933c0e557d8eb7b"
+        }
+      ]
     }
   ]
 }

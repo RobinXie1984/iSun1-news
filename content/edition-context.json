@@ -3920,6 +3920,90 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hubble-arc-counterarc-8-billion/chatgpt/english.md",
+      "captured_at": "2026-10-23T07:10:26.137Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hubble-arc-counterarc-8-billion/chatgpt/chinese.md",
+      "captured_at": "2026-10-23T07:13:44.388Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hubble-arc-counterarc-8-billion/claude/english.md",
+      "captured_at": "2026-10-23T07:08:35.979Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hubble-arc-counterarc-8-billion/claude/chinese.md",
+      "captured_at": "2026-10-23T07:10:26.041Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hubble-arc-counterarc-8-billion/grok/english.md",
+      "captured_at": "2026-10-23T07:08:35.600Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hubble-arc-counterarc-8-billion/grok/chinese.md",
+      "captured_at": "2026-10-23T07:10:26.006Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coding-monitors-43-72-31/chatgpt/english.md",
+      "captured_at": "2026-10-23T07:10:26.300Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coding-monitors-43-72-31/chatgpt/chinese.md",
+      "captured_at": "2026-10-23T07:13:44.425Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coding-monitors-43-72-31/claude/english.md",
+      "captured_at": "2026-10-23T07:08:36.543Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coding-monitors-43-72-31/claude/chinese.md",
+      "captured_at": "2026-10-23T07:10:26.105Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coding-monitors-43-72-31/grok/english.md",
+      "captured_at": "2026-10-23T07:08:36.142Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coding-monitors-43-72-31/grok/chinese.md",
+      "captured_at": "2026-10-23T07:10:26.074Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

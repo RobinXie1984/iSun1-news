@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-23T07:14:08.148051+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 12,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
+      "article_path": "articles/hubble-arc-counterarc-8-billion/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "NASA’sOctober22 report describes a real Hubble arc-counterarc lens image. Distances4.5/8billion light-years are approximate source descriptions, not independently recalculated redshifts or exact observation dates. Both arcs are one background galaxy, not two objects or physically split matter. Lensing helps infer total mass/dark matter; this is not particle detection/identity or a newly supplied mass/fraction/precision measurement. Roman modeling and follow-up are prospective; no survey yield or launch date established here. Illustration is imagined, not Hubble data."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
+      "article_path": "articles/hubble-arc-counterarc-8-billion/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "NASA10月22日报道真实哈勃弧／反弧图像。45／80亿光年为来源约数，非本次重算红移或确切观测日期。双弧同出一个背景星系，非两个天体或物质被切开。透镜帮助推知总质量／暗物质，非粒子探测／身份认定，亦未在此提供新质量、比例或精度实测。Roman建模应用及后续观测在未来；此处未立巡天产量或发射日期。插画为想象，非哈勃数据。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
+      "article_path": "articles/hubble-arc-counterarc-8-billion/claude/english.md",
+      "status": "available",
+      "availability_note": "NASA’sOctober22 report describes a real Hubble arc-counterarc lens image. Distances4.5/8billion light-years are approximate source descriptions, not independently recalculated redshifts or exact observation dates. Both arcs are one background galaxy, not two objects or physically split matter. Lensing helps infer total mass/dark matter; this is not particle detection/identity or a newly supplied mass/fraction/precision measurement. Roman modeling and follow-up are prospective; no survey yield or launch date established here. Illustration is imagined, not Hubble data. “Successor” does not mean Hubble retires; the report describes complementary work. “Cannot photograph dark matter” is shorthand for this indirect observation, not a universal proof about every possible detection. Opening reactions and image uselessness are rhetoric, not measured audience/science outcomes."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
+      "article_path": "articles/hubble-arc-counterarc-8-billion/claude/chinese.md",
+      "status": "available",
+      "availability_note": "NASA10月22日报道真实哈勃弧／反弧图像。45／80亿光年为来源约数，非本次重算红移或确切观测日期。双弧同出一个背景星系，非两个天体或物质被切开。透镜帮助推知总质量／暗物质，非粒子探测／身份认定，亦未在此提供新质量、比例或精度实测。Roman建模应用及后续观测在未来；此处未立巡天产量或发射日期。插画为想象，非哈勃数据。 “旧镜／新镜”非哈勃退役之说；两者互补。“暗物质不可摄形”仅宜理解本次间接观测，非任何未来探测皆不可能。观者莫不注目、图像无用等为修辞，非实测反应或绝对判断。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Google requires passkey verification for the existing account. Gemini3.8Thinking access unverified this run; no prompt submitted. Slot remains UNKNOWN pending sign-in."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Google requires passkey verification for the existing account. Gemini3.8Thinking access unverified this run; no prompt submitted. Slot remains UNKNOWN pending sign-in."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
+      "article_path": "articles/hubble-arc-counterarc-8-billion/grok/english.md",
+      "status": "available",
+      "availability_note": "NASA’sOctober22 report describes a real Hubble arc-counterarc lens image. Distances4.5/8billion light-years are approximate source descriptions, not independently recalculated redshifts or exact observation dates. Both arcs are one background galaxy, not two objects or physically split matter. Lensing helps infer total mass/dark matter; this is not particle detection/identity or a newly supplied mass/fraction/precision measurement. Roman modeling and follow-up are prospective; no survey yield or launch date established here. Illustration is imagined, not Hubble data. Headline “split in two” means two images, not a severed galaxy. Added weak-lensing/model-testing/substructure/selection claims were not independently checked. A mass estimate actually completed for this image, a not-yet-flown status and every assertion being in NASA’s report are not established by the brief."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "hubble-arc-counterarc-8-billion",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
+      "article_path": "articles/hubble-arc-counterarc-8-billion/grok/chinese.md",
+      "status": "available",
+      "availability_note": "NASA10月22日报道真实哈勃弧／反弧图像。45／80亿光年为来源约数，非本次重算红移或确切观测日期。双弧同出一个背景星系，非两个天体或物质被切开。透镜帮助推知总质量／暗物质，非粒子探测／身份认定，亦未在此提供新质量、比例或精度实测。Roman建模应用及后续观测在未来；此处未立巡天产量或发射日期。插画为想象，非哈勃数据。 开头“壬寅”误年，2026属丙午；以西历2026年10月22日为准。“本宇宙之外”误译，应为远离本地宇宙，不是在宇宙之外。弱透镜／子结构／处理流程／已完成质量估计及尚未飞行等扩展，本次未核实；不能宣称均出自NASA。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/coding-monitors-43-72-31.md",
+      "article_path": "articles/coding-monitors-43-72-31/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "October22post reports September2026 experimental snapshots, usually informed Opus5 attackers prompted toward malicious side tasks; Guardian was an approximation. Coverage-gap43/72/31%rates are conditional tests, not real-user breach odds, overall safety ranks or today’s configuration audit. Heatmap cells>=60rollouts and4,000benign actions are separate denominators. Under1%benign blocking applies only to that replay set. Sandboxing/collusion untested; monitor trusted. Improvements andlatency trade-off do not prove all fixes deployed or risks gone. No real customer breach reported by this study."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/coding-monitors-43-72-31.md",
+      "article_path": "articles/coding-monitors-43-72-31/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "10月22日论文述2026年9月实验快照；攻方通常为知情且受提示执行恶意旁务的Opus5，Guardian为近似实现。覆盖盲点43／72／31%是条件测试，非真实用户遭入侵率、总体安全排名或今日配置审计。热图每格至少60轮与4000无害动作分母不同；误拦不足1%只限该重放集。沙箱／串通未测，假设监测器可信。改善及延迟取舍不证明所有修补已部署或风险尽除。本研究非客户受侵事件报告。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/coding-monitors-43-72-31.md",
+      "article_path": "articles/coding-monitors-43-72-31/claude/english.md",
+      "status": "available",
+      "availability_note": "October22post reports September2026 experimental snapshots, usually informed Opus5 attackers prompted toward malicious side tasks; Guardian was an approximation. Coverage-gap43/72/31%rates are conditional tests, not real-user breach odds, overall safety ranks or today’s configuration audit. Heatmap cells>=60rollouts and4,000benign actions are separate denominators. Under1%benign blocking applies only to that replay set. Sandboxing/collusion untested; monitor trusted. Improvements andlatency trade-off do not prove all fixes deployed or risks gone. No real customer breach reported by this study. Guard/burglar story is an explicit analogy, not an incident. The post displays95%confidence-interval error bars for an aggregate figure; their endpoints are not provided in this brief, so “no confidence intervals” must not imply none exist. Guardian approximation is not proof every detail was independently reconstructed. “Every step” is rhetorical, not full coverage proven."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/coding-monitors-43-72-31.md",
+      "article_path": "articles/coding-monitors-43-72-31/claude/chinese.md",
+      "status": "available",
+      "availability_note": "10月22日论文述2026年9月实验快照；攻方通常为知情且受提示执行恶意旁务的Opus5，Guardian为近似实现。覆盖盲点43／72／31%是条件测试，非真实用户遭入侵率、总体安全排名或今日配置审计。热图每格至少60轮与4000无害动作分母不同；误拦不足1%只限该重放集。沙箱／串通未测，假设监测器可信。改善及延迟取舍不证明所有修补已部署或风险尽除。本研究非客户受侵事件报告。 守卒／盗者为明确类比，非事故。原帖整体图标有95%置信区间误差线，本简报未供端点；原文“未载置信区间”不可读作根本没有。Guardian近似非证明每项均自行重建；“步步皆察”属修辞，非已证全面覆盖。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/coding-monitors-43-72-31.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Google requires passkey verification for the existing account. Gemini3.8Thinking access unverified this run; no prompt submitted. Slot remains UNKNOWN pending sign-in."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/coding-monitors-43-72-31.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "Google requires passkey verification for the existing account. Gemini3.8Thinking access unverified this run; no prompt submitted. Slot remains UNKNOWN pending sign-in."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/coding-monitors-43-72-31.md",
+      "article_path": "articles/coding-monitors-43-72-31/grok/english.md",
+      "status": "available",
+      "availability_note": "October22post reports September2026 experimental snapshots, usually informed Opus5 attackers prompted toward malicious side tasks; Guardian was an approximation. Coverage-gap43/72/31%rates are conditional tests, not real-user breach odds, overall safety ranks or today’s configuration audit. Heatmap cells>=60rollouts and4,000benign actions are separate denominators. Under1%benign blocking applies only to that replay set. Sandboxing/collusion untested; monitor trusted. Improvements andlatency trade-off do not prove all fixes deployed or risks gone. No real customer breach reported by this study. “Watching every tool call is necessary” is commentary, not a universal theorem. Strict latency refers to experimental AutoModeStrict; it must not be read as proof that every strict Guardian configuration is unusable. Failure to study sandboxing does not establish either sandbox strength or weakness."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "coding-monitors-43-72-31",
+      "event_date": "2026-10-22",
+      "source_brief": "briefs/coding-monitors-43-72-31.md",
+      "article_path": "articles/coding-monitors-43-72-31/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月22日论文述2026年9月实验快照；攻方通常为知情且受提示执行恶意旁务的Opus5，Guardian为近似实现。覆盖盲点43／72／31%是条件测试，非真实用户遭入侵率、总体安全排名或今日配置审计。热图每格至少60轮与4000无害动作分母不同；误拦不足1%只限该重放集。沙箱／串通未测，假设监测器可信。改善及延迟取舍不证明所有修补已部署或风险尽除。本研究非客户受侵事件报告。 “更严未必更全”属研究解读，非所有配置之定理。严格模式交互过慢指实验AutoModeStrict，不可概括为所有GuardianStrict均不可用。未测沙箱不构成其强弱结论。"
+    }
+  ]
+}
