@@ -4023,7 +4023,7 @@
       "article_path": "articles/sony-1mm-5m-endoscope-sensor/claude/english.md",
       "captured_at": "2026-10-24T07:14:29.932Z",
       "prompt_version": "v3-simple-explorer",
-      "input_deviation": "text-only-clarification",
+      "input_deviation": "factual-clarification",
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
     },
     {

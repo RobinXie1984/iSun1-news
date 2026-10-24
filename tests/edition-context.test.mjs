@@ -85,3 +85,20 @@ test('one text-only translation clarification is disclosed separately from histo
  await ui().render({main,data:{...data,context},lang:'zh',hash:'edition/starliner-61-fixes-2028/claude'});
  assert.match(main.innerHTML,/一次纯文字翻译澄清/);assert.doesNotMatch(main.innerHTML,/发生交错/);
 });
+
+
+test('factual correction has its own bilingual context without relabeling historical translation clarifications',async()=>{
+ const data=loadOlympicsArchive(),before=JSON.stringify(data.context),context=structuredClone(data.context);
+ const topic='sony-1mm-5m-endoscope-sensor',path=`articles/${topic}/claude/english.md`;
+ assert.equal(context.editions.find(row=>row.article_path===path).input_deviation,'factual-clarification');
+ assert.doesNotThrow(()=>validateEditionContext(context,data.articles));
+ const main={innerHTML:'',classList:{add(){},remove(){}},addEventListener(){},removeEventListener(){}};
+ await ui().render({main,data:{...data,context},lang:'en',hash:`edition/${topic}/claude`});
+ assert.match(main.innerHTML,/same writer supplied a complete factual correction/);
+ assert.doesNotMatch(main.innerHTML,/generic text-AI refusal|translation clarification/);
+ context.editions.find(row=>row.article_path===`articles/${topic}/claude/chinese.md`).input_deviation='factual-clarification';
+ await ui().render({main,data:{...data,context},lang:'zh',hash:`edition/${topic}/claude`});
+ assert.match(main.innerHTML,/原编辑在同一对话完整返回事实修订版/);
+ assert.doesNotMatch(main.innerHTML,/文字AI的拒绝|纯文字翻译澄清/);
+ assert.equal(JSON.stringify(data.context),before);
+});
