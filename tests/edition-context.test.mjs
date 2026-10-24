@@ -5,6 +5,23 @@ import {readFileSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import {loadOlympicsArchive,validateEditionContext} from '../scripts/olympics-bundle.mjs';
 function ui(){const window={};vm.runInNewContext(readFileSync('public/olympics.js','utf8'),{window,URL,URLSearchParams});return window.iSunOlympics;}
+test('new simple prompt context validates and renders in both languages without changing historical versions',async()=>{
+ const data=loadOlympicsArchive(),context=structuredClone(data.context),originalContext=JSON.stringify(data.context),topic='starliner-61-fixes-2028',provider='claude';
+ const main={innerHTML:'',classList:{add(){},remove(){}},addEventListener(){},removeEventListener(){}};
+ const view=ui();
+ for(const version of ['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer']){
+  for(const language of ['english','chinese'])context.editions.find(row=>row.article_path===`articles/${topic}/${provider}/${language}.md`).prompt_version=version;
+  assert.doesNotThrow(()=>validateEditionContext(context,data.articles));
+  for(const lang of ['en','zh']){
+   await view.render({main,data:{...data,context},lang,hash:`edition/${topic}/${provider}`});
+   assert.ok(main.innerHTML.includes(lang==='en'?`Prompt ${version.slice(0,2)}:`:`提示词 ${version.slice(0,2)}：`));
+   if(version==='v3-simple-explorer')assert.match(main.innerHTML,lang==='en'?/summary or conclusion first/:/摘要或结论先行/);
+  }
+ }
+ context.editions[0].prompt_version='v4-unregistered';
+ assert.throws(()=>validateEditionContext(context,data.articles),/context/);
+ assert.equal(JSON.stringify(data.context),originalContext);
+});
 test('all real archive originals expose three exact headline candidates and retain original bytes',()=>{
  const data=loadOlympicsArchive(),view=ui();
  assert.equal(data.context.editions.length,Object.keys(data.articles).length);

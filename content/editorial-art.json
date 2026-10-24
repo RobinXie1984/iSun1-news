@@ -1028,6 +1028,44 @@
           "sha256": "159015dc66704edf57100cad6d7edbc9196757e13f4c68a52933c0e557d8eb7b"
         }
       ]
+    },
+    {
+      "topic": "sony-1mm-5m-endoscope-sensor",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/sony-1mm-5m-endoscope-sensor-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 207782,
+          "sha256": "8c842a48d27049c1661ad5186fe68c93a883d93d4d45b46d52f74a1268f39c0a"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/sony-1mm-5m-endoscope-sensor-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 67922,
+          "sha256": "6da10b75d2cc0d56cd3c59782e1bdd12fd7d2b4f01fb391dea75d106a0f11a09"
+        }
+      ]
+    },
+    {
+      "topic": "tencent-workbuddy-100-experts",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/tencent-workbuddy-100-experts-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 283561,
+          "sha256": "6bccb275336172406909879093e7c3b6d5fb5ef12d7e1f09abc964e4e3a74e57"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/tencent-workbuddy-100-experts-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 84151,
+          "sha256": "4b17d528becce57fe5594eeb010c775e597878f7dee7d4eb359eeed5f162c08e"
+        }
+      ]
     }
   ]
 }

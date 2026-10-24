@@ -4004,6 +4004,62 @@
       "prompt_version": "v2-no-invented-scenes",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/chatgpt/english.md",
+      "captured_at": "2026-10-24T07:21:21.785Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/chatgpt/chinese.md",
+      "captured_at": "2026-10-24T07:23:25.696Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/claude/english.md",
+      "captured_at": "2026-10-24T07:14:29.932Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": "text-only-clarification",
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/claude/chinese.md",
+      "captured_at": "2026-10-24T07:15:42.422Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tencent-workbuddy-100-experts/chatgpt/english.md",
+      "captured_at": "2026-10-24T07:23:07.983Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tencent-workbuddy-100-experts/chatgpt/chinese.md",
+      "captured_at": "2026-10-24T07:25:27.569Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tencent-workbuddy-100-experts/claude/english.md",
+      "captured_at": "2026-10-24T07:17:39.459Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tencent-workbuddy-100-experts/claude/chinese.md",
+      "captured_at": "2026-10-24T07:19:03.850Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

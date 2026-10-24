@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "sony-1mm-5m-endoscope-sensor",
+      "event_date": "2026-10-22",
+      "title": {
+        "en": "Sony fits digital vision into a 1mm square—but the medical outcome is still ahead",
+        "zh": "Sony把数字视力装进一毫米方块，医疗成效仍待验证"
+      },
+      "summary": {
+        "en": "Sony announces a tiny sensor and long-cable digital transmission; planned samples and manufacturer tests are distinct from approved devices or patient outcomes.",
+        "zh": "Sony公布微型传感器及长线数字传输；计划样品、厂商测试，不等于获批医疗器械或患者成效。"
+      }
+    },
+    {
+      "id": "tencent-workbuddy-100-experts",
+      "event_date": "2026-10-23",
+      "title": {
+        "en": "Tencent pitches 100-plus AI specialists—and leaves the final review to you",
+        "zh": "腾讯推出逾百种AI专家角色，最后一关仍由你来审"
+      },
+      "summary": {
+        "en": "Tencent describes coordinated specialist personas producing one draft; expert labels and shared work are not independent validation or measured productivity.",
+        "zh": "腾讯介绍专家角色协作生成统一草稿；专家标签、共享信息，不等于独立验证或实测生产率。"
+      }
+    }
+  ]
+}

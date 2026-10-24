@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-23T07:14:08.399320+00:00",
+  "selected_at": "2026-10-24T07:26:30.924475+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1082,6 +1082,46 @@
       "headline": "步步皆过审，何以仍失守？AI守门者未识的全盘之局",
       "sha256": "1a8bd3c0f28aac4098c2489be15e311b96d7b80d1fc0433725f2e75b79cbf464",
       "reason": "A direct monitor-versus-plan question with readable classicalcadence; sourceconditions keep laboratoryrates distinctfromuserbreachprobabilities."
+    },
+    {
+      "topic": "sony-1mm-5m-endoscope-sensor",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/claude/english.md",
+      "headline_index": 2,
+      "headline": "Sony's Tiny Endoscope Sensor Matters Less for Its Size Than for Its Cable",
+      "sha256": "c09fc40b0f080a52a25c3959a49e6aed8fac0737f30e609874305dee0df9f150",
+      "reason": "Provisional among the two available writers: the cable-over-size contrast gives one concrete engineering surprise; corrected opening keeps manufacturer testing, future samples and HK medical limitation visible. First draft retained; no four-writer winner claim."
+    },
+    {
+      "topic": "sony-1mm-5m-endoscope-sensor",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "索尼一毫米传感器，可沿五米线缆传送数字影像：距离真正用于患者，还差什么？",
+      "sha256": "472a8acaef16cc3e3abce6026e934b53df042c74095c31f61e3df11b7fb718c7",
+      "reason": "Provisional: one millimetre/five metres/patients gives an immediate concrete question; natural Chinese summary pays it off and places manufacturer-test and Hong Kong limitations near the opening. Selected independently from the English."
+    },
+    {
+      "topic": "tencent-workbuddy-100-experts",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/tencent-workbuddy-100-experts/claude/english.md",
+      "headline_index": 2,
+      "headline": "More Than 100 AI \"Experts\" and the Most Important Role Is Still Yours",
+      "sha256": "402977a482f3fc341442f2d9ecbb4ba6191d4136143001658cdedea76f253488",
+      "reason": "Provisional: more than100 quoted Experts versus one human makes the premise instantly understandable. The conclusion separates role organisation from validated expertise and keeps Tencent attribution; no measured productivity claim."
+    },
+    {
+      "topic": "tencent-workbuddy-100-experts",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/tencent-workbuddy-100-experts/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "你的AI同事带来了上百位“专家”，最后谁来核对答案？",
+      "sha256": "67863fe28d6c391b28b1eea8fe88ac77ef790361b9352670aeb4901a18eeb1a8",
+      "reason": "Provisional: the short hundred-experts/last-reviewer question creates a clear tension; the natural Chinese opening immediately distinguishes roles and vendor claims from evidence. Selected for clarity and rhythm, independently of the English; missing voices remain visible."
     }
   ]
 }

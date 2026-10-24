@@ -98,7 +98,7 @@ export function validateEditionContext(value, articles){
  if(!exactFields(value,['schema_version','editions'])||value.schema_version!==1||!Array.isArray(value.editions))throw Error('Invalid edition context');
  const seen=new Set();
  for(const row of value.editions){
-  if(!exactFields(row,['article_path','captured_at','prompt_version','input_deviation','fact_check_status'])||!Object.hasOwn(articles,row.article_path)||seen.has(row.article_path)||typeof row.captured_at!=='string'||!/^\d{4}-\d{2}-\d{2}T/.test(row.captured_at)||!Number.isFinite(Date.parse(row.captured_at))||!['v1-labeled-fiction','v2-no-invented-scenes'].includes(row.prompt_version)||![null,'interleaved-brief','text-only-clarification'].includes(row.input_deviation)||!['UNKNOWN','SOURCE_REVIEW_RECORDED'].includes(row.fact_check_status))throw Error('Invalid edition context row');
+  if(!exactFields(row,['article_path','captured_at','prompt_version','input_deviation','fact_check_status'])||!Object.hasOwn(articles,row.article_path)||seen.has(row.article_path)||typeof row.captured_at!=='string'||!/^\d{4}-\d{2}-\d{2}T/.test(row.captured_at)||!Number.isFinite(Date.parse(row.captured_at))||!['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer'].includes(row.prompt_version)||![null,'interleaved-brief','text-only-clarification'].includes(row.input_deviation)||!['UNKNOWN','SOURCE_REVIEW_RECORDED'].includes(row.fact_check_status))throw Error('Invalid edition context row');
   seen.add(row.article_path);
  }
  if(seen.size!==Object.keys(articles).length)throw Error('Incomplete edition context');
