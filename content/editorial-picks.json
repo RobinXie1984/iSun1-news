@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-24T07:26:30.924475+00:00",
+  "selected_at": "2026-10-26T07:25:44.726090+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1122,6 +1122,86 @@
       "headline": "你的AI同事带来了上百位“专家”，最后谁来核对答案？",
       "sha256": "67863fe28d6c391b28b1eea8fe88ac77ef790361b9352670aeb4901a18eeb1a8",
       "reason": "Provisional: the short hundred-experts/last-reviewer question creates a clear tension; the natural Chinese opening immediately distinguishes roles and vendor claims from evidence. Selected for clarity and rhythm, independently of the English; missing voices remain visible."
+    },
+    {
+      "topic": "gabrielse-one-positron-300mk",
+      "language": "en",
+      "provider": "grok",
+      "article_path": "articles/gabrielse-one-positron-300mk/grok/english.md",
+      "headline_index": 0,
+      "headline": "One Positron, Months in the Cold: The Trap That Could Test Reality’s Mirror",
+      "sha256": "c22a4c236f34ab00e43cba61cdd43f000c2a18607f89f51c9c9c4530e6cbe95d",
+      "reason": "Provisional among available writers: one positron, months in the cold and a conditional physics test give a tangible opening. It distinguishes new control from future precision measurement; shorter than the requested approximate length, but complete. Superlative or power-machine alternatives were not selected."
+    },
+    {
+      "topic": "gabrielse-one-positron-300mk",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/gabrielse-one-positron-300mk/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "一个正电子，被困数月，还有一场尚未进行的反物质大考",
+      "sha256": "5b2af39a66529e5449647d83c913c2fd6d1f78152c1bbdbeb80595cf03a4df02",
+      "reason": "Provisional independent Chinese choice: the particle/months/future-test sequence gives clear stakes, and the early summary keeps the unperformed comparison distinct from demonstrated control. Avoids the unsupported gravity wording in another original."
+    },
+    {
+      "topic": "eu-cookies-four-month-refusal",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/eu-cookies-four-month-refusal/claude/english.md",
+      "headline_index": 0,
+      "headline": "One Click, Then Silence for Four Months? Inside Europe’s Unfinished Bet on Making “No” Stick",
+      "sha256": "65bbca294c40a6362b2ccf235a98fd72565239542bb641096b4e636c36947f38",
+      "reason": "Provisional: the one-click/four-month contrast makes a familiar interruption concrete, while “unfinished” signals the proposal boundary. The opening explains same-purpose and at-least limits; no new right already in force is claimed."
+    },
+    {
+      "topic": "eu-cookies-four-month-refusal",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/eu-cookies-four-month-refusal/claude/chinese.md",
+      "headline_index": 2,
+      "headline": "欧洲的 Cookie 新方案，重点其实不在弹窗，而在于让网站记住你的拒绝",
+      "sha256": "598c95ed4bbf0a1344b1a238089dd16050f408ed93e9a9da2915852146d35a1e",
+      "reason": "Provisional independent Chinese judgment: remembering a refusal explains the mechanism in a more readable headline than the longest alternatives. The opening supplies the four-month scope and negotiating status. This is an editorial choice, not measured attention."
+    },
+    {
+      "topic": "school-extra-year-dementia-65",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/school-extra-year-dementia-65/claude/english.md",
+      "headline_index": 0,
+      "headline": "A 1972 Law Left a Trace That Researchers Found Five Decades Later",
+      "sha256": "54a095d01def5e7a02be394b29bd8ab0b5b0f9c9d9b55395f5be7319b7701e33",
+      "reason": "Provisional among available writers: a1972law and a trace five decades later offer a precise mystery. The opening pays it off with recorded diagnoses and design assumptions, and promptly states age65 and cohort limits. No unverified percentage-point conversion or universal best-evidence headline."
+    },
+    {
+      "topic": "school-extra-year-dementia-65",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/school-extra-year-dementia-65/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "一部1972年的法律,五十年后被研究者找到了它留下的痕迹",
+      "sha256": "2bed8be615c264b57a793456d77c14ad3c1e75c3521eb3e4df91f2631823f0c4",
+      "reason": "Provisional language-specific choice: the historical law and delayed trace are concise and concrete. The natural Chinese body separates schooling behaviour, diagnosis and lifetime prevention, without claiming genes are erased or night school is a prescription."
+    },
+    {
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "language": "en",
+      "provider": "claude",
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/claude/english.md",
+      "headline_index": 2,
+      "headline": "NASA’s Next Big Moon Mission Won’t Go to the Moon, and That May Be the Smartest Part of the Plan",
+      "sha256": "81f3a4a1ca178bdc96ea54e10a5d75acbb7ce2158cd06f9f7683352c67cfbceb",
+      "reason": "Provisional: a Moon mission staying near Earth gives a clear counter-intuitive premise. “May” marks the evaluative smartest-part phrase as opinion; the opening makes2027/2028plans and the two different docking tests explicit. No zero-tolerance or completed-readiness claim."
+    },
+    {
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "language": "zh",
+      "provider": "claude",
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/claude/chinese.md",
+      "headline_index": 1,
+      "headline": "重返月球之前,四名宇航员要先练习\"敲门\"",
+      "sha256": "b91b31f8e6ed0adca13dbac2f5c9974107b13911cc887abd5bddc53d89ff3e5e",
+      "reason": "Provisional independent Chinese choice: four people practising knocking on the door is a short docking metaphor with a concrete human action. The body immediately says plannedEarthorbit,not a completedlanding, and separates cabin entry from the no-entryStarshiptest."
     }
   ]
 }

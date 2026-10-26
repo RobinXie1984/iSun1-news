@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-26T07:25:36.291909+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 10,
+  "unavailable_count": 6,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/school-extra-year-dementia-65.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/school-extra-year-dementia-65.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/school-extra-year-dementia-65.md",
+      "article_path": "articles/school-extra-year-dementia-65/claude/english.md",
+      "status": "available",
+      "availability_note": "October23NIHrelease andPNASabstract,not a new1972policy today. Regression-discontinuity design supports authors’causal argument under assumptions;not random assignment. SelectedUKBiobankcohort,diagnosesbeforeDecember2022,oldest65;not lifetime prevention or an adult-learning prescription.14% in the release concerns staying atschool; percentage-point conversion is not verified here. Ambiguous.88%effect magnitude omitted from the brief. Mechanisms,generalisability and later-life effect remain open;no medical guarantee. Illustration is fictional."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/school-extra-year-dementia-65.md",
+      "article_path": "articles/school-extra-year-dementia-65/claude/chinese.md",
+      "status": "available",
+      "availability_note": "10月23日NIH新闻稿及PNAS摘要，1972年政策并非今日新规。断点设计在假设下支持作者因果论证，非随机分配。特定UKBiobank队列、2022年12月前诊断、最高65岁，不是终身预防或成人学习处方。来源14%指留校行为；稿中“14个百分点”换算此处未核实。含义未明的.88%效应幅度已从简报排除。机制、外推及更高年龄结果仍待验证，无个体医疗保证。插画为想象。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/school-extra-year-dementia-65.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/school-extra-year-dementia-65.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/school-extra-year-dementia-65.md",
+      "article_path": "articles/school-extra-year-dementia-65/grok/english.md",
+      "status": "available",
+      "availability_note": "October23NIHrelease andPNASabstract,not a new1972policy today. Regression-discontinuity design supports authors’causal argument under assumptions;not random assignment. SelectedUKBiobankcohort,diagnosesbeforeDecember2022,oldest65;not lifetime prevention or an adult-learning prescription.14% in the release concerns staying atschool; percentage-point conversion is not verified here. Ambiguous.88%effect magnitude omitted from the brief. Mechanisms,generalisability and later-life effect remain open;no medical guarantee. Illustration is fictional. The completed response may be shorter than the requested approximate2000words; it is preserved in full."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/school-extra-year-dementia-65.md",
+      "article_path": "articles/school-extra-year-dementia-65/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月23日NIH新闻稿及PNAS摘要，1972年政策并非今日新规。断点设计在假设下支持作者因果论证，非随机分配。特定UKBiobank队列、2022年12月前诊断、最高65岁，不是终身预防或成人学习处方。来源14%指留校行为；稿中“14个百分点”换算此处未核实。含义未明的.88%效应幅度已从简报排除。机制、外推及更高年龄结果仍待验证，无个体医疗保证。插画为想象。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/artemis-three-ships-earth-rehearsal.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/artemis-three-ships-earth-rehearsal.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/artemis-three-ships-earth-rehearsal.md",
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/claude/english.md",
+      "status": "available",
+      "availability_note": "NASAOctober23plans,not completedflight or independentreadinesscertification.2027Earthorbit/2028landing dates remain targets.14days is the plannedmission;about2days inBlueMoon andup to2hours forStarshipdocking are different phases. Crew would not enterStarship. Threevehicles/rockets,health checks,software andcoordination are plannedtests,not provenriskreduction. “Boldest/smartest/zero margin” language is opinion or rhetoric,not measuredcomparison or a literalengineeringtolerance. Imagined models are not exacthardware or aflightphoto."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/artemis-three-ships-earth-rehearsal.md",
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/claude/chinese.md",
+      "status": "available",
+      "availability_note": "NASA10月23日计划，非已完成飞行或独立就绪认证。2027地球轨道／2028登月仍为目标。14天为拟议全任务；蓝月舱内约两天、星舰对接最多两小时是不同阶段。乘组计划不进入星舰。三飞船／火箭、健康确认、软件及协调皆为拟议试验，非已证风险降低。“最大胆／最聪明／零余量”等属意见或修辞，非实测比较或实际工程容限。模型插画非精确硬件或飞行照片。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/artemis-three-ships-earth-rehearsal.md",
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/gemini/english.md",
+      "status": "available",
+      "availability_note": "NASAOctober23plans,not completedflight or independentreadinesscertification.2027Earthorbit/2028landing dates remain targets.14days is the plannedmission;about2days inBlueMoon andup to2hours forStarshipdocking are different phases. Crew would not enterStarship. Threevehicles/rockets,health checks,software andcoordination are plannedtests,not provenriskreduction. “Boldest/smartest/zero margin” language is opinion or rhetoric,not measuredcomparison or a literalengineeringtolerance. Imagined models are not exacthardware or aflightphoto."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/artemis-three-ships-earth-rehearsal.md",
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "NASA10月23日计划，非已完成飞行或独立就绪认证。2027地球轨道／2028登月仍为目标。14天为拟议全任务；蓝月舱内约两天、星舰对接最多两小时是不同阶段。乘组计划不进入星舰。三飞船／火箭、健康确认、软件及协调皆为拟议试验，非已证风险降低。“最大胆／最聪明／零余量”等属意见或修辞，非实测比较或实际工程容限。模型插画非精确硬件或飞行照片。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/artemis-three-ships-earth-rehearsal.md",
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/grok/english.md",
+      "status": "available",
+      "availability_note": "NASAOctober23plans,not completedflight or independentreadinesscertification.2027Earthorbit/2028landing dates remain targets.14days is the plannedmission;about2days inBlueMoon andup to2hours forStarshipdocking are different phases. Crew would not enterStarship. Threevehicles/rockets,health checks,software andcoordination are plannedtests,not provenriskreduction. “Boldest/smartest/zero margin” language is opinion or rhetoric,not measuredcomparison or a literalengineeringtolerance. Imagined models are not exacthardware or aflightphoto. The completed response may be shorter than the requested approximate2000words; it is preserved in full."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "source_brief": "briefs/artemis-three-ships-earth-rehearsal.md",
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/grok/chinese.md",
+      "status": "available",
+      "availability_note": "NASA10月23日计划，非已完成飞行或独立就绪认证。2027地球轨道／2028登月仍为目标。14天为拟议全任务；蓝月舱内约两天、星舰对接最多两小时是不同阶段。乘组计划不进入星舰。三飞船／火箭、健康确认、软件及协调皆为拟议试验，非已证风险降低。“最大胆／最聪明／零余量”等属意见或修辞，非实测比较或实际工程容限。模型插画非精确硬件或飞行照片。"
+    }
+  ]
+}

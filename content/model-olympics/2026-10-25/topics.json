@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "title": {
+        "en": "One antimatter particle, months of control—and a physics test still to come",
+        "zh": "一颗反物质粒子，受控数月，下一场物理检验仍待完成"
+      },
+      "summary": {
+        "en": "Northwestern resolves individual positron quantum states; a sharper matter–antimatter comparison remains a future measurement.",
+        "zh": "西北大学分辨并控制单颗正电子量子态；更精确的物质与反物质比较仍待测量。"
+      }
+    },
+    {
+      "id": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "title": {
+        "en": "Europe proposes making one cookie refusal last at least four months",
+        "zh": "欧洲拟让一次Cookie拒绝，至少四个月不再被追问"
+      },
+      "summary": {
+        "en": "The Council mandate combines simpler consent and incident reporting with safeguards; it still requires negotiations and adoption.",
+        "zh": "理事会谈判立场拟简化同意及事件报告，同时保留保障；仍待谈判与立法。"
+      }
+    }
+  ]
+}

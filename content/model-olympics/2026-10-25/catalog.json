@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-26T07:22:26.530422+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 10,
+  "unavailable_count": 6,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/gabrielse-one-positron-300mk.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/gabrielse-one-positron-300mk.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/gabrielse-one-positron-300mk.md",
+      "article_path": "articles/gabrielse-one-positron-300mk/claude/english.md",
+      "status": "available",
+      "availability_note": "October21announcement;Maypreprint/Augustv3 are earlier. Demonstrated quantum-state control and months of storage do not mean a months-long unchanged excited state. Electron1-in10trillion is a prior benchmark; equivalent positron precision and CPT comparison remain future goals. No discrepancy,energy source or commercial benefit established. Apparatus/patient/solitude descriptions and superlatives are the writer’s rhetoric,not measured rankings. Gravity is not the Penning-trap confinement mechanism; electric/magnetic fields are. Illustration is imagined,not hardware or particle evidence."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/gabrielse-one-positron-300mk.md",
+      "article_path": "articles/gabrielse-one-positron-300mk/claude/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日公告，五月预印本／八月v3更早。量子态控制及储存数月，不等于数月保持同一激发态。十万亿分之一是既有电子测量基准；同精度正电子测量及CPT比较仍待完成。没有发现不一致，也未证明能源或商业收益。装置现场、孤独／耐心等描述与“最重要”等最高级，是作者修辞，非实测排名。潘宁阱以电／磁场约束，原稿“引力”措辞不获来源支持。插画为想象，非真实硬件或粒子影像。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/gabrielse-one-positron-300mk.md",
+      "article_path": "articles/gabrielse-one-positron-300mk/gemini/english.md",
+      "status": "available",
+      "availability_note": "October21announcement;Maypreprint/Augustv3 are earlier. Demonstrated quantum-state control and months of storage do not mean a months-long unchanged excited state. Electron1-in10trillion is a prior benchmark; equivalent positron precision and CPT comparison remain future goals. No discrepancy,energy source or commercial benefit established. Apparatus/patient/solitude descriptions and superlatives are the writer’s rhetoric,not measured rankings. Gravity is not the Penning-trap confinement mechanism; electric/magnetic fields are. Illustration is imagined,not hardware or particle evidence."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/gabrielse-one-positron-300mk.md",
+      "article_path": "articles/gabrielse-one-positron-300mk/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日公告，五月预印本／八月v3更早。量子态控制及储存数月，不等于数月保持同一激发态。十万亿分之一是既有电子测量基准；同精度正电子测量及CPT比较仍待完成。没有发现不一致，也未证明能源或商业收益。装置现场、孤独／耐心等描述与“最重要”等最高级，是作者修辞，非实测排名。潘宁阱以电／磁场约束，原稿“引力”措辞不获来源支持。插画为想象，非真实硬件或粒子影像。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/gabrielse-one-positron-300mk.md",
+      "article_path": "articles/gabrielse-one-positron-300mk/grok/english.md",
+      "status": "available",
+      "availability_note": "October21announcement;Maypreprint/Augustv3 are earlier. Demonstrated quantum-state control and months of storage do not mean a months-long unchanged excited state. Electron1-in10trillion is a prior benchmark; equivalent positron precision and CPT comparison remain future goals. No discrepancy,energy source or commercial benefit established. Apparatus/patient/solitude descriptions and superlatives are the writer’s rhetoric,not measured rankings. Gravity is not the Penning-trap confinement mechanism; electric/magnetic fields are. Illustration is imagined,not hardware or particle evidence. The completed response may be shorter than the requested approximate2000words; it is preserved in full."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "gabrielse-one-positron-300mk",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/gabrielse-one-positron-300mk.md",
+      "article_path": "articles/gabrielse-one-positron-300mk/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月21日公告，五月预印本／八月v3更早。量子态控制及储存数月，不等于数月保持同一激发态。十万亿分之一是既有电子测量基准；同精度正电子测量及CPT比较仍待完成。没有发现不一致，也未证明能源或商业收益。装置现场、孤独／耐心等描述与“最重要”等最高级，是作者修辞，非实测排名。潘宁阱以电／磁场约束，原稿“引力”措辞不获来源支持。插画为想象，非真实硬件或粒子影像。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/eu-cookies-four-month-refusal.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/eu-cookies-four-month-refusal.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/eu-cookies-four-month-refusal.md",
+      "article_path": "articles/eu-cookies-four-month-refusal/claude/english.md",
+      "status": "available",
+      "availability_note": "Council negotiating mandate agreedOctober21,textOctober22;not enacted replacement law. Proposed one-click refusal/four-month minimum concerns repeat requests for the same purpose,not all cookies or communications. Conditional exceptions do not authorise unrestricted tracking.96-hour proposed high-risk breach deadline still says without undue delay. National gateways differ from one EU portal. Existing privacy rights predate this proposal; broad claims that Europe has never granted refusal rights are not supported. Claimed savings/behaviour and campaign-cycle generalisations are analysis,not measured outcomes."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/eu-cookies-four-month-refusal.md",
+      "article_path": "articles/eu-cookies-four-month-refusal/claude/chinese.md",
+      "status": "available",
+      "availability_note": "理事会10月21日谈判立场，22日文本，非已生效的新法。拟议一键拒绝及至少四个月，限定同一目的重复请求，不是禁止所有Cookie或通讯。有条件豁免不是无限追踪许可。拟议96小时高风险泄露期限仍要求不得无故拖延；各国入口与全欧单一门户不同。现有隐私权早于本提案；“欧洲从未给予拒绝权”等泛称不获支持。节省、行为及营销周期概括属分析，非实测。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/eu-cookies-four-month-refusal.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/eu-cookies-four-month-refusal.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/eu-cookies-four-month-refusal.md",
+      "article_path": "articles/eu-cookies-four-month-refusal/grok/english.md",
+      "status": "available",
+      "availability_note": "Council negotiating mandate agreedOctober21,textOctober22;not enacted replacement law. Proposed one-click refusal/four-month minimum concerns repeat requests for the same purpose,not all cookies or communications. Conditional exceptions do not authorise unrestricted tracking.96-hour proposed high-risk breach deadline still says without undue delay. National gateways differ from one EU portal. Existing privacy rights predate this proposal; broad claims that Europe has never granted refusal rights are not supported. Claimed savings/behaviour and campaign-cycle generalisations are analysis,not measured outcomes. The completed response may be shorter than the requested approximate2000words; it is preserved in full."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "eu-cookies-four-month-refusal",
+      "event_date": "2026-10-21",
+      "source_brief": "briefs/eu-cookies-four-month-refusal.md",
+      "article_path": "articles/eu-cookies-four-month-refusal/grok/chinese.md",
+      "status": "available",
+      "availability_note": "理事会10月21日谈判立场，22日文本，非已生效的新法。拟议一键拒绝及至少四个月，限定同一目的重复请求，不是禁止所有Cookie或通讯。有条件豁免不是无限追踪许可。拟议96小时高风险泄露期限仍要求不得无故拖延；各国入口与全欧单一门户不同。现有隐私权早于本提案；“欧洲从未给予拒绝权”等泛称不获支持。节省、行为及营销周期概括属分析，非实测。"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "school-extra-year-dementia-65",
+      "event_date": "2026-10-23",
+      "title": {
+        "en": "A school reform reaches fifty years into the future",
+        "zh": "一场学制改革，把影响带到五十年后"
+      },
+      "summary": {
+        "en": "A UK schooling cutoff offers evidence about later dementia diagnoses; the cohort was observed only through age65.",
+        "zh": "英国学龄分界为晚年失智诊断提供证据；但随访年龄最高仅65岁。"
+      }
+    },
+    {
+      "id": "artemis-three-ships-earth-rehearsal",
+      "event_date": "2026-10-23",
+      "title": {
+        "en": "Three spacecraft rehearse near Earth before a return to the Moon",
+        "zh": "三艘飞船先在地球旁排练，再谈重返月球"
+      },
+      "summary": {
+        "en": "NASA outlines ArtemisIII’s planned2027 docking tests with Blue Origin and SpaceX, ahead of hoped-for2028 lunar landings.",
+        "zh": "NASA公布ArtemisIII拟于2027年与蓝色起源、SpaceX试验对接，为计划2028年登月做准备。"
+      }
+    }
+  ]
+}

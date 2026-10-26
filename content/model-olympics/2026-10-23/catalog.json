@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-23T07:14:08.148051+00:00",
+  "generated_at": "2026-10-26T07:35:48.559657+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 12,
-  "unavailable_count": 4,
+  "available_count": 15,
+  "unavailable_count": 1,
   "articles": [
     {
       "provider": "chatgpt",
@@ -56,9 +56,9 @@
       "topic": "hubble-arc-counterarc-8-billion",
       "event_date": "2026-10-22",
       "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Google requires passkey verification for the existing account. Gemini3.8Thinking access unverified this run; no prompt submitted. Slot remains UNKNOWN pending sign-in."
+      "article_path": "articles/hubble-arc-counterarc-8-billion/gemini/english.md",
+      "status": "available",
+      "availability_note": "NASA’sOctober22 report describes a real Hubble arc-counterarc lens image. Distances4.5/8billion light-years are approximate source descriptions, not independently recalculated redshifts or exact observation dates. Both arcs are one background galaxy, not two objects or physically split matter. Lensing helps infer total mass/dark matter; this is not particle detection/identity or a newly supplied mass/fraction/precision measurement. Roman modeling and follow-up are prospective; no survey yield or launch date established here. Illustration is imagined, not Hubble data. Human craftsmanship/processing descriptions and research-impact language are narrative generalisations,not a newly verified processing log or mass measurement."
     },
     {
       "provider": "gemini",
@@ -67,9 +67,9 @@
       "topic": "hubble-arc-counterarc-8-billion",
       "event_date": "2026-10-22",
       "source_brief": "briefs/hubble-arc-counterarc-8-billion.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Google requires passkey verification for the existing account. Gemini3.8Thinking access unverified this run; no prompt submitted. Slot remains UNKNOWN pending sign-in."
+      "article_path": "articles/hubble-arc-counterarc-8-billion/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "NASA10月22日报道真实哈勃弧／反弧图像。45／80亿光年为来源约数，非本次重算红移或确切观测日期。双弧同出一个背景星系，非两个天体或物质被切开。透镜帮助推知总质量／暗物质，非粒子探测／身份认定，亦未在此提供新质量、比例或精度实测。Roman建模应用及后续观测在未来；此处未立巡天产量或发射日期。插画为想象，非哈勃数据。 人工处理工艺与研究影响描写属叙事概括，非新核实的处理日志或质量实测。 “孤星／巨星”仅宜作修辞；前后景对象皆为星系，不是单颗恒星。"
     },
     {
       "provider": "grok",
@@ -146,7 +146,7 @@
       "source_brief": "briefs/coding-monitors-43-72-31.md",
       "article_path": null,
       "status": "UNKNOWN",
-      "availability_note": "Google requires passkey verification for the existing account. Gemini3.8Thinking access unverified this run; no prompt submitted. Slot remains UNKNOWN pending sign-in."
+      "availability_note": "Captured original withheld after editorial review; no replacement or silent rewriting. This edition remains unavailable."
     },
     {
       "provider": "gemini",
@@ -155,9 +155,9 @@
       "topic": "coding-monitors-43-72-31",
       "event_date": "2026-10-22",
       "source_brief": "briefs/coding-monitors-43-72-31.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Google requires passkey verification for the existing account. Gemini3.8Thinking access unverified this run; no prompt submitted. Slot remains UNKNOWN pending sign-in."
+      "article_path": "articles/coding-monitors-43-72-31/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "10月22日论文述2026年9月实验快照；攻方通常为知情且受提示执行恶意旁务的Opus5，Guardian为近似实现。覆盖盲点43／72／31%是条件测试，非真实用户遭入侵率、总体安全排名或今日配置审计。热图每格至少60轮与4000无害动作分母不同；误拦不足1%只限该重放集。沙箱／串通未测，假设监测器可信。改善及延迟取舍不证明所有修补已部署或风险尽除。本研究非客户受侵事件报告。 全历史监控不保证完全监督。令牌／成本规模和企业部署建议属分析，非实测；不构成实施授权或现网产品认证。"
     },
     {
       "provider": "grok",

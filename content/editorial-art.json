@@ -1066,6 +1066,82 @@
           "sha256": "4b17d528becce57fe5594eeb010c775e597878f7dee7d4eb359eeed5f162c08e"
         }
       ]
+    },
+    {
+      "topic": "gabrielse-one-positron-300mk",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/gabrielse-one-positron-300mk-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 234845,
+          "sha256": "c538f0579d127f3b15211b19c76770269d1fddf721c3c9c43cce03b86a9a965f"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/gabrielse-one-positron-300mk-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 74457,
+          "sha256": "6d07e61f9a6ec4963379f1e1f7a52743b2febc482f4086534f294442ddea2e41"
+        }
+      ]
+    },
+    {
+      "topic": "eu-cookies-four-month-refusal",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/eu-cookies-four-month-refusal-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 266311,
+          "sha256": "8f4da684cbcecd2d85a000c77eda62a95a6aed87378b8693f412de51c467d160"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/eu-cookies-four-month-refusal-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 80201,
+          "sha256": "2f945967c1fe43a06ce7f775bdd62d8524f852cb87dd4ade76c6003d6a917602"
+        }
+      ]
+    },
+    {
+      "topic": "school-extra-year-dementia-65",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/school-extra-year-dementia-65-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 263091,
+          "sha256": "3043d5ae6d69a7e74998930dcf2941530aff019b532d5f49e94e8e0efebf0341"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/school-extra-year-dementia-65-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 77497,
+          "sha256": "ece42034af5cdd1e3938a7f1d4d3c15ab3c55b66d2db054c0f64920d3a6b6e21"
+        }
+      ]
+    },
+    {
+      "topic": "artemis-three-ships-earth-rehearsal",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/artemis-three-ships-earth-rehearsal-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 292211,
+          "sha256": "8e0b02adbd5b57079abca214dbd61cbf24f09629b097e9ba10e95a5bc7686cb2"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/artemis-three-ships-earth-rehearsal-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 90573,
+          "sha256": "c33e9936df63c060caef1b177e6b32af7d46cf8c6e8a207b58b77cd7eec48b43"
+        }
+      ]
     }
   ]
 }

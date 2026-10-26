@@ -4060,6 +4060,195 @@
       "prompt_version": "v3-simple-explorer",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gabrielse-one-positron-300mk/claude/english.md",
+      "captured_at": "2026-10-26T07:04:59.798Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gabrielse-one-positron-300mk/claude/chinese.md",
+      "captured_at": "2026-10-26T07:07:16.713Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gabrielse-one-positron-300mk/gemini/english.md",
+      "captured_at": "2026-10-26T07:11:16.923Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gabrielse-one-positron-300mk/gemini/chinese.md",
+      "captured_at": "2026-10-26T07:16:48.071Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gabrielse-one-positron-300mk/grok/english.md",
+      "captured_at": "2026-10-26T07:04:59.850Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gabrielse-one-positron-300mk/grok/chinese.md",
+      "captured_at": "2026-10-26T07:07:16.777Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-cookies-four-month-refusal/claude/english.md",
+      "captured_at": "2026-10-26T07:07:16.831Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-cookies-four-month-refusal/claude/chinese.md",
+      "captured_at": "2026-10-26T07:11:00.396Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-cookies-four-month-refusal/grok/english.md",
+      "captured_at": "2026-10-26T07:07:16.894Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-cookies-four-month-refusal/grok/chinese.md",
+      "captured_at": "2026-10-26T07:11:00.504Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/school-extra-year-dementia-65/claude/english.md",
+      "captured_at": "2026-10-26T07:10:59.929Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/school-extra-year-dementia-65/claude/chinese.md",
+      "captured_at": "2026-10-26T07:12:15.752Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/school-extra-year-dementia-65/grok/english.md",
+      "captured_at": "2026-10-26T07:11:00.013Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/school-extra-year-dementia-65/grok/chinese.md",
+      "captured_at": "2026-10-26T07:12:15.830Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/claude/english.md",
+      "captured_at": "2026-10-26T07:11:00.130Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/claude/chinese.md",
+      "captured_at": "2026-10-26T07:12:15.949Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/gemini/english.md",
+      "captured_at": "2026-10-26T07:16:48.171Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/gemini/chinese.md",
+      "captured_at": "2026-10-26T07:24:36.734Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/grok/english.md",
+      "captured_at": "2026-10-26T07:11:00.192Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/grok/chinese.md",
+      "captured_at": "2026-10-26T07:12:16.044Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hubble-arc-counterarc-8-billion/gemini/english.md",
+      "captured_at": "2026-10-26T07:29:35.131Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hubble-arc-counterarc-8-billion/gemini/chinese.md",
+      "captured_at": "2026-10-26T07:35:48.317Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coding-monitors-43-72-31/gemini/chinese.md",
+      "captured_at": "2026-10-26T07:35:01.860Z",
+      "prompt_version": "v2-no-invented-scenes",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/grok/english.md",
+      "captured_at": "2026-10-26T07:21:25.960Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/grok/chinese.md",
+      "captured_at": "2026-10-26T07:24:36.819Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tencent-workbuddy-100-experts/grok/english.md",
+      "captured_at": "2026-10-26T07:21:26.656Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/tencent-workbuddy-100-experts/grok/chinese.md",
+      "captured_at": "2026-10-26T07:24:36.902Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

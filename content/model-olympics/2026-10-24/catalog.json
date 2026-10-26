@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-24T07:26:30.615604+00:00",
+  "generated_at": "2026-10-26T07:35:48.576024+00:00",
   "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
-  "available_count": 8,
-  "unavailable_count": 8,
+  "available_count": 12,
+  "unavailable_count": 4,
   "articles": [
     {
       "provider": "chatgpt",
@@ -58,7 +58,7 @@
       "source_brief": "briefs/sony-1mm-5m-endoscope-sensor.md",
       "article_path": null,
       "status": "UNKNOWN",
-      "availability_note": "Existing account verification remains unresolved. Gemini3.8Thinking access was not verified; no prompt submitted. This edition remains UNKNOWN."
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
     },
     {
       "provider": "gemini",
@@ -69,7 +69,7 @@
       "source_brief": "briefs/sony-1mm-5m-endoscope-sensor.md",
       "article_path": null,
       "status": "UNKNOWN",
-      "availability_note": "Existing account verification remains unresolved. Gemini3.8Thinking access was not verified; no prompt submitted. This edition remains UNKNOWN."
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
     },
     {
       "provider": "grok",
@@ -78,9 +78,9 @@
       "topic": "sony-1mm-5m-endoscope-sensor",
       "event_date": "2026-10-22",
       "source_brief": "briefs/sony-1mm-5m-endoscope-sensor.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Human verification blocks account access. GrokExpert identity was not verified and no prompt submitted. This edition remains UNKNOWN pending the displayed challenge."
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/grok/english.md",
+      "status": "available",
+      "availability_note": "Sony’s October22 announcement reports a1×1mm chip,720×720 pixels,30/60fps and5m digital transmission confirmed in its own AWG44-cable evaluation. Chip size is not completed-scope diameter;5m is cable length,not insertion depth. Industry-first claim is Sony-researched and category-limited. November2026 samples are planned. Component is not a medical device and not evaluated/approved for medical applications; Sony excludes intended HongKong medical use. No patient benefit,infection reduction,cost or lifecycle advantage is established here. Other testing/integration not reported by this release must not be declared nonexistent. Illustration is imagined,not product or clinical evidence. Headline infection benefit and clinical/reach examples are hypothetical,not demonstrated outcomes. General engineering and adoption claims are analysis; no specific clinical-validation pathway or test absence is established."
     },
     {
       "provider": "grok",
@@ -89,9 +89,9 @@
       "topic": "sony-1mm-5m-endoscope-sensor",
       "event_date": "2026-10-22",
       "source_brief": "briefs/sony-1mm-5m-endoscope-sensor.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Human verification blocks account access. GrokExpert identity was not verified and no prompt submitted. This edition remains UNKNOWN pending the displayed challenge."
+      "article_path": "articles/sony-1mm-5m-endoscope-sensor/grok/chinese.md",
+      "status": "available",
+      "availability_note": "Sony10月22日公布1×1毫米芯片、720×720像素、30／60fps；5米数字传输出自厂商自有AWG44线缆评估。芯片边长非镜身直径，5米为线长而非插入深度。行业首创属Sony自查且限定类别。2026年11月样品仍为计划。元件不是医疗器械，未获医疗用途评估／批准；Sony明确不用于香港医疗应用。此处未立患者、感染率、成本或全生命周期优势。新闻稿未报告的验证／集成，不可写成根本不存在。插画为想象，非产品或临床证据。 标题感染收益与临床触达示例是假设，非已证结果。工程及采用推演属分析；未确立特定临床验证路径，也不能由未报告断言未测试。"
     },
     {
       "provider": "chatgpt",
@@ -146,7 +146,7 @@
       "source_brief": "briefs/tencent-workbuddy-100-experts.md",
       "article_path": null,
       "status": "UNKNOWN",
-      "availability_note": "Existing account verification remains unresolved. Gemini3.8Thinking access was not verified; no prompt submitted. This edition remains UNKNOWN."
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
     },
     {
       "provider": "gemini",
@@ -157,7 +157,7 @@
       "source_brief": "briefs/tencent-workbuddy-100-experts.md",
       "article_path": null,
       "status": "UNKNOWN",
-      "availability_note": "Existing account verification remains unresolved. Gemini3.8Thinking access was not verified; no prompt submitted. This edition remains UNKNOWN."
+      "availability_note": "No complete original is available for this edition at this release. The slot remains UNKNOWN; available originals are preserved separately."
     },
     {
       "provider": "grok",
@@ -166,9 +166,9 @@
       "topic": "tencent-workbuddy-100-experts",
       "event_date": "2026-10-23",
       "source_brief": "briefs/tencent-workbuddy-100-experts.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Human verification blocks account access. GrokExpert identity was not verified and no prompt submitted. This edition remains UNKNOWN pending the displayed challenge."
+      "article_path": "articles/tencent-workbuddy-100-experts/grok/english.md",
+      "status": "available",
+      "availability_note": "October23 Tencent product story,not independent evaluation or proof every feature launched that day. More than100 Experts means built-in roles,not100models,people,licences or validated expertise. Concurrent coordination/shared information/unified draft are vendor descriptions,not measured accuracy,cost or hours saved. Human review and acceptance remain explicit. Friday proposal and finance/contract roles are examples,not verified customer projects. Missing benchmark,permission/security or liability details do not prove failure or absence. General workflow/incentive claims are analysis,not demonstrated WorkBuddy outcomes. Illustration is an imagined physical metaphor. Claims of compressed assignment time,fixed-cost reduction and increased throughput are hypotheses,not measured results. No external product access was tested."
     },
     {
       "provider": "grok",
@@ -177,9 +177,9 @@
       "topic": "tencent-workbuddy-100-experts",
       "event_date": "2026-10-23",
       "source_brief": "briefs/tencent-workbuddy-100-experts.md",
-      "article_path": null,
-      "status": "UNKNOWN",
-      "availability_note": "Human verification blocks account access. GrokExpert identity was not verified and no prompt submitted. This edition remains UNKNOWN pending the displayed challenge."
+      "article_path": "articles/tencent-workbuddy-100-experts/grok/chinese.md",
+      "status": "available",
+      "availability_note": "10月23日腾讯产品介绍，非独立评测，亦未证明每项功能当天首发。逾100个Experts指内置角色，不是100种模型、真人、执照或已验证专业能力。并行分工、共享信息、统一草稿为厂商描述，非实测准确率、成本或节省工时。人工审阅及取舍仍明确保留。周五提案及财务／合同角色是举例，非已核实客户案例。基准、权限／安全及责任细节未报，不证明不存在或失效。一般工作流／激励论述属分析，非WorkBuddy已证成效。插画为想象的实体隐喻。 任务分配压缩、固定成本降低、吞吐增加均属假设，非实测。本次未测试外部产品操作。"
     }
   ]
 }
