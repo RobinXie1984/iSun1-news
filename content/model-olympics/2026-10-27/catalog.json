@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-27T07:20:26.115408+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 16,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/recordanelles-cell-rna-memory.md",
+      "article_path": "articles/recordanelles-cell-rna-memory/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Correction after the frozen brief: the primary paper/abstract specifies ONE fusion protein with THREE functional components (mitochondrial anchor, condensate assembler, RNA-binding domain); ETH news and the originals describe three proteins. Some RNA history is preserved, not everything or an exact timeline. Demonstrated in cultured human cells; animal/cancer benefit remains a future aim. Paper21Oct, ETHreport26Oct. Nature indexed excerpts and PubMed abstract checked later; full methods not comprehensively reviewed. Questions about fidelity or perturbation are evaluation questions; the paper reports controls under tested conditions. Illustration is conceptual."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/recordanelles-cell-rna-memory.md",
+      "article_path": "articles/recordanelles-cell-rna-memory/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "冻结素材后的更正：论文及摘要描述的是一种融合蛋白、含三个功能部分（线粒体锚定、凝聚体组装、RNA结合），而ETH新闻及原稿写成三种蛋白。保存的是部分RNA历史，并非一切或精确时间线。演示来自培养人类细胞；动物及癌症获益仍待研究。论文10月21日、ETH报道26日。后续核对论文索引片段及PubMed摘要，未全面审阅方法。保真度与扰动问题属评估问题；论文报告了实验条件下的控制结果。插画为概念图。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/recordanelles-cell-rna-memory.md",
+      "article_path": "articles/recordanelles-cell-rna-memory/claude/english.md",
+      "status": "available",
+      "availability_note": "Correction after the frozen brief: the primary paper/abstract specifies ONE fusion protein with THREE functional components (mitochondrial anchor, condensate assembler, RNA-binding domain); ETH news and the originals describe three proteins. Some RNA history is preserved, not everything or an exact timeline. Demonstrated in cultured human cells; animal/cancer benefit remains a future aim. Paper21Oct, ETHreport26Oct. Nature indexed excerpts and PubMed abstract checked later; full methods not comprehensively reviewed. Questions about fidelity or perturbation are evaluation questions; the paper reports controls under tested conditions. Illustration is conceptual."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/recordanelles-cell-rna-memory.md",
+      "article_path": "articles/recordanelles-cell-rna-memory/claude/chinese.md",
+      "status": "available",
+      "availability_note": "冻结素材后的更正：论文及摘要描述的是一种融合蛋白、含三个功能部分（线粒体锚定、凝聚体组装、RNA结合），而ETH新闻及原稿写成三种蛋白。保存的是部分RNA历史，并非一切或精确时间线。演示来自培养人类细胞；动物及癌症获益仍待研究。论文10月21日、ETH报道26日。后续核对论文索引片段及PubMed摘要，未全面审阅方法。保真度与扰动问题属评估问题；论文报告了实验条件下的控制结果。插画为概念图。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/recordanelles-cell-rna-memory.md",
+      "article_path": "articles/recordanelles-cell-rna-memory/gemini/english.md",
+      "status": "available",
+      "availability_note": "Correction after the frozen brief: the primary paper/abstract specifies ONE fusion protein with THREE functional components (mitochondrial anchor, condensate assembler, RNA-binding domain); ETH news and the originals describe three proteins. Some RNA history is preserved, not everything or an exact timeline. Demonstrated in cultured human cells; animal/cancer benefit remains a future aim. Paper21Oct, ETHreport26Oct. Nature indexed excerpts and PubMed abstract checked later; full methods not comprehensively reviewed. Questions about fidelity or perturbation are evaluation questions; the paper reports controls under tested conditions. Illustration is conceptual. Extra cancer-survival and cellular-mRNA counts in this draft were not supported by the frozen brief or verified here; do not treat them as established. “Lone survivor endured” is metaphor, not a reported private experience."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/recordanelles-cell-rna-memory.md",
+      "article_path": "articles/recordanelles-cell-rna-memory/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "冻结素材后的更正：论文及摘要描述的是一种融合蛋白、含三个功能部分（线粒体锚定、凝聚体组装、RNA结合），而ETH新闻及原稿写成三种蛋白。保存的是部分RNA历史，并非一切或精确时间线。演示来自培养人类细胞；动物及癌症获益仍待研究。论文10月21日、ETH报道26日。后续核对论文索引片段及PubMed摘要，未全面审阅方法。保真度与扰动问题属评估问题；论文报告了实验条件下的控制结果。插画为概念图。 稿中额外癌细胞幸存比例及细胞mRNA数量，未获冻结素材支持，亦未在此核实；不可视为已证事实。“幸存者经历”只是比喻，非报道的私人感受。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/recordanelles-cell-rna-memory.md",
+      "article_path": "articles/recordanelles-cell-rna-memory/grok/english.md",
+      "status": "available",
+      "availability_note": "Correction after the frozen brief: the primary paper/abstract specifies ONE fusion protein with THREE functional components (mitochondrial anchor, condensate assembler, RNA-binding domain); ETH news and the originals describe three proteins. Some RNA history is preserved, not everything or an exact timeline. Demonstrated in cultured human cells; animal/cancer benefit remains a future aim. Paper21Oct, ETHreport26Oct. Nature indexed excerpts and PubMed abstract checked later; full methods not comprehensively reviewed. Questions about fidelity or perturbation are evaluation questions; the paper reports controls under tested conditions. Illustration is conceptual. Exact“three days”and“best”headline wording exceeds the brief; not selected. Completed English is shorter than the approximate2000word request."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/recordanelles-cell-rna-memory.md",
+      "article_path": "articles/recordanelles-cell-rna-memory/grok/chinese.md",
+      "status": "available",
+      "availability_note": "冻结素材后的更正：论文及摘要描述的是一种融合蛋白、含三个功能部分（线粒体锚定、凝聚体组装、RNA结合），而ETH新闻及原稿写成三种蛋白。保存的是部分RNA历史，并非一切或精确时间线。演示来自培养人类细胞；动物及癌症获益仍待研究。论文10月21日、ETH报道26日。后续核对论文索引片段及PubMed摘要，未全面审阅方法。保真度与扰动问题属评估问题；论文报告了实验条件下的控制结果。插画为概念图。 标题精确“三天”及“最好”超出素材，未被选用。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/ari-ai-research-four-day-warning.md",
+      "article_path": "articles/ari-ai-research-four-day-warning/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "ARI is an advocacy organization, not a regulator. Its proposal was covered26Oct and builds on an earlier2026blueprint. Quarterly confidential filings plus FOUR BUSINESS DAYS for material-change reporting are proposed, not enacted; no such office or powers are established by the proposal. Scope thresholds10^26trainingFLOP AND$100million prior-yearaggregateAI-training spend are earlier proposed coverage tests. Detailed fields need rulemaking. Disclosure/DOJreferrals,FOIAexemption andwhistleblower provisions are proposed. Claims about nonexistent powers mean under this proposed scheme, not that existing government powers vanish. Safety, costs, comparability and adoption remain open. Illustration is fictional. Rendered mathematical superscripts may repeat in the text capture; the proposed compute threshold is 10^26 FLOP, as stated in this note."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/ari-ai-research-four-day-warning.md",
+      "article_path": "articles/ari-ai-research-four-day-warning/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "ARI是倡议组织，非监管机构。提案于10月26日获报道，建立在2026年较早蓝图上。季度保密报告、重大变化后四个工作日通报皆属提议，尚未生效；提案本身并未创设机构或权力。10^26次训练浮点运算与过去一年累计一亿美元AI训练支出，是早期蓝图拟议的双门槛，非现行法律。细目需后续规则制定。司法部移送、FOIA豁免、举报机制皆是建议。“不存在的权力”等表述仅指此拟议制度，并非否认政府已有职权。安全性、成本、可比性及是否获采纳仍开放。插画为想象。 渲染数学上标可能在文字采集中重复；拟议算力门槛为10^26次浮点运算，以本说明为准。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/ari-ai-research-four-day-warning.md",
+      "article_path": "articles/ari-ai-research-four-day-warning/claude/english.md",
+      "status": "available",
+      "availability_note": "ARI is an advocacy organization, not a regulator. Its proposal was covered26Oct and builds on an earlier2026blueprint. Quarterly confidential filings plus FOUR BUSINESS DAYS for material-change reporting are proposed, not enacted; no such office or powers are established by the proposal. Scope thresholds10^26trainingFLOP AND$100million prior-yearaggregateAI-training spend are earlier proposed coverage tests. Detailed fields need rulemaking. Disclosure/DOJreferrals,FOIAexemption andwhistleblower provisions are proposed. Claims about nonexistent powers mean under this proposed scheme, not that existing government powers vanish. Safety, costs, comparability and adoption remain open. Illustration is fictional. First-person claims of investing/building experience and sector-wide superlatives are unverified narrative rhetoric, not source facts."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/ari-ai-research-four-day-warning.md",
+      "article_path": "articles/ari-ai-research-four-day-warning/claude/chinese.md",
+      "status": "available",
+      "availability_note": "ARI是倡议组织，非监管机构。提案于10月26日获报道，建立在2026年较早蓝图上。季度保密报告、重大变化后四个工作日通报皆属提议，尚未生效；提案本身并未创设机构或权力。10^26次训练浮点运算与过去一年累计一亿美元AI训练支出，是早期蓝图拟议的双门槛，非现行法律。细目需后续规则制定。司法部移送、FOIA豁免、举报机制皆是建议。“不存在的权力”等表述仅指此拟议制度，并非否认政府已有职权。安全性、成本、可比性及是否获采纳仍开放。插画为想象。 第一人称投资／搭建经历及全领域最高级措辞未经核实，属叙述修辞，非来源事实。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/ari-ai-research-four-day-warning.md",
+      "article_path": "articles/ari-ai-research-four-day-warning/gemini/english.md",
+      "status": "available",
+      "availability_note": "ARI is an advocacy organization, not a regulator. Its proposal was covered26Oct and builds on an earlier2026blueprint. Quarterly confidential filings plus FOUR BUSINESS DAYS for material-change reporting are proposed, not enacted; no such office or powers are established by the proposal. Scope thresholds10^26trainingFLOP AND$100million prior-yearaggregateAI-training spend are earlier proposed coverage tests. Detailed fields need rulemaking. Disclosure/DOJreferrals,FOIAexemption andwhistleblower provisions are proposed. Claims about nonexistent powers mean under this proposed scheme, not that existing government powers vanish. Safety, costs, comparability and adoption remain open. Illustration is fictional. The most-aggressive superlative, inevitable takeoff language, detailed hardware/experiment counts, criminal-referral/incentive details and claims about legislative action go beyond this check; not established source facts. Four-day shorthand means business days."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/ari-ai-research-four-day-warning.md",
+      "article_path": "articles/ari-ai-research-four-day-warning/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "ARI是倡议组织，非监管机构。提案于10月26日获报道，建立在2026年较早蓝图上。季度保密报告、重大变化后四个工作日通报皆属提议，尚未生效；提案本身并未创设机构或权力。10^26次训练浮点运算与过去一年累计一亿美元AI训练支出，是早期蓝图拟议的双门槛，非现行法律。细目需后续规则制定。司法部移送、FOIA豁免、举报机制皆是建议。“不存在的权力”等表述仅指此拟议制度，并非否认政府已有职权。安全性、成本、可比性及是否获采纳仍开放。插画为想象。 “最强监管”、“华盛顿暗战”、必然起飞、额外硬件／实验数量、刑事移送与奖励细节及国会行动断言，超出本次核查，不是已证来源事实；四天简写须读作工作日。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/ari-ai-research-four-day-warning.md",
+      "article_path": "articles/ari-ai-research-four-day-warning/grok/english.md",
+      "status": "available",
+      "availability_note": "ARI is an advocacy organization, not a regulator. Its proposal was covered26Oct and builds on an earlier2026blueprint. Quarterly confidential filings plus FOUR BUSINESS DAYS for material-change reporting are proposed, not enacted; no such office or powers are established by the proposal. Scope thresholds10^26trainingFLOP AND$100million prior-yearaggregateAI-training spend are earlier proposed coverage tests. Detailed fields need rulemaking. Disclosure/DOJreferrals,FOIAexemption andwhistleblower provisions are proposed. Claims about nonexistent powers mean under this proposed scheme, not that existing government powers vanish. Safety, costs, comparability and adoption remain open. Illustration is fictional."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "source_brief": "briefs/ari-ai-research-four-day-warning.md",
+      "article_path": "articles/ari-ai-research-four-day-warning/grok/chinese.md",
+      "status": "available",
+      "availability_note": "ARI是倡议组织，非监管机构。提案于10月26日获报道，建立在2026年较早蓝图上。季度保密报告、重大变化后四个工作日通报皆属提议，尚未生效；提案本身并未创设机构或权力。10^26次训练浮点运算与过去一年累计一亿美元AI训练支出，是早期蓝图拟议的双门槛，非现行法律。细目需后续规则制定。司法部移送、FOIA豁免、举报机制皆是建议。“不存在的权力”等表述仅指此拟议制度，并非否认政府已有职权。安全性、成本、可比性及是否获采纳仍开放。插画为想象。"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-27T02:42:42.593387+00:00",
+  "selected_at": "2026-10-27T07:20:26.362764+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1202,6 +1202,46 @@
       "headline": "重返月球之前,四名宇航员要先练习\"敲门\"",
       "sha256": "b91b31f8e6ed0adca13dbac2f5c9974107b13911cc887abd5bddc53d89ff3e5e",
       "reason": "Provisional independent Chinese choice: four people practising knocking on the door is a short docking metaphor with a concrete human action. The body immediately says plannedEarthorbit,not a completedlanding, and separates cabin entry from the no-entryStarshiptest."
+    },
+    {
+      "topic": "recordanelles-cell-rna-memory",
+      "language": "en",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "The precise some-of-its-past promise earns curiosity without a complete-memory claim. The first two paragraphs state cultured human cells and future applications. Chosen over exact-three-days, best-record and lone-survivor phrasing. Mechanism correction from the primary abstract is explicit in the separate source note; original remains untouched.",
+      "article_path": "articles/recordanelles-cell-rna-memory/chatgpt/english.md",
+      "headline": "A Cell’s Past Usually Disappears. Scientists Have Built a Way to Keep Some of It.",
+      "sha256": "2211d2bf5cf7f575379191bc9554ec6639f30ec5c8a5b9a554e303e72853e1f4"
+    },
+    {
+      "topic": "recordanelles-cell-rna-memory",
+      "language": "zh",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "Natural Chinese makes retaining clues concrete without implying everything is remembered or disease is cured. The opening gives several days/thousands of RNA molecules and laboratory scope. Claude all-memory option is ineligible; its alternative is longer. Gemini metaphor is vivid but adds unsupported clinical scales; Grok exact-three-days is not the shared evidence. Primary fusion-protein correction is separately visible.",
+      "article_path": "articles/recordanelles-cell-rna-memory/chatgpt/chinese.md",
+      "headline": "细胞的过去通常会消失，科学家找到了一种留住线索的方法",
+      "sha256": "aa8f286aec2ea6d3fdbf671641d5e602ae3452453a2c325dc6e1ab821b96a249"
+    },
+    {
+      "topic": "ari-ai-research-four-day-warning",
+      "language": "en",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "A short who-gets-the-warning question makes the oversight mechanism legible; opening immediately identifies ARI and proposal status. Avoids asserting this is the most important/useful safety intervention, or confusing four calendar days with four business days. It treats workflow authority and measurement as analysis and keeps adoption unknown.",
+      "article_path": "articles/ari-ai-research-four-day-warning/chatgpt/english.md",
+      "headline": "When AI Starts Improving AI, Who Gets the Warning?",
+      "sha256": "fa829d79d98e9920ea6aa4ac4fb35b425fc71ffb6eecf04d55e1c2d208ce82f1"
+    },
+    {
+      "topic": "ari-ai-research-four-day-warning",
+      "language": "zh",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "The concise warning question carries the tension in natural Chinese. Its first paragraphs explain who proposes the system and why reporting cannot itself prove control or safety. Keeps four business days and dual thresholds clear; no first-person career claim or seasonal superlative selected.",
+      "article_path": "articles/ari-ai-research-four-day-warning/chatgpt/chinese.md",
+      "headline": "当AI开始改进AI，谁会最先收到预警？",
+      "sha256": "34ce8fbcba0134d8e58e44bee666a18a1e092c26a484c75b3f4876463acd1003"
     }
   ]
 }

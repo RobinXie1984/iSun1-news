@@ -1142,6 +1142,44 @@
           "sha256": "c33e9936df63c060caef1b177e6b32af7d46cf8c6e8a207b58b77cd7eec48b43"
         }
       ]
+    },
+    {
+      "topic": "recordanelles-cell-rna-memory",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/recordanelles-cell-rna-memory-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 279889,
+          "sha256": "69aeb2a08752a2bad0c4a1f810e31ba5ab824fc6a05ee17a1e49f1ab6315ac45"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/recordanelles-cell-rna-memory-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 90425,
+          "sha256": "e185532ad7ab732301d5f9ab69a404d9e2ae1556f6395a24cce2be8d6c17fc0b"
+        }
+      ]
+    },
+    {
+      "topic": "ari-ai-research-four-day-warning",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/ari-ai-research-four-day-warning-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 260728,
+          "sha256": "965187a5ec269ba19a5393bb47aa81ad82861c8dfbd72c721e39cb8d9301e058"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/ari-ai-research-four-day-warning-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 84522,
+          "sha256": "b04c6ed098ecfd39b1bc21e1a37da95a07a600fcf17f89bbb6d00565d8b41c31"
+        }
+      ]
     }
   ]
 }

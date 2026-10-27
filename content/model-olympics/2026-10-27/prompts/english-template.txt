@@ -1,0 +1,9 @@
+Write like a curious explorer and entrepreneur, summary or conclusion first, make it engaging and educative, never over-explain, tell the story, never use notepad.
+
+Write the article in English, about 2000 words. First give three headline options labelled Suspenseful, Emotional Resonance, and Counter-intuitive; then begin the article with its summary or conclusion.
+
+Use the common news brief below. Preserve facts, event dates, attribution, material limitations and uncertainty. Do not invent quotations, scenes or private emotions. Distinguish your analysis from source facts. No additional browsing is needed.
+
+Return the complete article directly in this conversation as text/Markdown. Do not create a separate document, artifact, canvas, notebook or file.
+
+News Material:

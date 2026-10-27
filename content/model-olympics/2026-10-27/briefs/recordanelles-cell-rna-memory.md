@@ -1,0 +1,9 @@
+# Frozen factual brief — a recent-history recorder inside cells
+Collection 2026-10-27; ETH report 2026-10-26; paper listed by ETH as 2026-10-21. Not a new patient treatment.
+Primary source: https://bsse.ethz.ch/news-and-events/d-bsse-news/2026/10/new-method-reveals-what-a-cell-did-days-ago.html
+Paper reference: https://doi.org/10.1038/s41587-026-03327-6 (Nature full text unavailable in this check; do not invent paper-specific performance statistics).
+F1 Randall Platt's ETH team reports engineered recordanelles preserving several thousand RNA molecules per cell over several days. RNA indicates gene activity; ordinary collection destroys the sampled cell and offers a snapshot.
+F2 Three optimized proteins, supplied through plasmid blueprints, concentrate RNA around mitochondria and protect it from breakdown. One component derives from a stress-granule protein. This is an engineered archive, not a literal video, perfect timestamped log or DNA rewrite.
+F3 Demonstration: cultured human cells responding to an immune signalling molecule. This is laboratory evidence, not an animal or clinical success, and not direct proof of why a patient's cancer returned.
+F4 Researchers want to investigate rare cells identified retrospectively, including chemotherapy-surviving persister cells. Animal and cancer applications are future aims. Patent applied for; no approval, treatment benefit or commercial readiness established.
+F5 Positive reason: a demonstrated research tool may make previously transient gene activity investigable. Its value is a new way to ask a hard question, not an earned claim to cure cancer. Authors include Christopher Reinkemeier and Marcos Manero-Carranza. No invented quotations, scenes, emotions or extra numerical benchmarks. Explain the possibility and boundaries plainly; keep analysis labelled as analysis.

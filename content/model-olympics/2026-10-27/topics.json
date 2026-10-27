@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "recordanelles-cell-rna-memory",
+      "event_date": "2026-10-26",
+      "title": {
+        "en": "A cell keeps an archive of its recent past",
+        "zh": "让细胞保留自己过去几天的记录"
+      },
+      "summary": {
+        "en": "ETH researchers report RNA recording in cultured human cells; cancer applications remain a future research aim.",
+        "zh": "苏黎世联邦理工报告人类培养细胞中的RNA记录工具；癌症应用仍待研究。"
+      }
+    },
+    {
+      "id": "ari-ai-research-four-day-warning",
+      "event_date": "2026-10-26",
+      "title": {
+        "en": "Who watches AI building the next AI?",
+        "zh": "AI研发下一代AI，谁来追踪？"
+      },
+      "summary": {
+        "en": "An advocacy proposal pairs quarterly confidential reports with four-business-day notices of material research automation shifts.",
+        "zh": "一项倡议提案将季度保密报告，与研发自动化重大变化后的四个工作日通报结合；尚非法律。"
+      }
+    }
+  ]
+}

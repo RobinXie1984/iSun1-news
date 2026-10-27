@@ -4305,6 +4305,118 @@
       "prompt_version": "v3-simple-explorer",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/recordanelles-cell-rna-memory/chatgpt/english.md",
+      "captured_at": "2026-10-27T07:06:27.865Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/recordanelles-cell-rna-memory/chatgpt/chinese.md",
+      "captured_at": "2026-10-27T07:08:47.840Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/recordanelles-cell-rna-memory/claude/english.md",
+      "captured_at": "2026-10-27T07:03:31.268Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/recordanelles-cell-rna-memory/claude/chinese.md",
+      "captured_at": "2026-10-27T07:05:37.717Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/recordanelles-cell-rna-memory/gemini/english.md",
+      "captured_at": "2026-10-27T07:05:37.848Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/recordanelles-cell-rna-memory/gemini/chinese.md",
+      "captured_at": "2026-10-27T07:11:48.945Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/recordanelles-cell-rna-memory/grok/english.md",
+      "captured_at": "2026-10-27T07:03:31.447Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/recordanelles-cell-rna-memory/grok/chinese.md",
+      "captured_at": "2026-10-27T07:05:37.777Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ari-ai-research-four-day-warning/chatgpt/english.md",
+      "captured_at": "2026-10-27T07:11:48.483Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ari-ai-research-four-day-warning/chatgpt/chinese.md",
+      "captured_at": "2026-10-27T07:14:02.940Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ari-ai-research-four-day-warning/claude/english.md",
+      "captured_at": "2026-10-27T07:07:13.139Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ari-ai-research-four-day-warning/claude/chinese.md",
+      "captured_at": "2026-10-27T07:08:03.854Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ari-ai-research-four-day-warning/gemini/english.md",
+      "captured_at": "2026-10-27T07:15:19.106Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ari-ai-research-four-day-warning/gemini/chinese.md",
+      "captured_at": "2026-10-27T07:20:04.435Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ari-ai-research-four-day-warning/grok/english.md",
+      "captured_at": "2026-10-27T07:07:13.306Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ari-ai-research-four-day-warning/grok/chinese.md",
+      "captured_at": "2026-10-27T07:08:03.938Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }
