@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-26T07:25:44.726090+00:00",
+  "selected_at": "2026-10-27T02:42:42.593387+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1166,12 +1166,12 @@
     {
       "topic": "school-extra-year-dementia-65",
       "language": "en",
-      "provider": "claude",
-      "article_path": "articles/school-extra-year-dementia-65/claude/english.md",
+      "provider": "chatgpt",
+      "article_path": "articles/school-extra-year-dementia-65/chatgpt/english.md",
       "headline_index": 0,
-      "headline": "A 1972 Law Left a Trace That Researchers Found Five Decades Later",
-      "sha256": "54a095d01def5e7a02be394b29bd8ab0b5b0f9c9d9b55395f5be7319b7701e33",
-      "reason": "Provisional among available writers: a1972law and a trace five decades later offer a precise mystery. The opening pays it off with recorded diagnoses and design assumptions, and promptly states age65 and cohort limits. No unverified percentage-point conversion or universal best-evidence headline."
+      "headline": "A School Rule Changed in 1972. Decades Later, a Dementia Signal Emerged.",
+      "sha256": "e1c2f95c4f827840a2d045df1206ac6d593ce06c162999be8224d010f7769b31",
+      "reason": "The new exact headline names the school rule,1972 and the dementia signal, keeping the delayed-consequence mystery while making its human relevance clearer than the prior generic trace. Summary-first opening retains recorded diagnoses,causal-design assumptions,age65 endpoint and no adult-learning prescription. Selected independently from Chinese; editorial judgment,not audience measurement."
     },
     {
       "topic": "school-extra-year-dementia-65",

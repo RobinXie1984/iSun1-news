@@ -4249,6 +4249,62 @@
       "prompt_version": "v3-simple-explorer",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gabrielse-one-positron-300mk/chatgpt/english.md",
+      "captured_at": "2026-10-27T02:19:08.792Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gabrielse-one-positron-300mk/chatgpt/chinese.md",
+      "captured_at": "2026-10-27T02:21:59.551Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-cookies-four-month-refusal/chatgpt/english.md",
+      "captured_at": "2026-10-27T02:27:08.492Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-cookies-four-month-refusal/chatgpt/chinese.md",
+      "captured_at": "2026-10-27T02:28:34.362Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/school-extra-year-dementia-65/chatgpt/english.md",
+      "captured_at": "2026-10-27T02:32:26.482Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/school-extra-year-dementia-65/chatgpt/chinese.md",
+      "captured_at": "2026-10-27T02:35:40.622Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/chatgpt/english.md",
+      "captured_at": "2026-10-27T02:39:33.444Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artemis-three-ships-earth-rehearsal/chatgpt/chinese.md",
+      "captured_at": "2026-10-27T02:42:42.251Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }
