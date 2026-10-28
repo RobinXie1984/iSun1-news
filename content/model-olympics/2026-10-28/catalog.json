@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-28T07:27:05.389461+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 16,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/rubin-ed138-hidden-world.md",
+      "article_path": "articles/rubin-ed138-hidden-world/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source check: Rubin’s October 27 announcement reports a candidate, not a confirmed dwarf planet or Planet Nine. The 600–1500 km diameter is an estimate using brightness and reflectivity; infrared follow-up remains necessary. Thirty Rubin detections on 20 nights and DECam records to 2016 constrain the orbit, not a resolved surface. Interpretive analogies and forecasts are the writer’s analysis."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/rubin-ed138-hidden-world.md",
+      "article_path": "articles/rubin-ed138-hidden-world/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：鲁宾10月27日公告报告的是候选天体，并非已确认的矮行星或第九行星。600至1500公里是根据亮度与反射率推算的直径范围，仍需红外后续观测。鲁宾20夜30次记录与追溯2016年的DECam资料约束轨道，并非表面近照。比喻与预测属于作者分析。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/rubin-ed138-hidden-world.md",
+      "article_path": "articles/rubin-ed138-hidden-world/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: Rubin’s October 27 announcement reports a candidate, not a confirmed dwarf planet or Planet Nine. The 600–1500 km diameter is an estimate using brightness and reflectivity; infrared follow-up remains necessary. Thirty Rubin detections on 20 nights and DECam records to 2016 constrain the orbit, not a resolved surface. Interpretive analogies and forecasts are the writer’s analysis."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/rubin-ed138-hidden-world.md",
+      "article_path": "articles/rubin-ed138-hidden-world/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：鲁宾10月27日公告报告的是候选天体，并非已确认的矮行星或第九行星。600至1500公里是根据亮度与反射率推算的直径范围，仍需红外后续观测。鲁宾20夜30次记录与追溯2016年的DECam资料约束轨道，并非表面近照。比喻与预测属于作者分析。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/rubin-ed138-hidden-world.md",
+      "article_path": "articles/rubin-ed138-hidden-world/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: Rubin’s October 27 announcement reports a candidate, not a confirmed dwarf planet or Planet Nine. The 600–1500 km diameter is an estimate using brightness and reflectivity; infrared follow-up remains necessary. Thirty Rubin detections on 20 nights and DECam records to 2016 constrain the orbit, not a resolved surface. Interpretive analogies and forecasts are the writer’s analysis. Added albedo/composition ranges, precise motion, negligible-parallax and guaranteed future-precision claims are not established by the brief. Tables are illustrative assumptions, not measurements; “strictly bounded” and “will nail down” overstate certainty. No specific infrared mission is confirmed."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/rubin-ed138-hidden-world.md",
+      "article_path": "articles/rubin-ed138-hidden-world/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：鲁宾10月27日公告报告的是候选天体，并非已确认的矮行星或第九行星。600至1500公里是根据亮度与反射率推算的直径范围，仍需红外后续观测。鲁宾20夜30次记录与追溯2016年的DECam资料约束轨道，并非表面近照。比喻与预测属于作者分析。 文中新增反射率、成分、精确运动、可忽略视差及保证未来精度等主张，均未由简报确立。表格是假设示例而非测量；“严格界定”及必然确定体积夸大了确定性，亦未确认特定红外任务。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/rubin-ed138-hidden-world.md",
+      "article_path": "articles/rubin-ed138-hidden-world/grok/english.md",
+      "status": "available",
+      "availability_note": "Source check: Rubin’s October 27 announcement reports a candidate, not a confirmed dwarf planet or Planet Nine. The 600–1500 km diameter is an estimate using brightness and reflectivity; infrared follow-up remains necessary. Thirty Rubin detections on 20 nights and DECam records to 2016 constrain the orbit, not a resolved surface. Interpretive analogies and forecasts are the writer’s analysis. “Not found by looking harder” is rhetoric: fresh Rubin detections and archival recovery both mattered. No census of additional hidden bodies is established."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/rubin-ed138-hidden-world.md",
+      "article_path": "articles/rubin-ed138-hidden-world/grok/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：鲁宾10月27日公告报告的是候选天体，并非已确认的矮行星或第九行星。600至1500公里是根据亮度与反射率推算的直径范围，仍需红外后续观测。鲁宾20夜30次记录与追溯2016年的DECam资料约束轨道，并非表面近照。比喻与预测属于作者分析。 “不是靠看得更努力”是修辞；新的鲁宾观测与旧档案找回均有贡献，尚未确立更多隐藏天体的数量。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nvidia-meta-three-billion-loop.md",
+      "article_path": "articles/nvidia-meta-three-billion-loop/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source check: Nvidia’s October 27 release describes a proposed $3 billion investment, not confirmed settlement. Meta’s priced base is $37.5 billion gross; its common-stock sale produces no initial proceeds, with about $24.9 billion net before expenses expected at later forward settlement, subject to adjustments. October 29 closing remains conditional. Company performance claims lack independent validation here. No contractual earmarking for Nvidia chips or wrongdoing is established."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nvidia-meta-three-billion-loop.md",
+      "article_path": "articles/nvidia-meta-three-billion-loop/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：英伟达10月27日公告描述拟议30亿美元投资，未证实已经交割。Meta定价基本规模为375亿美元总额；普通股出售最初不带来所得，约249亿美元为扣除相关承销折让后、费用前的预期净额，待后续远期交割且可调整。10月29日结束发行仍附条件。公司性能主张在此未经独立验证；未确立指定采购英伟达芯片的条款或违法事实。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nvidia-meta-three-billion-loop.md",
+      "article_path": "articles/nvidia-meta-three-billion-loop/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: Nvidia’s October 27 release describes a proposed $3 billion investment, not confirmed settlement. Meta’s priced base is $37.5 billion gross; its common-stock sale produces no initial proceeds, with about $24.9 billion net before expenses expected at later forward settlement, subject to adjustments. October 29 closing remains conditional. Company performance claims lack independent validation here. No contractual earmarking for Nvidia chips or wrongdoing is established. The “biggest supplier” headline is unverified. Toy dollar amounts and cafe examples are hypothetical; the toy margin calculation is not a bound on total strategic value. “Putting money in” must retain proposed status."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nvidia-meta-three-billion-loop.md",
+      "article_path": "articles/nvidia-meta-three-billion-loop/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：英伟达10月27日公告描述拟议30亿美元投资，未证实已经交割。Meta定价基本规模为375亿美元总额；普通股出售最初不带来所得，约249亿美元为扣除相关承销折让后、费用前的预期净额，待后续远期交割且可调整。10月29日结束发行仍附条件。公司性能主张在此未经独立验证；未确立指定采购英伟达芯片的条款或违法事实。 “最大供应商”标题未核实。咖啡店与小额数字仅为假设；示例的边际利润计算不是战略总价值的上限。“投入资金”须保留拟议身份。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nvidia-meta-three-billion-loop.md",
+      "article_path": "articles/nvidia-meta-three-billion-loop/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: Nvidia’s October 27 release describes a proposed $3 billion investment, not confirmed settlement. Meta’s priced base is $37.5 billion gross; its common-stock sale produces no initial proceeds, with about $24.9 billion net before expenses expected at later forward settlement, subject to adjustments. October 29 closing remains conditional. Company performance claims lack independent validation here. No contractual earmarking for Nvidia chips or wrongdoing is established. Corrections: biggest/best customer, a completed wire, guaranteed liquidity and demand as the reason for upsizing are not established. Sentry is described by Nvidia for agent monitoring, not hardware health. The vendor-debt table is not a valid general rule for immediate revenue recognition. Added settlement options, capital motives and automatic operational/valuation benefits are unverified analysis, not deal terms."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nvidia-meta-three-billion-loop.md",
+      "article_path": "articles/nvidia-meta-three-billion-loop/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：英伟达10月27日公告描述拟议30亿美元投资，未证实已经交割。Meta定价基本规模为375亿美元总额；普通股出售最初不带来所得，约249亿美元为扣除相关承销折让后、费用前的预期净额，待后续远期交割且可调整。10月29日结束发行仍附条件。公司性能主张在此未经独立验证；未确立指定采购英伟达芯片的条款或违法事实。 金额更正：优先股是125亿美元，不是文中开头的12.5亿美元。375亿美元是融资基础规模，并非已花在某栋机房上的金额。更正：最大或最佳客户、已汇款、保证流动性及扩大发行因需求旺盛，均未获确立。英伟达将Sentry用于智能体监测，非硬件健康。供应商债务融资表格并非可立即确认收入的普遍规则。新增结算选项、资金动机与自动运营或估值利益，属未经核实的分析，并非交易条款。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nvidia-meta-three-billion-loop.md",
+      "article_path": "articles/nvidia-meta-three-billion-loop/grok/english.md",
+      "status": "available",
+      "availability_note": "Source check: Nvidia’s October 27 release describes a proposed $3 billion investment, not confirmed settlement. Meta’s priced base is $37.5 billion gross; its common-stock sale produces no initial proceeds, with about $24.9 billion net before expenses expected at later forward settlement, subject to adjustments. October 29 closing remains conditional. Company performance claims lack independent validation here. No contractual earmarking for Nvidia chips or wrongdoing is established. Correction: the roughly $24.9 billion is net BEFORE expenses, not net of all expenses. Nvidia’s security allocation is unspecified; hypothetical preferred returns and cash settlement are not verified deal terms. Missing settlement evidence does not prove no cash has moved."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nvidia-meta-three-billion-loop.md",
+      "article_path": "articles/nvidia-meta-three-billion-loop/grok/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：英伟达10月27日公告描述拟议30亿美元投资，未证实已经交割。Meta定价基本规模为375亿美元总额；普通股出售最初不带来所得，约249亿美元为扣除相关承销折让后、费用前的预期净额，待后续远期交割且可调整。10月29日结束发行仍附条件。公司性能主张在此未经独立验证；未确立指定采购英伟达芯片的条款或违法事实。 更正：约249亿美元是费用前净额，并非扣除全部费用。英伟达具体认购证券分配未说明；优先股回报或现金结算的假设，并非已核实条款。缺少交割证据，不等于已证明任何资金均未移动。"
+    }
+  ]
+}

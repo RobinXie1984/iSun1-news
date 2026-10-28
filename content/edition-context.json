@@ -4417,6 +4417,118 @@
       "prompt_version": "v3-simple-explorer",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/rubin-ed138-hidden-world/chatgpt/english.md",
+      "captured_at": "2026-10-28T07:12:42.539Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/rubin-ed138-hidden-world/chatgpt/chinese.md",
+      "captured_at": "2026-10-28T07:15:58.946Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/rubin-ed138-hidden-world/claude/english.md",
+      "captured_at": "2026-10-28T07:09:25.475Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/rubin-ed138-hidden-world/claude/chinese.md",
+      "captured_at": "2026-10-28T07:10:30.238Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/rubin-ed138-hidden-world/gemini/english.md",
+      "captured_at": "2026-10-28T07:12:43.231Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/rubin-ed138-hidden-world/gemini/chinese.md",
+      "captured_at": "2026-10-28T07:26:27.087Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/rubin-ed138-hidden-world/grok/english.md",
+      "captured_at": "2026-10-28T07:09:25.523Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/rubin-ed138-hidden-world/grok/chinese.md",
+      "captured_at": "2026-10-28T07:10:30.295Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/nvidia-meta-three-billion-loop/chatgpt/english.md",
+      "captured_at": "2026-10-28T07:19:55.456Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/nvidia-meta-three-billion-loop/chatgpt/chinese.md",
+      "captured_at": "2026-10-28T07:23:18.629Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/nvidia-meta-three-billion-loop/claude/english.md",
+      "captured_at": "2026-10-28T07:12:36.026Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/nvidia-meta-three-billion-loop/claude/chinese.md",
+      "captured_at": "2026-10-28T07:13:35.813Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/nvidia-meta-three-billion-loop/gemini/english.md",
+      "captured_at": "2026-10-28T07:19:26.964Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/nvidia-meta-three-billion-loop/gemini/chinese.md",
+      "captured_at": "2026-10-28T07:26:27.173Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/nvidia-meta-three-billion-loop/grok/english.md",
+      "captured_at": "2026-10-28T07:12:36.426Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/nvidia-meta-three-billion-loop/grok/chinese.md",
+      "captured_at": "2026-10-28T07:13:35.863Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

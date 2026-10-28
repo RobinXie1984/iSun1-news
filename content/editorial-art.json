@@ -1180,6 +1180,44 @@
           "sha256": "b04c6ed098ecfd39b1bc21e1a37da95a07a600fcf17f89bbb6d00565d8b41c31"
         }
       ]
+    },
+    {
+      "topic": "rubin-ed138-hidden-world",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/rubin-ed138-hidden-world-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 296059,
+          "sha256": "872eec3c77ba25ad7e9d342bc26a9e93b7a31b8296a60216eaa9dc814492bc54"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/rubin-ed138-hidden-world-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 85687,
+          "sha256": "fa30dba8fb1b0e9137a263f27e75f259ef11fa8d90e696a81e4945f8147d18f7"
+        }
+      ]
+    },
+    {
+      "topic": "nvidia-meta-three-billion-loop",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/nvidia-meta-three-billion-loop-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 275676,
+          "sha256": "5f8b0865035e99599347c38649584c77fdae4af56f25607602b1170c95a2c999"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/nvidia-meta-three-billion-loop-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 89091,
+          "sha256": "14462810e78a5b82c712a974ce84ecd6e491eb94f288606ca31d33505264a25c"
+        }
+      ]
     }
   ]
 }

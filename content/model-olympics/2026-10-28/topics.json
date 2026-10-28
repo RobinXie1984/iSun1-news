@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "rubin-ed138-hidden-world",
+      "event_date": "2026-10-27",
+      "title": {
+        "en": "A possible world hidden in old starlight",
+        "zh": "旧星光里，藏着一个可能的新世界"
+      },
+      "summary": {
+        "en": "Rubin finds dwarf planet candidate 2026 ED138; brightness suggests size, while infrared follow-up is still needed.",
+        "zh": "鲁宾发现矮行星候选天体2026 ED138；体积仍是亮度推算，尚待红外观测。"
+      }
+    },
+    {
+      "id": "nvidia-meta-three-billion-loop",
+      "event_date": "2026-10-27",
+      "title": {
+        "en": "The chip supplier becomes an investor",
+        "zh": "当芯片供应商也成了投资者"
+      },
+      "summary": {
+        "en": "Nvidia plans a $3 billion Meta equity investment alongside an expanded AI partnership; financing and performance claims require care.",
+        "zh": "英伟达拟投30亿美元参与Meta股权融资，并深化AI合作；融资到账与性能承诺须分清。"
+      }
+    }
+  ]
+}

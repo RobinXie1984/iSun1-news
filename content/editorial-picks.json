@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-27T07:20:26.362764+00:00",
+  "selected_at": "2026-10-28T07:27:05.658640+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1242,6 +1242,46 @@
       "article_path": "articles/ari-ai-research-four-day-warning/chatgpt/chinese.md",
       "headline": "当AI开始改进AI，谁会最先收到预警？",
       "sha256": "34ce8fbcba0134d8e58e44bee666a18a1e092c26a484c75b3f4876463acd1003"
+    },
+    {
+      "topic": "rubin-ed138-hidden-world",
+      "language": "en",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "The moving dot and decade of clues create a precise mystery; the opening immediately says possible and gives the estimated range. The observed orbit and unmeasured physical size remain distinct. Stronger clarity than technical embellishment or the categorical looking-backward-only claim.",
+      "article_path": "articles/rubin-ed138-hidden-world/chatgpt/english.md",
+      "headline": "A Moving Dot Beyond Pluto—and the Decade of Clues That Revealed It",
+      "sha256": "be74792cbd0c50d2ff742f3bdea779b38935fbcd618e608fe46d483c977bed12"
+    },
+    {
+      "topic": "rubin-ed138-hidden-world",
+      "language": "zh",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "The concise Chinese detective question names the moving point and ten-year clues. The opening naturally gives candidate status and infrared follow-up. It avoids billion-star precision and makes archival reuse intelligible without claiming a new confirmed planet.",
+      "article_path": "articles/rubin-ed138-hidden-world/chatgpt/chinese.md",
+      "headline": "冥王星之外，一个移动光点如何牵出十年前的线索？",
+      "sha256": "1513893b7a85148ede59831f2dc79619659beb926bdd69aa6303446d3d33a7bd"
+    },
+    {
+      "topic": "nvidia-meta-three-billion-loop",
+      "language": "en",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "Plans plus Nvidia and$3billion create truthful tension. The opening separates commitment,purchase and useful work, retains conditional cash timing, and makes dependency an analysis rather than an accusation. Other headlines imply completed payment or unsupported biggest-customer status.",
+      "article_path": "articles/nvidia-meta-three-billion-loop/chatgpt/english.md",
+      "headline": "Nvidia Plans to Put $3 Billion Into a Customer. What Happens on the Other Side?",
+      "sha256": "7774ccc94e5d08e305e89e661913f5cd439c5adc956eb30f7ec8fa9971d96b8a"
+    },
+    {
+      "topic": "nvidia-meta-three-billion-loop",
+      "language": "zh",
+      "provider": "chatgpt",
+      "headline_index": 2,
+      "reason": "The Chinese counter-intuitive headline makes the financing/usefulness distinction memorable. The first paragraph immediately supplies proposed30亿美元 andMeta. Clear cash dates and evidence boundaries outperform check-writing, biggest-supplier and circular-money rhetoric.",
+      "article_path": "articles/nvidia-meta-three-billion-loop/chatgpt/chinese.md",
+      "headline": "英伟达可以为AI扩张提供资金，却无法为“AI确实有用”提供证明",
+      "sha256": "6ad89cbaa6bb488bb44d564e1b793d34eaeaa9c7d4344dc7e0979db06da62614"
     }
   ]
 }
