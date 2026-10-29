@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-28T07:27:05.658640+00:00",
+  "selected_at": "2026-10-29T07:26:23.162029+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1282,6 +1282,46 @@
       "article_path": "articles/nvidia-meta-three-billion-loop/chatgpt/chinese.md",
       "headline": "英伟达可以为AI扩张提供资金，却无法为“AI确实有用”提供证明",
       "sha256": "6ad89cbaa6bb488bb44d564e1b793d34eaeaa9c7d4344dc7e0979db06da62614"
+    },
+    {
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "language": "en",
+      "provider": "chatgpt",
+      "headline_index": 2,
+      "reason": "The slower-charge paradox earns attention without attaching60%to the whole factory. The opening immediately confines the gain to formation and distinguishes electricity projections from results. Clear industrial payoff and source limits beat more technical speculation or false first-in-history claims.",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/chatgpt/english.md",
+      "headline": "To Make Batteries Faster, Start by Charging Them Slowly",
+      "sha256": "9dba5f88804656d1fa510c9ebabf3ad0f9015ee6ba06fb27adf0b5693267fbc0"
+    },
+    {
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "language": "zh",
+      "provider": "chatgpt",
+      "headline_index": 2,
+      "reason": "The natural counter-intuitive Chinese line makes slow charging and faster manufacture accessible. Its first two paragraphs state the formation-only comparison and lifetime/safety limits. It avoids invented personal quant experience, precise chemistry and unverified factory economics.",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/chatgpt/chinese.md",
+      "headline": "想把电池造得更快，先让它充得慢一点",
+      "sha256": "0befeff1ae18915b086cdb82f61bcabf635bec2f7f700e2cabd79a3c3d3f3085"
+    },
+    {
+      "topic": "ftc-nine-firms-price-pay-data",
+      "language": "en",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "A direct question makes the algorithm personal without accusing a named company. The opening clearly frames an inquiry, and the body explains customer offers and worker pay with attributed facts and conditional analysis. Stronger source discipline and taste than black-box findings or invented commerce scenes.",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/chatgpt/english.md",
+      "headline": "What Does the Algorithm Know Before It Names Your Price?",
+      "sha256": "6f8a114827236137f9153dec35eb8fcb239b5ec9ad9e596acee789182c2668d2"
+    },
+    {
+      "topic": "ftc-nine-firms-price-pay-data",
+      "language": "zh",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "The Chinese suspense question is concise and makes the hidden input intelligible. The opening separates the regulator’s inquiry from a finding; the text preserves receipt-based45days, customer/pay differences and conditional benefits. More natural and source-grounded than unsupported historical claims, alleged penalties or invented scenes.",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/chatgpt/chinese.md",
+      "headline": "算法开出价格之前，究竟已经知道了你什么？",
+      "sha256": "d38d1b0b50233efbda7b25698b6171208edcf08b0ef340134db1d6996ebc0b83"
     }
   ]
 }

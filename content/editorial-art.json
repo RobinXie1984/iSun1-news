@@ -1218,6 +1218,44 @@
           "sha256": "14462810e78a5b82c712a974ce84ecd6e491eb94f288606ca31d33505264a25c"
         }
       ]
+    },
+    {
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/battery-formation-slower-charge-faster-factory-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 247059,
+          "sha256": "2bc3c924e3da7c13a23f95d81267afa91ebf163209ae12bafc54fa45493b8881"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/battery-formation-slower-charge-faster-factory-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 81506,
+          "sha256": "b1153ea0092c79614af31a38a471dc595ae18ca232fa9c78a8491fa3bf5700d7"
+        }
+      ]
+    },
+    {
+      "topic": "ftc-nine-firms-price-pay-data",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/ftc-nine-firms-price-pay-data-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 273705,
+          "sha256": "8ff8899b8978f63862f3d14c7e1d89923bef2560d8af16461a6f01312fe48766"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/ftc-nine-firms-price-pay-data-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 85844,
+          "sha256": "9e6e9340ecd87943b907f612876b751e39bf16f474646a7b0931cc7b10788e79"
+        }
+      ]
     }
   ]
 }

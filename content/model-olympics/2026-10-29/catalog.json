@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-29T07:26:16.934139+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 15,
+  "unavailable_count": 1,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/battery-formation-slower-charge-faster-factory.md",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source check: Cornell reports up to about60% less FORMATION time in two C4V protocols, not total factory time or faster EV charging. The10–15% plant electricity reduction is an attributed projection. Resistance settling after1.5cycles does not prove lifetime or safety equivalence. The linked journal page returned403; sample sizes, full methods and evaluation cycles remain UNKNOWN here. Broader adoption and economics are unverified. Analogies are analysis."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/battery-formation-slower-charge-faster-factory.md",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：康奈尔报道两套C4V方案将化成时间最多缩短约60%，并非整厂生产时间或电动车快充改善。全厂用电减少10至15%是有归属的预测。1.5循环电阻趋稳不证明寿命或安全性等同。期刊链接返回403，本文无法确认样本数、完整方法与评估循环；推广及经济性仍未知。比喻属分析。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/battery-formation-slower-charge-faster-factory.md",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: Cornell reports up to about60% less FORMATION time in two C4V protocols, not total factory time or faster EV charging. The10–15% plant electricity reduction is an attributed projection. Resistance settling after1.5cycles does not prove lifetime or safety equivalence. The linked journal page returned403; sample sizes, full methods and evaluation cycles remain UNKNOWN here. Broader adoption and economics are unverified. Analogies are analysis. “Finally/just learned to watch” is not a verified first-in-history claim. “My” quant/AI experience is model narration, not a verified personal history; causal analogies are interpretation."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/battery-formation-slower-charge-faster-factory.md",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：康奈尔报道两套C4V方案将化成时间最多缩短约60%，并非整厂生产时间或电动车快充改善。全厂用电减少10至15%是有归属的预测。1.5循环电阻趋稳不证明寿命或安全性等同。期刊链接返回403，本文无法确认样本数、完整方法与评估循环；推广及经济性仍未知。比喻属分析。 “终于”“第一次学会”不代表已核实的历史首次。“我在量化及AI领域反复遇到”是模型叙述，并非核实的个人经历；因果比喻属解读。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/battery-formation-slower-charge-faster-factory.md",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: Cornell reports up to about60% less FORMATION time in two C4V protocols, not total factory time or faster EV charging. The10–15% plant electricity reduction is an attributed projection. Resistance settling after1.5cycles does not prove lifetime or safety equivalence. The linked journal page returned403; sample sizes, full methods and evaluation cycles remain UNKNOWN here. Broader adoption and economics are unverified. Analogies are analysis. Corrections: whole-factory acceleration, exact compounds/kinetics, denser layers, fault mechanisms,40-hour/36-hour timing, factory costs, volumes and required qualification duration are not established. Inaccessible methods are UNKNOWN, not proved undisclosed. Historical “until now/in the dark” claims and definite future savings overreach. ASCII table is not source data."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/battery-formation-slower-charge-faster-factory.md",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：康奈尔报道两套C4V方案将化成时间最多缩短约60%，并非整厂生产时间或电动车快充改善。全厂用电减少10至15%是有归属的预测。1.5循环电阻趋稳不证明寿命或安全性等同。期刊链接返回403，本文无法确认样本数、完整方法与评估循环；推广及经济性仍未知。比喻属分析。 更正：“拯救整座工厂”、精确物质与动力学、致密程度、故障机理、工厂投资与产量、线性占地、-40°C露点及必需资格试验时长，均未获简报确立。方法无法访问意味着未知，不证明作者未披露。“过去无法观察”及必然节省成本夸大确定性；表格非来源数据。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/battery-formation-slower-charge-faster-factory.md",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/grok/english.md",
+      "status": "available",
+      "availability_note": "Source check: Cornell reports up to about60% less FORMATION time in two C4V protocols, not total factory time or faster EV charging. The10–15% plant electricity reduction is an attributed projection. Resistance settling after1.5cycles does not prove lifetime or safety equivalence. The linked journal page returned403; sample sizes, full methods and evaluation cycles remain UNKNOWN here. Broader adoption and economics are unverified. Analogies are analysis. “Speed the whole factory” overstates the measured scope. We did not access a journal abstract: only Cornell’s report was reviewed. Specific interface chemistry, in-line correlation and instrumentation necessity are not established by that report."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/battery-formation-slower-charge-faster-factory.md",
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/grok/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：康奈尔报道两套C4V方案将化成时间最多缩短约60%，并非整厂生产时间或电动车快充改善。全厂用电减少10至15%是有归属的预测。1.5循环电阻趋稳不证明寿命或安全性等同。期刊链接返回403，本文无法确认样本数、完整方法与评估循环；推广及经济性仍未知。比喻属分析。 “加快整个工厂”超出实测范围。这里未访问期刊摘要，只核查了康奈尔报道。具体界面化学、在线相关性及必须加装哪些仪器，均未由该报道确立。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/ftc-nine-firms-price-pay-data.md",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source check: FTC’s October28Section6(b) orders seek records from nine firms; this inquiry is not a lawsuit, ban, fine or finding of wrongdoing. The45days run from each recipient’s service/receipt, not automatically October28. Dynamic demand pricing differs from person-specific data pricing. Requested records are not public company code or released findings. The August statement remains proposed. Company responses, effects and later outcomes are UNKNOWN in this dated brief."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/ftc-nine-firms-price-pay-data.md",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：FTC10月28日第6(b)条命令向九家公司索取记录；本次调查并非诉讼、禁令、罚款或违法认定。45日从各公司收到或被送达起算，不自动从10月28日起算。需求动态定价不同于个人数据定价。索取记录不等于公开企业代码或已有发现；8月声明仍为提案。本日期简报未确立公司回应、影响及后续结果。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/ftc-nine-firms-price-pay-data.md",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/claude/english.md",
+      "status": "available",
+      "availability_note": "Source check: FTC’s October28Section6(b) orders seek records from nine firms; this inquiry is not a lawsuit, ban, fine or finding of wrongdoing. The45days run from each recipient’s service/receipt, not automatically October28. Dynamic demand pricing differs from person-specific data pricing. Requested records are not public company code or released findings. The August statement remains proposed. Company responses, effects and later outcomes are UNKNOWN in this dated brief. “Most important case” and the agency’s45-day clock are unsupported headline framing. Historical uniform-price claims, what all outsiders know and guaranteed disclosure after45days are overbroad. Hypothetical benefits are analysis; no universal absence of other complaints is established."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/ftc-nine-firms-price-pay-data.md",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：FTC10月28日第6(b)条命令向九家公司索取记录；本次调查并非诉讼、禁令、罚款或违法认定。45日从各公司收到或被送达起算，不自动从10月28日起算。需求动态定价不同于个人数据定价。索取记录不等于公开企业代码或已有发现；8月声明仍为提案。本日期简报未确立公司回应、影响及后续结果。 “今年最重要”及机构有45天的标题说法不成立。历史统一价格、所有外部人士知道什么及45日后必然披露，均过于笼统。潜在收益属分析；未证明不存在任何其他诉讼。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/ftc-nine-firms-price-pay-data.md",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: FTC’s October28Section6(b) orders seek records from nine firms; this inquiry is not a lawsuit, ban, fine or finding of wrongdoing. The45days run from each recipient’s service/receipt, not automatically October28. Dynamic demand pricing differs from person-specific data pricing. Requested records are not public company code or released findings. The August statement remains proposed. Company responses, effects and later outcomes are UNKNOWN in this dated brief. Corrections: unprecedented access, every variable/exact weighting, actual company preparation and no responses anywhere are not established. The$7.50/$40scenes and diagrams are invented illustrations, not events or data. Pricing-history absolutes, battery-life wage inputs and future compliance mandates lack evidence here. Unknown outcomes do not prove no harm. Legal comparisons are not checked advice."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/ftc-nine-firms-price-pay-data.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Gemini3.8Thinking returned two generic inability messages for the Chinese continuation, including one unchanged-prompt retry. No completed Chinese article was captured. The English original is preserved; recovery retains the same conversation and dated frozen prompt. / Gemini3.8Thinking中文续写两次返回无法完成，包括一次原提示重试；未获取完整中文，保留英文原作及原会话，待原日期提示恢复。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/ftc-nine-firms-price-pay-data.md",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/grok/english.md",
+      "status": "available",
+      "availability_note": "Source check: FTC’s October28Section6(b) orders seek records from nine firms; this inquiry is not a lawsuit, ban, fine or finding of wrongdoing. The45days run from each recipient’s service/receipt, not automatically October28. Dynamic demand pricing differs from person-specific data pricing. Requested records are not public company code or released findings. The August statement remains proposed. Company responses, effects and later outcomes are UNKNOWN in this dated brief. “Open algorithms” does not establish public code disclosure; “lowers more often” is not a verified comparative premise. Acceptance-rate pay penalties, cancellation-based fees and unnamed parties’ arguments are hypothetical, not sourced findings about recipients. The binary prediction of what records will show is speculative."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "source_brief": "briefs/ftc-nine-firms-price-pay-data.md",
+      "article_path": "articles/ftc-nine-firms-price-pay-data/grok/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：FTC10月28日第6(b)条命令向九家公司索取记录；本次调查并非诉讼、禁令、罚款或违法认定。45日从各公司收到或被送达起算，不自动从10月28日起算。需求动态定价不同于个人数据定价。索取记录不等于公开企业代码或已有发现；8月声明仍为提案。本日期简报未确立公司回应、影响及后续结果。 “交出算法”不证明会公开源代码；“更常压低”不是已核实的比较前提。接单率惩罚、取消记录改变配送费及未具名各方主张，只能视为假设，非关于收件企业的来源发现。对材料只会呈现两种结果的判断属推测。"
+    }
+  ]
+}

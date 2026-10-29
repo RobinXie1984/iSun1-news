@@ -4529,6 +4529,111 @@
       "prompt_version": "v3-simple-explorer",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/chatgpt/english.md",
+      "captured_at": "2026-10-29T07:14:50.497Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/chatgpt/chinese.md",
+      "captured_at": "2026-10-29T07:19:11.112Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/claude/english.md",
+      "captured_at": "2026-10-29T07:10:57.075Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/claude/chinese.md",
+      "captured_at": "2026-10-29T07:12:30.077Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/gemini/english.md",
+      "captured_at": "2026-10-29T07:12:30.270Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/gemini/chinese.md",
+      "captured_at": "2026-10-29T07:19:53.666Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/grok/english.md",
+      "captured_at": "2026-10-29T07:10:57.126Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/battery-formation-slower-charge-faster-factory/grok/chinese.md",
+      "captured_at": "2026-10-29T07:12:30.139Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ftc-nine-firms-price-pay-data/chatgpt/english.md",
+      "captured_at": "2026-10-29T07:23:00.156Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ftc-nine-firms-price-pay-data/chatgpt/chinese.md",
+      "captured_at": "2026-10-29T07:25:56.605Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ftc-nine-firms-price-pay-data/claude/english.md",
+      "captured_at": "2026-10-29T07:14:51.115Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ftc-nine-firms-price-pay-data/claude/chinese.md",
+      "captured_at": "2026-10-29T07:19:11.167Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ftc-nine-firms-price-pay-data/gemini/english.md",
+      "captured_at": "2026-10-29T07:22:24.230Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ftc-nine-firms-price-pay-data/grok/english.md",
+      "captured_at": "2026-10-29T07:14:51.532Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ftc-nine-firms-price-pay-data/grok/chinese.md",
+      "captured_at": "2026-10-29T07:19:11.224Z",
+      "prompt_version": "v3-simple-explorer",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

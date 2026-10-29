@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "battery-formation-slower-charge-faster-factory",
+      "event_date": "2026-10-28",
+      "title": {
+        "en": "A slower first charge could speed up battery factories",
+        "zh": "第一次充慢一点，电池工厂反而更快"
+      },
+      "summary": {
+        "en": "Cornell and C4V report shorter battery formation protocols after observing protective layers in real time; factory-wide savings remain projections.",
+        "zh": "康奈尔与C4V据报通过实时观察保护层，缩短电池化成流程；全厂节省仍属估计。"
+      }
+    },
+    {
+      "id": "ftc-nine-firms-price-pay-data",
+      "event_date": "2026-10-28",
+      "title": {
+        "en": "Who sets your price—and a driver’s pay?",
+        "zh": "谁在决定你的价格，也决定司机的报酬？"
+      },
+      "summary": {
+        "en": "The FTC orders nine firms to explain how personal data enters prices and compensation; the study is not a finding of wrongdoing.",
+        "zh": "FTC要求九家公司说明个人资料如何进入定价与报酬算法；调查并非违法认定。"
+      }
+    }
+  ]
+}
