@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-29T07:26:23.162029+00:00",
+  "selected_at": "2026-10-30T07:20:28.547293+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1322,6 +1322,46 @@
       "article_path": "articles/ftc-nine-firms-price-pay-data/chatgpt/chinese.md",
       "headline": "算法开出价格之前，究竟已经知道了你什么？",
       "sha256": "d38d1b0b50233efbda7b25698b6171208edcf08b0ef340134db1d6996ebc0b83"
+    },
+    {
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "language": "en",
+      "provider": "chatgpt",
+      "headline_index": 2,
+      "reason": "The campus-scraps question offers a concrete positive possibility. The article explains biomass and gasification through building blocks, then dates the ongoing pilot and treats all three projected uses as alternatives. Its budget analogy makes full climate accounting accessible. Stronger source discipline than the closed-pot/char mechanisms in other drafts.",
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/chatgpt/english.md",
+      "headline": "Could UCLA’s Food Scraps and Plant Trimmings Help Power Its Campus?",
+      "sha256": "a9d23228b77a6942afbdf7ed46393b87f939626d067a5ab066a64aba4292ee0c"
+    },
+    {
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "language": "zh",
+      "provider": "chatgpt",
+      "headline_index": 2,
+      "reason": "Natural Chinese starts with familiar campus work, explains biomass and the building-block analogy, and distinguishes the October reports from the April start. It preserves the tons convention, alternative energy projections and open climate/economic questions. More precise and inviting than unsupported charcoal and full-throughput implications.",
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/chatgpt/chinese.md",
+      "headline": "食堂剩下的食物、园丁剪下的枝叶，能为大学供电吗？",
+      "sha256": "6491dbc6ebabe7c0dec56161eeb21a40cdd580d2b29ef77083edd0242f242b3b"
+    },
+    {
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "language": "en",
+      "provider": "chatgpt",
+      "headline_index": 0,
+      "reason": "The suspenseful exit question promises a consequence the article explains. A clear restaurant background leads into the civil action, followed by entry, recurring and exit costs. The power-strip analogy earns its place after the financing mechanism. Historical99-cent dates, complaint attribution and UNKNOWN company-response evidence are preserved.",
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/chatgpt/english.md",
+      "headline": "When a Restaurant Leaves Toast, What Comes Due?",
+      "sha256": "84df592c0e8f5bc01d0ae52b58bee6018081485b8eaa2c22e788ba7f676fba91"
+    },
+    {
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "language": "zh",
+      "provider": "chatgpt",
+      "headline_index": 2,
+      "reason": "The curious zero-monthly-price question is engaging and source-eligible. Flowing Chinese carries the reader from daily restaurant work to the lawsuit and the linked commitment, with clear dollar units and an everyday power-strip analogy. It retains allegation status, historical fee dates and the individual scope of the termination example.",
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/chatgpt/chinese.md",
+      "headline": "每月零美元的餐厅系统，整段合作究竟要花多少钱？",
+      "sha256": "1520af313ab1e92b8e2fb78f134748bf18d3c7baa9c4a397eb7134494d4372ac"
     }
   ]
 }

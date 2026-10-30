@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "title": {
+        "en": "UCLA explores turning campus waste into hydrogen",
+        "zh": "UCLA把校园废物变成氢能的试验"
+      },
+      "summary": {
+        "en": "A university–company pilot studies whether a daily waste stream can supply fuel and store carbon; its power and vehicle figures are projections.",
+        "zh": "大学与企业试验如何把日常废料转为燃料并储存碳；供电及车辆数字属于估算。"
+      }
+    },
+    {
+      "id": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "title": {
+        "en": "A restaurant software bill becomes a court question",
+        "zh": "餐厅软件账单走进法庭"
+      },
+      "summary": {
+        "en": "The FTC and states sue Toast over alleged charges and cancellation practices; the filed complaint puts the claims before a federal court.",
+        "zh": "FTC与多州起诉Toast，指控收费和取消订阅问题；诉状已交由联邦法院审理。"
+      }
+    }
+  ]
+}

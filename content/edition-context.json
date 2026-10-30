@@ -4634,6 +4634,90 @@
       "prompt_version": "v3-simple-explorer",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/chatgpt/english.md",
+      "captured_at": "2026-10-30T07:06:34.997Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/chatgpt/chinese.md",
+      "captured_at": "2026-10-30T07:11:54.430Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/gemini/english.md",
+      "captured_at": "2026-10-30T07:07:51.326Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/gemini/chinese.md",
+      "captured_at": "2026-10-30T07:11:54.533Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/grok/english.md",
+      "captured_at": "2026-10-30T07:05:40.574Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/grok/chinese.md",
+      "captured_at": "2026-10-30T07:06:34.936Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/chatgpt/english.md",
+      "captured_at": "2026-10-30T07:15:06.838Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/chatgpt/chinese.md",
+      "captured_at": "2026-10-30T07:18:20.689Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/gemini/english.md",
+      "captured_at": "2026-10-30T07:13:21.369Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/gemini/chinese.md",
+      "captured_at": "2026-10-30T07:18:20.739Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/grok/english.md",
+      "captured_at": "2026-10-30T07:07:51.271Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/grok/chinese.md",
+      "captured_at": "2026-10-30T07:11:54.476Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

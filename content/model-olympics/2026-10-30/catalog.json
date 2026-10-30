@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-30T07:20:20.035537+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 12,
+  "unavailable_count": 4,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/ucla-waste-seven-tons-hydrogen.md",
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source check: UCLA describes an ongoing pilot tested since April2026, scheduled through September2027. The campus estimate is seven tons/day; the source leaves the precise ton convention open. About2%electricity, peak support and roughly100vehicles are alternative projections. Full campus output, independently audited net climate benefit, prices and the complete storage chain remain questions for measurement. The$100,000 supports two graduate students. Analogies are explanation."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/ucla-waste-seven-tons-hydrogen.md",
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：UCLA报道的是自2026年4月测试、计划至2027年9月的持续试点。校园估计每天七吨，原来源的tons具体口径仍待确定。约2%电力、高峰支持与约百辆车属于替代预测。全校实际产出、独立审计的净气候收益、价格与完整储存链，仍待测量。10万美元用于支持两名研究生。比喻属于解释。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/ucla-waste-seven-tons-hydrogen.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Claude’s signed-in Opus5.5Medium account requires account-holder verification before replies. No daily prompt was submitted; the retained verification handoff and frozen common prompt allow recovery. / Claude已登录的Opus5.5Medium账户须由持有人完成验证后才能回复；本日尚未发送提示，已保留验证页面和冻结提示以便恢复。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/ucla-waste-seven-tons-hydrogen.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Claude’s signed-in Opus5.5Medium account requires account-holder verification before replies. No daily prompt was submitted; the retained verification handoff and frozen common prompt allow recovery. / Claude已登录的Opus5.5Medium账户须由持有人完成验证后才能回复；本日尚未发送提示，已保留验证页面和冻结提示以便恢复。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/ucla-waste-seven-tons-hydrogen.md",
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: UCLA describes an ongoing pilot tested since April2026, scheduled through September2027. The campus estimate is seven tons/day; the source leaves the precise ton convention open. About2%electricity, peak support and roughly100vehicles are alternative projections. Full campus output, independently audited net climate benefit, prices and the complete storage chain remain questions for measurement. The$100,000 supports two graduate students. Analogies are explanation. Corrections: “pure black charcoal” and a sealed tin depict a different simplified mechanism and establish neither this process nor carbon storage. The sources leave actual complete campus-waste throughput open. “Future independent audits” implies a promised audit absent from the brief. Headline feeding scraps and final global-scale promise overstate the verified pilot."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/ucla-waste-seven-tons-hydrogen.md",
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：UCLA报道的是自2026年4月测试、计划至2027年9月的持续试点。校园估计每天七吨，原来源的tons具体口径仍待确定。约2%电力、高峰支持与约百辆车属于替代预测。全校实际产出、独立审计的净气候收益、价格与完整储存链，仍待测量。10万美元用于支持两名研究生。比喻属于解释。 更正：“纯净黑色木炭”与密封铁罐的比喻过度简化，无法确立本项目工艺或储碳形态。全校厨余处理量、全部资助覆盖比例及“高峰储能”的具体方式均待验证。木屑照片无法证明正在持续测定餐余的每日产氢效率。标题及全球扩展前景应按试点范围理解。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/ucla-waste-seven-tons-hydrogen.md",
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/grok/english.md",
+      "status": "available",
+      "availability_note": "Source check: UCLA describes an ongoing pilot tested since April2026, scheduled through September2027. The campus estimate is seven tons/day; the source leaves the precise ton convention open. About2%electricity, peak support and roughly100vehicles are alternative projections. Full campus output, independently audited net climate benefit, prices and the complete storage chain remain questions for measurement. The$100,000 supports two graduate students. Analogies are explanation. Correction: the closed-pot/remaining-carbon analogy oversimplifies gasification and may imply solid-char capture. The sources establish processing a gas stream and carbon capture/storage aims. Complete campus food-scrap throughput and a specific reactor design remain open."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/ucla-waste-seven-tons-hydrogen.md",
+      "article_path": "articles/ucla-waste-seven-tons-hydrogen/grok/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：UCLA报道的是自2026年4月测试、计划至2027年9月的持续试点。校园估计每天七吨，原来源的tons具体口径仍待确定。约2%电力、高峰支持与约百辆车属于替代预测。全校实际产出、独立审计的净气候收益、价格与完整储存链，仍待测量。10万美元用于支持两名研究生。比喻属于解释。 更正：封闭锅与“剩余的碳”比喻过度简化气化，可能暗示固体炭捕集。来源确立的是混合气体后续处理及碳捕集储存目标。全校厨余实际处理量与具体反应器结构仍待确立。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/toast-99-cent-fee-exit-lawsuit.md",
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source check: FTC and state plaintiffs filed a civil complaint on October29,2026; the court will decide the allegations and requested relief. The99-cent fee concerns selected online orders over$10 during September2021–lateJuly2023. The~$900 average and$150/month,$85and120-day terms are attributed complaint claims with different triggers. The$5,318.87 is one pleaded example. Company response and eventual outcomes remain UNKNOWN in this collected record. Linked-services analogies are analysis."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/toast-99-cent-fee-exit-lawsuit.md",
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：FTC与各州原告于2026年10月29日提起民事诉讼，法院将裁决指控与请求救济。99美分费用涉及2021年9月至2023年7月下旬的部分超过10美元在线订单。约900美元平均值、每月150美元、85美元及120天条款，属于起诉书主张，触发条件各异。5318.87美元为一项诉状个案。本次所收记录中的企业回应及最终结果仍为UNKNOWN。关联服务比喻属分析。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/toast-99-cent-fee-exit-lawsuit.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Claude’s signed-in Opus5.5Medium account requires account-holder verification before replies. No daily prompt was submitted; the retained verification handoff and frozen common prompt allow recovery. / Claude已登录的Opus5.5Medium账户须由持有人完成验证后才能回复；本日尚未发送提示，已保留验证页面和冻结提示以便恢复。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/toast-99-cent-fee-exit-lawsuit.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Claude’s signed-in Opus5.5Medium account requires account-holder verification before replies. No daily prompt was submitted; the retained verification handoff and frozen common prompt allow recovery. / Claude已登录的Opus5.5Medium账户须由持有人完成验证后才能回复；本日尚未发送提示，已保留验证页面和冻结提示以便恢复。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/toast-99-cent-fee-exit-lawsuit.md",
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/gemini/english.md",
+      "status": "available",
+      "availability_note": "Source check: FTC and state plaintiffs filed a civil complaint on October29,2026; the court will decide the allegations and requested relief. The99-cent fee concerns selected online orders over$10 during September2021–lateJuly2023. The~$900 average and$150/month,$85and120-day terms are attributed complaint claims with different triggers. The$5,318.87 is one pleaded example. Company response and eventual outcomes remain UNKNOWN in this collected record. Linked-services analogies are analysis. Corrections: “Toast’s official response is pending in the court record” is unverified; this collection establishes UNKNOWN. The$900is a complaint claim, rather than an independently measured typical bill. A heavier cafe check lacks a sourced comparison. The bakery, renovation/family-emergency and phone scenarios are hypothetical analogies. Hidden-fee headline is a plaintiff allegation."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/toast-99-cent-fee-exit-lawsuit.md",
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：FTC与各州原告于2026年10月29日提起民事诉讼，法院将裁决指控与请求救济。99美分费用涉及2021年9月至2023年7月下旬的部分超过10美元在线订单。约900美元平均值、每月150美元、85美元及120天条款，属于起诉书主张，触发条件各异。5318.87美元为一项诉状个案。本次所收记录中的企业回应及最终结果仍为UNKNOWN。关联服务比喻属分析。 更正：企业正式回应是否待提交法庭，本次来源无法确立，状态为UNKNOWN。约900美元属于诉状主张，日常账单平均值未经独立测量；咖啡馆账单变重的比较缺乏来源。120天起算应依购买订阅条款，非签收设备；订单门槛为超过10美元。“全部本息”与具体抗辩进度仍待核实。烘焙店、装修或家庭急事及手机情节属于假想比喻。“隐藏费用”属于原告指控。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/toast-99-cent-fee-exit-lawsuit.md",
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/grok/english.md",
+      "status": "available",
+      "availability_note": "Source check: FTC and state plaintiffs filed a civil complaint on October29,2026; the court will decide the allegations and requested relief. The99-cent fee concerns selected online orders over$10 during September2021–lateJuly2023. The~$900 average and$150/month,$85and120-day terms are attributed complaint claims with different triggers. The$5,318.87 is one pleaded example. Company response and eventual outcomes remain UNKNOWN in this collected record. Linked-services analogies are analysis. “A verified company response remains for later stages” is a gap in this source collection, rather than evidence about all company statements. Thirty-day notice concerns intent to avoid renewal. Exact loan acceleration depends on the challenged contracts."
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/toast-99-cent-fee-exit-lawsuit.md",
+      "article_path": "articles/toast-99-cent-fee-exit-lawsuit/grok/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查：FTC与各州原告于2026年10月29日提起民事诉讼，法院将裁决指控与请求救济。99美分费用涉及2021年9月至2023年7月下旬的部分超过10美元在线订单。约900美元平均值、每月150美元、85美元及120天条款，属于起诉书主张，触发条件各异。5318.87美元为一项诉状个案。本次所收记录中的企业回应及最终结果仍为UNKNOWN。关联服务比喻属分析。 “公司回应留待后续程序”只能说明本次资料收集的缺口，无法断定所有企业表态。三十天通知针对避免续订的意向，贷款加速还款取决于涉诉合同。"
+    }
+  ]
+}

@@ -9,13 +9,14 @@ test('new simple prompt context validates and renders in both languages without 
  const data=loadOlympicsArchive(),context=structuredClone(data.context),originalContext=JSON.stringify(data.context),topic='starliner-61-fixes-2028',provider='claude';
  const main={innerHTML:'',classList:{add(){},remove(){}},addEventListener(){},removeEventListener(){}};
  const view=ui();
- for(const version of ['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer']){
+ for(const version of ['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer','v5-story-first']){
   for(const language of ['english','chinese'])context.editions.find(row=>row.article_path===`articles/${topic}/${provider}/${language}.md`).prompt_version=version;
   assert.doesNotThrow(()=>validateEditionContext(context,data.articles));
   for(const lang of ['en','zh']){
    await view.render({main,data:{...data,context},lang,hash:`edition/${topic}/${provider}`});
    assert.ok(main.innerHTML.includes(lang==='en'?`Prompt ${version.slice(0,2)}:`:`提示词 ${version.slice(0,2)}：`));
    if(version==='v3-simple-explorer')assert.match(main.innerHTML,lang==='en'?/summary or conclusion first/:/摘要或结论先行/);
+   if(version==='v5-story-first'){assert.match(main.innerHTML,lang==='en'?/story-led question/:/自然引出问题/);assert.doesNotMatch(main.innerHTML,/summary or conclusion first|摘要或结论先行/);}
   }
  }
  context.editions[0].prompt_version='v4-unregistered';
@@ -101,4 +102,15 @@ test('factual correction has its own bilingual context without relabeling histor
  assert.match(main.innerHTML,/原编辑在同一对话完整返回事实修订版/);
  assert.doesNotMatch(main.innerHTML,/文字AI的拒绝|纯文字翻译澄清/);
  assert.equal(JSON.stringify(data.context),before);
+});
+
+// New owner headline labels must retain exact titles and body boundary in both languages.
+test('story-first curious-question labels preserve all three titles and the opening',()=>{
+ const view=ui();
+ for(const [labels,body] of [[['Suspenseful','Emotional Resonance','Curious Question'],'A campus has a daily waste stream.'],[['悬念','情感共鸣','好奇问题'],'校园每天都有废料。'],[['悬念','情感共鸣','好奇疑问'],'校园每天都有废料。']]){
+  for(const separate of [false,true]){
+   const raw=labels.map((l,i)=>separate?l+'\n\nTitle '+i:l+': Title '+i).join('\n\n')+'\n\n'+body.repeat(8);
+   const v=view.preview(raw);assert.deepEqual(Array.from(v.headlines),['Title 0','Title 1','Title 2']);assert.ok(v.teaser.startsWith(body));
+  }
+ }
 });

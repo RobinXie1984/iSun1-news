@@ -1256,6 +1256,44 @@
           "sha256": "9e6e9340ecd87943b907f612876b751e39bf16f474646a7b0931cc7b10788e79"
         }
       ]
+    },
+    {
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/ucla-waste-seven-tons-hydrogen-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 302020,
+          "sha256": "0aa60b4d9aa0b492af2900c567d1a3a0d636be75a37fdf43529116ea9c134282"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/ucla-waste-seven-tons-hydrogen-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 97330,
+          "sha256": "b3c8cefa6dbe12f2aa0c642e44cc7309cfa4a680328b89cd771446eee853f333"
+        }
+      ]
+    },
+    {
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/toast-99-cent-fee-exit-lawsuit-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 272532,
+          "sha256": "beb66dd41932bcb1a342fbab340599859f17cce580d342c51155adf464d2d209"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/toast-99-cent-fee-exit-lawsuit-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 87943,
+          "sha256": "515062db1e92b2c54fa297eb0b91b2d391a8622a033f94151577ed8e636d4320"
+        }
+      ]
     }
   ]
 }

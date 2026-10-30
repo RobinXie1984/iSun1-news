@@ -1,0 +1,21 @@
+Suspenseful: The Hidden Bill Inside the Restaurant Computer
+Emotional Resonance: Why the Check at Your Favorite Cafe Feels So Heavy
+Curious Question: What Happens When One Company Controls the Cash Register, the Payroll, and the Loan?
+
+Imagine opening a small bakery. You need an oven for the bread, a counter for the pastries, and a way for customers to pay you. A company offers you a system: they bring in the screens where your staff punch in orders, the little machines that read credit cards, and the software that makes it all talk to the kitchen. This company is Toast, and their equipment sits on the counters of thousands of restaurants. They also handle the payments passing through those machines, run the payroll for the staff, and sometimes even give the restaurant owner a loan to buy a new oven.
+
+This setup looks simple from the customer’s side of the counter. The business owner pays Toast a fee, usually about $900 a month depending on how many screens they have and what extra software they use. Sometimes, Toast offers a different path: an owner can get the screens and software for zero dollars a month. In exchange, the restaurant agrees to pay a higher fee every time a customer swipes a credit card.
+
+Think of it like getting a free smartphone from a mobile phone company. The phone itself costs you nothing today, but you agree to a specific monthly service plan for the next two years. If you decide to switch companies halfway through the first year, you discover you owe the phone company a cancellation fee, and maybe the full retail price of that phone.
+
+On October 29, 2026, the Federal Trade Commission (the US agency that watches out for consumers and business competition) and eight states, including California, walked into a federal court. They filed a civil lawsuit against Toast. The government claims that the restaurant company has built a maze of hidden charges, surprise fees, and difficult cancellation rules.
+
+The lawsuit describes several ways these charges appear. For those owners who chose the zero-dollar monthly plan, the government alleges a series of requirements. If a restaurant takes more than 120 days to start processing credit cards through the new machines, they face a choice: return the hardware or pay the full retail price for it. If the restaurant closes temporarily for a month—maybe for renovations or a family emergency—the owner faces an $85 charge for that month. If the owner decides to leave the system early, they face a $150 charge for every month left on their contract. The lawsuit includes one example where a restaurant faced a termination fee of $5,318.87.
+
+The government also pointed to a past practice. From September 2021 through late July 2023, Toast added a 99-cent fee to certain online orders over $10. The company kept this money. By June 2023, this charge appeared tucked inside a line labelled "Taxes & Fees," though a customer could click a tooltip to read an explanation. The legal dispute centers on whether the restaurant and the customer understood and agreed to these charges.
+
+The lawsuit claims that leaving Toast is difficult. Owners must give thirty days' written notice before their contract renews. If they try to cancel, they face handoffs between different departments and sometimes continue to see charges. For owners who took out a loan through Toast Capital, the situation becomes tighter. The government alleges that if a restaurant cancels its subscription or changes to a different payment provider, the remaining balance on that loan becomes due promptly.
+
+The federal court will examine these claims and decide what happens next. The government has asked the court for specific remedies to change how the company operates. Right now, these are allegations waiting for a judge’s review, and Toast’s official response is pending in the court record.
+
+This situation raises a difficult question for any person dreaming of opening a cafe or running a food truck. When one single computer system handles your cash register, your employee paychecks, and your business loan, how clearly do you need to understand the true cost of setting it up, running it every month, and eventually packing it in a box to leave?

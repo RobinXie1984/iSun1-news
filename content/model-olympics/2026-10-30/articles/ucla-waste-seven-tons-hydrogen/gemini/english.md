@@ -1,0 +1,17 @@
+Headline Options
+
+Suspenseful: A Los Angeles Campus Feeds Its Scraps to a New Machine and Awaits the Energy Return
+
+Emotional Resonance: Food Scraps and Wood Chips Spark a Green Energy Partnership in Los Angeles
+
+Curious Question: Can a University’s Leftover Food Power Its Future Vehicles?
+
+Every day, a busy university produces piles of leftover material from living things, known as biomass. At the University of California, Los Angeles, dining halls clear away food scraps while landscaping crews trim bushes and gather leaves. UCLA estimates its campus produces approximately 7 tons of this biomass waste daily. To find a useful purpose for this material, the university’s Samueli engineering school has partnered with Mote, a Los Angeles climate-technology company. Together, they are testing a pilot-scale biomass gasification system to transform these everyday scraps into high-purity hydrogen fuel and safely stored carbon.
+
+Gasification changes solid material into a useful gas stream. We can understand this process with a simple campfire analogy. Imagine placing pieces of wood inside a closed metal tin and setting it over a hot fire. The intense heat inside the closed tin forces the wood to break apart, releasing invisible gases and leaving pure black charcoal behind. Similarly, the gasification equipment places solid plant and food waste into a highly heated, controlled chamber. The heat breaks the solid biomass apart, rearranging its building blocks to release a valuable hydrogen gas stream while capturing the remaining carbon.
+
+Associate professor Dante Simonetti leads the UCLA chemical engineering team running this system. The testing and evaluation phase has been underway since April 2026. The partners announced the details in a university engineering report on October 22, 2026, followed by a campus newsroom report on October 29. Images from Mote’s Los Angeles pilot plant show piles of wood chips ready for the equipment. Mote supports this hands-on engineering effort with $100,000 to cover stipends, tuition, and supplies for two chemical-engineering graduate students. The researchers are observing how different materials behave inside the machine, optimizing the steps, and recording the system's performance during an 18-month pilot scheduled through September 2027. The agreement includes options for a possible extension.
+
+The project team has projected several alternative uses for the hydrogen stream if the process expands to handle all 7 tons of the university's daily waste. The hydrogen could supply about 2 percent of UCLA's electricity, provide peak-period energy for several hundred hours a year, or fuel approximately 100 hydrogen vehicles. Additionally, the plants and trees captured carbon from the air as they grew. The project aims to sequester that carbon, keeping it locked away while the hydrogen provides useful energy. Future independent audits and measurements will determine the exact campus-wide output, the net climate benefit, the commercial price, and the verified storage chain.
+
+By combining a climate-technology company's equipment with a university's daily waste, the researchers are treating ordinary scraps as a valuable energy resource. As the engineers measure the daily hydrogen yield from their wood chips and food trimmings, the work raises a fascinating question: Will carefully engineered campus partnerships successfully turn the world's endless piles of organic waste into the clean fuel of the future?
