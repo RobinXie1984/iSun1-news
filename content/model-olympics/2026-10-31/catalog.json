@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-31T07:38:41.606694+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 4,
+  "unavailable_count": 12,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/ute2-two-flavors-cooling.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The requested Work/GPT-6AstraMedium session is unavailable in the current signed-in account. Account-holder handoff retained; no production prompt submitted. / 当前登录账户未提供所要求的Work／GPT-6AstraMedium，已保留账户持有人交接页面，尚未发送生产提示。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/ute2-two-flavors-cooling.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The requested Work/GPT-6AstraMedium session is unavailable in the current signed-in account. Account-holder handoff retained; no production prompt submitted. / 当前登录账户未提供所要求的Work／GPT-6AstraMedium，已保留账户持有人交接页面，尚未发送生产提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/ute2-two-flavors-cooling.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: A human-verification gate prevents checking the requested Claude model and collecting this edition. The displayed challenge is retained awaiting action-time confirmation; no prompt submitted. / 真人验证关卡阻止核验Claude模型与采集稿件，保留当前挑战，等待本次操作确认；尚未发送提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/ute2-two-flavors-cooling.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: A human-verification gate prevents checking the requested Claude model and collecting this edition. The displayed challenge is retained awaiting action-time confirmation; no prompt submitted. / 真人验证关卡阻止核验Claude模型与采集稿件，保留当前挑战，等待本次操作确认；尚未发送提示。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/ute2-two-flavors-cooling.md",
+      "article_path": "articles/ute2-two-flavors-cooling/gemini/english.md",
+      "status": "available",
+      "availability_note": "Provisional choice; three requested editors await access. Source check: the October30 Nature Physics abstract supports coexisting, competing superconducting components and a phase boundary detected through sound velocity. Further cooling can suppress one component; the remaining material state needs its own description. Topological character and working quantum devices remain further research questions. Cornell reports1–2kelvin. The March preprint is an earlier version. Pressure-unit conversions and claims of uniquely best material require separate evidence. Analogy and conceptual art are explanation. Headline “currents” is a metaphor for competing order components; the reported measurement is sound velocity. “Forces”,spatial expansion and uniform persistence throughout the sample exceed the directly inspected evidence. Data protection is a possible future application; operational qubits and room-temperature superconductors have separate development questions."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/ute2-two-flavors-cooling.md",
+      "article_path": "articles/ute2-two-flavors-cooling/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "暂行选稿；其他三位受邀编辑仍待恢复访问。来源核查：10月30日Nature Physics摘要支持共存、竞争的超导组分，以及通过声速测得的相界。进一步冷却可能压制其中一种组分，整块材料的状态须另行说明。拓扑性质与实用量子器件仍属后续问题。康奈尔报道温度为1至2开尔文，3月预印本为较早版本。压力单位换算与唯一最佳材料的说法，需要另行证据。比喻与概念插画属于解释。 标题中的电流或量子力按竞争有序组分的比喻理解，报道实测量为声速。零电阻涉及特定条件下的电流传输，制冷与装置耗能须另行核算；UTe2规范中文名为二碲化铀。空间扩张、全样本均匀保持及确定的数据保护应用，超出所核证据；工作量子比特与室温超导各有独立研发问题。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/ute2-two-flavors-cooling.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: A human-verification gate prevents checking Grok Expert and collecting this edition. The displayed challenge is retained awaiting action-time confirmation; no prompt submitted. / 真人验证关卡阻止核验GrokExpert与采集稿件，保留当前挑战，等待本次操作确认；尚未发送提示。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/ute2-two-flavors-cooling.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: A human-verification gate prevents checking Grok Expert and collecting this edition. The displayed challenge is retained awaiting action-time confirmation; no prompt submitted. / 真人验证关卡阻止核验GrokExpert与采集稿件，保留当前挑战，等待本次操作确认；尚未发送提示。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/dei-same-training-different-words.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The requested Work/GPT-6AstraMedium session is unavailable in the current signed-in account. Account-holder handoff retained; no production prompt submitted. / 当前登录账户未提供所要求的Work／GPT-6AstraMedium，已保留账户持有人交接页面，尚未发送生产提示。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/dei-same-training-different-words.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The requested Work/GPT-6AstraMedium session is unavailable in the current signed-in account. Account-holder handoff retained; no production prompt submitted. / 当前登录账户未提供所要求的Work／GPT-6AstraMedium，已保留账户持有人交接页面，尚未发送生产提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/dei-same-training-different-words.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: A human-verification gate prevents checking the requested Claude model and collecting this edition. The displayed challenge is retained awaiting action-time confirmation; no prompt submitted. / 真人验证关卡阻止核验Claude模型与采集稿件，保留当前挑战，等待本次操作确认；尚未发送提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/dei-same-training-different-words.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: A human-verification gate prevents checking the requested Claude model and collecting this edition. The displayed challenge is retained awaiting action-time confirmation; no prompt submitted. / 真人验证关卡阻止核验Claude模型与采集稿件，保留当前挑战，等待本次操作确认；尚未发送提示。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/dei-same-training-different-words.md",
+      "article_path": "articles/dei-same-training-different-words/gemini/english.md",
+      "status": "available",
+      "availability_note": "Provisional choice; three requested editors await access. Source check: the October22 paper/October30 Cornell report concern3experiments+2supplements,N=3,209employed Democrats/Republicans. Comparisons holding content constant support an introductory-framing effect on Republicans’ reported enthusiasm and perceived bias. Similar expectations about training goals concern Republicans in the abstract. Effect sizes and precision remain outside this review. Attendance,behavior,equality and broad implementation outcomes remain open. Title is shorthand for introductory framing; mandatory training is unverified. Imagined diners are analogy. Corrections: constant content in every study, similar goal expectations across the entire political spectrum, “far less” bias, successful lowering of defenses and wider participation exceed the inspected record. The observed result remains reported attitudes in the studied sample."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/dei-same-training-different-words.md",
+      "article_path": "articles/dei-same-training-different-words/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "暂行选稿；其他三位受邀编辑仍待恢复访问。来源核查：10月22日论文与10月30日康奈尔报道涉及三项实验、两项补充研究及3209名有工作的民主党／共和党参与者。内容相同的比较，支持开场措辞影响共和党参与者的自述热情与政治偏向感。摘要中目标期待相近的结论针对共和党。效应大小与精度在本次核查范围之外；出席、行为、平等与广泛实施结果仍待确定。“标题”是开场框架的简写，强制培训待核实。假想用餐者属于比喻。 更正：所有研究均保持内容相同、全政治光谱的目标期待相同、偏向大幅降低，以及实际成功消除戒心或扩大参与，均超出所核记录；实测结果限于样本中的自述态度。期刊正文具体披露范围仍待查阅核验，研究替代词unfair advantages指不公平的优势。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/dei-same-training-different-words.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: A human-verification gate prevents checking Grok Expert and collecting this edition. The displayed challenge is retained awaiting action-time confirmation; no prompt submitted. / 真人验证关卡阻止核验GrokExpert与采集稿件，保留当前挑战，等待本次操作确认；尚未发送提示。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/dei-same-training-different-words.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: A human-verification gate prevents checking Grok Expert and collecting this edition. The displayed challenge is retained awaiting action-time confirmation; no prompt submitted. / 真人验证关卡阻止核验GrokExpert与采集稿件，保留当前挑战，等待本次操作确认；尚未发送提示。"
+    }
+  ]
+}

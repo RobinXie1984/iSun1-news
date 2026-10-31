@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "ute2-two-flavors-cooling",
+      "event_date": "2026-10-30",
+      "title": {
+        "en": "Two superconducting states share one material",
+        "zh": "一种材料里，两种超导状态共存"
+      },
+      "summary": {
+        "en": "Cornell researchers mapped two competing superconducting components in uranium ditelluride. One fades on further cooling; its possible topological character remains an open question.",
+        "zh": "康奈尔研究人员绘出二碲化铀中两种相互竞争的超导组分，其中一种随进一步冷却消退；其拓扑性质仍待确定。"
+      }
+    },
+    {
+      "id": "dei-same-training-different-words",
+      "event_date": "2026-10-30",
+      "title": {
+        "en": "Same training, different introduction",
+        "zh": "培训内容相同，开场用词不同"
+      },
+      "summary": {
+        "en": "A Cornell study reports that alternative introductory language improved Republicans’ enthusiasm for the same diversity training. The measured result concerns attitudes.",
+        "zh": "康奈尔研究报告，以替代词语介绍相同多元化培训，提高了共和党参与者的热情；研究测量的是态度。"
+      }
+    }
+  ]
+}

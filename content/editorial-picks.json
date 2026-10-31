@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-30T07:20:28.547293+00:00",
+  "selected_at": "2026-10-31T07:42:08.250652+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1362,6 +1362,46 @@
       "article_path": "articles/toast-99-cent-fee-exit-lawsuit/chatgpt/chinese.md",
       "headline": "每月零美元的餐厅系统，整段合作究竟要花多少钱？",
       "sha256": "1520af313ab1e92b8e2fb78f134748bf18d3c7baa9c4a397eb7134494d4372ac"
+    },
+    {
+      "topic": "dei-same-training-different-words",
+      "language": "en",
+      "provider": "gemini",
+      "headline_index": 2,
+      "reason": "Provisional choice from the available Gemini original; three requested editors await access. The curious question connects a familiar introduction to a source-backed attitudes result. “Title” serves as shorthand for introductory framing, clarified by the source note. The mandatory-training headline has an unsupported premise, while the emotional option risks implying achieved common ground. The selected question is paid off by the wording comparison and its open ethical question.",
+      "article_path": "articles/dei-same-training-different-words/gemini/english.md",
+      "headline": "Can Changing the Title of a Lesson Alter How Openly Employees Hear Its Message?",
+      "sha256": "0e0e8ff73e7b37548a91a1f2f3d3bab341680a0d2a51c14142c0796d7f1d4578"
+    },
+    {
+      "topic": "ute2-two-flavors-cooling",
+      "language": "zh",
+      "provider": "gemini",
+      "headline_index": 2,
+      "reason": "暂行选择现有Gemini中文原作，其他三位编辑待恢复访问。好奇提问把继续降温与一种组分消退联系起来，正文解释声学相界证据和竞争。标题的电流按有序组分比喻理解，并由单独来源说明限定；拓扑性质与实用器件保持开放。量子力和舞伴标题的隐喻较容易混淆机制。",
+      "article_path": "articles/ute2-two-flavors-cooling/gemini/chinese.md",
+      "headline": "当温度进一步降低，为何一种量子电流逐渐消退而另一种却蓬勃生长？",
+      "sha256": "0705fb59ff6f94b7dbde8f2c30ccd83e257df97f5fa2f476e5455b4619ff5161"
+    },
+    {
+      "topic": "ute2-two-flavors-cooling",
+      "language": "en",
+      "provider": "gemini",
+      "headline_index": 2,
+      "reason": "Provisional choice from the available Gemini original; three requested editors await access. The curious question follows the measured competition between superconducting components as temperature falls. “Current” is an illustrative term for the order component, clarified in the visible source note; the evidence is ultrasound and a phase boundary. The body distinguishes possible topology/device applications from the observed material state. The force/control alternative is less precise.",
+      "article_path": "articles/ute2-two-flavors-cooling/gemini/english.md",
+      "headline": "What Happens When Lowering the Temperature Causes One Quantum Current to Fade While Another Grows?",
+      "sha256": "897db4ef0de221e78d8240ab4c5f08f6977e0cc912ca4ceba73fc1737f0e4657"
+    },
+    {
+      "topic": "dei-same-training-different-words",
+      "language": "zh",
+      "provider": "gemini",
+      "headline_index": 0,
+      "reason": "暂行选择现有Gemini中文原作，其他三位编辑待恢复访问。悬念标题以三个词与初始姿态连接对既定课程的反应；“既定”指给定课程，来源说明限定共和党样本和自述态度。它比“更坦诚地倾听”的价值判断更准确，也避免暗示已实现广泛共识。保留原稿与其他标题。",
+      "article_path": "articles/dei-same-training-different-words/gemini/chinese.md",
+      "headline": "悄然替换的三个日常词汇，改变了职场员工面对既定培训的初始姿态",
+      "sha256": "6f497cd8df2f7b607a53de37aac65d0579bdba3fd802e85a4733d728e53cc4f2"
     }
   ]
 }

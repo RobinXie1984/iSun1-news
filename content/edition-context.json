@@ -4718,6 +4718,34 @@
       "prompt_version": "v5-story-first",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ute2-two-flavors-cooling/gemini/english.md",
+      "captured_at": "2026-10-31T07:27:53.221Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ute2-two-flavors-cooling/gemini/chinese.md",
+      "captured_at": "2026-10-31T07:32:13.995Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dei-same-training-different-words/gemini/english.md",
+      "captured_at": "2026-10-31T07:21:35.202Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dei-same-training-different-words/gemini/chinese.md",
+      "captured_at": "2026-10-31T07:41:15.961Z",
+      "prompt_version": "v5-story-first",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

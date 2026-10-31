@@ -1294,6 +1294,44 @@
           "sha256": "515062db1e92b2c54fa297eb0b91b2d391a8622a033f94151577ed8e636d4320"
         }
       ]
+    },
+    {
+      "topic": "ute2-two-flavors-cooling",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/ute2-two-flavors-cooling-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 246177,
+          "sha256": "8cf72d8ff9111742977e18940bdea24ac6f40d5e91851d3b2545da0c3e26c833"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/ute2-two-flavors-cooling-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 83279,
+          "sha256": "b9b875d517d06ac2d79d18c0b5d0c0d0562b4df30758752e342de02a4a80be68"
+        }
+      ]
+    },
+    {
+      "topic": "dei-same-training-different-words",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/dei-same-training-different-words-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 227089,
+          "sha256": "686effdfd1fe3a2f210621317371763109b5eb701c688767eae614783fbfd6f9"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/dei-same-training-different-words-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 76199,
+          "sha256": "c8c8c0e91cc7b43b3da5286f83c861711d8247915e7d2806065c7a57131a110c"
+        }
+      ]
     }
   ]
 }
