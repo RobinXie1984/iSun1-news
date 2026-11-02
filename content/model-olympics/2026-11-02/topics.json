@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "title": {
+        "en": "A debut marathon winner and a one-second eighth title",
+        "zh": "首马夺冠，与一秒之差的第八冠"
+      },
+      "summary": {
+        "en": "Andreas Almgren won his first marathon in New York; Marcel Hug took an eighth wheelchair title by one second. The organizer reports nearly60,000 participants; final finisher totals remain pending.",
+        "zh": "Andreas Almgren在纽约首次参加全马即夺冠；Marcel Hug以一秒优势赢得第八次轮椅组冠军。主办方称参与者近六万，最终完赛人数仍待公布。"
+      }
+    },
+    {
+      "id": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "title": {
+        "en": "The quantum migration clock starts before the machine arrives",
+        "zh": "量子威胁到来之前，迁移时钟已经启动"
+      },
+      "summary": {
+        "en": "NIST’s October27final roadmap scopes federal post-quantum migration targets to2030/2031for priority systems and2035more broadly. Long-lived secrets create a present planning problem.",
+        "zh": "NIST于10月27日公布最终路线图，重点联邦系统对应2030／2031年迁移节点，较广范围目标为2035年；长期机密已带来当下的规划问题。"
+      }
+    }
+  ]
+}

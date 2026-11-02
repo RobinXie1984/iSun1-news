@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-11-02T07:17:57.494151+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 5,
+  "unavailable_count": 11,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/tokyo-cell-3d-52ms.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Current signed-in account shows Free and its Work workspace Deactivated. Requested Work/GPT-6AstraMedium access awaits the existing account-holder handoff; no prompt submitted. / 当前账户显示免费，Work工作区已停用；所需模型访问等待现有账户交接，尚未发送提示。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/tokyo-cell-3d-52ms.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Current signed-in account shows Free and its Work workspace Deactivated. Requested Work/GPT-6AstraMedium access awaits the existing account-holder handoff; no prompt submitted. / 当前账户显示免费，Work工作区已停用；所需模型访问等待现有账户交接，尚未发送提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/tokyo-cell-3d-52ms.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The retained Claude tab displays a human-verification gate. Requested Opus5.5Medium access behind that gate remains unverified; pending confirmation preserved,no prompt submitted. / 保留的Claude标签页显示真人验证；关卡后的Opus5.5Medium访问仍待核验，保留现有确认交接，尚未发送提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/tokyo-cell-3d-52ms.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The retained Claude tab displays a human-verification gate. Requested Opus5.5Medium access behind that gate remains unverified; pending confirmation preserved,no prompt submitted. / 保留的Claude标签页显示真人验证；关卡后的Opus5.5Medium访问仍待核验，保留现有确认交接，尚未发送提示。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/tokyo-cell-3d-52ms.md",
+      "article_path": "articles/tokyo-cell-3d-52ms/gemini/english.md",
+      "status": "available",
+      "availability_note": "Provisional choice; three requested editors await access. The October30 study demonstrates19.2chemical3Dvolumes/second (about52ms) in cultured cells. Approximately400times compares earlier similar MIP tomography,around0.05volumes/second. Live COS-7 lipid-droplet tracking and fixed-cell spectroscopy are distinct demonstrations. Condensate studies are prospective; the final paragraph’s suggestion of an achieved clearer condensate view exceeds the demonstrated result. Heat-related optical signals supply chemical contrast. Depth limits,illumination effects and clinical/commercial outcomes retain separate questions. Rate describes volume acquisition;live processing speed requires separate verification. The dance analogy/artwork are illustrative."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/tokyo-cell-3d-52ms.md",
+      "article_path": "articles/tokyo-cell-3d-52ms/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "暂行选稿；其他三位受邀编辑仍待恢复访问。10月30日研究展示每秒19.2幅三维化学图像，约52毫秒一幅。“约400倍”针对较早同类MIP断层成像，参照约每秒0.05幅。活COS-7细胞脂滴追踪与固定细胞光谱分析是不同实验。凝聚体研究属于未来应用，当前实测主要涉及脂滴；光热相关光学信号提供化学对比。成像深度、照明影响及临床和商业结果仍各有验证问题。中文作者汉字姓名未核实，以括号内罗马字署名为准；“化学反应”宜理解为化学分布与脂滴运动。专利披露包括已授权与申请中项目。舞蹈比喻与插画属于解释。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/tokyo-cell-3d-52ms.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The retained Grok conversation displays a human-verification gate. Expert access remains unverified; existing handoff retained,no new prompt submitted. / 保留的Grok会话显示真人验证；Expert访问仍待核验，保留现有交接，尚未发送新提示。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "source_brief": "briefs/tokyo-cell-3d-52ms.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The retained Grok conversation displays a human-verification gate. Expert access remains unverified; existing handoff retained,no new prompt submitted. / 保留的Grok会话显示真人验证；Expert访问仍待核验，保留现有交接，尚未发送新提示。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/atlas-ai-task-role-compass.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Current signed-in account shows Free and its Work workspace Deactivated. Requested Work/GPT-6AstraMedium access awaits the existing account-holder handoff; no prompt submitted. / 当前账户显示免费，Work工作区已停用；所需模型访问等待现有账户交接，尚未发送提示。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/atlas-ai-task-role-compass.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Current signed-in account shows Free and its Work workspace Deactivated. Requested Work/GPT-6AstraMedium access awaits the existing account-holder handoff; no prompt submitted. / 当前账户显示免费，Work工作区已停用；所需模型访问等待现有账户交接，尚未发送提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/atlas-ai-task-role-compass.md",
+      "article_path": "articles/atlas-ai-task-role-compass/claude/english.md",
+      "status": "available",
+      "availability_note": "October29 university report/October EMNLP proceedings describe an internal controller requiring hidden-state access. Authors: Pramanik/Sumit Jha at Florida,Maliha at Oklahoma,Susmit Jha at SRI. Proceedings publication is verified;an actual talk is outside this review. Pilot14,832turns and93.5% role consistency are different evaluations. AppendixA8 also says200conversations each over100turns;the relationship to14,832annotated turns needs clarification. Table12(T2):ATLAS96.8Ktokens/17.5s,A-MEM118.5K/22.1s,single-agent28.4K/4.2s;spectral work under2% there. Training-free preserves weights;inference costs remain. Benchmark gains leave production safety/factual reliability open. Future independent replication is a possibility;an announced replication plan remains unverified. Opening job examples,scouts/navigation are illustration."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/atlas-ai-task-role-compass.md",
+      "article_path": "articles/atlas-ai-task-role-compass/claude/chinese.md",
+      "status": "available",
+      "availability_note": "10月29日大学报道与10月EMNLP论文集介绍需要隐藏状态访问的内部控制器。署名机构：Pramanik与Sumit Jha属佛罗里达大学，Maliha属俄克拉荷马大学，Susmit Jha属SRI；已核实论文集发表，实际现场报告仍待核实。14832轮先导研究与93.5%角色一致性属于不同评估。附录A8另称200组对话每组超过100轮，与14832轮已标注对话的统计关系需澄清。表12的T2测试中：ATLAS96.8千tokens／17.5秒，A-MEM118.5千／22.1秒，单代理28.4千／4.2秒；谱运算占运行时间低于2%。免训练保留权重，推理仍有成本。生产安全、事实可靠性与独立复现仍有验证问题；未来复现计划待核实。罗盘等图像属于比喻。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/atlas-ai-task-role-compass.md",
+      "article_path": "articles/atlas-ai-task-role-compass/gemini/english.md",
+      "status": "available",
+      "availability_note": "Provisional choice; three requested editors await access. October29 university report/October EMNLP proceedings describe an internal controller requiring hidden-state access. Authors: Pramanik/Sumit Jha at Florida,Maliha at Oklahoma,Susmit Jha at SRI. Proceedings publication is verified;an actual talk is outside this review. Pilot14,832turns and93.5% role consistency are different evaluations. AppendixA8 also says200conversations each over100turns;the relationship to14,832annotated turns needs clarification. Table12(T2):ATLAS96.8Ktokens/17.5s,A-MEM118.5K/22.1s,single-agent28.4K/4.2s;spectral work under2% there. Training-free preserves weights;inference costs remain. Benchmark gains leave production safety/factual reliability open. Future independent replication is a possibility;an announced replication plan remains unverified. Opening job examples,scouts/navigation are illustration."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/atlas-ai-task-role-compass.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Gemini3.8Thinking returned no Chinese manuscript after3bounded attempts:one generic error,then restored unsent input. CauseUNKNOWN. Same dated frozen continuation and conversation retained. / Gemini3.8Thinking中文稿三次有限尝试均未成功：一次通用错误，随后恢复未发送输入；原因UNKNOWN。保留原日期冻结续写提示与会话。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/atlas-ai-task-role-compass.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The retained Grok conversation displays a human-verification gate. Expert access remains unverified; existing handoff retained,no new prompt submitted. / 保留的Grok会话显示真人验证；Expert访问仍待核验，保留现有交接，尚未发送新提示。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "source_brief": "briefs/atlas-ai-task-role-compass.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: The retained Grok conversation displays a human-verification gate. Expert access remains unverified; existing handoff retained,no new prompt submitted. / 保留的Grok会话显示真人验证；Expert访问仍待核验，保留现有交接，尚未发送新提示。"
+    }
+  ]
+}

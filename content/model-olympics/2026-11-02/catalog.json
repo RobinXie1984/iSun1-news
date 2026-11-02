@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-11-02T07:26:06.123821+00:00",
+  "description": "Independent original submissions. Provider order is fixed; no ranking or scores.",
+  "available_count": 7,
+  "unavailable_count": 9,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "source_brief": "briefs/almgren-debut-hug-one-second.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Routine sign-in succeeded;current account is Free and its Work workspace is Deactivated. Requested Work/GPT-6AstraMedium access remains unavailable for verification;no production prompt sent. / 常规登录成功，当前账户为免费，Work工作区已停用；所需模型访问待恢复核验，尚未发送生产提示。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "source_brief": "briefs/almgren-debut-hug-one-second.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Routine sign-in succeeded;current account is Free and its Work workspace is Deactivated. Requested Work/GPT-6AstraMedium access remains unavailable for verification;no production prompt sent. / 常规登录成功，当前账户为免费，Work工作区已停用；所需模型访问待恢复核验，尚未发送生产提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "source_brief": "briefs/almgren-debut-hug-one-second.md",
+      "article_path": "articles/almgren-debut-hug-one-second/claude/english.md",
+      "status": "available",
+      "availability_note": "NYRR’s November1 organizer report is the source for results and historical firsts. Nearly60,000 describes approximate participants;Gemini’s “started” exceeds that wording,and the same distinction applies to its Chinese opening. Official finisher totals remained pending in the inspected release at the November2collection cutoff. Almgren is an established shorter-distance champion making a marathon-distance debut;his exact time is omitted. The five-borough course began1976,the race1970. Hug’s eighthwin/one-second margin belongs to the men’s wheelchair division;open/wheelchair times have distinct conditions. Battery/chef analogies and speaking “marathon” twice are illustrative,not physiological or timing measurements. Chinese name transliterations are accompanied by original spellings in the brief."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "source_brief": "briefs/almgren-debut-hug-one-second.md",
+      "article_path": "articles/almgren-debut-hug-one-second/claude/chinese.md",
+      "status": "available",
+      "availability_note": "成绩与历史首次均依据NYRR11月1日主办方报道。“近六万”是参与人数估算，Gemini两种语言把它写成起跑人数，超出来源用词；11月2日采集时，已查报道仍称最终完赛总数待公布。Almgren是已有短距离冠军头衔的全马新人，本文省略未核实的具体完赛时间。五区路线始于1976年，赛事始于1970年。Hug第八冠与一秒优势属于男子轮椅组，各组成绩条件分别适用。电池、糕点与说两遍词语均属解释比喻；姓名中文译法可参照简报中的原文拼写。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "source_brief": "briefs/almgren-debut-hug-one-second.md",
+      "article_path": "articles/almgren-debut-hug-one-second/gemini/english.md",
+      "status": "available",
+      "availability_note": "NYRR’s November1 organizer report is the source for results and historical firsts. Nearly60,000 describes approximate participants;Gemini’s “started” exceeds that wording,and the same distinction applies to its Chinese opening. Official finisher totals remained pending in the inspected release at the November2collection cutoff. Almgren is an established shorter-distance champion making a marathon-distance debut;his exact time is omitted. The five-borough course began1976,the race1970. Hug’s eighthwin/one-second margin belongs to the men’s wheelchair division;open/wheelchair times have distinct conditions. Battery/chef analogies and speaking “marathon” twice are illustrative,not physiological or timing measurements. Chinese name transliterations are accompanied by original spellings in the brief."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "source_brief": "briefs/almgren-debut-hug-one-second.md",
+      "article_path": "articles/almgren-debut-hug-one-second/gemini/chinese.md",
+      "status": "available",
+      "availability_note": "成绩与历史首次均依据NYRR11月1日主办方报道。“近六万”是参与人数估算，Gemini两种语言把它写成起跑人数，超出来源用词；11月2日采集时，已查报道仍称最终完赛总数待公布。Almgren是已有短距离冠军头衔的全马新人，本文省略未核实的具体完赛时间。五区路线始于1976年，赛事始于1970年。Hug第八冠与一秒优势属于男子轮椅组，各组成绩条件分别适用。电池、糕点与说两遍词语均属解释比喻；姓名中文译法可参照简报中的原文拼写。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "source_brief": "briefs/almgren-debut-hug-one-second.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Ordinary existing Google sign-in returned Login failed. Expert access remains unverified;no production prompt sent. Existing handoff retained. / 现有Google常规登录返回Login failed；Expert访问待核验，尚未发送生产提示，保留交接。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "almgren-debut-hug-one-second",
+      "event_date": "2026-11-01",
+      "source_brief": "briefs/almgren-debut-hug-one-second.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Ordinary existing Google sign-in returned Login failed. Expert access remains unverified;no production prompt sent. Existing handoff retained. / 现有Google常规登录返回Login failed；Expert访问待核验，尚未发送生产提示，保留交接。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "en",
+      "topic": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nist-quantum-migration-2030-2031.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Routine sign-in succeeded;current account is Free and its Work workspace is Deactivated. Requested Work/GPT-6AstraMedium access remains unavailable for verification;no production prompt sent. / 常规登录成功，当前账户为免费，Work工作区已停用；所需模型访问待恢复核验，尚未发送生产提示。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium / Work",
+      "language": "zh",
+      "topic": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nist-quantum-migration-2030-2031.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Routine sign-in succeeded;current account is Free and its Work workspace is Deactivated. Requested Work/GPT-6AstraMedium access remains unavailable for verification;no production prompt sent. / 常规登录成功，当前账户为免费，Work工作区已停用；所需模型访问待恢复核验，尚未发送生产提示。"
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "en",
+      "topic": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nist-quantum-migration-2030-2031.md",
+      "article_path": "articles/nist-quantum-migration-2030-2031/claude/english.md",
+      "status": "available",
+      "availability_note": "This is a dated October27report followed up on November2. NIST IR8547 is final;its first PQC standards date to August2024 and the draft to November12,2024. Federal high-value/high-impact key establishment and signatures have end2030/end2031milestones;2035is the broad federal target. These scope-specific targets differ from a universal business deadline or a quantum-arrival forecast. PQC runs on conventional computers. Harvest-now/decrypt-later is a risk mechanism,not a documented breach here. Signatures support origin/integrity under valid key/trust assumptions;they alone establish neither identity truth nor content truth. Hybrid designs add computing costs;Gemini’s “ensures” wording exceeds a universal security guarantee. Lock/envelope imagery is analogy. NCCoE work is documented migration support,not proof of completed deployments."
+    },
+    {
+      "provider": "claude",
+      "model": "Opus 5.5 Medium",
+      "language": "zh",
+      "topic": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nist-quantum-migration-2030-2031.md",
+      "article_path": "articles/nist-quantum-migration-2030-2031/claude/chinese.md",
+      "status": "available",
+      "availability_note": "这是11月2日跟进的10月27日报告，保留实际日期。NIST IR8547已定稿；首批后量子标准发布于2024年8月，草案日期为2024年11月12日。重点联邦高价值／高影响系统的密钥建立与签名，分别对应2030／2031年底节点，较广联邦目标为2035年。适用范围有别于所有企业的统一期限，日期也非量子计算机到来预测。算法运行于普通电脑；先收集后解密描述风险机制，本文无具体泄露个案。数字签名在密钥与信任条件成立时支持来源及完整性核验，内容真实性仍有其他条件。混合方案增加计算成本，安全性依赖具体设计与实现。锁箱、信封均为比喻；NCCoE是迁移支持项目，实际完成部署另需证据。"
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "en",
+      "topic": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nist-quantum-migration-2030-2031.md",
+      "article_path": "articles/nist-quantum-migration-2030-2031/gemini/english.md",
+      "status": "available",
+      "availability_note": "This is a dated October27report followed up on November2. NIST IR8547 is final;its first PQC standards date to August2024 and the draft to November12,2024. Federal high-value/high-impact key establishment and signatures have end2030/end2031milestones;2035is the broad federal target. These scope-specific targets differ from a universal business deadline or a quantum-arrival forecast. PQC runs on conventional computers. Harvest-now/decrypt-later is a risk mechanism,not a documented breach here. Signatures support origin/integrity under valid key/trust assumptions;they alone establish neither identity truth nor content truth. Hybrid designs add computing costs;Gemini’s “ensures” wording exceeds a universal security guarantee. Lock/envelope imagery is analogy. NCCoE work is documented migration support,not proof of completed deployments."
+    },
+    {
+      "provider": "gemini",
+      "model": "Gemini 3.8 Thinking",
+      "language": "zh",
+      "topic": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nist-quantum-migration-2030-2031.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Existing registered conversation is pending;no complete manuscript captured. Preserve live response before any retry. / 已登记会话仍在生成，尚无完整稿件；重试前先保留现有生成。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "en",
+      "topic": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nist-quantum-migration-2030-2031.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Ordinary existing Google sign-in returned Login failed. Expert access remains unverified;no production prompt sent. Existing handoff retained. / 现有Google常规登录返回Login failed；Expert访问待核验，尚未发送生产提示，保留交接。"
+    },
+    {
+      "provider": "grok",
+      "model": "Grok Expert",
+      "language": "zh",
+      "topic": "nist-quantum-migration-2030-2031",
+      "event_date": "2026-10-27",
+      "source_brief": "briefs/nist-quantum-migration-2030-2031.md",
+      "article_path": null,
+      "status": "UNKNOWN",
+      "availability_note": "UNKNOWN: Ordinary existing Google sign-in returned Login failed. Expert access remains unverified;no production prompt sent. Existing handoff retained. / 现有Google常规登录返回Login failed；Expert访问待核验，尚未发送生产提示，保留交接。"
+    }
+  ]
+}

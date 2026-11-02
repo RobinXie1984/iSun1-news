@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-10-31T07:42:08.250652+00:00",
+  "selected_at": "2026-11-02T07:26:06.420778+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1402,6 +1402,86 @@
       "article_path": "articles/dei-same-training-different-words/gemini/chinese.md",
       "headline": "悄然替换的三个日常词汇，改变了职场员工面对既定培训的初始姿态",
       "sha256": "6f497cd8df2f7b607a53de37aac65d0579bdba3fd802e85a4733d728e53cc4f2"
+    },
+    {
+      "topic": "tokyo-cell-3d-52ms",
+      "language": "zh",
+      "provider": "gemini",
+      "headline_index": 2,
+      "reason": "暂行选择现有Gemini原作，其他三位编辑待恢复访问。好奇提问以活细胞化学动态引出实测速度和脂滴追踪，读者可理解观察工具的进展。来源说明保留样本厚度、凝聚体前景及临床应用边界。独立审阅中文，属于编辑选择，读者反应仍待测量。",
+      "article_path": "articles/tokyo-cell-3d-52ms/gemini/chinese.md",
+      "headline": "我们能以多快的速度绘制活细胞的化学动态？",
+      "sha256": "7930f0ecf6665c67ffd544408e1585f79e3be570388a16c0f8476452fea5f5e6"
+    },
+    {
+      "topic": "tokyo-cell-3d-52ms",
+      "language": "en",
+      "provider": "gemini",
+      "headline_index": 2,
+      "reason": "Provisional available-writer choice; three requested editors await access. The curious question introduces the specific measurable advance with a clear payoff in19.2volumes/second and lipid-droplet tracking. The source note scopes condensate applications,depth and clinical implications. The suspense option’s tremors metaphor is less precise. Selection is editorial taste,with no measured audience claim.",
+      "article_path": "articles/tokyo-cell-3d-52ms/gemini/english.md",
+      "headline": "How Fast Can We Map the Chemical Machinery of a Living Cell?",
+      "sha256": "0740af88c69c9327e85e054185fd10fa3e132400b78e834adee9b1c615f54b8d"
+    },
+    {
+      "topic": "atlas-ai-task-role-compass",
+      "language": "en",
+      "provider": "claude",
+      "headline_index": 2,
+      "reason": "Provisional choice among available originals. Independently compared ATLAS English drafts: Claude gives a clearer account of agent roles,hidden-state access,benchmark scope and the computing-cost comparison. Its hiking analogy is explicitly imagined. The curious question promises the problem the article explains. Source annotation retains the pilot-count ambiguity and production/replication limits. Four-provider comparison remains incomplete;selection is editorial judgment,not audience evidence.",
+      "article_path": "articles/atlas-ai-task-role-compass/claude/english.md",
+      "headline": "How Do You Keep a Team of AI Agents Pointed at the Right Job?",
+      "sha256": "b643ae596bd0a5b0bfe38f89e82f918072a6dbeb05260068da304143be90ad63"
+    },
+    {
+      "topic": "atlas-ai-task-role-compass",
+      "language": "zh",
+      "provider": "claude",
+      "headline_index": 2,
+      "reason": "独立审阅中文，暂行选择已恢复的Claude原作。好奇提问直接引出任务漂移，徒步比喻说明三个锚点，正文保留模型内部访问条件与具体成本参照。来源说明保留先导研究统计关系、生产可靠性和独立复现的边界。中文由现有真实稿件中选择，四位编辑比较仍未完成；属于编辑判断，读者反应待测量。",
+      "article_path": "articles/atlas-ai-task-role-compass/claude/chinese.md",
+      "headline": "怎样让一支AI团队始终朝着正确的任务前进？",
+      "sha256": "c486355c33414c14ea496074b19c2615767fd9a454956243fbccb959a92fc03c"
+    },
+    {
+      "topic": "almgren-debut-hug-one-second",
+      "language": "en",
+      "provider": "claude",
+      "headline_index": 2,
+      "reason": "Provisional choice among available independent originals. Claude accurately separates participants from finishers,explains debut-distance status and keeps wheelchair divisions distinct. Its curious headline promises a concrete athletic question and the late-race payoff fulfills it. Gemini is shorter but changes the approximate participation count into starters. Preserve both voices and display the factual qualification.",
+      "article_path": "articles/almgren-debut-hug-one-second/claude/english.md",
+      "headline": "How Does a Runner Win the New York City Marathon in His First Marathon?",
+      "sha256": "e2e79445e7a7cef759e469a27a914c2544e7fef37dc6b8b8dd04dab7d982a713"
+    },
+    {
+      "topic": "almgren-debut-hug-one-second",
+      "language": "zh",
+      "provider": "claude",
+      "headline_index": 2,
+      "reason": "独立比较中文：Claude明确区分参与者、起跑者与完赛者，解释首马属于已有冠军的新距离，并保留轮椅组独立条件。好奇提问兑现配速与最后一英里的故事。Gemini较紧凑，但开头把参与估算写成起跑人数；两份原作与来源说明均保留。",
+      "article_path": "articles/almgren-debut-hug-one-second/claude/chinese.md",
+      "headline": "第一次跑全程马拉松，怎样赢下纽约马拉松？",
+      "sha256": "87dbef3c27c70b71f8e8772c8219e9e393caa0fb782526c13543621cf29921e2"
+    },
+    {
+      "topic": "nist-quantum-migration-2030-2031",
+      "language": "en",
+      "provider": "claude",
+      "headline_index": 2,
+      "reason": "Provisional choice among available independent originals. Claude explains key establishment,signatures and the federal timetable before its natural secrecy question,and keeps quantum arrival uncertain. Gemini is more compact;its hybrid-security assurance needs narrowing. Claude’s curious headline makes the long-lived-secret problem accessible. Source annotations retain trust assumptions and scope.",
+      "article_path": "articles/nist-quantum-migration-2030-2031/claude/english.md",
+      "headline": "How Do You Protect a Secret From a Computer That Arrives Later? NIST’s New Roadmap Lays Out the Plan",
+      "sha256": "91d9e0c5802b2b05afe67a4d9852ad2177cb96a180d8de6b1914a3d53b250dd3"
+    },
+    {
+      "topic": "nist-quantum-migration-2030-2031",
+      "language": "zh",
+      "provider": "claude",
+      "headline_index": 2,
+      "reason": "独立审阅中文：Claude按背景、密钥与签名、日期和迁移难题逐层展开，好奇提问把长期秘密的风险说清。来源说明保留联邦适用范围、量子时间不确定性、签名信任条件和混合方案成本。选择属于编辑判断，四位编辑比较仍未完成。",
+      "article_path": "articles/nist-quantum-migration-2030-2031/claude/chinese.md",
+      "headline": "如何防备一台日后才出现的计算机？NIST 新路线图给出了计划",
+      "sha256": "932c981146d6d5725b26539162d9ac382195adb527556751dbc9a3e99c440a85"
     }
   ]
 }

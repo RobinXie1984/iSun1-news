@@ -1332,6 +1332,82 @@
           "sha256": "c8c8c0e91cc7b43b3da5286f83c861711d8247915e7d2806065c7a57131a110c"
         }
       ]
+    },
+    {
+      "topic": "tokyo-cell-3d-52ms",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/tokyo-cell-3d-52ms-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 255762,
+          "sha256": "d5bf2dbbe2f7e0d222e34eeb72bcdd5005408c7737e2d1b8e16717913f203101"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/tokyo-cell-3d-52ms-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 82068,
+          "sha256": "bc0ffde77f2c8a6bdd064ee58162f79209208ffac47cbc9d13db610a650eada9"
+        }
+      ]
+    },
+    {
+      "topic": "atlas-ai-task-role-compass",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/atlas-ai-task-role-compass-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 321088,
+          "sha256": "df868250158844eca1f4d300edf7e0a07bc50e9528aea4d4de2bd12fc9aff7aa"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/atlas-ai-task-role-compass-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 103963,
+          "sha256": "bc3fd7afa2a3c2fec709f69277395f58e2c1a99caf2494b185cf657d59be8f48"
+        }
+      ]
+    },
+    {
+      "topic": "almgren-debut-hug-one-second",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/almgren-debut-hug-one-second-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 296734,
+          "sha256": "4e3126822930b2fce1aab1bd8736affb5481896e70e0fce592216b71550ebec6"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/almgren-debut-hug-one-second-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 90885,
+          "sha256": "4725419bd99267a42bb25c2d48988a033c5620b237d593328f781938615bb9db"
+        }
+      ]
+    },
+    {
+      "topic": "nist-quantum-migration-2030-2031",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/nist-quantum-migration-2030-2031-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 309777,
+          "sha256": "0ea3b6500230b742c76f44500e8511fd6e2cdd6ef0813ea9abd7534d741841f2"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/nist-quantum-migration-2030-2031-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 95554,
+          "sha256": "897c3a92987850d8fd4f1cac5ce1c6d774a0a366c48805ab6f3350a3b9929270"
+        }
+      ]
     }
   ]
 }

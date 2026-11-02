@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "tokyo-cell-3d-52ms",
+      "event_date": "2026-10-30",
+      "title": {
+        "en": "A living cell, filmed in chemical 3D",
+        "zh": "活细胞内部的三维化学电影"
+      },
+      "summary": {
+        "en": "Tokyo researchers demonstrated 19.2 chemical volumes per second inside living cells. The advance tracks lipid droplets; deeper tissue imaging remains a separate challenge.",
+        "zh": "东京研究团队每秒重建19.2幅活细胞三维化学图像，追踪脂滴运动；深层组织成像仍是另一道难题。"
+      }
+    },
+    {
+      "id": "atlas-ai-task-role-compass",
+      "event_date": "2026-10-29",
+      "title": {
+        "en": "An internal compass for drifting AI teams",
+        "zh": "为偏离任务的AI团队加一道内部罗盘"
+      },
+      "summary": {
+        "en": "ATLAS steers accessible internal model states toward the task, role and latest shared information. Its authors report benchmark gains with costs and access limits.",
+        "zh": "ATLAS将可访问的模型内部状态拉回任务、角色与最新共享信息；作者报告测试改进，同时存在成本与访问条件。"
+      }
+    }
+  ]
+}
