@@ -36,7 +36,7 @@
       "source_brief": "briefs/tokyo-cell-3d-52ms.md",
       "article_path": null,
       "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: The retained Claude tab displays a human-verification gate. Requested Opus5.5Medium access behind that gate remains unverified; pending confirmation preserved,no prompt submitted. / 保留的Claude标签页显示真人验证；关卡后的Opus5.5Medium访问仍待核验，保留现有确认交接，尚未发送提示。"
+      "availability_note": "UNKNOWN: No manuscript captured for this November1topic. Claude access was restored November2;bounded recovery supplied the separate ATLAS topic first. Existing dated prompt/brief retained. / 本11月1日题目尚无已采集稿件。Claude访问于11月2日恢复，有限补采先完成另一ATLAS题目；保留本题原日期提示与简报。"
     },
     {
       "provider": "claude",
@@ -47,7 +47,7 @@
       "source_brief": "briefs/tokyo-cell-3d-52ms.md",
       "article_path": null,
       "status": "UNKNOWN",
-      "availability_note": "UNKNOWN: The retained Claude tab displays a human-verification gate. Requested Opus5.5Medium access behind that gate remains unverified; pending confirmation preserved,no prompt submitted. / 保留的Claude标签页显示真人验证；关卡后的Opus5.5Medium访问仍待核验，保留现有确认交接，尚未发送提示。"
+      "availability_note": "UNKNOWN: No manuscript captured for this November1topic. Claude access was restored November2;bounded recovery supplied the separate ATLAS topic first. Existing dated prompt/brief retained. / 本11月1日题目尚无已采集稿件。Claude访问于11月2日恢复，有限补采先完成另一ATLAS题目；保留本题原日期提示与简报。"
     },
     {
       "provider": "gemini",
@@ -58,7 +58,7 @@
       "source_brief": "briefs/tokyo-cell-3d-52ms.md",
       "article_path": "articles/tokyo-cell-3d-52ms/gemini/english.md",
       "status": "available",
-      "availability_note": "Provisional choice; three requested editors await access. The October30 study demonstrates19.2chemical3Dvolumes/second (about52ms) in cultured cells. Approximately400times compares earlier similar MIP tomography,around0.05volumes/second. Live COS-7 lipid-droplet tracking and fixed-cell spectroscopy are distinct demonstrations. Condensate studies are prospective; the final paragraph’s suggestion of an achieved clearer condensate view exceeds the demonstrated result. Heat-related optical signals supply chemical contrast. Depth limits,illumination effects and clinical/commercial outcomes retain separate questions. Rate describes volume acquisition;live processing speed requires separate verification. The dance analogy/artwork are illustrative."
+      "availability_note": "Provisional available-writer choice;other editors have no captured edition for this topic. The October30 study demonstrates19.2chemical3Dvolumes/second (about52ms) in cultured cells. Approximately400times compares earlier similar MIP tomography,around0.05volumes/second. Live COS-7 lipid-droplet tracking and fixed-cell spectroscopy are distinct demonstrations. Condensate studies are prospective; the final paragraph’s suggestion of an achieved clearer condensate view exceeds the demonstrated result. Heat-related optical signals supply chemical contrast. Depth limits,illumination effects and clinical/commercial outcomes retain separate questions. Rate describes volume acquisition;live processing speed requires separate verification. The dance analogy/artwork are illustrative."
     },
     {
       "provider": "gemini",
@@ -69,7 +69,7 @@
       "source_brief": "briefs/tokyo-cell-3d-52ms.md",
       "article_path": "articles/tokyo-cell-3d-52ms/gemini/chinese.md",
       "status": "available",
-      "availability_note": "暂行选稿；其他三位受邀编辑仍待恢复访问。10月30日研究展示每秒19.2幅三维化学图像，约52毫秒一幅。“约400倍”针对较早同类MIP断层成像，参照约每秒0.05幅。活COS-7细胞脂滴追踪与固定细胞光谱分析是不同实验。凝聚体研究属于未来应用，当前实测主要涉及脂滴；光热相关光学信号提供化学对比。成像深度、照明影响及临床和商业结果仍各有验证问题。中文作者汉字姓名未核实，以括号内罗马字署名为准；“化学反应”宜理解为化学分布与脂滴运动。专利披露包括已授权与申请中项目。舞蹈比喻与插画属于解释。"
+      "availability_note": "暂行选稿；其余编辑本题仍无已采集版本。10月30日研究展示每秒19.2幅三维化学图像，约52毫秒一幅。“约400倍”针对较早同类MIP断层成像，参照约每秒0.05幅。活COS-7细胞脂滴追踪与固定细胞光谱分析是不同实验。凝聚体研究属于未来应用，当前实测主要涉及脂滴；光热相关光学信号提供化学对比。成像深度、照明影响及临床和商业结果仍各有验证问题。中文作者汉字姓名未核实，以括号内罗马字署名为准；“化学反应”宜理解为化学分布与脂滴运动。专利披露包括已授权与申请中项目。舞蹈比喻与插画属于解释。"
     },
     {
       "provider": "grok",

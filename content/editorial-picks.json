@@ -1408,7 +1408,7 @@
       "language": "zh",
       "provider": "gemini",
       "headline_index": 2,
-      "reason": "暂行选择现有Gemini原作，其他三位编辑待恢复访问。好奇提问以活细胞化学动态引出实测速度和脂滴追踪，读者可理解观察工具的进展。来源说明保留样本厚度、凝聚体前景及临床应用边界。独立审阅中文，属于编辑选择，读者反应仍待测量。",
+      "reason": "暂行选择现有Gemini原作，其余三位编辑本题仍无已采集版本。好奇提问以活细胞化学动态引出实测速度和脂滴追踪，读者可理解观察工具的进展。来源说明保留样本厚度、凝聚体前景及临床应用边界。独立审阅中文，属于编辑选择，读者反应仍待测量。",
       "article_path": "articles/tokyo-cell-3d-52ms/gemini/chinese.md",
       "headline": "我们能以多快的速度绘制活细胞的化学动态？",
       "sha256": "7930f0ecf6665c67ffd544408e1585f79e3be570388a16c0f8476452fea5f5e6"
@@ -1418,7 +1418,7 @@
       "language": "en",
       "provider": "gemini",
       "headline_index": 2,
-      "reason": "Provisional available-writer choice; three requested editors await access. The curious question introduces the specific measurable advance with a clear payoff in19.2volumes/second and lipid-droplet tracking. The source note scopes condensate applications,depth and clinical implications. The suspense option’s tremors metaphor is less precise. Selection is editorial taste,with no measured audience claim.",
+      "reason": "Provisional available-writer choice; other writers have no captured edition for this topic. The curious question introduces the specific measurable advance with a clear payoff in19.2volumes/second and lipid-droplet tracking. The source note scopes condensate applications,depth and clinical implications. The suspense option’s tremors metaphor is less precise. Selection is editorial taste,with no measured audience claim.",
       "article_path": "articles/tokyo-cell-3d-52ms/gemini/english.md",
       "headline": "How Fast Can We Map the Chemical Machinery of a Living Cell?",
       "sha256": "0740af88c69c9327e85e054185fd10fa3e132400b78e834adee9b1c615f54b8d"
