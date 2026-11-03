@@ -9,12 +9,13 @@ test('new simple prompt context validates and renders in both languages without 
  const data=loadOlympicsArchive(),context=structuredClone(data.context),originalContext=JSON.stringify(data.context),topic='starliner-61-fixes-2028',provider='claude';
  const main={innerHTML:'',classList:{add(){},remove(){}},addEventListener(){},removeEventListener(){}};
  const view=ui();
- for(const version of ['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer','v5-story-first']){
+ for(const version of ['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer','v5-story-first','v6-streamlined']){
   for(const language of ['english','chinese'])context.editions.find(row=>row.article_path===`articles/${topic}/${provider}/${language}.md`).prompt_version=version;
   assert.doesNotThrow(()=>validateEditionContext(context,data.articles));
   for(const lang of ['en','zh']){
    await view.render({main,data:{...data,context},lang,hash:`edition/${topic}/${provider}`});
    assert.ok(main.innerHTML.includes(lang==='en'?`Prompt ${version.slice(0,2)}:`:`提示词 ${version.slice(0,2)}：`));
+   if(version==='v6-streamlined'){assert.match(main.innerHTML,lang==='en'?/separate Sol source and completeness reviews/:/Sol 核查来源及完整性/);assert.match(main.innerHTML,lang==='en'?/Reviewed edition completed/:/核查稿完成时间/);assert.doesNotMatch(main.innerHTML,/Prompt v2:|提示词 v2：/);}
    if(version==='v3-simple-explorer')assert.match(main.innerHTML,lang==='en'?/summary or conclusion first/:/摘要或结论先行/);
    if(version==='v5-story-first'){assert.match(main.innerHTML,lang==='en'?/story-led question/:/自然引出问题/);assert.doesNotMatch(main.innerHTML,/summary or conclusion first|摘要或结论先行/);}
   }
