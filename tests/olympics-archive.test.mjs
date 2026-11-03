@@ -124,3 +124,22 @@ test('plain single headlines retain exact bytes for the reviewed-edition pick ga
   assert.deepEqual([...window.iSunOlympics.preview('# '+headline+'\n\nOpening background paragraph.').headlines],[headline]);
  }
 });
+
+test('dated bilingual backfill serves a new edition while preserving the original missing record',async t=>{
+ const f=fixture(t),archive=join(f.root,'archive');mkdirSync(archive);cpSync(join(f.root,'2026-09-28'),join(archive,'2026-09-28'),{recursive:true});cpSync(f.base,join(archive,'2026-09-30'),{recursive:true});
+ const date='2026-11-03',base=join(f.root,'model-olympics-backfills',date),entries=[];
+ for(const language of ['en','zh']){
+  const name=language==='en'?'english':'chinese',text='# New '+language+' article\n\nBackfill text.';
+  const file=join(base,f.topic,'chatgpt',name+'.md');mkdirSync(dirname(file),{recursive:true});writeFileSync(file,text);
+  entries.push({topic:f.topic,provider:'chatgpt',language,article_path:`backfills/${date}/${f.topic}/chatgpt/${name}.md`,sha256:createHash('sha256').update(text).digest('hex'),completed_at:date+'T12:00:00+08:00'});
+ }
+ const put=rows=>writeFileSync(join(base,'manifest.json'),JSON.stringify({schema_version:1,entries:rows}));put(entries);
+ const data=loadOlympicsArchive(archive),original=data.catalog.articles.find(r=>r.topic===f.topic&&r.provider==='chatgpt'&&r.language==='en');
+ assert.equal(original.status,'UNKNOWN');assert.equal(original.article_path,null);assert.equal(data.backfills.entries.length,2);
+ const b=browser();let html=await b.render(data,'edition/'+f.topic+'/chatgpt');assert.match(html,/Later ChatGPT edition/);assert.match(html,/New en article/);assert.match(html,/backfills%2F/);
+ html=await b.render(data,'olympics/'+f.topic,'zh');assert.match(html,/后补稿件/);html=await b.render(data,'edition/'+f.topic+'/chatgpt','zh');assert.match(html,/后补 ChatGPT 稿件/);assert.match(html,/New zh article/);
+ put(entries.slice(0,1));assert.throws(()=>loadOlympicsArchive(archive),/both languages/);
+ put([entries[0],{...entries[1],sha256:'0'.repeat(64)}]);assert.throws(()=>loadOlympicsArchive(archive),/checksum/);
+ put([...entries,{...entries[0]}]);assert.throws(()=>loadOlympicsArchive(archive),/previously unavailable/);
+ put(entries.map(e=>({...e,provider:'qwen'})));assert.throws(()=>loadOlympicsArchive(archive),/Invalid backfill/);
+});

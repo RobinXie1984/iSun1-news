@@ -146,5 +146,30 @@ export function loadOlympicsArchive(root='content/model-olympics'){
  if(existsSync(contextPath))result.context=validateEditionContext(JSON.parse(readFileSync(contextPath,'utf8')),result.articles);
  const picksPath=resolve(root,'../editorial-picks.json');
  if(existsSync(picksPath))result.picks=validateEditorialPicks(JSON.parse(readFileSync(picksPath,'utf8')),result);
+ // New editions sit in a dated layer; historical catalogs and picks stay exact.
+ const backfillRoot=resolve(root,'../model-olympics-backfills');
+ result.backfills={entries:[],articles:{}};
+ if(existsSync(backfillRoot)){
+  if(lstatSync(backfillRoot).isSymbolicLink())throw Error('Backfill root must not be a symlink');
+  const keys=new Set();
+  for(const date of readdirSync(backfillRoot).filter(x=>/^\d{4}-\d{2}-\d{2}$/.test(x)).sort()){
+   const folder=resolve(backfillRoot,date);
+   if(lstatSync(folder).isSymbolicLink())throw Error('Backfill directory must not be a symlink');
+   const manifest=JSON.parse(readFileSync(resolve(folder,'manifest.json'),'utf8'));
+   if(!exactFields(manifest,['schema_version','entries'])||manifest.schema_version!==1||!Array.isArray(manifest.entries))throw Error('Invalid backfill manifest');
+   for(const row of manifest.entries){
+    if(!exactFields(row,['topic','provider','language','article_path','sha256','completed_at'])||row.provider!=='chatgpt'||!['en','zh'].includes(row.language)||!/^[a-z0-9-]+$/.test(row.topic)||!/^[a-f0-9]{64}$/.test(row.sha256)||!Number.isFinite(Date.parse(row.completed_at))||row.completed_at.slice(0,10)!==date)throw Error('Invalid backfill record');
+    const key=[row.topic,row.provider,row.language].join('/'),original=result.catalog.articles.find(x=>[x.topic,x.provider,x.language].join('/')===key);
+    if(keys.has(key)||!original||original.status!=='UNKNOWN'||date<original.event_date)throw Error('Backfill requires one previously unavailable slot');
+    const expected=`backfills/${date}/${row.topic}/chatgpt/${row.language==='en'?'english':'chinese'}.md`;
+    if(row.article_path!==expected)throw Error('Invalid backfill path');
+    for(const part of [resolve(folder,row.topic),resolve(folder,row.topic,'chatgpt')])if(lstatSync(part).isSymbolicLink())throw Error('Backfill path must not use symlinks');
+    const file=resolve(folder,row.topic,'chatgpt',row.language==='en'?'english.md':'chinese.md');
+    if(lstatSync(file).isSymbolicLink()||createHash('sha256').update(readFileSync(file)).digest('hex')!==row.sha256)throw Error('Backfill checksum mismatch');
+    keys.add(key);result.backfills.entries.push(row);result.backfills.articles[expected]=readFileSync(file,'utf8');
+   }
+   for(const row of manifest.entries){if(!keys.has([row.topic,row.provider,row.language==='en'?'zh':'en'].join('/')))throw Error('Backfill requires both languages');}
+  }
+ }
  return result;
 }

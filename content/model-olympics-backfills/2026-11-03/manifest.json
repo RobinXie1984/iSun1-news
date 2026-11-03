@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "topic": "almgren-debut-hug-one-second",
+      "provider": "chatgpt",
+      "language": "en",
+      "article_path": "backfills/2026-11-03/almgren-debut-hug-one-second/chatgpt/english.md",
+      "sha256": "2763dbadc6d966990a5210d2d65d3f5743a471bf17ccd96c1caa012e165d05ac",
+      "completed_at": "2026-11-03T19:19:30.947130+08:00"
+    },
+    {
+      "topic": "almgren-debut-hug-one-second",
+      "provider": "chatgpt",
+      "language": "zh",
+      "article_path": "backfills/2026-11-03/almgren-debut-hug-one-second/chatgpt/chinese.md",
+      "sha256": "b46454a3332d53a00a0c6e9ad9292ce4e690b38b7fd10726dafda9760c6b82c4",
+      "completed_at": "2026-11-03T19:19:30.947130+08:00"
+    },
+    {
+      "topic": "nist-quantum-migration-2030-2031",
+      "provider": "chatgpt",
+      "language": "en",
+      "article_path": "backfills/2026-11-03/nist-quantum-migration-2030-2031/chatgpt/english.md",
+      "sha256": "58b283b6acb315c546ade1ded1523a2696516ed1db7c0e2d33d184d936aef837",
+      "completed_at": "2026-11-03T19:21:33.330218+08:00"
+    },
+    {
+      "topic": "nist-quantum-migration-2030-2031",
+      "provider": "chatgpt",
+      "language": "zh",
+      "article_path": "backfills/2026-11-03/nist-quantum-migration-2030-2031/chatgpt/chinese.md",
+      "sha256": "9175f61e573bbf576f2e3d6943a53aee08fe8be32193579ff704127cde7e4c26",
+      "completed_at": "2026-11-03T19:21:33.330218+08:00"
+    },
+    {
+      "topic": "tokyo-cell-3d-52ms",
+      "provider": "chatgpt",
+      "language": "en",
+      "article_path": "backfills/2026-11-03/tokyo-cell-3d-52ms/chatgpt/english.md",
+      "sha256": "89a8f13423baa95428b90dc37cd0186e136d61dc9df8074627252255538c7640",
+      "completed_at": "2026-11-03T19:21:25.679387+08:00"
+    },
+    {
+      "topic": "tokyo-cell-3d-52ms",
+      "provider": "chatgpt",
+      "language": "zh",
+      "article_path": "backfills/2026-11-03/tokyo-cell-3d-52ms/chatgpt/chinese.md",
+      "sha256": "8cd0e0970e904f1e655557865ac95f74e349c5ab72a521ed79adedbe3f1620af",
+      "completed_at": "2026-11-03T19:21:25.679387+08:00"
+    },
+    {
+      "topic": "atlas-ai-task-role-compass",
+      "provider": "chatgpt",
+      "language": "en",
+      "article_path": "backfills/2026-11-03/atlas-ai-task-role-compass/chatgpt/english.md",
+      "sha256": "5702d8654b46e1692f885beb4a0cd6e5f018533a828565012a3d51735743074c",
+      "completed_at": "2026-11-03T19:20:28.371583+08:00"
+    },
+    {
+      "topic": "atlas-ai-task-role-compass",
+      "provider": "chatgpt",
+      "language": "zh",
+      "article_path": "backfills/2026-11-03/atlas-ai-task-role-compass/chatgpt/chinese.md",
+      "sha256": "eda804c8c1bb35638baa03b500542a5beb412bb06162011ce87201aca4b70e0c",
+      "completed_at": "2026-11-03T19:20:28.371583+08:00"
+    },
+    {
+      "topic": "ute2-two-flavors-cooling",
+      "provider": "chatgpt",
+      "language": "en",
+      "article_path": "backfills/2026-11-03/ute2-two-flavors-cooling/chatgpt/english.md",
+      "sha256": "460a598e5ee9696f6e3d595aaff151b00f17086be5a08546684dae4217647742",
+      "completed_at": "2026-11-03T19:19:51.983990+08:00"
+    },
+    {
+      "topic": "ute2-two-flavors-cooling",
+      "provider": "chatgpt",
+      "language": "zh",
+      "article_path": "backfills/2026-11-03/ute2-two-flavors-cooling/chatgpt/chinese.md",
+      "sha256": "d60a2e6a5499fe126969185e114c52b3021fdfed493b8388d837577e6e5cad58",
+      "completed_at": "2026-11-03T19:19:51.983990+08:00"
+    },
+    {
+      "topic": "dei-same-training-different-words",
+      "provider": "chatgpt",
+      "language": "en",
+      "article_path": "backfills/2026-11-03/dei-same-training-different-words/chatgpt/english.md",
+      "sha256": "8d41543ba17b498b7a12616e26b311c9e1a72ef0a47c39bb5b4d8484ee5c4b37",
+      "completed_at": "2026-11-03T19:18:47.775107+08:00"
+    },
+    {
+      "topic": "dei-same-training-different-words",
+      "provider": "chatgpt",
+      "language": "zh",
+      "article_path": "backfills/2026-11-03/dei-same-training-different-words/chatgpt/chinese.md",
+      "sha256": "b91f8920418bb9ae825f26091bb648e0a678db9c6e6afcf2447b90cbc1de8b35",
+      "completed_at": "2026-11-03T19:18:47.775107+08:00"
+    }
+  ]
+}

@@ -39,3 +39,14 @@ test('additional provider originals retain exact bytes and reject unlisted suppl
  const root=mkdtempSync(join(tmpdir(),'isun-supplement-'));
  try{cpSync('content/model-olympics/2026-09-28',root,{recursive:true});writeFileSync(join(root,path),'changed');assert.throws(()=>loadOlympics(root),/checksum mismatch/);}finally{rmSync(root,{recursive:true,force:true});}
 });
+
+test('later ChatGPT editions download exact bytes while original slots remain historical',async()=>{
+ const data=await(await worker.fetch(new Request('https://example.test/api/olympics'),{})).json();
+ for(const row of data.backfills?.entries||[]){
+  const old=data.catalog.articles.find(x=>x.topic===row.topic&&x.provider===row.provider&&x.language===row.language);
+  assert.equal(old.status,'UNKNOWN');assert.equal(old.article_path,null);
+  const result=await worker.fetch(new Request('https://example.test/api/olympics/original?path='+encodeURIComponent(row.article_path)),{});
+  assert.equal(result.status,200);assert.equal(await result.text(),data.backfills.articles[row.article_path]);
+ }
+ assert.equal((await worker.fetch(new Request('https://example.test/api/olympics/original?path=backfills%2F..%2FPROJECT_STATE.md'),{})).status,404);
+});

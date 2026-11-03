@@ -1,3 +1,7 @@
+# Later ChatGPT editions — November 3, 2026
+
+Some historically unavailable ChatGPT slots have separately labelled later editions in `content/model-olympics-backfills/`. These were written through the Sol → Astra → Sol background workflow and completed after the original collection dates. The historical catalogs, unavailable records, earlier originals and editorial picks remain unchanged. Each backfill carries its actual completion timestamp and a checksum; English and Chinese are delivered together.
+
 # Editorial workflow iteration — 3 November 2026
 
 New editions use one Astra author, with Sol research and separate factual/completeness review, followed by a full Chinese edition and review. English uses a suspenseful title and substantial background; Chinese has a lightly classical voice. The reader supports single-author bilingual editions alongside preserved four- and six-provider Model Olympics archives. Historical originals and permanent edition links remain available. Private model orchestration, credentials and capture receipts are excluded from this public source tree.
