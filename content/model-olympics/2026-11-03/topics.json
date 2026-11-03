@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "mcquinn-glow-37-oxygen",
+      "title": {
+        "en": "Thirty-seven small galaxies and their missing oxygen",
+        "zh": "三十七座小星系，氧去了哪里"
+      },
+      "summary": {
+        "en": "NASA’s November2report highlights GLOW’s oxygen census:37nearby gas-rich dwarf galaxies retain about4–25%of their estimated stellar oxygen production. The older August preprint and uncertain destination stay explicit.",
+        "zh": "NASA11月2日报道GLOW氧元素普查：37座邻近富气矮星系，约保留恒星预计产氧量的4%至25%；保留8月预印本时间与氧的去向之疑。"
+      },
+      "event_date": "2026-11-02"
+    },
+    {
+      "id": "swift-final-countdown-nov4",
+      "title": {
+        "en": "Swift’s final countdown after an orbit rescue failed",
+        "zh": "抢救轨道失败后，Swift进入最后倒数"
+      },
+      "summary": {
+        "en": "NASA’s November2update forecasts Swift’s atmospheric return on November4,with substantial timing uncertainty. Nearly22years of science and a failed commercial boost attempt expose the limits of rescuing an aging spacecraft.",
+        "zh": "NASA11月2日更新预计Swift于11月4日重返大气层，时间仍有较大误差。近22年科研与一次失败的商业抬轨尝试，留下老卫星抢救的难题。"
+      },
+      "event_date": "2026-11-02"
+    }
+  ]
+}

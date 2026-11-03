@@ -4830,6 +4830,34 @@
       "prompt_version": "v5-story-first",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mcquinn-glow-37-oxygen/chatgpt/english.md",
+      "captured_at": "2026-11-03T15:11:57.380729+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mcquinn-glow-37-oxygen/chatgpt/chinese.md",
+      "captured_at": "2026-11-03T15:11:57.380729+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/swift-final-countdown-nov4/chatgpt/english.md",
+      "captured_at": "2026-11-03T15:15:13.463561+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/swift-final-countdown-nov4/chatgpt/chinese.md",
+      "captured_at": "2026-11-03T15:15:13.463561+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

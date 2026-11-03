@@ -23,13 +23,21 @@ test('new simple prompt context validates and renders in both languages without 
  assert.throws(()=>validateEditionContext(context,data.articles),/context/);
  assert.equal(JSON.stringify(data.context),originalContext);
 });
-test('all real archive originals expose three exact headline candidates and retain original bytes',()=>{
+test('all real archive originals retain their schema-specific exact headlines and original bytes',()=>{
  const data=loadOlympicsArchive(),view=ui();
  assert.equal(data.context.editions.length,Object.keys(data.articles).length);
  for(const [path,raw] of Object.entries(data.articles)){
   const sha=createHash('sha256').update(raw).digest('hex');
   const headlines=view.preview(raw).headlines;
-  assert.equal(headlines.length,3,path);assert.equal(new Set(headlines).size,3,path);
+  const row=data.catalog.articles.find(row=>row.article_path===path);
+  const batch=data.batches.find(batch=>batch.topic_ids.includes(row.topic));
+  const catalog=JSON.parse(readFileSync('content/model-olympics/'+batch.date+'/catalog.json','utf8'));
+  const expected=catalog.schema_version===3?1:3;
+  assert.equal(headlines.length,expected,path);assert.equal(new Set(headlines).size,expected,path);
+  if(catalog.schema_version===3){
+   assert.equal(data.context.editions.find(row=>row.article_path===path).prompt_version,'v6-streamlined');
+   assert.equal(headlines[0],raw.split('\n')[0].replace(/^# /,''));
+  }
   view.displayMarkdown(raw);assert.equal(createHash('sha256').update(raw).digest('hex'),sha);
  }
 });

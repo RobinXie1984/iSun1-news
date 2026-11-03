@@ -1408,6 +1408,44 @@
           "sha256": "897c3a92987850d8fd4f1cac5ce1c6d774a0a366c48805ab6f3350a3b9929270"
         }
       ]
+    },
+    {
+      "topic": "mcquinn-glow-37-oxygen",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/mcquinn-glow-37-oxygen-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 381504,
+          "sha256": "0d351df88cc989122837c3087bea959aeb36a31ff2be86fd2b6419acc140acb7"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/mcquinn-glow-37-oxygen-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 106956,
+          "sha256": "d8baa845d018b2a82d9556b6e06c45ad182a33fd88e1234649a3047bd02bbbbe"
+        }
+      ]
+    },
+    {
+      "topic": "swift-final-countdown-nov4",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/swift-final-countdown-nov4-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 231695,
+          "sha256": "8bd0b1d21cc199b3dc5aecb002dae460ed0a815af23964d19c1d097f6ef0d78e"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/swift-final-countdown-nov4-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 72503,
+          "sha256": "27b2bc641f76f3211a99631338f9c810efa1bf9bfe9e566d78b3a853aced3810"
+        }
+      ]
     }
   ]
 }

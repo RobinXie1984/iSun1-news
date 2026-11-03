@@ -100,3 +100,27 @@ test('Chinese teaser preserves its first 180 characters across embedded English 
  const paragraph='开篇保留 World Labs '+ '这是中文测试原文。'.repeat(25);
  assert.equal(window.iSunOlympics.preview(paragraph).teaser,paragraph.slice(0,180)+'…');
 });
+
+test('single-author schema 3 coexists with old archives and renders a bilingual reviewed edition',async t=>{
+ const f=fixture(t),rows=f.catalog.articles.filter(row=>row.provider==='chatgpt').map(row=>({...row,status:'available',article_path:`articles/${f.topic}/chatgpt/${row.language==='en'?'english':'chinese'}.md`,availability_note:'Separate source review recorded.'}));
+ const catalog={...f.catalog,schema_version:3,articles:rows,available_count:2,unavailable_count:0};
+ for(const row of rows)f.write(row.article_path,'# A suspenseful fixture title?\n\nA complete synthetic fixture article.');
+ f.write('catalog.json',catalog);
+ const data=loadOlympicsArchive(f.root),b=browser();
+ let html=await b.render(data,'olympics/'+f.topic);
+ assert.match(html,/One story\. Two languages\./);assert.match(html,/data-op-providers="1"/);
+ assert.match(html,/A suspenseful fixture title\?/);
+ assert.equal((html.match(/class="op-voice"/g)||[]).length,1);
+ assert.doesNotMatch(html,/Headline options are not all|Four voices|Six voices/);
+ html=await b.render(data,'edition/'+f.topic+'/chatgpt','zh');assert.match(html,/核查稿/);assert.match(html,/A complete synthetic/);
+ html=await b.render(data,'olympics/eviltokens-real-login-trap');assert.match(html,/One story\. Six voices\./);
+ f.write('catalog.json',{...catalog,articles:[rows[0]],available_count:1});assert.throws(()=>loadOlympics(f.base),/one author/);
+ f.write('catalog.json',{...catalog,articles:rows.map(row=>({...row,provider:'claude'}))});assert.throws(()=>loadOlympics(f.base),/Invalid archive row/);
+});
+
+test('plain single headlines retain exact bytes for the reviewed-edition pick gate',()=>{
+ const window={};vm.runInNewContext(readFileSync('public/olympics.js','utf8'),{window,URL});
+ for(const headline of ['The Fetal Head Moved. Can the MRI Scanner Find Its Next View in Time?','胎儿的头又动了，MRI能及时找到下一幅图像的位置吗？']){
+  assert.deepEqual([...window.iSunOlympics.preview('# '+headline+'\n\nOpening background paragraph.').headlines],[headline]);
+ }
+});

@@ -47,12 +47,13 @@ export function loadOlympics(root='content/model-olympics/2026-09-28'){
   return bytes.toString('utf8');
  };
  const catalog=JSON.parse(read('catalog.json')),articles={},briefs={};
- if(!exactFields(catalog,['schema_version','generated_at','description','available_count','unavailable_count','articles'])||![1,2].includes(catalog.schema_version)||!Array.isArray(catalog.articles)||!catalog.articles.length)throw Error('Invalid archive catalog');
+ if(!exactFields(catalog,['schema_version','generated_at','description','available_count','unavailable_count','articles'])||![1,2,3].includes(catalog.schema_version)||!Array.isArray(catalog.articles)||!catalog.articles.length)throw Error('Invalid archive catalog');
  // Version 1 preserves the historical six-editor archive. New batches use the
- // four editors requested by Robin on October 18, without invented missing slots.
- const providers=catalog.schema_version===2?['chatgpt','claude','gemini','grok']:['chatgpt','claude','gemini','grok','deepseek','qwen'];
+ // four editors requested by Robin on October 18. Version 3 uses the single
+ // Astra author approved November 3; historical slots remain unchanged.
+ const providers=catalog.schema_version===3?['chatgpt']:catalog.schema_version===2?['chatgpt','claude','gemini','grok']:['chatgpt','claude','gemini','grok','deepseek','qwen'];
  const topicIDs=new Set(catalog.articles.map(row=>row.topic));
- if(catalog.articles.length!==topicIDs.size*providers.length*2)throw Error(catalog.schema_version===2?'Expected four models and two languages per topic':'Expected six models and two languages per topic');
+ if(catalog.articles.length!==topicIDs.size*providers.length*2)throw Error(catalog.schema_version===3?'Expected one author and two languages per topic':catalog.schema_version===2?'Expected four models and two languages per topic':'Expected six models and two languages per topic');
  const seen=new Set();
  for(const row of catalog.articles){
   if(!exactFields(row,['provider','model','language','topic','event_date','source_brief','article_path','status','availability_note'])||!providers.includes(row.provider)||typeof row.topic!=='string'||!/^[a-z0-9-]+$/.test(row.topic)||!textField(row.model,200)||!/^\d{4}-\d{2}-\d{2}$/.test(row.event_date)||(row.availability_note!==null&&!textField(row.availability_note,1000)))throw Error('Invalid archive row');
@@ -98,7 +99,7 @@ export function validateEditionContext(value, articles){
  if(!exactFields(value,['schema_version','editions'])||value.schema_version!==1||!Array.isArray(value.editions))throw Error('Invalid edition context');
  const seen=new Set();
  for(const row of value.editions){
-  if(!exactFields(row,['article_path','captured_at','prompt_version','input_deviation','fact_check_status'])||!Object.hasOwn(articles,row.article_path)||seen.has(row.article_path)||typeof row.captured_at!=='string'||!/^\d{4}-\d{2}-\d{2}T/.test(row.captured_at)||!Number.isFinite(Date.parse(row.captured_at))||!['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer','v5-story-first'].includes(row.prompt_version)||![null,'interleaved-brief','text-only-clarification','factual-clarification'].includes(row.input_deviation)||!['UNKNOWN','SOURCE_REVIEW_RECORDED'].includes(row.fact_check_status))throw Error('Invalid edition context row');
+  if(!exactFields(row,['article_path','captured_at','prompt_version','input_deviation','fact_check_status'])||!Object.hasOwn(articles,row.article_path)||seen.has(row.article_path)||typeof row.captured_at!=='string'||!/^\d{4}-\d{2}-\d{2}T/.test(row.captured_at)||!Number.isFinite(Date.parse(row.captured_at))||!['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer','v5-story-first','v6-streamlined'].includes(row.prompt_version)||![null,'interleaved-brief','text-only-clarification','factual-clarification'].includes(row.input_deviation)||!['UNKNOWN','SOURCE_REVIEW_RECORDED'].includes(row.fact_check_status))throw Error('Invalid edition context row');
   seen.add(row.article_path);
  }
  if(seen.size!==Object.keys(articles).length)throw Error('Incomplete edition context');

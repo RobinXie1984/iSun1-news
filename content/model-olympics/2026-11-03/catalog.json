@@ -1,0 +1,53 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-11-03T15:16:41.633053+08:00",
+  "description": "Single-author bilingual editions; Sol research and separate review, Astra writing.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "mcquinn-glow-37-oxygen",
+      "event_date": "2026-11-02",
+      "source_brief": "briefs/mcquinn-glow-37-oxygen.md",
+      "article_path": "articles/mcquinn-glow-37-oxygen/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "The numerical source is the August13arXivv2preprint(CC BY4.0);the current report is datedNovember2. Finaljournalfulltext remains a separate verification step. Retention compares inventoried oxygen to estimated lifetime stellar production. The5.1percentagepoints is the sample spread,not error on the mean. The inventory includes stars/remnants,gas anddust;halo/intergalactic destinations remain unresolved. Model,yield,gas-extent andenvironment assumptions remain material. Sol reviewed against supplied public sources;independent experimental replication is a separate question."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "mcquinn-glow-37-oxygen",
+      "event_date": "2026-11-02",
+      "source_brief": "briefs/mcquinn-glow-37-oxygen.md",
+      "article_path": "articles/mcquinn-glow-37-oxygen/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "数值依据8月13日arXiv第二版预印本（CC BY4.0），本次报道日期为11月2日；期刊最终全文另待核对。留存比例以恒星历来估计产氧量为分母，5.1个百分点表示样本间离散程度。账目包含恒星／遗骸、气体和尘埃，外围气体晕及星系际去向仍待追踪。模型、产额、气体范围与环境假设均影响解释。Sol针对所供公开资料核查；独立实验复核是另一个层面。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "swift-final-countdown-nov4",
+      "event_date": "2026-11-02",
+      "source_brief": "briefs/swift-final-countdown-nov4.md",
+      "article_path": "articles/swift-final-countdown-nov4/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "This reports NASA’s November2forecast,not an observed re-entry. The source states11hours of uncertainty;its precise confidence/interval convention remains unspecified. Some components are expected to survive. Approximately1in2100is the dated aggregate risk of harm to someone,not each person’s risk. Swift andLINK are separate craft;LINK’s orbit-boost objective failed,and its ownre-entryoccurredSeptember25. The20thanniversarysciencecounts retain that date. Model-request identity and completed native receipts are recorded privately;server-side identity attestation and marginal costs remainUNKNOWN."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "swift-final-countdown-nov4",
+      "event_date": "2026-11-02",
+      "source_brief": "briefs/swift-final-countdown-nov4.md",
+      "article_path": "articles/swift-final-countdown-nov4/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "本文依据NASA11月2日的预测，实际重返仍待观测。来源给出11小时不确定性，具体置信水平及区间定义另待澄清。部分组件预计会存留。约2100分之一是当时对地面有人受伤的总体风险估计，个人风险另有含义。Swift与LINK为两艘航天器；抬轨目标失败，LINK自身已于9月25日重返。20周年科研计数保留原日期。请求模型身份与原生完成凭证私存；服务端身份独立证明及边际费用为UNKNOWN。"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-02T07:26:06.420778+00:00",
+  "selected_at": "2026-11-03T07:18:28.024905+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1482,6 +1482,46 @@
       "article_path": "articles/nist-quantum-migration-2030-2031/claude/chinese.md",
       "headline": "如何防备一台日后才出现的计算机？NIST 新路线图给出了计划",
       "sha256": "932c981146d6d5725b26539162d9ac382195adb527556751dbc9a3e99c440a85"
+    },
+    {
+      "topic": "mcquinn-glow-37-oxygen",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/mcquinn-glow-37-oxygen/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "These Galaxies Still Have Their Gas. Where Did Their Oxygen Go?",
+      "sha256": "76e26519b24289657a01c6ed2350580125209542f6d8bf90009b92e677f8d661",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "mcquinn-glow-37-oxygen",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/mcquinn-glow-37-oxygen/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "这些星系仍有充盈气体，恒星造出的氧去了何方？",
+      "sha256": "4449423275a21e446165d0ad0ee76d20d6b15de8089fa0928405fbac97a36726",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "swift-final-countdown-nov4",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/swift-final-countdown-nov4/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Swift Could Catch a Cosmic Flash in Seconds. Could Its Rescue Beat a Falling Orbit?",
+      "sha256": "4454c4379c9e311c4852c364cc68319f4b3da430580cf50a581e9dc6688213cd",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "swift-final-countdown-nov4",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/swift-final-countdown-nov4/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "Swift追得上宇宙的闪光，谁能赶在它坠落之前？",
+      "sha256": "18b4ee75ec7fc61edaa4222bb0853fc57721beb746ff2f9c72e189d22fa4c635",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
     }
   ]
 }

@@ -1,3 +1,7 @@
+# Editorial workflow iteration — 3 November 2026
+
+New editions use one Astra author, with Sol research and separate factual/completeness review, followed by a full Chinese edition and review. English uses a suspenseful title and substantial background; Chinese has a lightly classical voice. The reader supports single-author bilingual editions alongside preserved four- and six-provider Model Olympics archives. Historical originals and permanent edition links remain available. Private model orchestration, credentials and capture receipts are excluded from this public source tree.
+
 # iSun1 Story Engine
 
 Real events. Twenty competing framings. An honest attention loop.
