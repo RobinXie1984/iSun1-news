@@ -1,0 +1,53 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-11-04T15:20:19.098065+08:00",
+  "description": "Single-author bilingual editions; Sol research and separate review, Astra writing.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "lim-vns-cloud-hidden-switch",
+      "event_date": "2026-11-02",
+      "source_brief": "briefs/lim-vns-cloud-hidden-switch.md",
+      "article_path": "articles/lim-vns-cloud-hidden-switch/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "MIT reported the prototype on November 2; the conference presentation was in September 2026. The primary repository abstract reports scoped benchmarks, while full-paper retrieval returned HTTP 429. No full-methods audit or independent replication is claimed. The 10–13% figure applies to the authors’ matched-feature 16-rank communication benchmark; it is not universal cloud acceleration. The November 2 report describes open-source release as planned; a public code release was not independently verified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "lim-vns-cloud-hidden-switch",
+      "event_date": "2026-11-02",
+      "source_brief": "briefs/lim-vns-cloud-hidden-switch.md",
+      "article_path": "articles/lim-vns-cloud-hidden-switch/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "MIT于11月2日报道原型，会议报告在2026年9月。性能数字来自作者在官方资料库的摘要，全文获取返回HTTP 429；完整方法审核及独立复现另待核验。10%至13%限于作者注明条件的16个进程通信测试，适用范围有别于所有云端负载。11月2日报道仍将开源发布列为计划，公开代码版本另待核对。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "olivetti-gallium-mine-chokepoint",
+      "event_date": "2026-11-03",
+      "source_brief": "briefs/olivetti-gallium-mine-chokepoint.md",
+      "article_path": "articles/olivetti-gallium-mine-chokepoint/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "The fresh event is MIT’s November 3 interview; the consortium launched in September 2025. Gallium statistics come from the February 2026 USGS summary, chiefly describing 2025 estimates. China’s 99% share refers to primary low-purity gallium; the 100% U.S. net-import-reliance measure excludes GaAs wafers. Direct import shares describe 2021–24 and do not establish every shipment’s upstream origin. Research directions and company examples are attributed, with commercial outcomes and present supply conditions unverified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "olivetti-gallium-mine-chokepoint",
+      "event_date": "2026-11-03",
+      "source_brief": "briefs/olivetti-gallium-mine-chokepoint.md",
+      "article_path": "articles/olivetti-gallium-mine-chokepoint/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "本次新闻为MIT11月3日访谈；联盟成立于2025年9月。镓数据来自USGS于2026年2月发布的汇编，主要记载2025年估计值。中国99%的份额指原生低纯度镓；美国100%净进口依赖指标排除砷化镓晶圆。直接进口来源份额属于2021至2024年，不能据此断定各批货物的上游产地。研究方向及企业案例保留原作者归属，商业成果与当前供应状况另待核验。"
+    }
+  ]
+}

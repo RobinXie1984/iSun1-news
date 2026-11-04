@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "lim-vns-cloud-hidden-switch",
+      "title": {
+        "en": "The missing switch inside cloud research",
+        "zh": "云端研究缺失的那道交换关口"
+      },
+      "summary": {
+        "en": "Jeffery Lim built an FPGA research platform that recreates key cloud-networking functions. MIT’s November 2 report and the authors’ 2026 manuscript describe a working prototype; broader release and production deployment remain separate milestones.",
+        "zh": "Jeffery Lim构建了可重现云端网络关键功能的FPGA研究平台。MIT11月2日报道及作者2026年稿件记载了工作原型；广泛开源发布与生产部署仍属另一步。"
+      },
+      "event_date": "2026-11-02"
+    },
+    {
+      "id": "olivetti-gallium-mine-chokepoint",
+      "title": {
+        "en": "The mineral bottleneck beyond the mine",
+        "zh": "矿井之外，还有一道矿物瓶颈"
+      },
+      "summary": {
+        "en": "Elsa Olivetti’s November 3 MIT interview explains why extraction, separation, refining and manufacturing must work together. Gallium’s byproduct dependence and dated USGS production figures expose the difference between possessing ore and securing usable material.",
+        "zh": "Elsa Olivetti在MIT11月3日访谈中解释，开采、分离、精炼与制造须环环相接。镓的副产品来源及注明年代的USGS数据，揭示有矿与有可用材料之间的距离。"
+      },
+      "event_date": "2026-11-03"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-03T07:18:28.024905+00:00",
+  "selected_at": "2026-11-04T07:20:36.699440+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1521,6 +1521,46 @@
       "headline_index": 0,
       "headline": "Swift追得上宇宙的闪光，谁能赶在它坠落之前？",
       "sha256": "18b4ee75ec7fc61edaa4222bb0853fc57721beb746ff2f9c72e189d22fa4c635",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "lim-vns-cloud-hidden-switch",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/lim-vns-cloud-hidden-switch/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "He Built a Window Into Cloud Networking. Who Will Get to Look Through It?",
+      "sha256": "b541c5301c92f02cec20d4c9eadbfe01aab2a65493f94674f61d8e4dd89bd1a4",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "lim-vns-cloud-hidden-switch",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/lim-vns-cloud-hidden-switch/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "他为云端网络开了一扇窗，谁能接着往里看？",
+      "sha256": "a0640667df3e83cf7e31fcfc41d283927ef42495d5494e00ccaba1973311baae",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "olivetti-gallium-mine-chokepoint",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/olivetti-gallium-mine-chokepoint/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "The Gallium Is in the Rock. Who Can Get It to the Factory?",
+      "sha256": "20f964ca46dcc4342b3592cc302891f4dad1b6b3f4bc0f835750a52f2f14d7f3",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "olivetti-gallium-mine-chokepoint",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/olivetti-gallium-mine-chokepoint/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "镓藏在岩石里，谁能把它送到工厂？",
+      "sha256": "bedc146e4aaaafef77b0340f2e0dea54c70bc0c371caaa147beca6844c80b01c",
       "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
     }
   ]

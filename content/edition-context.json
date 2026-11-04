@@ -4858,6 +4858,34 @@
       "prompt_version": "v6-streamlined",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lim-vns-cloud-hidden-switch/chatgpt/english.md",
+      "captured_at": "2026-11-04T15:18:12.289318+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/lim-vns-cloud-hidden-switch/chatgpt/chinese.md",
+      "captured_at": "2026-11-04T15:18:12.289318+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/olivetti-gallium-mine-chokepoint/chatgpt/english.md",
+      "captured_at": "2026-11-04T15:19:46.886911+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/olivetti-gallium-mine-chokepoint/chatgpt/chinese.md",
+      "captured_at": "2026-11-04T15:19:46.886911+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

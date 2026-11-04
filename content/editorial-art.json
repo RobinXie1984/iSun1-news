@@ -1446,6 +1446,44 @@
           "sha256": "27b2bc641f76f3211a99631338f9c810efa1bf9bfe9e566d78b3a853aced3810"
         }
       ]
+    },
+    {
+      "topic": "lim-vns-cloud-hidden-switch",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/lim-vns-cloud-hidden-switch-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 93183,
+          "sha256": "7130213c5e0353caac5a05e3520e5dd294ce451f52eb47ce1487cf26c9b8e647"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/lim-vns-cloud-hidden-switch-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 320915,
+          "sha256": "e3952e99d64c363f50494c94809c748254ff4b8412c649659fc8ea447a45ae35"
+        }
+      ]
+    },
+    {
+      "topic": "olivetti-gallium-mine-chokepoint",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/olivetti-gallium-mine-chokepoint-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 92023,
+          "sha256": "35c68b10938fc20d50225d5060333e79c026a5b552d216fb542cb9c14fb5a19e"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/olivetti-gallium-mine-chokepoint-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 338318,
+          "sha256": "76a6110ba38be946e9a0e0cc64be83ca6b8c6157445151abb319aa5ddb9165e2"
+        }
+      ]
     }
   ]
 }
