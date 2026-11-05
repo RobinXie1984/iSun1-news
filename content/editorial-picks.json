@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-04T07:20:36.699440+00:00",
+  "selected_at": "2026-11-05T07:15:26.476428+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1561,6 +1561,46 @@
       "headline_index": 0,
       "headline": "镓藏在岩石里，谁能把它送到工厂？",
       "sha256": "bedc146e4aaaafef77b0340f2e0dea54c70bc0c371caaa147beca6844c80b01c",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "robot-memory-chimney-squirrel",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/robot-memory-chimney-squirrel/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "A Robot’s Memory Can Hide a Mistake. What Makes It Look Again?",
+      "sha256": "9e41e50dcb33a385b91b189f7459f9e10b88fc4d55464d7070e05b00e19b9900",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "robot-memory-chimney-squirrel",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/robot-memory-chimney-squirrel/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "错误藏进机器人的记忆之后，什么会让它再看一眼？",
+      "sha256": "513ab4d7141ff4b7912e4177a2352b26962de22169a798927806b3ed105d645b",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "antarctic-ozone-weather-recovery-2026",
+      "language": "en",
+      "provider": "chatgpt",
+      "article_path": "articles/antarctic-ozone-weather-recovery-2026/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Antarctica’s Ozone Hole Swelled in 2026. What Is Happening to Its Recovery?",
+      "sha256": "4cafdbae40ee60961b80fc64875375b9c83a7b61045a0ed4954de145a959b5cd",
+      "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "antarctic-ozone-weather-recovery-2026",
+      "language": "zh",
+      "provider": "chatgpt",
+      "article_path": "articles/antarctic-ozone-weather-recovery-2026/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "南极臭氧空洞在2026年异常广阔，恢复的迹象藏在哪里？",
+      "sha256": "8c311c4d2ad9c8eb1528972a78919dea3b217a558152bdbeb869a3405c58c8b2",
       "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
     }
   ]

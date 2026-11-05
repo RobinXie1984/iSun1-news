@@ -4886,6 +4886,34 @@
       "prompt_version": "v6-streamlined",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/robot-memory-chimney-squirrel/chatgpt/english.md",
+      "captured_at": "2026-11-05T15:12:42.988023+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/robot-memory-chimney-squirrel/chatgpt/chinese.md",
+      "captured_at": "2026-11-05T15:12:42.988023+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/antarctic-ozone-weather-recovery-2026/chatgpt/english.md",
+      "captured_at": "2026-11-05T15:13:12.160339+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/antarctic-ozone-weather-recovery-2026/chatgpt/chinese.md",
+      "captured_at": "2026-11-05T15:13:12.160339+08:00",
+      "prompt_version": "v6-streamlined",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

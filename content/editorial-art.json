@@ -1484,6 +1484,44 @@
           "sha256": "76a6110ba38be946e9a0e0cc64be83ca6b8c6157445151abb319aa5ddb9165e2"
         }
       ]
+    },
+    {
+      "topic": "robot-memory-chimney-squirrel",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/robot-memory-chimney-squirrel-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 82401,
+          "sha256": "5acd7a8e108377db1041569e290d0aa0d5825e4414294af9cbe5081584c28192"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/robot-memory-chimney-squirrel-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 246962,
+          "sha256": "928f45cda1dc5cc17a110260646cb7524381d9f2c83f6eaba04517592b0e7180"
+        }
+      ]
+    },
+    {
+      "topic": "antarctic-ozone-weather-recovery-2026",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/antarctic-ozone-weather-recovery-2026-600.jpg",
+          "width": 600,
+          "height": 400,
+          "bytes": 85858,
+          "sha256": "11e8324dc2d612bacf0c8e6397061516f150ef9301b6c8bec6be2fb7c83b58d2"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/antarctic-ozone-weather-recovery-2026-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "bytes": 275403,
+          "sha256": "aad20d3458a7e7d72436d55bcbb8bcbad479bff3db9868e9b714e4cd40f3b6f9"
+        }
+      ]
     }
   ]
 }

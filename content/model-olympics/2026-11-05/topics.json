@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "robot-memory-chimney-squirrel",
+      "title": {
+        "en": "The robot that can question its own memory",
+        "zh": "机器人开始核对自己的记忆"
+      },
+      "summary": {
+        "en": "MIT’s November 5 report describes UQ-DAAAM, which uses disagreement across views to refine uncertain object memories. A June 6 paper reports benchmark gains; caption agreement and proven real-world safety remain different measures.",
+        "zh": "MIT十一月五日报道UQ-DAAAM，利用不同视角描述之间的分歧来修正不可靠的物体记忆。六月六日论文报告基准改进；描述更一致与现实安全得到证明仍属不同指标。"
+      },
+      "event_date": "2026-11-05"
+    },
+    {
+      "id": "antarctic-ozone-weather-recovery-2026",
+      "title": {
+        "en": "A vast ozone hole and a recovery still underway",
+        "zh": "臭氧空洞扩大，长期恢复仍在继续"
+      },
+      "summary": {
+        "en": "NASA and NOAA’s November 4 update ranks the 2026 Antarctic hole seventh largest by seasonal mean area in 48 years, while reduced ozone-depleting chemicals support long-term recovery. Area, local column amount and recovery forecasts tell different parts of the story.",
+        "zh": "NASA与NOAA十一月四日更新指出，按季节平均面积，2026年南极臭氧空洞为48年观测中第七大；消耗臭氧化学物质减少仍支持长期恢复。面积、当地臭氧柱总量与恢复预测各述一面。"
+      },
+      "event_date": "2026-11-04"
+    }
+  ]
+}

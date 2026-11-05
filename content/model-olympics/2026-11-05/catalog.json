@@ -1,0 +1,53 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-11-05T15:14:41.274088+08:00",
+  "description": "Single-author bilingual editions; Sol research and separate review, Astra writing.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "robot-memory-chimney-squirrel",
+      "event_date": "2026-11-05",
+      "source_brief": "briefs/robot-memory-chimney-squirrel.md",
+      "article_path": "articles/robot-memory-chimney-squirrel/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "MIT reported this work on November 5; the cited author preprint was submitted June 6, 2026. The 92.3% result measures initially uncertain objects crossing a selected uncertainty threshold. Question accuracy is a separate benchmark measure: 71.1% to 76.1% versus original DAAAM, and 74.3% for the strongest alternative. Long-horizon location error worsened in one comparison. Independent replication, product performance and safe physical action remain separate tests."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "robot-memory-chimney-squirrel",
+      "event_date": "2026-11-05",
+      "source_brief": "briefs/robot-memory-chimney-squirrel.md",
+      "article_path": "articles/robot-memory-chimney-squirrel/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "MIT于11月5日报道，所引作者预印本提交于2026年6月6日。92.3%指最初存疑物体中，不确定性分数降至选定门槛以下的比例。问答正确率另行评估：原始DAAAM为71.1%，新方法76.1%，最强替代方法74.3%。一项长时间跨度的位置误差出现退步。独立复现、产品表现及实际动作安全仍待分别验证。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "antarctic-ozone-weather-recovery-2026",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/antarctic-ozone-weather-recovery-2026.md",
+      "article_path": "articles/antarctic-ozone-weather-recovery-2026/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "The November 4 joint NASA/NOAA update ranks the September 7–October 13 seasonal mean area seventh largest in 48 years. The 25 million km² seasonal mean differs from the 27.1 million km² daily maximum. The 105 DU minimum is the amount overhead at the South Pole station, distinct from a hemispheric minimum. Estimated avoided area is a counterfactual; recovery in the 2070s remains a forecast."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "antarctic-ozone-weather-recovery-2026",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/antarctic-ozone-weather-recovery-2026.md",
+      "article_path": "articles/antarctic-ozone-weather-recovery-2026/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "NASA与NOAA11月4日联合更新所列第七大，按9月7日至10月13日的季节平均面积计算。2500万平方公里的季节平均值与2710万平方公里的单日最大值各有含义。105多布森单位为南极点站上空的臭氧柱总量，与整个半球最低值范围不同。估计避免的面积属于反事实推算；2070年代恢复仍为预测。"
+    }
+  ]
+}
