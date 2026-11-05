@@ -47,13 +47,13 @@ export function loadOlympics(root='content/model-olympics/2026-09-28'){
   return bytes.toString('utf8');
  };
  const catalog=JSON.parse(read('catalog.json')),articles={},briefs={};
- if(!exactFields(catalog,['schema_version','generated_at','description','available_count','unavailable_count','articles'])||![1,2,3].includes(catalog.schema_version)||!Array.isArray(catalog.articles)||!catalog.articles.length)throw Error('Invalid archive catalog');
+ if(!exactFields(catalog,['schema_version','generated_at','description','available_count','unavailable_count','articles'])||![1,2,3,4].includes(catalog.schema_version)||!Array.isArray(catalog.articles)||!catalog.articles.length)throw Error('Invalid archive catalog');
  // Version 1 preserves the historical six-editor archive. New batches use the
- // four editors requested by Robin on October 18. Version 3 uses the single
- // Astra author approved November 3; historical slots remain unchanged.
- const providers=catalog.schema_version===3?['chatgpt']:catalog.schema_version===2?['chatgpt','claude','gemini','grok']:['chatgpt','claude','gemini','grok','deepseek','qwen'];
+ // four editors requested by Robin on October 18. Version 3 preserves the single
+ // Astra author approved November 3. Version 4 has Astra and Claude, November 6.
+ const providers=catalog.schema_version===4?['chatgpt','claude']:catalog.schema_version===3?['chatgpt']:catalog.schema_version===2?['chatgpt','claude','gemini','grok']:['chatgpt','claude','gemini','grok','deepseek','qwen'];
  const topicIDs=new Set(catalog.articles.map(row=>row.topic));
- if(catalog.articles.length!==topicIDs.size*providers.length*2)throw Error(catalog.schema_version===3?'Expected one author and two languages per topic':catalog.schema_version===2?'Expected four models and two languages per topic':'Expected six models and two languages per topic');
+ if(catalog.articles.length!==topicIDs.size*providers.length*2)throw Error(catalog.schema_version===4?'Expected two authors and two languages per topic':catalog.schema_version===3?'Expected one author and two languages per topic':catalog.schema_version===2?'Expected four models and two languages per topic':'Expected six models and two languages per topic');
  const seen=new Set();
  for(const row of catalog.articles){
   if(!exactFields(row,['provider','model','language','topic','event_date','source_brief','article_path','status','availability_note'])||!providers.includes(row.provider)||typeof row.topic!=='string'||!/^[a-z0-9-]+$/.test(row.topic)||!textField(row.model,200)||!/^\d{4}-\d{2}-\d{2}$/.test(row.event_date)||(row.availability_note!==null&&!textField(row.availability_note,1000)))throw Error('Invalid archive row');
@@ -99,7 +99,7 @@ export function validateEditionContext(value, articles){
  if(!exactFields(value,['schema_version','editions'])||value.schema_version!==1||!Array.isArray(value.editions))throw Error('Invalid edition context');
  const seen=new Set();
  for(const row of value.editions){
-  if(!exactFields(row,['article_path','captured_at','prompt_version','input_deviation','fact_check_status'])||!Object.hasOwn(articles,row.article_path)||seen.has(row.article_path)||typeof row.captured_at!=='string'||!/^\d{4}-\d{2}-\d{2}T/.test(row.captured_at)||!Number.isFinite(Date.parse(row.captured_at))||!['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer','v5-story-first','v6-streamlined'].includes(row.prompt_version)||![null,'interleaved-brief','text-only-clarification','factual-clarification'].includes(row.input_deviation)||!['UNKNOWN','SOURCE_REVIEW_RECORDED'].includes(row.fact_check_status))throw Error('Invalid edition context row');
+  if(!exactFields(row,['article_path','captured_at','prompt_version','input_deviation','fact_check_status'])||!Object.hasOwn(articles,row.article_path)||seen.has(row.article_path)||typeof row.captured_at!=='string'||!/^\d{4}-\d{2}-\d{2}T/.test(row.captured_at)||!Number.isFinite(Date.parse(row.captured_at))||!['v1-labeled-fiction','v2-no-invented-scenes','v3-simple-explorer','v5-story-first','v6-streamlined','v7-dual-backend'].includes(row.prompt_version)||![null,'interleaved-brief','text-only-clarification','factual-clarification'].includes(row.input_deviation)||!['UNKNOWN','SOURCE_REVIEW_RECORDED'].includes(row.fact_check_status))throw Error('Invalid edition context row');
   seen.add(row.article_path);
  }
  if(seen.size!==Object.keys(articles).length)throw Error('Incomplete edition context');
@@ -158,13 +158,14 @@ export function loadOlympicsArchive(root='content/model-olympics'){
    const manifest=JSON.parse(readFileSync(resolve(folder,'manifest.json'),'utf8'));
    if(!exactFields(manifest,['schema_version','entries'])||manifest.schema_version!==1||!Array.isArray(manifest.entries))throw Error('Invalid backfill manifest');
    for(const row of manifest.entries){
-    if(!exactFields(row,['topic','provider','language','article_path','sha256','completed_at'])||row.provider!=='chatgpt'||!['en','zh'].includes(row.language)||!/^[a-z0-9-]+$/.test(row.topic)||!/^[a-f0-9]{64}$/.test(row.sha256)||!Number.isFinite(Date.parse(row.completed_at))||row.completed_at.slice(0,10)!==date)throw Error('Invalid backfill record');
+    if(!exactFields(row,['topic','provider','language','article_path','sha256','completed_at'])||!['chatgpt','claude'].includes(row.provider)||!['en','zh'].includes(row.language)||!/^[a-z0-9-]+$/.test(row.topic)||!/^[a-f0-9]{64}$/.test(row.sha256)||!Number.isFinite(Date.parse(row.completed_at))||row.completed_at.slice(0,10)!==date)throw Error('Invalid backfill record');
     const key=[row.topic,row.provider,row.language].join('/'),original=result.catalog.articles.find(x=>[x.topic,x.provider,x.language].join('/')===key);
-    if(keys.has(key)||!original||original.status!=='UNKNOWN'||date<original.event_date)throw Error('Backfill requires one previously unavailable slot');
-    const expected=`backfills/${date}/${row.topic}/chatgpt/${row.language==='en'?'english':'chinese'}.md`;
+    const topicRows=result.catalog.articles.filter(x=>x.topic===row.topic),addition=row.provider==='claude'&&!original&&topicRows.length===2&&topicRows.every(x=>x.provider==='chatgpt');
+    if(keys.has(key)||(!addition&&(!original||original.status!=='UNKNOWN'))||!topicRows.length||date<topicRows[0].event_date||date<topicRows[0].archive_date)throw Error('Backfill requires one previously unavailable slot or an Astra-only topic');
+    const expected=`backfills/${date}/${row.topic}/${row.provider}/${row.language==='en'?'english':'chinese'}.md`;
     if(row.article_path!==expected)throw Error('Invalid backfill path');
-    for(const part of [resolve(folder,row.topic),resolve(folder,row.topic,'chatgpt')])if(lstatSync(part).isSymbolicLink())throw Error('Backfill path must not use symlinks');
-    const file=resolve(folder,row.topic,'chatgpt',row.language==='en'?'english.md':'chinese.md');
+    for(const part of [resolve(folder,row.topic),resolve(folder,row.topic,row.provider)])if(lstatSync(part).isSymbolicLink())throw Error('Backfill path must not use symlinks');
+    const file=resolve(folder,row.topic,row.provider,row.language==='en'?'english.md':'chinese.md');
     if(lstatSync(file).isSymbolicLink()||createHash('sha256').update(readFileSync(file)).digest('hex')!==row.sha256)throw Error('Backfill checksum mismatch');
     keys.add(key);result.backfills.entries.push(row);result.backfills.articles[expected]=readFileSync(file,'utf8');
    }

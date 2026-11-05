@@ -60,3 +60,9 @@
 /* November 3 single-author editions; historical layouts preserved. */
 .op-voices[data-op-providers="1"],.op-providers[data-op-providers="1"]{grid-template-columns:minmax(0,1fr)}
 .op-voices[data-op-providers="1"]{max-width:840px}.op-voices[data-op-providers="1"] .op-voice{border-left:0;padding-left:0}
+
+/* Two independent reviewed authors; historical 1/4/6 layouts stay available. */
+.op-voices[data-op-providers="2"],.op-providers[data-op-providers="2"]{grid-template-columns:repeat(2,minmax(0,1fr))}
+.op-voices[data-op-providers="2"] .op-voice{border-top:0;padding-top:0}
+.op-voices[data-op-providers="2"] .op-voice:nth-child(2){border-left:1px solid var(--op-rule)}
+@media(max-width:700px){.op-voices[data-op-providers="2"]{grid-template-columns:1fr}.op-voices[data-op-providers="2"] .op-voice:nth-child(2){border-left:0;border-top:1px solid var(--op-rule);padding-top:26px}}

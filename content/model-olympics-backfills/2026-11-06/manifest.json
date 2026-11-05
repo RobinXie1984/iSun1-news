@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "topic": "robot-memory-chimney-squirrel",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/robot-memory-chimney-squirrel/claude/english.md",
+      "sha256": "733ee939b662caff17a4cad5329bcfa802441b2076734d9392b12b76e16b5038",
+      "completed_at": "2026-11-06T00:28:51.703645+08:00"
+    },
+    {
+      "topic": "robot-memory-chimney-squirrel",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/robot-memory-chimney-squirrel/claude/chinese.md",
+      "sha256": "d2e3a1c35fa98e045d78445afb1c567954faa849228604c14d2fdb6a0b59acbd",
+      "completed_at": "2026-11-06T00:28:51.703645+08:00"
+    },
+    {
+      "topic": "antarctic-ozone-weather-recovery-2026",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/antarctic-ozone-weather-recovery-2026/claude/english.md",
+      "sha256": "7dd6e1236661485ade585cacfd032405cecd49f2b545f64f8286d019707efc86",
+      "completed_at": "2026-11-06T00:30:41.958183+08:00"
+    },
+    {
+      "topic": "antarctic-ozone-weather-recovery-2026",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/antarctic-ozone-weather-recovery-2026/claude/chinese.md",
+      "sha256": "d115ebc0a283b74d08f90257d050872f8b2dad2786380aedb4ac666c6ae0b852",
+      "completed_at": "2026-11-06T00:30:41.958183+08:00"
+    },
+    {
+      "topic": "lim-vns-cloud-hidden-switch",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/lim-vns-cloud-hidden-switch/claude/english.md",
+      "sha256": "01d76fe62653a018a623bd705e8e29a54228b0523715dadc0bf4002ffc179390",
+      "completed_at": "2026-11-06T00:33:03.940127+08:00"
+    },
+    {
+      "topic": "lim-vns-cloud-hidden-switch",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/lim-vns-cloud-hidden-switch/claude/chinese.md",
+      "sha256": "a2f80272b1a03c4302994a367795e7d616c1eecb61943346fea59ad928019576",
+      "completed_at": "2026-11-06T00:33:03.940127+08:00"
+    },
+    {
+      "topic": "olivetti-gallium-mine-chokepoint",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/olivetti-gallium-mine-chokepoint/claude/english.md",
+      "sha256": "9d35c615fabc976889d2d546312601a0af920b8c18182ccd8558cec9c0c2e9c4",
+      "completed_at": "2026-11-06T00:39:20.337193+08:00"
+    },
+    {
+      "topic": "olivetti-gallium-mine-chokepoint",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/olivetti-gallium-mine-chokepoint/claude/chinese.md",
+      "sha256": "71c71cb4ef663b225d52d4b581dfd907a05dd8d467d0f5853fed3d69b8124074",
+      "completed_at": "2026-11-06T00:39:20.337193+08:00"
+    },
+    {
+      "topic": "mcquinn-glow-37-oxygen",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/mcquinn-glow-37-oxygen/claude/english.md",
+      "sha256": "e6e5321de6b427ff2107da2f9180cd5bc1556d78b21f6668667d092585a413e9",
+      "completed_at": "2026-11-06T00:58:58.258764+08:00"
+    },
+    {
+      "topic": "mcquinn-glow-37-oxygen",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/mcquinn-glow-37-oxygen/claude/chinese.md",
+      "sha256": "ff515d5a58d84db4ecc202278ba357cdbf4a03ea9c406db14d8d2b4b317b13cd",
+      "completed_at": "2026-11-06T00:58:58.258764+08:00"
+    },
+    {
+      "topic": "swift-final-countdown-nov4",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/swift-final-countdown-nov4/claude/english.md",
+      "sha256": "7b769f8e28c275b3a9107ac31a465b23c2343e10b863aa1147dbb6988b7adb93",
+      "completed_at": "2026-11-06T00:48:12.769061+08:00"
+    },
+    {
+      "topic": "swift-final-countdown-nov4",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/swift-final-countdown-nov4/claude/chinese.md",
+      "sha256": "c27af7f9568173d8ccfe6d1db535207cb5753975ad529df384d36be3acbd52e4",
+      "completed_at": "2026-11-06T00:48:12.769061+08:00"
+    },
+    {
+      "topic": "tokyo-cell-3d-52ms",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/tokyo-cell-3d-52ms/claude/english.md",
+      "sha256": "dbc4123955b2a9edc691fbe93dd4981fe0615ca535a1479e1a321dc00c52815e",
+      "completed_at": "2026-11-06T00:22:35.596411+08:00"
+    },
+    {
+      "topic": "tokyo-cell-3d-52ms",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/tokyo-cell-3d-52ms/claude/chinese.md",
+      "sha256": "6458bd055fc07156b8ec3f6defb9817c351180be83d51c33ec183e74ba333069",
+      "completed_at": "2026-11-06T00:22:35.596411+08:00"
+    },
+    {
+      "topic": "ute2-two-flavors-cooling",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/ute2-two-flavors-cooling/claude/english.md",
+      "sha256": "413a31b6da60266d813457fae9db46b72762953b8203125ac748767e236c3d47",
+      "completed_at": "2026-11-06T00:45:38.290475+08:00"
+    },
+    {
+      "topic": "ute2-two-flavors-cooling",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/ute2-two-flavors-cooling/claude/chinese.md",
+      "sha256": "019a94af5db24fae53c40481753977a6970dd7a65c39161c0871fe583275cb52",
+      "completed_at": "2026-11-06T00:45:38.290475+08:00"
+    },
+    {
+      "topic": "dei-same-training-different-words",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/dei-same-training-different-words/claude/english.md",
+      "sha256": "9d8e7c525a847845c3d87d9f3df56ccc916b84a2b258ff1d52a8fc16d70ae081",
+      "completed_at": "2026-11-06T00:58:57.182621+08:00"
+    },
+    {
+      "topic": "dei-same-training-different-words",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/dei-same-training-different-words/claude/chinese.md",
+      "sha256": "e566b6fe984c38f424f7f5ec889de50e4c1e8441885c0ce195247752a34bc7f7",
+      "completed_at": "2026-11-06T00:58:57.182621+08:00"
+    },
+    {
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/ucla-waste-seven-tons-hydrogen/claude/english.md",
+      "sha256": "a369bde5e65c674d535f1470a7e44f32e5f5ad86087e86a0d5a008857bbc1f4a",
+      "completed_at": "2026-11-06T00:54:42.815940+08:00"
+    },
+    {
+      "topic": "ucla-waste-seven-tons-hydrogen",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/ucla-waste-seven-tons-hydrogen/claude/chinese.md",
+      "sha256": "b85670b63bf6bcf0992741bef317833c7218d603ea982fc460005a25b0ac361d",
+      "completed_at": "2026-11-06T00:54:42.815940+08:00"
+    },
+    {
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "provider": "claude",
+      "language": "en",
+      "article_path": "backfills/2026-11-06/toast-99-cent-fee-exit-lawsuit/claude/english.md",
+      "sha256": "82c9606969368fd328eec6adbbb43976bc2199a754dd51f25b83d669fa99d956",
+      "completed_at": "2026-11-06T00:55:54.577333+08:00"
+    },
+    {
+      "topic": "toast-99-cent-fee-exit-lawsuit",
+      "provider": "claude",
+      "language": "zh",
+      "article_path": "backfills/2026-11-06/toast-99-cent-fee-exit-lawsuit/claude/chinese.md",
+      "sha256": "c57bb104eeda999bc7449c72f39f259406bc5afa2cbd3b6871bd186c748a392d",
+      "completed_at": "2026-11-06T00:55:54.577333+08:00"
+    }
+  ]
+}

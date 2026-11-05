@@ -1,3 +1,7 @@
+# Current editorial iteration — November 6, 2026
+
+Fresh long-form editions support independent Astra and Claude Opus 5.5 writers, with Sol research and separate bilingual reviews. Schema4 requires two authors and two languages. Follow the current sections of README.md and docs/runbook.md; preserve historical schemas, manuscripts, missing records and dated later-edition provenance. Article titles use one supported suspenseful headline; the twenty-hook story-packet experiment below remains a separate track.
+
 # iSun1 public source
 
 Build the smallest observable story loop. Dramatic framing must preserve source-backed facts, dates, attribution and uncertainty. Keep exactly twenty distinct claim-linked hooks per event. Editorial estimates and measured reader outcomes are separate.

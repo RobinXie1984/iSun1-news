@@ -143,3 +143,28 @@ test('dated bilingual backfill serves a new edition while preserving the origina
  put([...entries,{...entries[0]}]);assert.throws(()=>loadOlympicsArchive(archive),/previously unavailable/);
  put(entries.map(e=>({...e,provider:'qwen'})));assert.throws(()=>loadOlympicsArchive(archive),/Invalid backfill/);
 });
+
+test('two reviewed authors require complete EN/ZH pairs and render exactly two voices',async t=>{
+ const f=fixture(t),rows=f.catalog.articles.filter(r=>['chatgpt','claude'].includes(r.provider)).map(r=>({...r,status:'available',article_path:`articles/${f.topic}/${r.provider}/${r.language==='en'?'english':'chinese'}.md`,availability_note:'Separate review.'}));
+ for(const row of rows)f.write(row.article_path,`# ${row.provider} ${row.language} title\n\nIndependent ${row.provider} manuscript.`);
+ const catalog={...f.catalog,schema_version:4,articles:rows,available_count:4,unavailable_count:0};f.write('catalog.json',catalog);
+ const data=loadOlympicsArchive(f.root),b=browser();let html=await b.render(data,'olympics/'+f.topic);
+ assert.match(html,/One story\. Two voices\./);assert.match(html,/data-op-providers="2"/);assert.equal((html.match(/class="op-voice"/g)||[]).length,2);assert.doesNotMatch(html,/Headline options are not all|Six voices|Four voices|Submission unavailable/);
+ html=await b.render(data,'edition/'+f.topic+'/claude','zh');assert.match(html,/Independent claude manuscript/);assert.match(html,/两家核查稿/);
+ f.write('catalog.json',{...catalog,articles:rows.slice(1),available_count:3});assert.throws(()=>loadOlympics(f.base),/two authors/);
+});
+
+test('later Claude additions extend Astra-only archives and preserve their original single-author catalog',async t=>{
+ const f=fixture(t),rows=f.catalog.articles.filter(r=>r.provider==='chatgpt').map(r=>({...r,status:'available',article_path:`articles/${f.topic}/chatgpt/${r.language==='en'?'english':'chinese'}.md`,availability_note:null}));
+ for(const row of rows)f.write(row.article_path,'# Existing Astra article\n\nExact original.');f.write('catalog.json',{...f.catalog,schema_version:3,articles:rows,available_count:2,unavailable_count:0});
+ const archive=join(f.root,'archive');mkdirSync(archive);cpSync(join(f.root,'2026-09-28'),join(archive,'2026-09-28'),{recursive:true});cpSync(f.base,join(archive,f.date),{recursive:true});
+ const date='2026-11-06',base=join(f.root,'model-olympics-backfills',date),entries=[];
+ for(const language of ['en','zh']){const name=language==='en'?'english':'chinese',text=`# Claude ${language}\n\nGenuine fixture, separate author.`;const file=join(base,f.topic,'claude',name+'.md');mkdirSync(dirname(file),{recursive:true});writeFileSync(file,text);entries.push({topic:f.topic,provider:'claude',language,article_path:`backfills/${date}/${f.topic}/claude/${name}.md`,sha256:createHash('sha256').update(text).digest('hex'),completed_at:date+'T12:00:00+08:00'});}
+ const put=es=>writeFileSync(join(base,'manifest.json'),JSON.stringify({schema_version:1,entries:es}));put(entries);
+ const data=loadOlympicsArchive(archive);assert.deepEqual(data.catalog.articles.filter(r=>r.topic===f.topic).map(({archive_date,...r})=>r),rows);
+ const b=browser();let html=await b.render(data,'edition/'+f.topic+'/claude');assert.match(html,/Later Claude edition/);assert.match(html,/Claude Opus 5\.5/);assert.match(html,/Genuine fixture/);assert.match(html,/data-op-providers="2"/);
+ html=await b.render(data,'edition/'+f.topic+'/claude','zh');assert.match(html,/后补 Claude 稿件/);
+ put(entries.slice(0,1));assert.throws(()=>loadOlympicsArchive(archive),/both languages/);
+ put(entries.map(r=>({...r,provider:'chatgpt'})));assert.throws(()=>loadOlympicsArchive(archive),/previously unavailable/);
+ put(entries.map(r=>({...r,article_path:r.article_path.replace('/claude/','/chatgpt/')})));assert.throws(()=>loadOlympicsArchive(archive),/Invalid backfill path/);
+});

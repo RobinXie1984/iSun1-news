@@ -1,3 +1,7 @@
+# Editorial iteration — November 6, 2026
+
+Fresh editions support two independent writers, GPT Astra and Claude Opus 5.5, each with Sol research and separate factual/completeness reviews in English and Chinese. Schema4 requires both authors and languages; historical schema1/2/3 archives remain supported. Missing Claude editions and recent Astra-only topics receive clearly dated later Claude articles in the additive backfill layer. Earlier originals, missing records and picks retain their exact content. Model writing uses background connections; private orchestration, sign-in data and receipts stay outside this public repository.
+
 # Later ChatGPT editions — November 3, 2026
 
 Some historically unavailable ChatGPT slots have separately labelled later editions in `content/model-olympics-backfills/`. These were written through the Sol → Astra → Sol background workflow and completed after the original collection dates. The historical catalogs, unavailable records, earlier originals and editorial picks remain unchanged. Each backfill carries its actual completion timestamp and a checksum; English and Chinese are delivered together.
@@ -14,9 +18,9 @@ Real events. Twenty competing framings. An honest attention loop.
 
 The source includes six event packets, 120 bilingual headline candidates, source-linked claims, and platform drafts for X, LinkedIn, WeChat and short video. Drafts are not published posts; shot plans are not finished videos. Audience improvement remains unproven until adequate observations exist.
 
-## September 28 Model Olympics pilot
+## Historical September 28 Model Olympics pilot
 
-Read the [original model editions](content/model-olympics/README.md): dated shared briefs and independent English and Chinese submissions from six editors. Daily collection continues beyond the initial pilot. New batches use four editors: ChatGPT, Claude, Gemini and Grok; DeepSeek and Qwen remain preserved in historical six-editor batches. Version 2 catalogs account for four editors in both languages, and the reader follows each topic’s actual editor set. At Robin’s request, Maxwell selects one credited original per language and topic for The Stories; these are editorial choices, not measured audience winners. All other originals remain accessible in Model Olympics. Missing submissions stay explicit; legacy audience thresholds do not gate publication. The website retains the ivory editorial salon, English/Chinese and Day/Night.
+Read the [original model editions](content/model-olympics/README.md): dated shared briefs and independent English and Chinese submissions from six editors. Daily collection continued beyond the initial pilot. The October 18 iteration used four editors: ChatGPT, Claude, Gemini and Grok; DeepSeek and Qwen remain preserved in historical six-editor batches. Version 2 catalogs account for four editors in both languages, and the reader follows each topic’s actual editor set. At Robin’s request, Maxwell selects one credited original per language and topic for The Stories; these are editorial choices, not measured audience winners. All other originals remain accessible in Model Olympics. Missing submissions stay explicit; legacy audience thresholds do not gate publication. The website retains the ivory editorial salon, English/Chinese and Day/Night.
 
 ## Run locally
 

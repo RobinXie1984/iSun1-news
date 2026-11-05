@@ -1,8 +1,16 @@
+# Current editorial workflow — November 6, 2026
+
+Fresh batches use schema4 with two independent writers, GPT Astra and Claude Opus 5.5, in English and Chinese. Each branch follows Sol research → author English → separate Sol source/completeness review → the same author conversation's Chinese → separate Sol review. Both authors receive the same public source packet and writing rules; their Sol research notes may differ. Model responses remain separate, and language-specific editorial selections have recorded reasons.
+
+Use background model connections with explicit identity and completed-response evidence. Fresh schema4 requires both authors and both languages; access failures and unresolved reviews hold the affected topic. English develops a 1,500–2,500-word feature with an event/background-first opening and a truthful suspenseful title. Chinese uses accessible modern prose with a light classical cadence. Preserve factual qualifications and uncertainty, and send corrections back to the originating writer. Private orchestration and sign-in data are outside this public repository.
+
+Schema1/2/3 archives and all earlier originals remain supported. Later backfills are additive, carry their actual completion dates and preserve historical catalogs, missing records and picks. The reader presents the available author set for each topic. The twenty-hook story-packet experiment remains separate from these long-form author editions.
+
 # Editorial loop and operation
 
 ## Change a story
 
-New Model Olympics batches use catalog schema version 2 with ChatGPT, Claude, Gemini and Grok, each in English and Chinese. Historical version 1 catalogs retain all six editors and originals, including DeepSeek and Qwen. Do not create excluded-provider missing slots in new batches or rewrite historical manuscripts. Record recovery capture dates separately from original event dates.
+The October 18 historical Model Olympics iteration used catalog schema version 2 with ChatGPT, Claude, Gemini and Grok, each in English and Chinese. Historical version 1 catalogs retain all six editors and originals, including DeepSeek and Qwen. Do not create excluded-provider missing slots in new batches or rewrite historical manuscripts. Record recovery capture dates separately from original event dates.
 
 1. Discover candidate events with `npm run discover`; inspect primary evidence independently. A feed title alone is not verification.
 2. Establish dates, claims, sources, surprise, conflict, consequence and uncertainty before writing twenty bilingual framings.

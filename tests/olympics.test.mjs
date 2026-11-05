@@ -40,11 +40,11 @@ test('additional provider originals retain exact bytes and reject unlisted suppl
  try{cpSync('content/model-olympics/2026-09-28',root,{recursive:true});writeFileSync(join(root,path),'changed');assert.throws(()=>loadOlympics(root),/checksum mismatch/);}finally{rmSync(root,{recursive:true,force:true});}
 });
 
-test('later ChatGPT editions download exact bytes while original slots remain historical',async()=>{
+test('later editions download exact bytes while historical slots and Astra-only catalogs stay exact',async()=>{
  const data=await(await worker.fetch(new Request('https://example.test/api/olympics'),{})).json();
  for(const row of data.backfills?.entries||[]){
   const old=data.catalog.articles.find(x=>x.topic===row.topic&&x.provider===row.provider&&x.language===row.language);
-  assert.equal(old.status,'UNKNOWN');assert.equal(old.article_path,null);
+  if(old){assert.equal(old.status,'UNKNOWN');assert.equal(old.article_path,null);}else{assert.equal(row.provider,'claude');const rows=data.catalog.articles.filter(x=>x.topic===row.topic);assert.equal(rows.length,2);assert.ok(rows.every(x=>x.provider==='chatgpt'));}
   const result=await worker.fetch(new Request('https://example.test/api/olympics/original?path='+encodeURIComponent(row.article_path)),{});
   assert.equal(result.status,200);assert.equal(await result.text(),data.backfills.articles[row.article_path]);
  }
