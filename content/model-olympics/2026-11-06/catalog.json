@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "generated_at": "2026-11-13T11:33:05.799739+00:00",
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "ebola-bundibugyo-trial-evidence-gap",
+      "event_date": "2026-11-05",
+      "source_brief": "briefs/ebola-bundibugyo-trial-evidence-gap.md",
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-06; first published November 13, 2026. WHO’s November 4 recommendation awaits national approvals; it establishes a trial step, with efficacy against Bundibugyo still to be measured. ECDC’s November 5 page reports 10,668 confirmed DRC cases and 5,198 deaths using data through November 3. Ervebo and treatment approvals cited by CDC concern Zaire ebolavirus. Trial rings, country totals, medical evacuations and geographic risk assessments have distinct scopes."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "ebola-bundibugyo-trial-evidence-gap",
+      "event_date": "2026-11-05",
+      "source_brief": "briefs/ebola-bundibugyo-trial-evidence-gap.md",
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-06，于2026年11月13日首次发布。WHO于11月4日提出的建议仍待国家批准，属于试验进程；针对本迪布焦病毒的有效性仍待观察。ECDC于11月5日更新网页，按截至11月3日的数据列出刚果（金）10,668例确诊及5,198例死亡。CDC所列Ervebo及治疗药物审批针对扎伊尔埃博拉病毒。试验接种环、各国病例、医疗转运与地域风险评估均须区分范围。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "ebola-bundibugyo-trial-evidence-gap",
+      "event_date": "2026-11-05",
+      "source_brief": "briefs/ebola-bundibugyo-trial-evidence-gap.md",
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-06; first published November 13, 2026. WHO’s November 4 recommendation awaits national approvals; it establishes a trial step, with efficacy against Bundibugyo still to be measured. ECDC’s November 5 page reports 10,668 confirmed DRC cases and 5,198 deaths using data through November 3. Ervebo and treatment approvals cited by CDC concern Zaire ebolavirus. Trial rings, country totals, medical evacuations and geographic risk assessments have distinct scopes."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "ebola-bundibugyo-trial-evidence-gap",
+      "event_date": "2026-11-05",
+      "source_brief": "briefs/ebola-bundibugyo-trial-evidence-gap.md",
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-06，于2026年11月13日首次发布。WHO于11月4日提出的建议仍待国家批准，属于试验进程；针对本迪布焦病毒的有效性仍待观察。ECDC于11月5日更新网页，按截至11月3日的数据列出刚果（金）10,668例确诊及5,198例死亡。CDC所列Ervebo及治疗药物审批针对扎伊尔埃博拉病毒。试验接种环、各国病例、医疗转运与地域风险评估均须区分范围。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "splice-drone-lunar-landing-test",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/splice-drone-lunar-landing-test.md",
+      "article_path": "articles/splice-drone-lunar-landing-test/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-06; first published November 13, 2026. NASA’s report is dated November 4; the stated drone maneuvers occurred August 27 on Earth. Its later-this-month test reference differs from the program page’s August Voyager test and September closeout milestones; their exact alignment remains unresolved. A demonstrated drone diversion and higher readiness do not establish lunar mission certification, a success rate or software availability."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "splice-drone-lunar-landing-test",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/splice-drone-lunar-landing-test.md",
+      "article_path": "articles/splice-drone-lunar-landing-test/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-06，于2026年11月13日首次发布。NASA报道日期为11月4日，所述无人机演练发生于8月27日的地球环境。报道中“本月稍后”的测试表述，与项目网页所列8月Voyager测试、9月收尾记录存在差异，具体对应关系仍待厘清。无人机改航演示及成熟度提升，与月球任务认证、成功率或软件已上架各有证据边界。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "splice-drone-lunar-landing-test",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/splice-drone-lunar-landing-test.md",
+      "article_path": "articles/splice-drone-lunar-landing-test/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-06; first published November 13, 2026. NASA’s report is dated November 4; the stated drone maneuvers occurred August 27 on Earth. Its later-this-month test reference differs from the program page’s August Voyager test and September closeout milestones; their exact alignment remains unresolved. A demonstrated drone diversion and higher readiness do not establish lunar mission certification, a success rate or software availability."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "splice-drone-lunar-landing-test",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/splice-drone-lunar-landing-test.md",
+      "article_path": "articles/splice-drone-lunar-landing-test/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-06，于2026年11月13日首次发布。NASA报道日期为11月4日，所述无人机演练发生于8月27日的地球环境。报道中“本月稍后”的测试表述，与项目网页所列8月Voyager测试、9月收尾记录存在差异，具体对应关系仍待厘清。无人机改航演示及成熟度提升，与月球任务认证、成功率或软件已上架各有证据边界。"
+    }
+  ]
+}

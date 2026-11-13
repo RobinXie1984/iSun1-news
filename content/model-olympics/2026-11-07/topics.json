@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "solar-flare-alert-five-minute-rocket",
+      "event_date": "2026-11-04",
+      "title": {
+        "en": "Five minutes above the air, timed to a solar flare",
+        "zh": "飞越大气的五分钟，赶上一场太阳耀斑"
+      },
+      "summary": {
+        "en": "NASA’s November4 report describes a flare alert system that helped coordinate two2024rocket launches and a2026flight observing three flares. It estimates an already detected flare’s duration; broad forecasting performance and full paper methods remain separate.",
+        "zh": "NASA11月4日报道，一套耀斑预警系统协助协调2024年的两枚火箭发射，以及2026年观测三次耀斑的一次飞行。系统估计已探测耀斑的持续时间；全面预报表现与论文完整方法仍属另一层证据。"
+      }
+    },
+    {
+      "id": "eu-methane-delay-negotiating-clock",
+      "event_date": "2026-11-06",
+      "title": {
+        "en": "Europe’s methane rules meet two competing clocks",
+        "zh": "欧洲甲烷规则，面对两套倒计时"
+      },
+      "summary": {
+        "en": "The EU Council’s November6negotiating position seeks a one-year postponement for several methane obligations and a readiness review. Parliament’s separate position proposes longer delays. The amendment is still being negotiated; monitoring, reporting dates and intensity limits are distinct.",
+        "zh": "欧盟理事会11月6日谈判立场拟将数项甲烷义务延期一年，并设置准备情况评估。议会另有较长延期方案。修法仍在谈判中，监测起点、报告日期与强度上限须分别理解。"
+      }
+    }
+  ]
+}

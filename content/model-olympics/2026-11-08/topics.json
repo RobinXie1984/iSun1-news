@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "artex-finance-attacks-false-wins",
+      "event_date": "2026-11-06",
+      "title": {
+        "en": "AI-assisted intrusions meet the temptation of a false win",
+        "zh": "AI辅助入侵，遇上“虚假胜利”的诱惑"
+      },
+      "summary": {
+        "en": "Microsoft reports that Storm-3358 used ARTEX alongside conventional tools in financial-sector intrusions beginning in October. It describes decoys, delays and false-success signals as tested defensive possibilities, while attack prevalence and measured effectiveness remain unquantified in the report.",
+        "zh": "微软称，Storm-3358从10月起在金融业入侵中将ARTEX与传统工具并用，并介绍诱饵、拖延及虚假成功信号的防御尝试。报告未量化攻击普遍程度或这些防御的实际效果。"
+      }
+    },
+    {
+      "id": "promise-mars-hardware-lunar-darkness",
+      "event_date": "2026-11-07",
+      "title": {
+        "en": "Mars-rover hardware gets a new assignment in lunar darkness",
+        "zh": "火星车硬件的新任务：驶向月球的黑暗"
+      },
+      "summary": {
+        "en": "NASA announced development and delivery funding for PROMISE, a planned nuclear-powered lunar rover built largely from existing Mars-rover test and spare hardware. Late 2028 launch and an 18-month primary mission remain targets; resource mapping precedes any claim of mineable water.",
+        "zh": "NASA宣布推进并资助PROMISE的研制与运送，拟主要复用火星车测试与备用硬件，打造核动力月球车。2028年末发射与18个月主要任务仍是目标；资源勘测并不等于已证明可开采的水。"
+      }
+    }
+  ]
+}

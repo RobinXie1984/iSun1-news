@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "aaronson-ambainis-proof-quantum-structure",
+      "event_date": "2026-11-08",
+      "title": {
+        "en": "A public proof redraws one boundary of quantum advantage",
+        "zh": "一份公开证明，划清量子优势的一道边界"
+      },
+      "summary": {
+        "en": "An AI-assisted proof, human exposition and formal verification records sharpen a long-standing question about random inputs and quantum queries.",
+        "zh": "AI 辅助证明、人类阐释与形式验证记录，共同澄清随机输入与量子查询的一项长期问题。"
+      }
+    },
+    {
+      "id": "new-york-storage-fifteen-projects",
+      "event_date": "2026-11-06",
+      "title": {
+        "en": "New York funds15 routes toward a longer-lasting energy store",
+        "zh": "纽约资助15个项目，探索更长时储能"
+      },
+      "summary": {
+        "en": "Nearly$13million in development and demonstration awards spans iron-sodium, compressed-air heat storage and improved batteries; real-world performance remains ahead.",
+        "zh": "近1300万美元研发与示范资助涵盖铁钠、压缩空气储热及电池改进；真实运行表现仍待验证。"
+      }
+    }
+  ]
+}

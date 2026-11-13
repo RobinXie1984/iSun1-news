@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-05T07:15:26.476428+00:00",
+  "selected_at": "2026-11-13T11:33:05.892277+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1602,6 +1602,326 @@
       "headline": "南极臭氧空洞在2026年异常广阔，恢复的迹象藏在哪里？",
       "sha256": "8c311c4d2ad9c8eb1528972a78919dea3b217a558152bdbeb869a3405c58c8b2",
       "reason": "Approved November 3 workflow: source-grounded Astra manuscript passed separate Sol factual and completeness review."
+    },
+    {
+      "topic": "ebola-bundibugyo-trial-evidence-gap",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude moves clearly from the outbreak and the Zaire–Bundibugyo distinction to care, surveillance and the trial. Its explanation that four rings count groups rather than participants or protected people makes the evidence gap accessible, and its closing question follows from the response’s competing demands. ChatGPT is careful but more repetitive.",
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/claude/english.md",
+      "headline_index": 0,
+      "headline": "Four Rings, One Open Question: Can an Ebola Outbreak Trial Prove a Vaccine Protects Against Bundibugyo?",
+      "sha256": "31882d0dccc6f42b4e36b745a63831e7e27ccaceaf94d824a494965d377415af"
+    },
+    {
+      "topic": "ebola-bundibugyo-trial-evidence-gap",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "ChatGPT gives the trial’s central distinction in clear modern prose: “四个圈” measures research structure, while protection requires participant outcomes and a reliable comparison. Its key-and-lock analogy stays brief and its closing question is earned. Claude offers a vivid narrative but uses a heavier classical cadence.",
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "两款埃博拉候选疫苗走向试验，数千生命催问的答案何时到来？",
+      "sha256": "d947c4fe600d0159a0a9a3cbe4aa3f6d3617deeebb6528673236b4d38d46c98c"
+    },
+    {
+      "topic": "splice-drone-lunar-landing-test",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude opens with the dated Earth flight, then organizes the landing problem into four practical questions. The nighttime parking analogy makes the sensors’ separate jobs easy to follow, while the ending asks what testing would justify trust on a particular lunar mission. ChatGPT covers the same evidence carefully but has less narrative momentum.",
+      "article_path": "articles/splice-drone-lunar-landing-test/claude/english.md",
+      "headline_index": 0,
+      "headline": "A Drone Rejected Its Landing Spot Over a California Dry Lake. What Would It Take to Trust That Choice on the Moon?",
+      "sha256": "ba793226d8c0b7bd36a8776f9c62fd861130de1b90d05ff12c321689601c4330"
+    },
+    {
+      "topic": "splice-drone-lunar-landing-test",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "ChatGPT connects the August 27 diversion to the larger lunar landing problem before explaining each component in restrained, readable Chinese. Its parking analogy and distinction between NASA’s illustrative lunar distances and measured drone results keep the mechanism and evidence boundary clear. Claude is vivid but its extended technical passages and classical phrasing make the account denser.",
+      "article_path": "articles/splice-drone-lunar-landing-test/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "NASA的无人机换了落点，这一次选择，能走到月球吗？",
+      "sha256": "8359466b9e0e8872c1d0cb74225a4cd12a5d540955f1f8a92a02903c2e3b433e"
+    },
+    {
+      "topic": "solar-flare-alert-five-minute-rocket",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude opens with the November report and the earlier flight dates, then makes the timing problem easy to follow through its paired short clocks and street-band analogy. Its final question grows from the distinction between observed flares and a measured forecast record; Astra is more exhaustive but slower to reach the story.",
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/claude/english.md",
+      "headline_index": 0,
+      "headline": "A Flare Has Begun. Will It Still Be Shining When the Rocket Looks?",
+      "sha256": "7d7635336037695639014dcf764d278fc291ab8b35a0d0649f298907e278fed4"
+    },
+    {
+      "topic": "solar-flare-alert-five-minute-rocket",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s opening moves directly from the fading flare to the launch decision, and its outdoor-performance analogy explains the forecast without interrupting the narrative. Its modern prose uses a restrained cadence; Claude’s version relies more heavily on ornate phrasing and repeated analogies.",
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "耀斑将歇，火箭能否赶上太阳的这一刻？",
+      "sha256": "578c63115bdee56b6168c9274faf0f4c8c1791c3b230df8168e0804c038a197e"
+    },
+    {
+      "topic": "eu-methane-delay-negotiating-clock",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude establishes at once that the Council has a negotiating position while current law remains in force. The mixed-honey analogy and 'three clocks' section make the evidence chain and distinct legal deadlines accessible, while retaining the Council–Parliament differences and conditional readiness test. Astra supplies more detail but is denser.",
+      "article_path": "articles/eu-methane-delay-negotiating-clock/claude/english.md",
+      "headline_index": 0,
+      "headline": "EU Governments Propose Delaying Several Methane Deadlines While Current Law Stands. Will the Evidence Be Ready When the Clock Restarts?",
+      "sha256": "6df21a1135f7ce9b7db64831534ea096b68f1ff608b765f8622e828bc62ef033"
+    },
+    {
+      "topic": "eu-methane-delay-negotiating-clock",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s fuel-and-evidence opening, product-passport analogy and comparison of matching reporting deadlines give readers a clear path through the negotiation. It covers the readiness conditions and Parliament’s competing dates in direct modern Chinese; Claude’s more elaborate diction makes the legal sequence harder to read.",
+      "article_path": "articles/eu-methane-delay-negotiating-clock/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "欧盟理事会拟为甲烷规则延期：下一次期限到来时，证据能否跟上燃料？",
+      "sha256": "cf91ca0cba61f2d6965e1ae6037042d369835deb16b6553b30fa2072d394d74f"
+    },
+    {
+      "topic": "artex-finance-attacks-false-wins",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude establishes the October campaign and Microsoft's evidence limits before analysis. Its race-course passage clearly distinguishes decoys, tarpits and fake wins, then returns to the question of whether real systems are safer. ChatGPT covers the same ground but repeats the testing caveats more often.",
+      "article_path": "articles/artex-finance-attacks-false-wins/claude/english.md",
+      "headline_index": 0,
+      "headline": "Could a False Finish Line Halt an AI Intruder?",
+      "sha256": "d116d252728decf33d0608f42bcee473f90b645a68784bfc83260c540db3388a"
+    },
+    {
+      "topic": "artex-finance-attacks-false-wins",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "ChatGPT moves clearly from the reported attacks and application credentials to the false-completion mechanism. Its fictional office errand makes the three defenses accessible, and its modern prose keeps the suspense restrained. Claude's race analogy is vivid, but its more classical diction slows the explanation.",
+      "article_path": "articles/artex-finance-attacks-false-wins/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "一道假的终点线，能让AI攻击就此收手吗？",
+      "sha256": "aa5317cfb204c5af4662ca1734ae561a58b3de3e390e2c69e15d8234d766ba9c"
+    },
+    {
+      "topic": "promise-mars-hardware-lunar-darkness",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude opens with the Earthbound Curiosity test vehicle, making the reuse premise immediately clear. The workshop-truck analogy explains the engineering advantage and the remaining lunar test; the instrument sequence then leads naturally to what a useful local map would require. ChatGPT is accurate and thorough but reads more like an instrument inventory.",
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/claude/english.md",
+      "headline_index": 0,
+      "headline": "A Mars Rover's Earthbound Twin Is Headed for the Moon. What Will It Find in the Dark?",
+      "sha256": "f75b89d5caa520bbea572aa22bf15bf5c71a40c09dad6a116c4f8785f6a319f3"
+    },
+    {
+      "topic": "promise-mars-hardware-lunar-darkness",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "ChatGPT states the future mission and contract boundaries early, then uses the groundwater analogy to explain why regional ice evidence needs local investigation. Its instrument passages connect chemistry, depth and traversable ground in clear modern prose. Claude offers more payload detail, but its heavier classical cadence and longer inventory make the main thread harder to follow.",
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "火星车备件将赴月球：NASA这辆探路车，能从长暗之地探出什么？",
+      "sha256": "5ea038f47e66166ea55351d7f7187638dcc6f7a2f4ea7f4bec370fd66a6a086c"
+    },
+    {
+      "topic": "aaronson-ambainis-proof-quantum-structure",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude establishes the November 6–8 sequence before explaining the theorem’s limits. Its sealed-cabinet analogy and three-rung account of Lean, the exposition and Aaronson’s assessment make the mechanism and evidence easier to follow than ChatGPT’s more extended treatment. The closing question about an inspectable result and a private discovery process is earned.",
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/claude/english.md",
+      "headline_index": 0,
+      "headline": "A Company's AI System Found a Long-Sought Quantum Proof. How Much Does It Settle?",
+      "sha256": "a92228706b1cdad40367a96b0093b4fde13b0b50d085a30c817c17716a3de217"
+    },
+    {
+      "topic": "aaronson-ambainis-proof-quantum-structure",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "ChatGPT’s clear modern prose carries the reader from the announcement through the switch-box analogy to polynomial degree and influence. Its explanation of what formal checking establishes is precise and readable. Claude offers a strong evidence structure, but its more frequent classical turns of phrase make the technical narrative heavier.",
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "AI辅助证明收窄量子查询优势：多数无结构输入的是非题之外，还藏着什么？",
+      "sha256": "f2f94bd3107e5d3872170220e3181a4cc44844ca157b8722e13e4574550a9d8e"
+    },
+    {
+      "topic": "new-york-storage-fifteen-projects",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude moves briskly from the awards to the grid’s need, then uses the water tank and tap to explain energy, power and duration. Its Aestus section sharply separates the 35 kWh test from the proposed 20 MWh design, while the project sections give each award a distinct job. ChatGPT is thorough but takes longer to reach those comparisons.",
+      "article_path": "articles/new-york-storage-fifteen-projects/claude/english.md",
+      "headline_index": 0,
+      "headline": "New York Bet Nearly $13 Million on 15 Energy Storage Projects. Which Ones Will Deliver?",
+      "sha256": "d73f6428c92ba5997ee130cc249ecea47a4faf92eaa4f6373594411129bc7401"
+    },
+    {
+      "topic": "new-york-storage-fifteen-projects",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "ChatGPT gives the awards and their development status plainly, then uses the water-tank analogy to make the units accessible. Its project accounts consistently connect each mechanism to its intended use and needed evidence. Claude has vivid passages, but its denser classical cadence is less restrained for this technical story.",
+      "article_path": "articles/new-york-storage-fifteen-projects/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "纽约为15个储能项目拨出近1300万美元，谁能在用电紧要时刻接上力？",
+      "sha256": "906b7e7c4cc9fd87759dd8874df3d0b3bb195d9b918ae135fcb07ea3cc7acc41"
+    },
+    {
+      "topic": "language-explorer-metadata-map-limits",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Both explain the map’s limits accurately. Claude gives the clearer narrative path from the Berlin installation to the records behind each pin; its library-card passage makes missing fields and dated information accessible while explaining why living languages outgrow a static record.",
+      "article_path": "articles/language-explorer-metadata-map-limits/claude/english.md",
+      "headline_index": 0,
+      "headline": "A Map of Thousands of Languages Lights Up in Berlin. What Lies Behind Each Pin?",
+      "sha256": "f8edd1988e34ec21ff555a51b078d8f1aa1fd5ace3f41f0a1821ab1122dcddee"
+    },
+    {
+      "topic": "language-explorer-metadata-map-limits",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Both cover the metadata and its limits. ChatGPT’s modern, measured prose moves cleanly from the exhibition to the library-catalogue analogy, then to the 83% field-coverage figure and the difference between a blank and a zero. Claude’s more classical phrasing makes the same explanation denser.",
+      "article_path": "articles/language-explorer-metadata-map-limits/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "数千种语言落在地图上，每一枚标记背后藏着什么？",
+      "sha256": "4250622196269f6f4372f48288d933f2febb7cc201dc3609741128a08ebe89a8"
+    },
+    {
+      "topic": "chandra-at2016blu-hidden-companion",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Both preserve the distinction between observations and the proposed companion. Claude builds a stronger story around the recurring flares becoming a schedule for Chandra: the March observations, archival upper limit and nearby X-ray source each advance the explanation before the gas-flow model appears.",
+      "article_path": "articles/chandra-at2016blu-hidden-companion/claude/english.md",
+      "headline_index": 0,
+      "headline": "Every 113 Days or So, a Giant Star Erupts. Timed X-rays Point to a Hidden Partner",
+      "sha256": "4f4ae0e406b65870612a586ad95ca80f832d93f7e3173634366b84d5b34616dc"
+    },
+    {
+      "topic": "chandra-at2016blu-hidden-companion",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Both explain the timed observations and inferred accretion. ChatGPT’s restrained prose makes the chain from the 113-day rhythm to the five March detections, the archival upper limit and the proposed gas flow easier to follow; Claude’s extended analogies and classical cadence slow that progression.",
+      "article_path": "articles/chandra-at2016blu-hidden-companion/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "约每113天，这颗恒星便再度爆发：X射线指向身旁的谁？",
+      "sha256": "b9d5796a46298d0cc21b88661a0369e9eed0f17cb1fde4d1301b515bcb0d4ac5"
+    },
+    {
+      "topic": "escapade-powered-earth-flybys-mars-route",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Compared with ChatGPT, Claude gives the long L2 detour a clearer narrative payoff, then explains the gravity assist from Earth’s and the Sun’s viewpoints before turning to the planned Mars braking burns. Its title builds suspense around a real future operation.",
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/claude/english.md",
+      "headline_index": 0,
+      "headline": "Two Close Passes of Earth Have Sent ESCAPADE Toward Mars. The Braking Burns That Decide Its Fate Come Next September",
+      "sha256": "08e60430b4e95b43b9a09bba9109cd928f34f5c92fe74dae320a51d87accccb0"
+    },
+    {
+      "topic": "escapade-powered-earth-flybys-mars-route",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Compared with Claude’s more ornate phrasing, ChatGPT’s modern prose makes the route and its timing easier to follow. The train-transfer illustration leads cleanly into the distinct roles of gravity and engine thrust, while the ending keeps Mars capture and science in the future.",
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "绕行近一年，ESCAPADE双探测器奔向火星：下一场相遇，能解开大气流失之谜吗？",
+      "sha256": "6a6115f76ed8a88780cc2ed3094ab68fa203d5923bed186a979bd243940ccbbc"
+    },
+    {
+      "topic": "windows-ntlm-signing-phased-defaults",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Compared with ChatGPT, Claude makes the gap between offering signing now and requiring it in May 2027 the story’s central tension. The badge-and-package analogy and the ALWAYS_SIGN passage make the mechanism and its misleading label accessible without losing the exceptions or audit limits.",
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/claude/english.md",
+      "headline_index": 0,
+      "headline": "Windows Has Begun Offering Tamper Checks for the Messages That Follow a Sign-In. In May 2027, Servers Are Scheduled to Start Insisting",
+      "sha256": "3662262e2becb1e551b050cb014f8e7714d9acaa7a93c9700d399c4119bcbe29"
+    },
+    {
+      "topic": "windows-ntlm-signing-phased-defaults",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Compared with Claude’s more elaborate cadence, ChatGPT explains the staged change in clearer modern Chinese. Its work badge, seal and envelope analogy separates authentication, integrity and confidentiality, and its closing question follows directly from the documented compatibility and audit problem.",
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "Windows 开始改写 NTLM 连接规则，下一道门槛会拦住谁？",
+      "sha256": "6c396d8b1736b34249d65789974ffe6bb166bda2daf8e87f995a007fb20c28bc"
+    },
+    {
+      "topic": "eu-budget-2027-promises-payments",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Both explain the provisional deal and the two accounting clocks. ChatGPT more cleanly connects the payments puzzle to the allocation choices, ceiling margin, implementation and later scrutiny. Its renovation analogy is accessible, and its closing question about turning commitments into useful work grows from that sequence; Claude's contingency discussion slows the main narrative.",
+      "article_path": "articles/eu-budget-2027-promises-payments/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Europe’s 2027 Budget Deal Has Bigger Payments Than Promises. What Comes Due Next?",
+      "sha256": "c0f3b9a585c3ce49073be7c8c731c74196a3c9a64f9b096b7b1075a674d770bc"
+    },
+    {
+      "topic": "eu-budget-2027-promises-payments",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Both distinguish new commitments from payments on earlier promises. ChatGPT's ‘新安排与旧承诺便在同一张年度预算表上相遇’ makes the timing intuitive, then carries the reader through approval and delivery in clear modern prose. Claude's repeated ‘许诺’ framing and more ornate cadence make the same account less direct.",
+      "article_path": "articles/eu-budget-2027-promises-payments/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "欧盟2027年预算达成初步协议：付款多于新承诺，接下来要兑现什么？",
+      "sha256": "7db6282f4734c747a21b2dde3328f714eb23313dcfb1aac734bdb94e7363a41f"
+    },
+    {
+      "topic": "molecular-weave-benzene-separation",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Both establish the reported capture result and leave whole-process energy savings open. ChatGPT's sponge analogy links selective uptake to heat-driven release, and its title makes that unresolved return step the central question. Its account moves steadily from the experiment to the evidence needed for repeated industrial use; Claude's longer chemistry and coat-check sections interrupt that progression.",
+      "article_path": "articles/molecular-weave-benzene-separation/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "A Molecular Fabric Catches Benzene. What Will It Take to Let Go?",
+      "sha256": "230f48bf6ab4538b20aa651db1b342cf009062b1f8e144cbe86f013e8ffc1ec5"
+    },
+    {
+      "topic": "molecular-weave-benzene-separation",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Both explain the weave and the limits of the 97.9% result. ChatGPT's ‘三，数的是方向；四，数的是网络’ makes a difficult structural distinction immediately clear. Its restrained prose follows capture, release and the full energy account toward an earned closing question, while Claude's denser figurative language demands more effort from the reader.",
+      "article_path": "articles/molecular-weave-benzene-separation/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "分子织物留住了苯，放手之后才见真章？",
+      "sha256": "0281e256242d7dc106380b44603d9e76e2e3b0399ca5afb7191f48a352660813"
+    },
+    {
+      "topic": "primary-energy-services-losses",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude moves from the dated study and its 2022 baseline to the accounting puzzle, then makes the mechanism tangible through the parcel delivery and refrigerator analogies. Its full energy balance clarifies ambient heat and nonenergy use; its closing reliability question grows from the model’s stated limits. ChatGPT is precise but reads more like a sequence of explanations.",
+      "article_path": "articles/primary-energy-services-losses/claude/english.md",
+      "headline_index": 0,
+      "headline": "Before Energy Warms a Home or Moves a Car, Much of It Slips Away. How Much Could the World Keep?",
+      "sha256": "f142586dbfffea93e60c894a72fc2a3d29ec9b146151324f2fe02f256c023bfb"
+    },
+    {
+      "topic": "primary-energy-services-losses",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "ChatGPT’s title states the 48% result as a question, and its opening immediately identifies the fixed useful energy and modelled losses. The delivery fleet and heat pump passages explain the mechanisms in clear modern prose. Claude covers the evidence thoroughly but its frequent classical phrasing makes the technical account less direct.",
+      "article_path": "articles/primary-energy-services-losses/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "同样的用处，能源投入为何能少48%？答案藏在沿途散去的热里",
+      "sha256": "f81dbb5eaa68b8ae9315c093de1b69680a91a79ef8f03d69ddee742d98805326"
+    },
+    {
+      "topic": "deep-sea-microbes-pressure-robot",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude builds a readable narrative around what happens after collection. The ice cream cold chain analogy explains why protection must continue through each handoff, while the HP_SR9 and HP_SR10 comparison earns the final question about microbes lost in transit. ChatGPT preserves the distinctions well but has a less compelling narrative thread.",
+      "article_path": "articles/deep-sea-microbes-pressure-robot/claude/english.md",
+      "headline_index": 0,
+      "headline": "Lost in Transit: Is the Trip to the Lab Hiding the Deep Sea's Microbes?",
+      "sha256": "9e2a1023f754112a4c279195ef7ad5a32d20a9e40d5ed535930ec7c2d1eaadac"
+    },
+    {
+      "topic": "deep-sea-microbes-pressure-robot",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "ChatGPT clearly separates the November 12 university report from the September 9 paper, then explains the connected sampling and cultivation system through the continuous oxygen supply analogy. Its account of the 180-day community, 34 isolates and two known validation strains is easy to follow in restrained modern prose. Claude’s imagery is engaging but often more ornate than the subject needs.",
+      "article_path": "articles/deep-sea-microbes-pressure-robot/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "从深海到实验室，谁能走完这段旅程？",
+      "sha256": "2b34432a50990d745bbca53d78c36fa4a3799de310d7034d1b76f625339e383d"
     }
   ]
 }

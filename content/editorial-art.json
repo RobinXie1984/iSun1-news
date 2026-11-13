@@ -1522,6 +1522,310 @@
           "sha256": "aad20d3458a7e7d72436d55bcbb8bcbad479bff3db9868e9b714e4cd40f3b6f9"
         }
       ]
+    },
+    {
+      "topic": "splice-drone-lunar-landing-test",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/splice-drone-lunar-landing-test-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "d606eb6ba62172fa3496c0f4e46550d762c7b8479eae9409dc83be578d5ef9ef",
+          "bytes": 74175
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/splice-drone-lunar-landing-test-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "e7b44631b1bff8face78dddf6da5a5f02a38fd07b549b5af1e51a74d9b38199f",
+          "bytes": 250706
+        }
+      ]
+    },
+    {
+      "topic": "ebola-bundibugyo-trial-evidence-gap",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/ebola-bundibugyo-trial-evidence-gap-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "5091d08d3a43de079edd936ae32261802c4fcf31c9a8fc727da25e0146092fb5",
+          "bytes": 98527
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/ebola-bundibugyo-trial-evidence-gap-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "9389d4f66450ebe82eb282965c5625a274b2c9e26725376e76e89d0d8e9ff5f3",
+          "bytes": 329826
+        }
+      ]
+    },
+    {
+      "topic": "solar-flare-alert-five-minute-rocket",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/solar-flare-alert-five-minute-rocket-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "bd249adf398cf6c3de7f709292c5b10368aef5c25509c69b10d8c97f8e4f80cb",
+          "bytes": 82527
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/solar-flare-alert-five-minute-rocket-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "4fbfe287ed215864c5f90ddaa9652f22cd4c6f3fc36d0f3b4ab339148182d4ce",
+          "bytes": 253654
+        }
+      ]
+    },
+    {
+      "topic": "eu-methane-delay-negotiating-clock",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/eu-methane-delay-negotiating-clock-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "8eb18fe4202dd049d01d5471b4489d3d3adf32ed8bc678b08d273f754546327d",
+          "bytes": 84729
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/eu-methane-delay-negotiating-clock-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "37f8a74dd4f77813d9a0f603147da848410d30fd1a5c15ebe88b9270f2c6f10d",
+          "bytes": 280626
+        }
+      ]
+    },
+    {
+      "topic": "promise-mars-hardware-lunar-darkness",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/promise-mars-hardware-lunar-darkness-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "b57f2682a370bb1ed5448fc89f81bb2cbdad28c1daabc631cc22502fbb5de88c",
+          "bytes": 102767
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/promise-mars-hardware-lunar-darkness-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "01c63e070ab5a34c08f5d932ab03f8e3e8dc633efa66b771c2a2c4c8d4898716",
+          "bytes": 322644
+        }
+      ]
+    },
+    {
+      "topic": "artex-finance-attacks-false-wins",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/artex-finance-attacks-false-wins-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "6d138be947746681b22c81a32446ce66c5d2981a50afdf9712eb2945fd579069",
+          "bytes": 98932
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/artex-finance-attacks-false-wins-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "579a02b0af83b905b3ced585dde13c1e736b7d5821f036fb54bc18aea6a7d6d3",
+          "bytes": 319040
+        }
+      ]
+    },
+    {
+      "topic": "aaronson-ambainis-proof-quantum-structure",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/aaronson-ambainis-proof-quantum-structure-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "ca4c1612129283e71b6978e4946bb24c359b84795078a8ab74ce1dc8f59c81bd",
+          "bytes": 86782
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/aaronson-ambainis-proof-quantum-structure-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "44dc5abd2e7806447a3ef49d51d5c2df154c0ea6060554a257bbfe7c5f5c0670",
+          "bytes": 317726
+        }
+      ]
+    },
+    {
+      "topic": "new-york-storage-fifteen-projects",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/new-york-storage-fifteen-projects-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "e164697e086111b34e84974ae184437a6f6e737ebbbb7583d3d7a256b2277442",
+          "bytes": 77818
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/new-york-storage-fifteen-projects-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "954ef8b796bec447bea1464acce0b0f7651a5cd905f86fa99f8d3ec54d63ccf9",
+          "bytes": 273743
+        }
+      ]
+    },
+    {
+      "topic": "chandra-at2016blu-hidden-companion",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/chandra-at2016blu-hidden-companion-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "92f0f2a7c8fc87c1e005bb27ba894119850575e77f9b4c76144b240f3ee6d712",
+          "bytes": 71268
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/chandra-at2016blu-hidden-companion-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "770f2ead834fd3de508e0f9568dcee97cb6065456a3b6f5f68f11695027b8e1a",
+          "bytes": 272304
+        }
+      ]
+    },
+    {
+      "topic": "language-explorer-metadata-map-limits",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/language-explorer-metadata-map-limits-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "5d1391f1917bef5791796d01b623d451e51fb90712e301d0a34248ab6b0d4b01",
+          "bytes": 93449
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/language-explorer-metadata-map-limits-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "5cc0c54fef9475a733933382879999397d81d186119d49184ddb67c056ac3a20",
+          "bytes": 337684
+        }
+      ]
+    },
+    {
+      "topic": "escapade-powered-earth-flybys-mars-route",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/escapade-powered-earth-flybys-mars-route-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "b5fe8450aaaaacdd807a9e78494808812811f57e59f429f0d1d6365dc086ff0b",
+          "bytes": 75719
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/escapade-powered-earth-flybys-mars-route-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "d417e5fd918c76739dbaa2387281cdd9e43585989c0322a0080e702886b4d46c",
+          "bytes": 315262
+        }
+      ]
+    },
+    {
+      "topic": "windows-ntlm-signing-phased-defaults",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/windows-ntlm-signing-phased-defaults-600.jpg",
+          "width": 600,
+          "height": 400,
+          "sha256": "2a24b3f12806e36e5a7e7c92de2eabd621c50033080592c7cb22e9028b5db320",
+          "bytes": 83654
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/windows-ntlm-signing-phased-defaults-1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "sha256": "e9deb68df635fce354549a4fc9a411736bc06193acdab84618c15ec73b069d2b",
+          "bytes": 265191
+        }
+      ]
+    },
+    {
+      "topic": "molecular-weave-benzene-separation",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/molecular-weave-benzene-separation-600.jpg",
+          "sha256": "94ab439bf6b8e1916a4de30c1a1461e9d26549b7144b2195ecb3d69fd2879e4c",
+          "bytes": 99131
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/molecular-weave-benzene-separation-1200.jpg",
+          "sha256": "8f4b2817fd53f6ac6b7c2397576f2c24dc58180a8377098578f19de6f8c36deb",
+          "bytes": 358798
+        }
+      ]
+    },
+    {
+      "topic": "eu-budget-2027-promises-payments",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/eu-budget-2027-promises-payments-600.jpg",
+          "sha256": "08dd240ed93c1e46b700961b0c5a067e6578f71e8944b718abf311e3608c357e",
+          "bytes": 85361
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/eu-budget-2027-promises-payments-1200.jpg",
+          "sha256": "274a972cb350e80b203df7c1d4d241e62d6c1a54d962dcb445de19392b69df77",
+          "bytes": 327753
+        }
+      ]
+    },
+    {
+      "topic": "deep-sea-microbes-pressure-robot",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/deep-sea-microbes-pressure-robot-600.jpg",
+          "sha256": "4d453e2f52f830bf85c42e67624d844c97abdcc5c4088991b4212292bf39de04",
+          "bytes": 79837
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/deep-sea-microbes-pressure-robot-1200.jpg",
+          "sha256": "f6ba71635c49569e5ef5e8b96c9cdbcf9afc35c2562481ff347bff5636216123",
+          "bytes": 293832
+        }
+      ]
+    },
+    {
+      "topic": "primary-energy-services-losses",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/primary-energy-services-losses-600.jpg",
+          "sha256": "fc75b12f1cd230e9b15304ec75cdf5ad2c7fdd517615b433e3627a5965f9b8c7",
+          "bytes": 66695
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/primary-energy-services-losses-1200.jpg",
+          "sha256": "d99aaef9d91b55422f236b35bf51fc4eb4d5af75390d1eb0d6a2257a9a44d34e",
+          "bytes": 256043
+        }
+      ]
     }
   ]
 }

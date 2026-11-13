@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "primary-energy-services-losses",
+      "event_date": "2026-11-12",
+      "title": {
+        "en": "Why the same energy services could need far less input",
+        "zh": "同样的能源服务，为何可能少用许多能源输入"
+      },
+      "summary": {
+        "en": "A new modelling paper holds 2022 useful energy fixed and estimates much lower losses in an electrified system, while leaving deployment and future demand unresolved.",
+        "zh": "新模型固定2022年的有用能源服务，估算电气化系统可大幅减少损耗；建设路径及未来需求仍是开放问题。"
+      }
+    },
+    {
+      "id": "deep-sea-microbes-pressure-robot",
+      "event_date": "2026-11-12",
+      "title": {
+        "en": "The robot that keeps a deep-sea world alive on its journey to the lab",
+        "zh": "把深海世界带进实验室：机器人如何守住生命的环境"
+      },
+      "summary": {
+        "en": "A new Manchester report explains a September study linking pressure-preserving sampling and robotic culture; living isolates offer a research advance with applications still open.",
+        "zh": "曼彻斯特的新报道解读九月研究：保压采样与机器人培养相连，活体分离成果打开研究可能，应用仍待验证。"
+      }
+    }
+  ]
+}

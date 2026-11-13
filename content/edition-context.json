@@ -4914,6 +4914,454 @@
       "prompt_version": "v6-streamlined",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/chatgpt/english.md",
+      "captured_at": "2026-11-06T15:43:37.614970+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/chatgpt/chinese.md",
+      "captured_at": "2026-11-06T15:43:37.614970+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/claude/english.md",
+      "captured_at": "2026-11-13T19:30:27.297567+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/ebola-bundibugyo-trial-evidence-gap/claude/chinese.md",
+      "captured_at": "2026-11-13T19:30:27.297567+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/splice-drone-lunar-landing-test/chatgpt/english.md",
+      "captured_at": "2026-11-06T15:15:31.558789+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/splice-drone-lunar-landing-test/chatgpt/chinese.md",
+      "captured_at": "2026-11-06T15:15:31.558789+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/splice-drone-lunar-landing-test/claude/english.md",
+      "captured_at": "2026-11-13T19:20:14.748803+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/splice-drone-lunar-landing-test/claude/chinese.md",
+      "captured_at": "2026-11-13T19:20:14.748803+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/chatgpt/english.md",
+      "captured_at": "2026-11-07T15:17:15.068117+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/chatgpt/chinese.md",
+      "captured_at": "2026-11-07T15:17:15.068117+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/claude/english.md",
+      "captured_at": "2026-11-07T15:24:39.156966+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/claude/chinese.md",
+      "captured_at": "2026-11-07T15:24:39.156966+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-methane-delay-negotiating-clock/chatgpt/english.md",
+      "captured_at": "2026-11-07T15:24:19.436682+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-methane-delay-negotiating-clock/chatgpt/chinese.md",
+      "captured_at": "2026-11-07T15:24:19.436682+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-methane-delay-negotiating-clock/claude/english.md",
+      "captured_at": "2026-11-13T19:21:52.738096+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-methane-delay-negotiating-clock/claude/chinese.md",
+      "captured_at": "2026-11-13T19:21:52.738096+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artex-finance-attacks-false-wins/chatgpt/english.md",
+      "captured_at": "2026-11-08T15:32:27.448052+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artex-finance-attacks-false-wins/chatgpt/chinese.md",
+      "captured_at": "2026-11-08T15:32:27.448052+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artex-finance-attacks-false-wins/claude/english.md",
+      "captured_at": "2026-11-13T19:17:20.374020+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/artex-finance-attacks-false-wins/claude/chinese.md",
+      "captured_at": "2026-11-13T19:17:20.374020+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/chatgpt/english.md",
+      "captured_at": "2026-11-08T15:15:13.094920+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/chatgpt/chinese.md",
+      "captured_at": "2026-11-08T15:15:13.094920+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/claude/english.md",
+      "captured_at": "2026-11-13T19:16:54.956455+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/claude/chinese.md",
+      "captured_at": "2026-11-13T19:16:54.956455+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/chatgpt/english.md",
+      "captured_at": "2026-11-09T15:24:29.916678+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/chatgpt/chinese.md",
+      "captured_at": "2026-11-09T15:24:29.916678+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/claude/english.md",
+      "captured_at": "2026-11-13T19:15:03.490542+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/claude/chinese.md",
+      "captured_at": "2026-11-13T19:15:03.490542+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/new-york-storage-fifteen-projects/chatgpt/english.md",
+      "captured_at": "2026-11-09T15:24:54.206915+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/new-york-storage-fifteen-projects/chatgpt/chinese.md",
+      "captured_at": "2026-11-09T15:24:54.206915+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/new-york-storage-fifteen-projects/claude/english.md",
+      "captured_at": "2026-11-13T19:26:39.656189+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/new-york-storage-fifteen-projects/claude/chinese.md",
+      "captured_at": "2026-11-13T19:26:39.656189+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/language-explorer-metadata-map-limits/chatgpt/english.md",
+      "captured_at": "2026-11-10T15:30:07.772195+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/language-explorer-metadata-map-limits/chatgpt/chinese.md",
+      "captured_at": "2026-11-10T15:30:07.772195+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/language-explorer-metadata-map-limits/claude/english.md",
+      "captured_at": "2026-11-10T15:32:52.102823+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/language-explorer-metadata-map-limits/claude/chinese.md",
+      "captured_at": "2026-11-10T15:32:52.102823+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chandra-at2016blu-hidden-companion/chatgpt/english.md",
+      "captured_at": "2026-11-10T15:17:43.748867+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chandra-at2016blu-hidden-companion/chatgpt/chinese.md",
+      "captured_at": "2026-11-10T15:17:43.748867+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chandra-at2016blu-hidden-companion/claude/english.md",
+      "captured_at": "2026-11-13T19:25:11.415839+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chandra-at2016blu-hidden-companion/claude/chinese.md",
+      "captured_at": "2026-11-13T19:25:11.415839+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/chatgpt/english.md",
+      "captured_at": "2026-11-11T15:17:46.729308+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/chatgpt/chinese.md",
+      "captured_at": "2026-11-11T15:17:46.729308+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/claude/english.md",
+      "captured_at": "2026-11-11T15:18:42.684350+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/claude/chinese.md",
+      "captured_at": "2026-11-11T15:18:42.684350+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/chatgpt/english.md",
+      "captured_at": "2026-11-11T15:24:18.465680+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/chatgpt/chinese.md",
+      "captured_at": "2026-11-11T15:24:18.465680+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/claude/english.md",
+      "captured_at": "2026-11-13T19:26:43.844433+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/claude/chinese.md",
+      "captured_at": "2026-11-13T19:26:43.844433+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-budget-2027-promises-payments/chatgpt/english.md",
+      "captured_at": "2026-11-12T15:20:57.717996+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-budget-2027-promises-payments/chatgpt/chinese.md",
+      "captured_at": "2026-11-12T15:20:57.717996+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-budget-2027-promises-payments/claude/english.md",
+      "captured_at": "2026-11-13T19:24:45.639665+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-budget-2027-promises-payments/claude/chinese.md",
+      "captured_at": "2026-11-13T19:24:45.639665+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/molecular-weave-benzene-separation/chatgpt/english.md",
+      "captured_at": "2026-11-12T15:11:47.598020+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/molecular-weave-benzene-separation/chatgpt/chinese.md",
+      "captured_at": "2026-11-12T15:11:47.598020+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/molecular-weave-benzene-separation/claude/english.md",
+      "captured_at": "2026-11-12T15:32:51.522796+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/molecular-weave-benzene-separation/claude/chinese.md",
+      "captured_at": "2026-11-12T15:32:51.522796+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/primary-energy-services-losses/chatgpt/english.md",
+      "captured_at": "2026-11-13T15:22:51.921734+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/primary-energy-services-losses/chatgpt/chinese.md",
+      "captured_at": "2026-11-13T15:22:51.921734+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/primary-energy-services-losses/claude/english.md",
+      "captured_at": "2026-11-13T19:24:36.787977+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/primary-energy-services-losses/claude/chinese.md",
+      "captured_at": "2026-11-13T19:24:36.787977+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deep-sea-microbes-pressure-robot/chatgpt/english.md",
+      "captured_at": "2026-11-13T15:16:03.668542+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deep-sea-microbes-pressure-robot/chatgpt/chinese.md",
+      "captured_at": "2026-11-13T15:16:03.668542+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deep-sea-microbes-pressure-robot/claude/english.md",
+      "captured_at": "2026-11-13T15:25:29.845219+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/deep-sea-microbes-pressure-robot/claude/chinese.md",
+      "captured_at": "2026-11-13T15:25:29.845219+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

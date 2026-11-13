@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "eu-budget-2027-promises-payments",
+      "event_date": "2026-11-11",
+      "title": {
+        "en": "Europe agrees a budget whose payments exceed its new promises",
+        "zh": "欧洲达成预算协议：付款额为何超过新承诺"
+      },
+      "summary": {
+        "en": "The provisional 2027 deal separates commitments from payments on current and earlier obligations; formal approval and delivery still lie ahead.",
+        "zh": "2027年临时预算协议区分承诺与当年及往年义务的付款；正式批准及执行仍在后续。"
+      }
+    },
+    {
+      "id": "molecular-weave-benzene-separation",
+      "event_date": "2026-11-11",
+      "title": {
+        "en": "A molecular weave captures benzene, while the factory question remains",
+        "zh": "分子织物捕获苯，工厂里的答案仍待验证"
+      },
+      "summary": {
+        "en": "UT Austin explains a published selective-capture material; its reported test and reusable architecture offer promise while full-process economics remain open.",
+        "zh": "得州大学奥斯汀分校介绍已发表的选择性捕获材料；实验与可重复使用的结构带来可能，完整工艺的经济性仍待验证。"
+      }
+    }
+  ]
+}

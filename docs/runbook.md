@@ -1,3 +1,7 @@
+# Daily publication recovery — November 13, 2026
+
+The November 6–13 editions were prepared during those dates and held for factual corrections. Recovered editions carry a catch-up notice with their actual first-publication date. Each new topic retains independent Astra and Claude originals in English and Chinese. Completed topics can publish separately while a companion continues through review. Earlier editions and permanent links remain available.
+
 # Current editorial workflow — November 6, 2026
 
 Fresh batches use schema4 with two independent writers, GPT Astra and Claude Opus 5.5, in English and Chinese. Each branch follows Sol research → author English → separate Sol source/completeness review → the same author conversation's Chinese → separate Sol review. Both authors receive the same public source packet and writing rules; their Sol research notes may differ. Model responses remain separate, and language-specific editorial selections have recorded reasons.

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "language-explorer-metadata-map-limits",
+      "event_date": "2026-11-09",
+      "title": {
+        "en": "A language map opens a door—and shows the limits of its data",
+        "zh": "语言地图打开一扇门，也显出数据的边界"
+      },
+      "summary": {
+        "en": "Google’s November9LanguageExplorer report links a museum installation to an inspectable metadata resource with uneven coverage and distinct source licenses.",
+        "zh": "Google11月9日介绍的LanguageExplorer，将博物馆展示与可检查的语言元数据连接起来，同时保留覆盖差异及来源许可的边界。"
+      }
+    },
+    {
+      "id": "chandra-at2016blu-hidden-companion",
+      "event_date": "2026-11-09",
+      "title": {
+        "en": "Chandra finds a clue to a surviving star’s recurring outbursts",
+        "zh": "Chandra找到恒星反复爆发背后的隐藏线索"
+      },
+      "summary": {
+        "en": "Timed X-rays support a compact companion behind AT2016blu’s roughly113-day optical eruptions; its exact nature remains open.",
+        "zh": "定时X射线观测支持致密伴星驱动AT2016blu约113天一次的可见光爆发，伴星具体类型仍待厘清。"
+      }
+    }
+  ]
+}

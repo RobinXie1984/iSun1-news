@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "generated_at": "2026-11-13T11:33:05.855381+00:00",
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "language-explorer-metadata-map-limits",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/language-explorer-metadata-map-limits.md",
+      "article_path": "articles/language-explorer-metadata-map-limits/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-10; first published November 13, 2026. Google’s November9 feature concerns Language Explorer and its museum presentation, not a new2026launch of LinguaMeta. The museum listed a November5opening and an exhibition throughFebruary27,2028; the opening event was not independently witnessed. The19source collections and83%oflanguage entries with speaker-population values describe metadata coverage. They do not establish translation support, accuracy, community consent or language revitalization. Source dates, aggregation, macrolanguages and living-spoken-language scope limit interpretation. A November10summary-TSV check found5600numeric entry totals among7511rows;5206exceed100. This supports the majority-rounding-policy reading, while the README’s separate83%coverage figure remains attributed and its exact reconciliation with the total-field snapshot is unresolved."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "language-explorer-metadata-map-limits",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/language-explorer-metadata-map-limits.md",
+      "article_path": "articles/language-explorer-metadata-map-limits/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-10，于2026年11月13日首次发布。Google于11月9日介绍Language Explorer及其博物馆展示，并非宣告LinguaMeta于2026年首次推出。馆方列出11月5日开幕安排及展期至2028年2月27日，开幕实况未独立见证。19组来源及约83%语言条目具有使用人数值，描述元数据覆盖，不能证明翻译支持、准确率、社群同意或语言复兴效果。来源日期、汇总口径、宏语言及以现存口语为主的范围，均限制解读。11月10日摘要表核对：7511行中5600条具有数值总人数，其中5206条超过100。此结果支持多数已填总人数适用取整规则；README另述83%覆盖率，两者口径的精确对应仍未厘清。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "language-explorer-metadata-map-limits",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/language-explorer-metadata-map-limits.md",
+      "article_path": "articles/language-explorer-metadata-map-limits/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-10; first published November 13, 2026. Google’s November9 feature concerns Language Explorer and its museum presentation, not a new2026launch of LinguaMeta. The museum listed a November5opening and an exhibition throughFebruary27,2028; the opening event was not independently witnessed. The19source collections and83%oflanguage entries with speaker-population values describe metadata coverage. They do not establish translation support, accuracy, community consent or language revitalization. Source dates, aggregation, macrolanguages and living-spoken-language scope limit interpretation. A November10summary-TSV check found5600numeric entry totals among7511rows;5206exceed100. This supports the majority-rounding-policy reading, while the README’s separate83%coverage figure remains attributed and its exact reconciliation with the total-field snapshot is unresolved."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "language-explorer-metadata-map-limits",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/language-explorer-metadata-map-limits.md",
+      "article_path": "articles/language-explorer-metadata-map-limits/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-10，于2026年11月13日首次发布。Google于11月9日介绍Language Explorer及其博物馆展示，并非宣告LinguaMeta于2026年首次推出。馆方列出11月5日开幕安排及展期至2028年2月27日，开幕实况未独立见证。19组来源及约83%语言条目具有使用人数值，描述元数据覆盖，不能证明翻译支持、准确率、社群同意或语言复兴效果。来源日期、汇总口径、宏语言及以现存口语为主的范围，均限制解读。11月10日摘要表核对：7511行中5600条具有数值总人数，其中5206条超过100。此结果支持多数已填总人数适用取整规则；README另述83%覆盖率，两者口径的精确对应仍未厘清。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "chandra-at2016blu-hidden-companion",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/chandra-at2016blu-hidden-companion.md",
+      "article_path": "articles/chandra-at2016blu-hidden-companion/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-10; first published November 13, 2026. NASA and Chandra reported this study on November9. The observations are from March2026 and the public author preprint was submitted August20. The compact companion remains a neutron star or black hole; the orbit and intermittent accretion are inferred. The reported27detected optical outbursts and roughly113day recurrence describe the monitored record. The100-fold X-ray comparison uses an archival upper-limit constraint, not two precise detections. Journal-final wording was not separately inspected."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "chandra-at2016blu-hidden-companion",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/chandra-at2016blu-hidden-companion.md",
+      "article_path": "articles/chandra-at2016blu-hidden-companion/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-10，于2026年11月13日首次发布。NASA与钱德拉中心于11月9日报道本研究，关键观测发生于2026年3月，公开作者预印本于8月20日提交。致密伴星可能是中子星或黑洞，轨道与间歇吸积属于推断。27次已探测光学爆发及约113天间隔描述监测记录；X射线百倍比较使用早年观测上限，并非两个精确探测值。期刊最终版措辞未另行核查。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "chandra-at2016blu-hidden-companion",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/chandra-at2016blu-hidden-companion.md",
+      "article_path": "articles/chandra-at2016blu-hidden-companion/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-10; first published November 13, 2026. NASA and Chandra reported this study on November9. The observations are from March2026 and the public author preprint was submitted August20. The compact companion remains a neutron star or black hole; the orbit and intermittent accretion are inferred. The reported27detected optical outbursts and roughly113day recurrence describe the monitored record. The100-fold X-ray comparison uses an archival upper-limit constraint, not two precise detections. Journal-final wording was not separately inspected."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "chandra-at2016blu-hidden-companion",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/chandra-at2016blu-hidden-companion.md",
+      "article_path": "articles/chandra-at2016blu-hidden-companion/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-10，于2026年11月13日首次发布。NASA与钱德拉中心于11月9日报道本研究，关键观测发生于2026年3月，公开作者预印本于8月20日提交。致密伴星可能是中子星或黑洞，轨道与间歇吸积属于推断。27次已探测光学爆发及约113天间隔描述监测记录；X射线百倍比较使用早年观测上限，并非两个精确探测值。期刊最终版措辞未另行核查。"
+    }
+  ]
+}

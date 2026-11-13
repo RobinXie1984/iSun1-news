@@ -1,0 +1,71 @@
+# Where Does the Energy Go? The Hidden Loss Behind a 48% Fall
+
+The world uses energy to warm buildings, move people, make goods and keep lights shining. Much of the energy entering that system escapes along the way, often as heat. A modelling paper published on November 12, 2026, in *npj Clean Energy* explores how much that loss could shrink. Researchers Jan Rosenow and his co-authors compare the global energy system of 2022 with a hypothetical, highly electrified alternative delivering the same modelled useful energy. Their counterfactual produces 61% less rejected energy and, under a conventional accounting method, uses 48% less primary energy—an annual reduction of 288 exajoules.
+
+Those figures describe a thought experiment. Its purpose is to examine how energy moves through a different arrangement of generators, vehicles, heating systems and fuel supplies. The comparison holds useful output steady while changing the equipment that delivers it. The researchers assign their alternative system a set of technical characteristics; its construction date remains open.
+
+The larger question begins with something familiar: the difference between what enters a machine and what the machine accomplishes. A vehicle consumes energy and produces motion, alongside heat. A power station takes in fuel and sends out electricity, while releasing heat into its surroundings. Across an entire economy, these differences accumulate. Changing the machines can therefore change the size of the energy supply required to produce a given useful output.
+
+That makes the study’s puzzle consequential. A falling energy total can describe a system providing fewer services. It can also describe a system losing less energy as it performs its work. Understanding which story a number tells requires following the energy through the system.
+
+Four terms provide the route. **Primary energy** measures energy entering at a chosen accounting boundary. For a coal power station, that generally means the energy contained in its fuel before conversion. **Final energy** is energy reaching users, such as electricity delivered to a building or fuel supplied to a vehicle. **Useful energy** is the resulting physical output: heat delivered to a room, motion from a motor, or light from a lamp. **Rejected energy** leaves the chain through conversion and other losses.
+
+These stages answer different questions. An electricity meter records energy delivered to a home. The heat reaching its rooms depends on the heating equipment. Comfort also depends on insulation, draughts, room layout and weather. Useful energy brings the accounting closer to the physical purpose of consumption, while comfort and welfare extend into a broader set of circumstances.
+
+Consider an illustrative comparison between two delivery fleets. Suppose each produces the same amount of useful motion. One fleet’s engines release a large share of their fuel energy as heat. The other fleet’s electric motors turn a larger share of their input into motion. The second fleet can perform that defined amount of work with a smaller energy input.
+
+The measurement point matters too. Fuel entering a vehicle and electricity delivered to a vehicle have already passed through different supply chains. A full comparison follows those chains upstream. This example illustrates the distinction between input, output and loss; the paper applies a much wider accounting framework encompassing electricity, transport, heating and fuel processing.
+
+At the global level, primary-energy accounting introduces another complication. Under the conventional physical-energy-content method used for the paper’s headline comparison, wind and solar electricity are commonly counted when generated. A thermal power station’s contribution is counted through the heat content of the fuel entering it, before electricity generation. The two entries therefore begin at different physical stages.
+
+A shift from thermal generation towards wind and solar changes the primary-energy total partly through that convention. It also changes the physical process. A wind turbine or solar panel supplies electricity through a route that avoids the fuel-to-heat-to-electricity conversion used in a thermal station. The comparison contains both an accounting effect and avoided conversion losses.
+
+This is why Rosenow and his colleagues foreground rejected energy. Their 61% reduction concerns the losses represented across the modelled system. Its denominator is the baseline’s rejected energy. The 48% reduction uses a different denominator: baseline primary-energy input. Each percentage answers its own question, and each remains dependent on the study’s assumptions.
+
+The accompanying 288-exajoule figure expresses the annual primary-energy difference. An exajoule is a very large energy unit: one followed by 18 zeroes in joules. “Per year” makes this an annual flow of energy. Generating capacity, by comparison, describes how quickly equipment can supply energy at a particular moment. The paper’s annual total belongs to the first category.
+
+To construct the starting point, the authors use 2022 energy balances from the International Energy Agency, an organisation that compiles energy data and analysis, together with the World Energy Flow framework from Lawrence Livermore National Laboratory. Such balances trace supplies and uses across the economy. Estimating the useful output requires another step: assumptions about how efficiently equipment and sectors turn delivered energy into heat, motion and other outputs.
+
+Consequently, the baseline’s useful energy is partly an estimate built from aggregate efficiencies. Its precision reflects those assumptions. The counterfactual then holds that estimated useful energy fixed and changes how the system supplies it. This creates a controlled comparison with the 2022 baseline, allowing the researchers to examine the effect of a different technological arrangement.
+
+Electricity generation supplies a large part of the change. The model retains current hydroelectric and geothermal generation, and divides the remaining generation equally between wind and solar photovoltaic power—the technology used in electricity-producing solar panels. Its chosen configuration replaces nuclear and bioenergy generation as well as much fossil generation.
+
+Across electricity generation, transmission, distribution and storage, modelled losses fall from 135 to 24 exajoules per year, a reduction of 111. Transmission and distribution are the networks carrying electricity over long distances and onwards to users. Storage holds energy for later delivery and consumes some energy during that process. Including these losses gives the comparison a wider boundary than the generator alone.
+
+The chosen generation mix establishes the conditions of the experiment. Questions about the preferred mix for a particular country require further evidence on cost, geography, existing infrastructure and system operation. The authors also test a variant retaining current nuclear generation. In their sensitivity analysis, that choice adds about 20 exajoules a year of waste heat and changes the total waste-heat reduction by less than 10%. This tests the result’s response to one assumption; decisions about nuclear policy encompass a broader set of considerations.
+
+Transport contributes through a different mechanism. Electric drivetrains use a larger share of their energy input to produce useful motion. In the model, transport losses decline from roughly 94 to 28 exajoules annually. The paper reports a reduction of 67 exajoules; subtracting the displayed, rounded endpoints gives 66. The one-exajoule difference is consistent with rounding, so the appropriate reading preserves the authors’ reported reduction and the approximate status of the endpoints.
+
+These figures concern losses across modelled transport. Translating them into an actual transport system would require decisions about vehicles, charging, travel patterns and the uses that remain difficult to electrify. The result establishes the scale of the efficiency change under the scenario’s assumptions.
+
+Heating introduces an additional input that deserves particular attention: heat already present in the environment. A heat pump uses electricity to move that heat into a building or another application. Its delivered heat combines the electricity consumed with the environmental heat collected. This explains how the heat output can exceed the electrical input while respecting energy conservation.
+
+The model’s captured ambient heat rises from about 2 to 52 exajoules per year. That is a substantial energy contribution in its own right. Following only the electricity entering a heat pump would leave part of the physical explanation outside the frame. Following both inputs reveals where the delivered heat comes from.
+
+Heat-pump performance varies by application, and the authors use application-specific assumptions. The aggregate result therefore describes their modelled collection of uses. Performance in an individual building depends on its circumstances. Household costs also depend on equipment, installation and tariffs, giving bills a separate calculation from the paper’s physical energy balance.
+
+A smaller fossil-fuel system brings another reduction. Extracting, processing, refining and transporting fuels consumes energy before those fuels reach their eventual users. As the model reduces fossil use, this supporting chain shrinks. Fossil-fuel transformation losses fall from 46 to 12 exajoules annually, a difference of 34.
+
+Together, these mechanisms explain why the result belongs to a change in both supply and end use. Generators change, motors change, heating equipment changes, and the fuel supply chain becomes smaller. Crediting the entire 61% reduction to renewable generation alone would obscure that combination. The component figures illustrate different parts of the model; the paper’s systemwide accounting supplies the total. It also treats non-energy uses, such as fuels used as material inputs, separately from the useful-and-rejected-energy split.
+
+The next question emerges when annual flows meet everyday life. People require electricity at particular hours and heat during particular weather. Factories need power where equipment stands. An annual balance can describe how much energy moves through a system over a year, while reliable delivery requires that supply and demand match across time and place.
+
+The study includes aggregate storage and network losses. Its storage-loss assumptions draw on an analysis of a UK renewable system. Its scope remains an annual, global comparison; an hour-by-hour demonstration of global reliability sits beyond that scope.
+
+This distinction has practical force. A system may have enough annual generation while facing a difficult stretch of weather or a congested connection between regions. Addressing those conditions can require more transmission, storage, flexible consumption or different generation choices. Each choice can change costs, infrastructure requirements and energy flows. A detailed operating model would examine those interactions at the times and locations that matter.
+
+The authors discuss the associated demands on grids, seasonal storage, materials, land, permitting, capital, supply chains and public acceptance. Those demands turn a physically attractive energy balance into a construction and coordination problem. Equipment needs manufacturing, projects need financing, and networks need routes through real places. The reported percentages quantify energy under specified assumptions; affordability and the pace of delivery remain separate questions.
+
+The scenario also retains residual fossil uses. A complete pathway to net-zero emissions would require additional decisions for those uses, including difficult industrial and transport applications. Their eventual treatment could change the flows calculated here. Emissions, household bills and investment requirements each call for their own assessment.
+
+Demand adds a further moving part. The experiment fixes useful energy at its modelled 2022 level, creating a stable basis for comparison. Future populations, prosperity and access to energy can alter that level. The authors expect useful-energy demand to rise among low-income populations. More cooling, transport, industrial production or household services would give the system additional work to perform.
+
+Efficiency can itself encourage greater use, a response known as rebound. If a service becomes cheaper or easier to obtain, people may use more of it. The paper discusses this possibility alongside future demand growth; both remain outside its fixed-demand calculation. The stated energy input therefore belongs to the study’s particular amount of useful output.
+
+The lasting insight is a clearer way to read the energy total. A large input can include a large burden of losses. A smaller input can support the same modelled useful output when the system converts and delivers energy more efficiently. Primary-energy accounting adds another layer, because its measurement boundary affects the size of the reported change.
+
+Rosenow and his colleagues give that distinction a numerical form: the same modelled useful energy as in 2022, with 61% less rejected energy and 48% less primary energy under the chosen convention. The engineering challenge now comes into sharper focus. How would a real system deliver those efficiency gains at the places and hours people need them, while serving a world whose useful-energy needs continue to grow?
+
+## Sources
+
+Rosenow, J., Eyre, N., Rissman, J., Mayfield, K. K., Goldstein, H. M., Ammar, Z., and Bruce-Lockhart, C. “[The primary energy fallacy in energy transitions](https://www.nature.com/articles/s44406-026-00055-3).” *npj Clean Energy* 2, 38. Published November 12, 2026. DOI: 10.1038/s44406-026-00055-3. This primary modelling paper supplies all study-specific findings reported here. Open access under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This feature provides original reporting and explanation.

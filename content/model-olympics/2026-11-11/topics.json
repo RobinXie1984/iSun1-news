@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "escapade-powered-earth-flybys-mars-route",
+      "event_date": "2026-11-09",
+      "title": {
+        "en": "Twin powered Earth flybys turn ESCAPADE’s detour toward Mars",
+        "zh": "两次动力地球飞掠，让ESCAPADE绕行之路通向火星"
+      },
+      "summary": {
+        "en": "NASA reports completed departure maneuvers and Rocket Lab adds a November10engineering account; Mars capture and coordinated science remain ahead.",
+        "zh": "NASA报告出发机动已完成，Rocket Lab于11月10日补充工程说明；火星捕获与协同科学观测仍在前方。"
+      }
+    },
+    {
+      "id": "windows-ntlm-signing-phased-defaults",
+      "event_date": "2026-11-10",
+      "title": {
+        "en": "Windows offers stronger NTLM signing before a later enforcement step",
+        "zh": "Windows先默认提出NTLM签名，后续强制阶段仍待推进"
+      },
+      "summary": {
+        "en": "Microsoft’s November10updates start a phased integrity change: updated clients offer signing, while unsigned access remains accepted at current server defaults.",
+        "zh": "微软11月10日更新开启分阶段完整性保护：更新客户端默认提出签名，服务器目前默认仍接受未签名连接。"
+      }
+    }
+  ]
+}

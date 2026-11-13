@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "generated_at": "2026-11-13T11:33:05.890695+00:00",
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "primary-energy-services-losses",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/primary-energy-services-losses.md",
+      "article_path": "articles/primary-energy-services-losses/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-13; first published November 13, 2026. The November 12, 2026 paper models an electrified system delivering the same useful energy as its 2022 baseline. Its estimated 61% reduction concerns rejected energy; 48% concerns primary energy under a stated accounting convention. This is a stylised counterfactual, with residual fossil uses, rather than a forecast or complete net-zero pathway. Demand growth, detailed reliability, deployment timing and economics remain outside its modelled result."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "primary-energy-services-losses",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/primary-energy-services-losses.md",
+      "article_path": "articles/primary-energy-services-losses/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-13，于2026年11月13日首次发布。2026年11月12日论文设定电气化系统提供与2022年基线相同的有用能源。61%的估算降幅指损耗能源，48%则指特定核算惯例下的一次能源。这是保留部分化石能源用途的简化反事实模型，而非预测或完整净零路径。需求增长、细化供电可靠性、建设时间及经济性仍超出其模型结果。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "primary-energy-services-losses",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/primary-energy-services-losses.md",
+      "article_path": "articles/primary-energy-services-losses/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-13; first published November 13, 2026. The November 12, 2026 paper models an electrified system delivering the same useful energy as its 2022 baseline. Its estimated 61% reduction concerns rejected energy; 48% concerns primary energy under a stated accounting convention. This is a stylised counterfactual, with residual fossil uses, rather than a forecast or complete net-zero pathway. Demand growth, detailed reliability, deployment timing and economics remain outside its modelled result."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "primary-energy-services-losses",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/primary-energy-services-losses.md",
+      "article_path": "articles/primary-energy-services-losses/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-13，于2026年11月13日首次发布。2026年11月12日论文设定电气化系统提供与2022年基线相同的有用能源。61%的估算降幅指损耗能源，48%则指特定核算惯例下的一次能源。这是保留部分化石能源用途的简化反事实模型，而非预测或完整净零路径。需求增长、细化供电可靠性、建设时间及经济性仍超出其模型结果。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "deep-sea-microbes-pressure-robot",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/deep-sea-microbes-pressure-robot.md",
+      "article_path": "articles/deep-sea-microbes-pressure-robot/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-13; first published November 13, 2026. Manchester reported this work on November 12, 2026; the Nature Sensors paper was published September 9. The study reports 34 isolates and a community maintained for 180 days, distinct outcomes rather than 34 new species. Samples came from a South China Sea cold seep at 1,300 metres. Applications and performance beyond the reported conditions remain open. Source images and laboratory protocols are excluded."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "deep-sea-microbes-pressure-robot",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/deep-sea-microbes-pressure-robot.md",
+      "article_path": "articles/deep-sea-microbes-pressure-robot/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-13，于2026年11月13日首次发布。曼彻斯特于2026年11月12日报道此项工作，Nature Sensors论文发表于9月9日。研究报告分离出34个培养物，并维持一个群落180天；这是两项不同成果，不能解读为发现34个新物种。样本来自南海1300米深的冷泉。应用及超出已报告条件的表现仍待研究，来源图片及实验操作方案不在此转载。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "deep-sea-microbes-pressure-robot",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/deep-sea-microbes-pressure-robot.md",
+      "article_path": "articles/deep-sea-microbes-pressure-robot/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-13; first published November 13, 2026. Manchester reported this work on November 12, 2026; the Nature Sensors paper was published September 9. The study reports 34 isolates and a community maintained for 180 days, distinct outcomes rather than 34 new species. Samples came from a South China Sea cold seep at 1,300 metres. Applications and performance beyond the reported conditions remain open. Source images and laboratory protocols are excluded."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "deep-sea-microbes-pressure-robot",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/deep-sea-microbes-pressure-robot.md",
+      "article_path": "articles/deep-sea-microbes-pressure-robot/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-13，于2026年11月13日首次发布。曼彻斯特于2026年11月12日报道此项工作，Nature Sensors论文发表于9月9日。研究报告分离出34个培养物，并维持一个群落180天；这是两项不同成果，不能解读为发现34个新物种。样本来自南海1300米深的冷泉。应用及超出已报告条件的表现仍待研究，来源图片及实验操作方案不在此转载。"
+    }
+  ]
+}

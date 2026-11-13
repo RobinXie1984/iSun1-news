@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "ebola-bundibugyo-trial-evidence-gap",
+      "event_date": "2026-11-05",
+      "title": {
+        "en": "Ebola’s next vaccines face the evidence test",
+        "zh": "埃博拉候选疫苗走向证据考验"
+      },
+      "summary": {
+        "en": "WHO’s November4 trial recommendation meets ECDC’s November5 outbreak update. New vaccine candidates still need national approvals and efficacy evidence against Bundibugyo; dated case totals and species-specific approvals matter.",
+        "zh": "WHO十一月四日的试验建议，与ECDC十一月五日的疫情更新交汇。新候选疫苗仍待国家批准及针对本迪布焦病毒的有效性证据；病例截止日期与病毒种别的审批边界尤其重要。"
+      }
+    },
+    {
+      "id": "splice-drone-lunar-landing-test",
+      "event_date": "2026-11-04",
+      "title": {
+        "en": "A drone rehearses a lander’s last-minute decision",
+        "zh": "无人机演练着陆前的最后抉择"
+      },
+      "summary": {
+        "en": "NASA’s November4 report describes an August27 drone test of SPLICE navigation and hazard avoidance. A ground demonstration opens useful possibilities for precise landings; the test environment and unresolved timeline details remain explicit.",
+        "zh": "NASA十一月四日报道，SPLICE导航与避险系统于八月二十七日完成无人机演示。地面测试为精确着陆带来可验证的可能，测试环境及资料中的时间差异仍需明确。"
+      }
+    }
+  ]
+}

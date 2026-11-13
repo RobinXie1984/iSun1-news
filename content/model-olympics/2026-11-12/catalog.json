@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "generated_at": "2026-11-13T11:33:05.877359+00:00",
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-budget-2027-promises-payments",
+      "event_date": "2026-11-11",
+      "source_brief": "briefs/eu-budget-2027-promises-payments.md",
+      "article_path": "articles/eu-budget-2027-promises-payments/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-12; first published November 13, 2026. The November 11 agreement remains subject to formal approval. Commitments (€199.7 billion) and payments (€211.5 billion) measure different obligations and are not additive budgets. Payments include current and earlier commitments; the difference does not establish a deficit. The €710.1 million ceiling margin is distinct from cash delivered or all emergency resources. October Parliament requests remain negotiating history, not final allocations."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-budget-2027-promises-payments",
+      "event_date": "2026-11-11",
+      "source_brief": "briefs/eu-budget-2027-promises-payments.md",
+      "article_path": "articles/eu-budget-2027-promises-payments/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-12，于2026年11月13日首次发布。11月11日协议仍待正式批准。承诺额1997亿欧元与付款额2115亿欧元对应不同义务，不能相加为预算总额。付款涵盖当年及往年承诺，两者差额不能据此判定为赤字。7.101亿欧元的上限余量与已交付款项或全部应急资源不同。议会10月要求仍属谈判历史，并非最终拨款。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-budget-2027-promises-payments",
+      "event_date": "2026-11-11",
+      "source_brief": "briefs/eu-budget-2027-promises-payments.md",
+      "article_path": "articles/eu-budget-2027-promises-payments/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-12; first published November 13, 2026. The November 11 agreement remains subject to formal approval. Commitments (€199.7 billion) and payments (€211.5 billion) measure different obligations and are not additive budgets. Payments include current and earlier commitments; the difference does not establish a deficit. The €710.1 million ceiling margin is distinct from cash delivered or all emergency resources. October Parliament requests remain negotiating history, not final allocations."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-budget-2027-promises-payments",
+      "event_date": "2026-11-11",
+      "source_brief": "briefs/eu-budget-2027-promises-payments.md",
+      "article_path": "articles/eu-budget-2027-promises-payments/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-12，于2026年11月13日首次发布。11月11日协议仍待正式批准。承诺额1997亿欧元与付款额2115亿欧元对应不同义务，不能相加为预算总额。付款涵盖当年及往年承诺，两者差额不能据此判定为赤字。7.101亿欧元的上限余量与已交付款项或全部应急资源不同。议会10月要求仍属谈判历史，并非最终拨款。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "molecular-weave-benzene-separation",
+      "event_date": "2026-11-11",
+      "source_brief": "briefs/molecular-weave-benzene-separation.md",
+      "article_path": "articles/molecular-weave-benzene-separation/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-12; first published November 13, 2026. UT Austin reported this work on November 11, 2026; the Nature paper was published November 4. The reported 97.9% measures benzene taken up from a 50/50 mixture, rather than product purity or energy saved. Larger-scale use is a participating researcher’s account. Whole-process economics, sustained performance and net energy savings remain open; heating is needed for reuse. The source review inspected public abstract and institutional reporting, not subscription full text or an operating plant."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "molecular-weave-benzene-separation",
+      "event_date": "2026-11-11",
+      "source_brief": "briefs/molecular-weave-benzene-separation.md",
+      "article_path": "articles/molecular-weave-benzene-separation/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-12，于2026年11月13日首次发布。得州大学奥斯汀分校于2026年11月11日报道，Nature论文发表于11月4日。97.9%指50/50混合物中被捕获的苯比例，而非产品纯度或节能幅度。较大规模应用来自参与研究者的说明。完整工艺的经济性、持续性能与净节能仍待验证，重复使用需要加热。来源审查涵盖公开摘要与机构报道，未查阅订阅全文或核验运行中的工厂。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "molecular-weave-benzene-separation",
+      "event_date": "2026-11-11",
+      "source_brief": "briefs/molecular-weave-benzene-separation.md",
+      "article_path": "articles/molecular-weave-benzene-separation/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-12; first published November 13, 2026. UT Austin reported this work on November 11, 2026; the Nature paper was published November 4. The reported 97.9% measures benzene taken up from a 50/50 mixture, rather than product purity or energy saved. Larger-scale use is a participating researcher’s account. Whole-process economics, sustained performance and net energy savings remain open; heating is needed for reuse. The source review inspected public abstract and institutional reporting, not subscription full text or an operating plant."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "molecular-weave-benzene-separation",
+      "event_date": "2026-11-11",
+      "source_brief": "briefs/molecular-weave-benzene-separation.md",
+      "article_path": "articles/molecular-weave-benzene-separation/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-12，于2026年11月13日首次发布。得州大学奥斯汀分校于2026年11月11日报道，Nature论文发表于11月4日。97.9%指50/50混合物中被捕获的苯比例，而非产品纯度或节能幅度。较大规模应用来自参与研究者的说明。完整工艺的经济性、持续性能与净节能仍待验证，重复使用需要加热。来源审查涵盖公开摘要与机构报道，未查阅订阅全文或核验运行中的工厂。"
+    }
+  ]
+}

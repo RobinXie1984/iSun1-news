@@ -1,3 +1,7 @@
+# Daily publication recovery — November 13, 2026
+
+The November 6–13 editions were prepared during those dates and held for factual corrections. Recovered editions carry a catch-up notice with their actual first-publication date. Each new topic retains independent Astra and Claude originals in English and Chinese. Completed topics can publish separately while a companion continues through review. Earlier editions and permanent links remain available.
+
 # Editorial iteration — November 6, 2026
 
 Fresh editions support two independent writers, GPT Astra and Claude Opus 5.5, each with Sol research and separate factual/completeness reviews in English and Chinese. Schema4 requires both authors and languages; historical schema1/2/3 archives remain supported. Missing Claude editions and recent Astra-only topics receive clearly dated later Claude articles in the additive backfill layer. Earlier originals, missing records and picks retain their exact content. Model writing uses background connections; private orchestration, sign-in data and receipts stay outside this public repository.

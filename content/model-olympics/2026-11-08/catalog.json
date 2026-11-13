@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "generated_at": "2026-11-13T11:33:05.827313+00:00",
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "artex-finance-attacks-false-wins",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/artex-finance-attacks-false-wins.md",
+      "article_path": "articles/artex-finance-attacks-false-wins/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-08; first published November 13, 2026. The November 6 report attributes October activity to a cluster tracked by Microsoft. Victim counts, financial losses and global attack prevalence are not established by these sources. Decoy, delay and false-success measures are qualitative Microsoft testing claims, without a published numerical comparison in this report. Alerts and familiar automation signatures need investigation; they do not independently prove AI use, attribution or compromise."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "artex-finance-attacks-false-wins",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/artex-finance-attacks-false-wins.md",
+      "article_path": "articles/artex-finance-attacks-false-wins/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-08，于2026年11月13日首次发布。11月6日的报道将10月活动归因于微软追踪的入侵群体。资料未确认受害者总数、财务损失或全球攻击发生率。诱饵、拖延及虚假成功信号的效果是微软定性测试表述，此报告未提供量化对照。警报与常见自动化特征仍需调查，不能单独证明AI参与、归因或入侵成功。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "artex-finance-attacks-false-wins",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/artex-finance-attacks-false-wins.md",
+      "article_path": "articles/artex-finance-attacks-false-wins/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-08; first published November 13, 2026. The November 6 report attributes October activity to a cluster tracked by Microsoft. Victim counts, financial losses and global attack prevalence are not established by these sources. Decoy, delay and false-success measures are qualitative Microsoft testing claims, without a published numerical comparison in this report. Alerts and familiar automation signatures need investigation; they do not independently prove AI use, attribution or compromise."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "artex-finance-attacks-false-wins",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/artex-finance-attacks-false-wins.md",
+      "article_path": "articles/artex-finance-attacks-false-wins/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-08，于2026年11月13日首次发布。11月6日的报道将10月活动归因于微软追踪的入侵群体。资料未确认受害者总数、财务损失或全球攻击发生率。诱饵、拖延及虚假成功信号的效果是微软定性测试表述，此报告未提供量化对照。警报与常见自动化特征仍需调查，不能单独证明AI参与、归因或入侵成功。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "promise-mars-hardware-lunar-darkness",
+      "event_date": "2026-11-07",
+      "source_brief": "briefs/promise-mars-hardware-lunar-darkness.md",
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-08; first published November 13, 2026. NASA’s November 7 announcement concerns development and delivery of a future mission. Late-2028 launch and an 18-month primary mission are targets. Hardware comes from Earth-based Mars-rover spares and test systems. The $94 million delivery base and optional $140 million are distinct from total rover cost or actual spending. Ice distribution, extractability, savings and lunar performance remain to be established by appropriate evidence."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "promise-mars-hardware-lunar-darkness",
+      "event_date": "2026-11-07",
+      "source_brief": "briefs/promise-mars-hardware-lunar-darkness.md",
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-08，于2026年11月13日首次发布。NASA于11月7日宣布的是未来任务的研制与运送安排。2028年末发射和18个月主要任务均为目标；复用的是地球上的火星车备用及测试硬件。9400万美元运送合同基础金额与可选的1.4亿美元，须与月球车总造价及实际支出分开。冰的分布、可提取性、具体节省金额及月面表现仍需相应证据。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "promise-mars-hardware-lunar-darkness",
+      "event_date": "2026-11-07",
+      "source_brief": "briefs/promise-mars-hardware-lunar-darkness.md",
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-08; first published November 13, 2026. NASA’s November 7 announcement concerns development and delivery of a future mission. Late-2028 launch and an 18-month primary mission are targets. Hardware comes from Earth-based Mars-rover spares and test systems. The $94 million delivery base and optional $140 million are distinct from total rover cost or actual spending. Ice distribution, extractability, savings and lunar performance remain to be established by appropriate evidence."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "promise-mars-hardware-lunar-darkness",
+      "event_date": "2026-11-07",
+      "source_brief": "briefs/promise-mars-hardware-lunar-darkness.md",
+      "article_path": "articles/promise-mars-hardware-lunar-darkness/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-08，于2026年11月13日首次发布。NASA于11月7日宣布的是未来任务的研制与运送安排。2028年末发射和18个月主要任务均为目标；复用的是地球上的火星车备用及测试硬件。9400万美元运送合同基础金额与可选的1.4亿美元，须与月球车总造价及实际支出分开。冰的分布、可提取性、具体节省金额及月面表现仍需相应证据。"
+    }
+  ]
+}

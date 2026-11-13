@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "generated_at": "2026-11-13T11:33:05.842236+00:00",
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "aaronson-ambainis-proof-quantum-structure",
+      "event_date": "2026-11-08",
+      "source_brief": "briefs/aaronson-ambainis-proof-quantum-structure.md",
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-09; first published November 13, 2026. PSI announced the proof on November6; the human exposition is datedNovember7 and Aaronson’s discussionNovember8. The scope is quantum query complexity for decision problems on most inputs, not a general limit on quantum hardware, factoring or physical simulation. Formal-check records are supplied by the proof authors; this publication did not rebuild them. The proprietary discovery system’s exact model and costs remain unknown."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "aaronson-ambainis-proof-quantum-structure",
+      "event_date": "2026-11-08",
+      "source_brief": "briefs/aaronson-ambainis-proof-quantum-structure.md",
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-09，于2026年11月13日首次发布。PSI于11月6日宣布证明，人类阐释稿日期为11月7日，Aaronson于11月8日作出讨论。结论涉及多数输入上判定问题的量子查询复杂度，并非对量子硬件、因数分解或物理模拟的一般限制。形式检查记录由证明作者提供，本刊未重新编译验证。专有发现系统的具体模型与成本仍不明确。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "aaronson-ambainis-proof-quantum-structure",
+      "event_date": "2026-11-08",
+      "source_brief": "briefs/aaronson-ambainis-proof-quantum-structure.md",
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-09; first published November 13, 2026. PSI announced the proof on November6; the human exposition is datedNovember7 and Aaronson’s discussionNovember8. The scope is quantum query complexity for decision problems on most inputs, not a general limit on quantum hardware, factoring or physical simulation. Formal-check records are supplied by the proof authors; this publication did not rebuild them. The proprietary discovery system’s exact model and costs remain unknown."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "aaronson-ambainis-proof-quantum-structure",
+      "event_date": "2026-11-08",
+      "source_brief": "briefs/aaronson-ambainis-proof-quantum-structure.md",
+      "article_path": "articles/aaronson-ambainis-proof-quantum-structure/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-09，于2026年11月13日首次发布。PSI于11月6日宣布证明，人类阐释稿日期为11月7日，Aaronson于11月8日作出讨论。结论涉及多数输入上判定问题的量子查询复杂度，并非对量子硬件、因数分解或物理模拟的一般限制。形式检查记录由证明作者提供，本刊未重新编译验证。专有发现系统的具体模型与成本仍不明确。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "new-york-storage-fifteen-projects",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/new-york-storage-fifteen-projects.md",
+      "article_path": "articles/new-york-storage-fifteen-projects/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-09; first published November 13, 2026. NYSERDA’s November6 announcement awards nearly$13million to15development and demonstration projects. Awards are distinct from disbursements, operating plants and measured savings. The portfolio includes lithium-based improvements and other storage approaches; durations, safety claims and stages differ. A35kWh heat-material test and20MWh intended design are distinct quantities."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "new-york-storage-fifteen-projects",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/new-york-storage-fifteen-projects.md",
+      "article_path": "articles/new-york-storage-fifteen-projects/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-09，于2026年11月13日首次发布。NYSERDA于11月6日宣布向15个研发及示范项目授予近1300万美元。资助与已拨款、已运行设施、已实现节省须区分。组合包含锂电改进及其他储能路线，各项目的时长、安全主张与阶段不同。35千瓦时的储热材料试验与20兆瓦时的目标设计是不同量级。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "new-york-storage-fifteen-projects",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/new-york-storage-fifteen-projects.md",
+      "article_path": "articles/new-york-storage-fifteen-projects/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-09; first published November 13, 2026. NYSERDA’s November6 announcement awards nearly$13million to15development and demonstration projects. Awards are distinct from disbursements, operating plants and measured savings. The portfolio includes lithium-based improvements and other storage approaches; durations, safety claims and stages differ. A35kWh heat-material test and20MWh intended design are distinct quantities."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "new-york-storage-fifteen-projects",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/new-york-storage-fifteen-projects.md",
+      "article_path": "articles/new-york-storage-fifteen-projects/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-09，于2026年11月13日首次发布。NYSERDA于11月6日宣布向15个研发及示范项目授予近1300万美元。资助与已拨款、已运行设施、已实现节省须区分。组合包含锂电改进及其他储能路线，各项目的时长、安全主张与阶段不同。35千瓦时的储热材料试验与20兆瓦时的目标设计是不同量级。"
+    }
+  ]
+}

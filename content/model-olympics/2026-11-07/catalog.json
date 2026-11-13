@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "generated_at": "2026-11-13T11:33:05.816545+00:00",
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "solar-flare-alert-five-minute-rocket",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/solar-flare-alert-five-minute-rocket.md",
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-07; first published November 13, 2026. NASA reported the work on November 4. Its achieved flights occurred in April 2024 and on May 14, 2026; FOXSI-5 observed three small flares during the latter flight. The roughly five-minute observing window differs from the generic 5–20-minute sounding-rocket time in space. The alert estimates the location and duration of an already detected flare. Full journal methods, numerical forecast error, false-alarm rates and broad operational space-weather performance were not independently verified here."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "solar-flare-alert-five-minute-rocket",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/solar-flare-alert-five-minute-rocket.md",
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-07，于2026年11月13日首次发布。NASA于11月4日报道，已完成飞行分别发生于2024年4月和2026年5月14日；FOXSI-5在后一次飞行中观测了三次小型耀斑。约五分钟的观测窗口，与探空火箭通常5至20分钟的在太空时间须分开。系统估计已探测耀斑的位置及持续时间；本文资料范围内，论文完整方法、数值预报误差、误报率及全面业务化空间天气表现仍待独立核验。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "solar-flare-alert-five-minute-rocket",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/solar-flare-alert-five-minute-rocket.md",
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-07; first published November 13, 2026. NASA reported the work on November 4. Its achieved flights occurred in April 2024 and on May 14, 2026; FOXSI-5 observed three small flares during the latter flight. The roughly five-minute observing window differs from the generic 5–20-minute sounding-rocket time in space. The alert estimates the location and duration of an already detected flare. Full journal methods, numerical forecast error, false-alarm rates and broad operational space-weather performance were not independently verified here."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "solar-flare-alert-five-minute-rocket",
+      "event_date": "2026-11-04",
+      "source_brief": "briefs/solar-flare-alert-five-minute-rocket.md",
+      "article_path": "articles/solar-flare-alert-five-minute-rocket/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-07，于2026年11月13日首次发布。NASA于11月4日报道，已完成飞行分别发生于2024年4月和2026年5月14日；FOXSI-5在后一次飞行中观测了三次小型耀斑。约五分钟的观测窗口，与探空火箭通常5至20分钟的在太空时间须分开。系统估计已探测耀斑的位置及持续时间；本文资料范围内，论文完整方法、数值预报误差、误报率及全面业务化空间天气表现仍待独立核验。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-methane-delay-negotiating-clock",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/eu-methane-delay-negotiating-clock.md",
+      "article_path": "articles/eu-methane-delay-negotiating-clock/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-07; first published November 13, 2026. November 6 established the Council’s negotiating position, with Parliament agreement and final legislation still required. January 1 application dates and May 31 reporting deadlines refer to different duties. The Council’s 2028/2029/2031 dates and Parliament’s longer reporting proposals are separate positions. The mandate’s entry-into-force page strikes out “twentieth”; its plain-text extraction retains that deleted word. No enacted extension, final compromise or quantified price/climate outcome is established here."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-methane-delay-negotiating-clock",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/eu-methane-delay-negotiating-clock.md",
+      "article_path": "articles/eu-methane-delay-negotiating-clock/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-07，于2026年11月13日首次发布。11月6日形成的是理事会谈判立场，仍须与议会达成一致并完成立法。1月1日适用起点与5月31日报告截止日对应不同义务。理事会2028／2029／2031年的时间表，与议会提出的较长报告延期须分开。授权文本生效条款划去了“第二十日”，纯文本提取仍保留被删字词；此处并无已生效延期、最终妥协或经量化的价格与气候结果。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-methane-delay-negotiating-clock",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/eu-methane-delay-negotiating-clock.md",
+      "article_path": "articles/eu-methane-delay-negotiating-clock/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-07; first published November 13, 2026. November 6 established the Council’s negotiating position, with Parliament agreement and final legislation still required. January 1 application dates and May 31 reporting deadlines refer to different duties. The Council’s 2028/2029/2031 dates and Parliament’s longer reporting proposals are separate positions. The mandate’s entry-into-force page strikes out “twentieth”; its plain-text extraction retains that deleted word. No enacted extension, final compromise or quantified price/climate outcome is established here."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-methane-delay-negotiating-clock",
+      "event_date": "2026-11-06",
+      "source_brief": "briefs/eu-methane-delay-negotiating-clock.md",
+      "article_path": "articles/eu-methane-delay-negotiating-clock/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-07，于2026年11月13日首次发布。11月6日形成的是理事会谈判立场，仍须与议会达成一致并完成立法。1月1日适用起点与5月31日报告截止日对应不同义务。理事会2028／2029／2031年的时间表，与议会提出的较长报告延期须分开。授权文本生效条款划去了“第二十日”，纯文本提取仍保留被删字词；此处并无已生效延期、最终妥协或经量化的价格与气候结果。"
+    }
+  ]
+}

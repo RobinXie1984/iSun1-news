@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "generated_at": "2026-11-13T11:33:05.865994+00:00",
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "escapade-powered-earth-flybys-mars-route",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/escapade-powered-earth-flybys-mars-route.md",
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-11; first published November 13, 2026. NASA reported the completed Earth flybys on November9; Rocket Lab supplied its engineering account on November10. The burns occurred November7and9,2026. NASA describes approximately9minutes and the contractor approximately10minutes; these are rounded accounts of the departure operations. Mars capture in September2027 and science fromJune2028 remain planned. Contractor accuracy claims are distinct from independently inspected telemetry."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "escapade-powered-earth-flybys-mars-route",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/escapade-powered-earth-flybys-mars-route.md",
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-11，于2026年11月13日首次发布。NASA于11月9日报告地球飞掠已完成，Rocket Lab于11月10日补充工程说明；点火发生于2026年11月7日和9日。NASA称约9分钟，承包商称约10分钟，均为出发机动的近似时长。2027年9月火星捕获及2028年6月起的科学观测仍属计划。承包商性能主张与独立遥测核验须区分。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "escapade-powered-earth-flybys-mars-route",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/escapade-powered-earth-flybys-mars-route.md",
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-11; first published November 13, 2026. NASA reported the completed Earth flybys on November9; Rocket Lab supplied its engineering account on November10. The burns occurred November7and9,2026. NASA describes approximately9minutes and the contractor approximately10minutes; these are rounded accounts of the departure operations. Mars capture in September2027 and science fromJune2028 remain planned. Contractor accuracy claims are distinct from independently inspected telemetry."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "escapade-powered-earth-flybys-mars-route",
+      "event_date": "2026-11-09",
+      "source_brief": "briefs/escapade-powered-earth-flybys-mars-route.md",
+      "article_path": "articles/escapade-powered-earth-flybys-mars-route/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-11，于2026年11月13日首次发布。NASA于11月9日报告地球飞掠已完成，Rocket Lab于11月10日补充工程说明；点火发生于2026年11月7日和9日。NASA称约9分钟，承包商称约10分钟，均为出发机动的近似时长。2027年9月火星捕获及2028年6月起的科学观测仍属计划。承包商性能主张与独立遥测核验须区分。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "windows-ntlm-signing-phased-defaults",
+      "event_date": "2026-11-10",
+      "source_brief": "briefs/windows-ntlm-signing-phased-defaults.md",
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-11; first published November 13, 2026. Microsoft’s November10documentation describes a phased NTLM change. Updated clients offer signing; current server defaults still accept unsigned clients. Default server enforcement is planned forMay2027, with documented guest/anonymous exceptions. Signing protects integrity and differs from encryption. This publication inspected vendor documentation, not installed systems, customer logs or an independently demonstrated attack. Adoption, breach incidence and universal protection are not established."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "windows-ntlm-signing-phased-defaults",
+      "event_date": "2026-11-10",
+      "source_brief": "briefs/windows-ntlm-signing-phased-defaults.md",
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-11，于2026年11月13日首次发布。微软11月10日文档介绍分阶段NTLM变更：更新客户端默认提出签名，服务器目前默认仍接受未签名客户端；默认强制要求签名计划于2027年5月开始，并有访客及匿名会话例外。签名保护完整性，与加密不同。本文查阅的是厂商文档，未核验已安装系统、客户日志或独立攻击演示，不能据此确定采用率、入侵情况或普遍安全保障。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "windows-ntlm-signing-phased-defaults",
+      "event_date": "2026-11-10",
+      "source_brief": "briefs/windows-ntlm-signing-phased-defaults.md",
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up edition: prepared for 2026-11-11; first published November 13, 2026. Microsoft’s November10documentation describes a phased NTLM change. Updated clients offer signing; current server defaults still accept unsigned clients. Default server enforcement is planned forMay2027, with documented guest/anonymous exceptions. Signing protects integrity and differs from encryption. This publication inspected vendor documentation, not installed systems, customer logs or an independently demonstrated attack. Adoption, breach incidence and universal protection are not established."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "windows-ntlm-signing-phased-defaults",
+      "event_date": "2026-11-10",
+      "source_brief": "briefs/windows-ntlm-signing-phased-defaults.md",
+      "article_path": "articles/windows-ntlm-signing-phased-defaults/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补发版：原定2026-11-11，于2026年11月13日首次发布。微软11月10日文档介绍分阶段NTLM变更：更新客户端默认提出签名，服务器目前默认仍接受未签名客户端；默认强制要求签名计划于2027年5月开始，并有访客及匿名会话例外。签名保护完整性，与加密不同。本文查阅的是厂商文档，未核验已安装系统、客户日志或独立攻击演示，不能据此确定采用率、入侵情况或普遍安全保障。"
+    }
+  ]
+}
