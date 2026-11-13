@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "euclid-dr1-foundation-billion-objects",
+      "event_date": "2026-11-12",
+      "title": {
+        "en": "A billion points of light, and the map still to be made",
+        "zh": "十亿个光点之后，宇宙地图仍待绘成"
+      },
+      "summary": {
+        "en": "Euclid releases a major observational dataset for cosmic mapping, with candidate lenses and spectra opening research while final dark-universe conclusions remain ahead.",
+        "zh": "欧几里得发布大规模观测数据，候选引力透镜与光谱打开研究可能，暗宇宙的最终结论仍待求证。"
+      }
+    },
+    {
+      "id": "eu-ets-free-allowances-121-million",
+      "event_date": "2026-11-12",
+      "title": {
+        "en": "Europe negotiates 121 million free carbon allowances: who carries the cost?",
+        "zh": "欧洲拟增加约1.21亿份免费碳配额：成本由谁承担？"
+      },
+      "summary": {
+        "en": "A provisional heat-and-fuel benchmark deal offers industry support for2026–2030; adoption, eligibility and real emissions outcomes remain separate tests.",
+        "zh": "热与燃料基准临时协议拟在2026至2030年支持工业；正式采纳、资格细则及实际排放结果仍需分别核验。"
+      }
+    }
+  ]
+}

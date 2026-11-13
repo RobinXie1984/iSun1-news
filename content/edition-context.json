@@ -5362,6 +5362,62 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/chatgpt/english.md",
+      "captured_at": "2026-11-14T07:08:28.690456+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/chatgpt/chinese.md",
+      "captured_at": "2026-11-14T07:08:28.690456+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/claude/english.md",
+      "captured_at": "2026-11-14T07:19:31.642876+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/claude/chinese.md",
+      "captured_at": "2026-11-14T07:19:31.642876+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-ets-free-allowances-121-million/chatgpt/english.md",
+      "captured_at": "2026-11-14T07:13:55.197758+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-ets-free-allowances-121-million/chatgpt/chinese.md",
+      "captured_at": "2026-11-14T07:13:55.197758+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-ets-free-allowances-121-million/claude/english.md",
+      "captured_at": "2026-11-14T07:18:51.373905+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-ets-free-allowances-121-million/claude/chinese.md",
+      "captured_at": "2026-11-14T07:18:51.373905+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

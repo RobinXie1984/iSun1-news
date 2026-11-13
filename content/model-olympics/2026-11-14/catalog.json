@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "euclid-dr1-foundation-billion-objects",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/euclid-dr1-foundation-billion-objects.md",
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "ESA released DR1-Foundation on November 12, 2026, from observations gathered in 2024–2025. More than a billion objects, 900 million galaxies, 60 million quasar candidates, 15,000 lens candidates and 160 million spectral sources are distinct, potentially overlapping categories. Spectra are inputs to distance measurements; this release is a foundation for mapping rather than a finished 3D map or a solution to dark matter. The 14% figure refers to intended survey area. Figures and superlatives are ESA reports; underlying catalogues were not independently reanalysed here."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "euclid-dr1-foundation-billion-objects",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/euclid-dr1-foundation-billion-objects.md",
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "ESA于2026年11月12日发布DR1-Foundation，观测资料来自2024至2025年。逾十亿天体、逾九亿星系、逾六千万类星体候选体、约一万五千透镜候选系统及逾一亿六千万光谱来源，各有定义且可能重叠。光谱用于后续距离测量；发布的是制图基础，而非已完成的三维地图或暗物质答案。14%指计划巡天面积。数字及规模比较来自ESA说明，本文未独立重算底层目录。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "euclid-dr1-foundation-billion-objects",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/euclid-dr1-foundation-billion-objects.md",
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/claude/english.md",
+      "status": "available",
+      "availability_note": "ESA released DR1-Foundation on November 12, 2026, from observations gathered in 2024–2025. More than a billion objects, 900 million galaxies, 60 million quasar candidates, 15,000 lens candidates and 160 million spectral sources are distinct, potentially overlapping categories. Spectra are inputs to distance measurements; this release is a foundation for mapping rather than a finished 3D map or a solution to dark matter. The 14% figure refers to intended survey area. Figures and superlatives are ESA reports; underlying catalogues were not independently reanalysed here."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "euclid-dr1-foundation-billion-objects",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/euclid-dr1-foundation-billion-objects.md",
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/claude/chinese.md",
+      "status": "available",
+      "availability_note": "ESA于2026年11月12日发布DR1-Foundation，观测资料来自2024至2025年。逾十亿天体、逾九亿星系、逾六千万类星体候选体、约一万五千透镜候选系统及逾一亿六千万光谱来源，各有定义且可能重叠。光谱用于后续距离测量；发布的是制图基础，而非已完成的三维地图或暗物质答案。14%指计划巡天面积。数字及规模比较来自ESA说明，本文未独立重算底层目录。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-ets-free-allowances-121-million",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/eu-ets-free-allowances-121-million.md",
+      "article_path": "articles/eu-ets-free-allowances-121-million/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "The November 12 agreement is provisional and requires endorsement, legal revision, formal adoption and later implementing rules. Roughly 121 million allowances comprise about 88 million plus 28 million and a targeted 5 million set-aside; these are quantities for the 2026–2030 arrangement, not annual cash grants, observed emissions or an established increase in the overall cap. The 28 million originated in unallocated allowances linked to unmet conditions; the release does not establish a blanket waiver. Eligibility, allocation, competitiveness and emissions outcomes remain separate tests."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-ets-free-allowances-121-million",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/eu-ets-free-allowances-121-million.md",
+      "article_path": "articles/eu-ets-free-allowances-121-million/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "11月12日协议属临时协议，仍须认可、法律文字审定、正式采纳及后续实施细则。约1.21亿份配额包括约8800万、2800万及500万份定向预留，涉及2026至2030年安排，并非年度现金补贴、实测排放或已证实的总上限增加。2800万份源自与未满足条件有关的未分配配额；公告未确立全面豁免。资格、分配、竞争力及排放效果仍须分别检验。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-ets-free-allowances-121-million",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/eu-ets-free-allowances-121-million.md",
+      "article_path": "articles/eu-ets-free-allowances-121-million/claude/english.md",
+      "status": "available",
+      "availability_note": "The November 12 agreement is provisional and requires endorsement, legal revision, formal adoption and later implementing rules. Roughly 121 million allowances comprise about 88 million plus 28 million and a targeted 5 million set-aside; these are quantities for the 2026–2030 arrangement, not annual cash grants, observed emissions or an established increase in the overall cap. The 28 million originated in unallocated allowances linked to unmet conditions; the release does not establish a blanket waiver. Eligibility, allocation, competitiveness and emissions outcomes remain separate tests."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-ets-free-allowances-121-million",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/eu-ets-free-allowances-121-million.md",
+      "article_path": "articles/eu-ets-free-allowances-121-million/claude/chinese.md",
+      "status": "available",
+      "availability_note": "11月12日协议属临时协议，仍须认可、法律文字审定、正式采纳及后续实施细则。约1.21亿份配额包括约8800万、2800万及500万份定向预留，涉及2026至2030年安排，并非年度现金补贴、实测排放或已证实的总上限增加。2800万份源自与未满足条件有关的未分配配额；公告未确立全面豁免。资格、分配、竞争力及排放效果仍须分别检验。"
+    }
+  ],
+  "generated_at": "2026-11-13T23:24:54.978512+00:00"
+}

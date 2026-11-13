@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-13T11:33:05.892277+00:00",
+  "selected_at": "2026-11-13T23:24:54.981568+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1922,6 +1922,46 @@
       "headline_index": 0,
       "headline": "从深海到实验室，谁能走完这段旅程？",
       "sha256": "2b34432a50990d745bbca53d78c36fa4a3799de310d7034d1b76f625339e383d"
+    },
+    {
+      "topic": "euclid-dr1-foundation-billion-objects",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra gives the clearest accessible route from sky positions through spectra to uncertain distances, within 1,879 body words. It preserves overlapping candidate counts, the survey-area denominator and the mid-2027 plan. Claude is substantive and eligible under its explicitly justified 2,593-word outer tolerance, but its additional lens detail makes the opening journey longer.",
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Euclid Has Recorded a Billion Cosmic Lights. Which Will Reveal How the Universe Grew?",
+      "sha256": "e57a37ed0f2ecbca2e0ef0c0d4f3caa61dd7780bc33c2a91a66e072512ae43c0"
+    },
+    {
+      "topic": "euclid-dr1-foundation-billion-objects",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude independently carries the full explanation into warm modern Chinese: angular area, candidate status, geometry plus gravitational time delay and selection effects remain concrete and carefully qualified. Its language flows naturally while retaining the scientific limits and source dates.",
+      "article_path": "articles/euclid-dr1-foundation-billion-objects/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "十亿光点已入目录，它们各自有多远，答案才刚刚启程",
+      "sha256": "ea68d1f36db20611820b338b53c5148674f2ce2d27bb898f25f6f5896208ae14"
+    },
+    {
+      "topic": "eu-ets-free-allowances-121-million",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude most explicitly frames the suspense around a provisional agreement, explains the 88+28+5 million composition and conditionality, and separates cash-flow relief from opportunity cost. Its final 2,337-word manuscript correctly attributes the 25% share to the Council and preserves the legal steps and uncertain outcomes.",
+      "article_path": "articles/eu-ets-free-allowances-121-million/claude/english.md",
+      "headline_index": 0,
+      "headline": "A Provisional Deal Would Give Europe's Factories 121 Million Free Carbon Permits. Who Will Carry the Carbon Bill?",
+      "sha256": "3c36edbfecd928f25e4c0225092011e5d3cd8aa710e02db4fc835309c58b3f80"
+    },
+    {
+      "topic": "eu-ets-free-allowances-121-million",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra offers the more direct Chinese route through the allocation mechanics and economic stakes, with the parking-permit analogy and the 121-million total clearly distinguished from annual grants or measured emissions. Its clear pacing retains the provisional legal status and material qualifications.",
+      "article_path": "articles/eu-ets-free-allowances-121-million/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "欧洲拟给工业1.21亿份碳配额，能为清洁生产争来多少余地？",
+      "sha256": "f1086fe294f7e69346cc030e943643056d05af6332c3dce57d321e9d908af166"
     }
   ]
 }

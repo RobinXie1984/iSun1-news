@@ -1826,6 +1826,44 @@
           "bytes": 256043
         }
       ]
+    },
+    {
+      "topic": "euclid-dr1-foundation-billion-objects",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/euclid-dr1-foundation-billion-objects-600.jpg",
+          "sha256": "f3af8c871bb5b96de6e72a171720833960261c33022538a7ce4be3d3c2e0fa93",
+          "bytes": 66530
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/euclid-dr1-foundation-billion-objects-1200.jpg",
+          "sha256": "9b13c8dbe8eb84c1496c9683c3b810b710ade1cc8ecb267d4fbbbc7efc47dec4",
+          "bytes": 261631
+        }
+      ]
+    },
+    {
+      "topic": "eu-ets-free-allowances-121-million",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/eu-ets-free-allowances-121-million-600.jpg",
+          "sha256": "f0a61d25b3572cc09252527a38610edee11c61d62f1b8aa75cf9513556da5876",
+          "bytes": 63009
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/eu-ets-free-allowances-121-million-1200.jpg",
+          "sha256": "3953b6e0ece2c52eb9ca7e5d3ed0c16f6e7842c30ebf244398b816818af58e61",
+          "bytes": 259895
+        }
+      ]
     }
   ]
 }
