@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "dublin-ai-sovereignty-trust-two-guests",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/dublin-ai-sovereignty-trust-two-guests.md",
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "The November 13 Dublin meeting was an informal European Council strategic discussion. Official accounts establish guests and themes, without a verbatim record of their contributions. The November 3 steering note sets questions, not adopted decisions. Future budget instruments, adoption, oversight and February/2027 summit plans remain distinct from funded programmes, binding new law or measured economic effects."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "dublin-ai-sovereignty-trust-two-guests",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/dublin-ai-sovereignty-trust-two-guests.md",
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "11月13日都柏林会议属于欧洲理事会的非正式战略讨论。官方资料确认嘉宾与议题，未提供嘉宾发言逐字记录。11月3日引导说明提出问题，并非已采纳决定。未来预算工具、应用、监督及2027年会议计划，须与已拨款项目、新的约束性法律或实测经济成效分别看待。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "dublin-ai-sovereignty-trust-two-guests",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/dublin-ai-sovereignty-trust-two-guests.md",
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/claude/english.md",
+      "status": "available",
+      "availability_note": "The November 13 Dublin meeting was an informal European Council strategic discussion. Official accounts establish guests and themes, without a verbatim record of their contributions. The November 3 steering note sets questions, not adopted decisions. Future budget instruments, adoption, oversight and February/2027 summit plans remain distinct from funded programmes, binding new law or measured economic effects."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "dublin-ai-sovereignty-trust-two-guests",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/dublin-ai-sovereignty-trust-two-guests.md",
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/claude/chinese.md",
+      "status": "available",
+      "availability_note": "11月13日都柏林会议属于欧洲理事会的非正式战略讨论。官方资料确认嘉宾与议题，未提供嘉宾发言逐字记录。11月3日引导说明提出问题，并非已采纳决定。未来预算工具、应用、监督及2027年会议计划，须与已拨款项目、新的约束性法律或实测经济成效分别看待。"
+    }
+  ],
+  "generated_at": "2026-11-14T23:35:54.625900+00:00"
+}

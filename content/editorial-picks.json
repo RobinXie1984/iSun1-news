@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-13T23:24:54.981568+00:00",
+  "selected_at": "2026-11-14T23:35:54.627587+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -1962,6 +1962,26 @@
       "headline_index": 0,
       "headline": "欧洲拟给工业1.21亿份碳配额，能为清洁生产争来多少余地？",
       "sha256": "f1086fe294f7e69346cc030e943643056d05af6332c3dce57d321e9d908af166"
+    },
+    {
+      "topic": "dublin-ai-sovereignty-trust-two-guests",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra provides the clearer concise route from computing layers and the bakery analogy to real service outcomes and accountability. It keeps the summit as strategic intent, treats examples as hypothetical and preserves source/plan limits without repeated inventories of missing evidence.",
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Europe Has Put AI on Its Leaders’ Agenda. What Will Reach Its Citizens?",
+      "sha256": "6a88560cde411f03c3f0ba0780ccdfad690b28f1c0b4664bb13a2af38a06ffb5"
+    },
+    {
+      "topic": "dublin-ai-sovereignty-trust-two-guests",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude carries the complete institutional and economic explanation into warm modern Chinese with a restrained classical cadence. Its two-strand structure, kitchen analogy and concrete hypothetical case give the reader a clear narrative while preserving dates, source scope and future status.",
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "欧洲领导人在都柏林开启AI之议，真正的考题还在后头",
+      "sha256": "e0c35580ba92bd1e86f2ba6a093cdb8764c37e5107ded782f443b8cf93b933fb"
     }
   ]
 }

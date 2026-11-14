@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "dublin-ai-sovereignty-trust-two-guests",
+      "event_date": "2026-11-13",
+      "title": {
+        "en": "Europe brings AI’s builders and pioneers into one strategic discussion",
+        "zh": "欧洲把AI建设者与先驱请入同一场战略讨论"
+      },
+      "summary": {
+        "en": "EU leaders discuss investment, capability, adoption and trust with Arthur Mensch and Geoffrey Hinton; implementation and outcomes remain ahead.",
+        "zh": "欧盟领导人与Arthur Mensch、Geoffrey Hinton讨论投资、能力、应用与信任；落实和成效仍待检验。"
+      }
+    }
+  ]
+}

@@ -5418,6 +5418,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/chatgpt/english.md",
+      "captured_at": "2026-11-15T07:34:10.344205+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/chatgpt/chinese.md",
+      "captured_at": "2026-11-15T07:34:10.344205+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/claude/english.md",
+      "captured_at": "2026-11-15T07:34:04.306328+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/claude/chinese.md",
+      "captured_at": "2026-11-15T07:34:04.306328+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

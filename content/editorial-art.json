@@ -1864,6 +1864,25 @@
           "bytes": 259895
         }
       ]
+    },
+    {
+      "topic": "dublin-ai-sovereignty-trust-two-guests",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/dublin-ai-sovereignty-trust-two-guests-600.jpg",
+          "sha256": "47943efe625bcfc6063a00ddc7c2f47c8a47ade1a9f8abeafbd08d3a7c8f7b83",
+          "bytes": 80997
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/dublin-ai-sovereignty-trust-two-guests-1200.jpg",
+          "sha256": "e80768bf3b0a089066120c4b373439e595422149fb094bb7ce308146bdb62aae",
+          "bytes": 318795
+        }
+      ]
     }
   ]
 }
