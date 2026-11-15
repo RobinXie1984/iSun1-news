@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "cop31-climate-finance-debt-delivery",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/cop31-climate-finance-debt-delivery.md",
+      "article_path": "articles/cop31-climate-finance-debt-delivery/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "This account reports Simon Stiell’s November 13, 2026 COP31 speech and earlier COP29 targets, collected November 16. USD300 billion annually by 2035, with developed countries taking the lead, is distinct from the broader all-source USD1.3 trillion annual mobilisation ambition. These targets are not added together or treated as funds already delivered. Affordable terms, simpler access and stronger country institutions are advocated changes; delivery and resilience effects require subsequent evidence."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "cop31-climate-finance-debt-delivery",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/cop31-climate-finance-debt-delivery.md",
+      "article_path": "articles/cop31-climate-finance-debt-delivery/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "本文报道Simon Stiell于2026年11月13日在COP31的讲话及此前COP29目标，11月16日采集。到2035年每年3000亿美元、由发达国家带头的目标，与覆盖各类来源、每年1.3万亿美元的更广泛融资愿景须区分；两者不相加，亦不等于已到账资金。可负担的条件、简化申请和强化受资助国制度属于倡议，落实与韧性效果仍需后续证据。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "cop31-climate-finance-debt-delivery",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/cop31-climate-finance-debt-delivery.md",
+      "article_path": "articles/cop31-climate-finance-debt-delivery/claude/english.md",
+      "status": "available",
+      "availability_note": "This account reports Simon Stiell’s November 13, 2026 COP31 speech and earlier COP29 targets, collected November 16. USD300 billion annually by 2035, with developed countries taking the lead, is distinct from the broader all-source USD1.3 trillion annual mobilisation ambition. These targets are not added together or treated as funds already delivered. Affordable terms, simpler access and stronger country institutions are advocated changes; delivery and resilience effects require subsequent evidence."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "cop31-climate-finance-debt-delivery",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/cop31-climate-finance-debt-delivery.md",
+      "article_path": "articles/cop31-climate-finance-debt-delivery/claude/chinese.md",
+      "status": "available",
+      "availability_note": "本文报道Simon Stiell于2026年11月13日在COP31的讲话及此前COP29目标，11月16日采集。到2035年每年3000亿美元、由发达国家带头的目标，与覆盖各类来源、每年1.3万亿美元的更广泛融资愿景须区分；两者不相加，亦不等于已到账资金。可负担的条件、简化申请和强化受资助国制度属于倡议，落实与韧性效果仍需后续证据。"
+    }
+  ],
+  "generated_at": "2026-11-15T23:34:07.139268+00:00"
+}

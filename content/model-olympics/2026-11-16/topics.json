@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "cop31-climate-finance-debt-delivery",
+      "event_date": "2026-11-13",
+      "title": {
+        "en": "The trillion-dollar climate promise faces a delivery test",
+        "zh": "万亿美元气候承诺，面临怎样的落地考验？"
+      },
+      "summary": {
+        "en": "Simon Stiell argues that affordable terms, easier access and country-led institutions matter alongside finance targets.",
+        "zh": "Simon Stiell提出：气候融资除了金额目标，还需要可负担的条件、便捷的获取途径和由受援国主导的制度。"
+      }
+    }
+  ]
+}

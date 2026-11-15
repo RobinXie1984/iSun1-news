@@ -1883,6 +1883,25 @@
           "bytes": 318795
         }
       ]
+    },
+    {
+      "topic": "cop31-climate-finance-debt-delivery",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/cop31-climate-finance-debt-delivery-600.jpg",
+          "sha256": "546bd69ae9c1f448540ae615570c999664d90f6671b64e31a02c9b71d0d22715",
+          "bytes": 111009
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/cop31-climate-finance-debt-delivery-1200.jpg",
+          "sha256": "b06c4afcc844b572eb748529cf7581a2e1283bfa0c68f3141a8d6ed3e024c4c6",
+          "bytes": 407824
+        }
+      ]
     }
   ]
 }

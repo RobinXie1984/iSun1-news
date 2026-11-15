@@ -5446,6 +5446,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/cop31-climate-finance-debt-delivery/chatgpt/english.md",
+      "captured_at": "2026-11-16T07:23:08.588474+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/cop31-climate-finance-debt-delivery/chatgpt/chinese.md",
+      "captured_at": "2026-11-16T07:23:08.588474+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/cop31-climate-finance-debt-delivery/claude/english.md",
+      "captured_at": "2026-11-16T07:32:52.231694+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/cop31-climate-finance-debt-delivery/claude/chinese.md",
+      "captured_at": "2026-11-16T07:32:52.231694+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }
