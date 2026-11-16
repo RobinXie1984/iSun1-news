@@ -1902,6 +1902,25 @@
           "bytes": 407824
         }
       ]
+    },
+    {
+      "topic": "sentinel-6b-sea-level-reference-handoff",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/sentinel-6b-sea-level-reference-handoff-600.jpg",
+          "sha256": "f5e80cb5870c51bca562dcfcc4793b56ddfa2e21dd48dcec5ff31c49fcfdc815",
+          "bytes": 63569
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/sentinel-6b-sea-level-reference-handoff-1200.jpg",
+          "sha256": "347d1b65ae390806afb3e5947edb72dae2da55d2be4434b0aee04fb274e03560",
+          "bytes": 237477
+        }
+      ]
     }
   ]
 }

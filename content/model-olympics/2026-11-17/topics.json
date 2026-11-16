@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "sentinel-6b-sea-level-reference-handoff",
+      "event_date": "2026-11-16",
+      "title": {
+        "en": "A new ruler for the ocean is ready for its handoff",
+        "zh": "海洋的新标尺，准备怎样接棒？"
+      },
+      "summary": {
+        "en": "Sentinel-6B has completed calibration and initial checks for a planned reference role, preserving a long ocean record.",
+        "zh": "Sentinel-6B完成校准与初步检查，为计划中的基准任务准备接棒，延续长期海洋记录。"
+      }
+    }
+  ]
+}

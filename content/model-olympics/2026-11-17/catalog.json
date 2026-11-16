@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "sentinel-6b-sea-level-reference-handoff",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/sentinel-6b-sea-level-reference-handoff.md",
+      "article_path": "articles/sentinel-6b-sea-level-reference-handoff/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "JPL reported on November 16, 2026 that Sentinel-6B completed initial checks and calibration as of October 30. The reference-role handoff is planned for January, inferred as January 2027 from that chronology; the later orbit adjustment and coverage gains remain prospective. Michael Freilich currently flies 30 seconds ahead: a flight-path timing separation, not an accuracy or warning-time figure. The indexed primary article and NASA measurement FAQ were inspected; direct JPL retrieval returned 403. No independent engineering-data reanalysis or measured downstream benefit is claimed."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "sentinel-6b-sea-level-reference-handoff",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/sentinel-6b-sea-level-reference-handoff.md",
+      "article_path": "articles/sentinel-6b-sea-level-reference-handoff/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "JPL于2026年11月16日报道，哨兵六号B星截至10月30日已完成初期检查与校准。参考卫星交接计划在一月，依报道时间推定为2027年1月；后续轨道调整与覆盖收益仍属预期。迈克尔·弗赖利希星目前沿轨道领先30秒，指飞行时间间隔，并非精度或预警时间。本文查阅索引中的原始报道及NASA测量说明；JPL直接下载返回403。本文未独立重算工程数据，亦未将下游应用收益视为实测结果。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "sentinel-6b-sea-level-reference-handoff",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/sentinel-6b-sea-level-reference-handoff.md",
+      "article_path": "articles/sentinel-6b-sea-level-reference-handoff/claude/english.md",
+      "status": "available",
+      "availability_note": "JPL reported on November 16, 2026 that Sentinel-6B completed initial checks and calibration as of October 30. The reference-role handoff is planned for January, inferred as January 2027 from that chronology; the later orbit adjustment and coverage gains remain prospective. Michael Freilich currently flies 30 seconds ahead: a flight-path timing separation, not an accuracy or warning-time figure. The indexed primary article and NASA measurement FAQ were inspected; direct JPL retrieval returned 403. No independent engineering-data reanalysis or measured downstream benefit is claimed."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "sentinel-6b-sea-level-reference-handoff",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/sentinel-6b-sea-level-reference-handoff.md",
+      "article_path": "articles/sentinel-6b-sea-level-reference-handoff/claude/chinese.md",
+      "status": "available",
+      "availability_note": "JPL于2026年11月16日报道，哨兵六号B星截至10月30日已完成初期检查与校准。参考卫星交接计划在一月，依报道时间推定为2027年1月；后续轨道调整与覆盖收益仍属预期。迈克尔·弗赖利希星目前沿轨道领先30秒，指飞行时间间隔，并非精度或预警时间。本文查阅索引中的原始报道及NASA测量说明；JPL直接下载返回403。本文未独立重算工程数据，亦未将下游应用收益视为实测结果。"
+    }
+  ],
+  "generated_at": "2026-11-16T23:12:42.893301+00:00"
+}

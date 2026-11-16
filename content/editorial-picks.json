@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-15T23:34:07.140948+00:00",
+  "selected_at": "2026-11-16T23:12:42.894835+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2002,6 +2002,26 @@
       "headline_index": 0,
       "headline": "气候资金已有2035年之约，它能赶在下一场风暴之前抵达吗？",
       "sha256": "43d6c95b8c8c0467cf319eff29b9bdb6fc52f3bd707f3caff17ba105f625d516"
+    },
+    {
+      "topic": "sentinel-6b-sea-level-reference-handoff",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra develops the problem of continuing a measurement record through a clear household-scale analogy, then connects geometry, calibration and overlapping flights. Its opening reaches the event and stakes quickly, while January and later coverage benefits remain prospective. Both authors pass source gates; this choice concerns explanatory economy.",
+      "article_path": "articles/sentinel-6b-sea-level-reference-handoff/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "A New Satellite Is Ready. Can It Carry Three Decades of Ocean History Forward?",
+      "sha256": "331b21b9d6c4035fb213019cd4bd224ba4e83c3ac26cca0335fe87f58c9a2ae7"
+    },
+    {
+      "topic": "sentinel-6b-sea-level-reference-handoff",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude gives the orbital handoff a warm, readable relay narrative with light classical rhythm, concrete chronology and clear transitions. The measurement, 30-second separation and prospective benefits retain their boundaries. Its fluent full Chinese manuscript earns this language-specific choice independently of the English selection.",
+      "article_path": "articles/sentinel-6b-sea-level-reference-handoff/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "新卫星整装待命，海平面\"标尺\"即将易手：三十余年的海面记录，能否一脉相承？",
+      "sha256": "495fd2603a3fa465353606db983715c326884b65f1a48a41fefd4e910b6b9f6a"
     }
   ]
 }
