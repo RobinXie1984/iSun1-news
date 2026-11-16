@@ -12,6 +12,18 @@
         "en": "Sentinel-6B has completed calibration and initial checks for a planned reference role, preserving a long ocean record.",
         "zh": "Sentinel-6B完成校准与初步检查，为计划中的基准任务准备接棒，延续长期海洋记录。"
       }
+    },
+    {
+      "id": "puncak-jaya-ice-beyond-glacier-flow",
+      "event_date": "2026-11-16",
+      "title": {
+        "en": "Ice remains on Puncak Jaya. Its glaciers have stopped moving.",
+        "zh": "查亚峰仍有残冰，冰川的流动却已停下"
+      },
+      "summary": {
+        "en": "NASA describes a tropical ice system’s functional end while remnant patches and uncertain disappearance timelines remain.",
+        "zh": "NASA描述热带冰川系统的功能终结；残冰仍在，完全消失的时间仍有不确定性。"
+      }
     }
   ]
 }

@@ -1921,6 +1921,25 @@
           "bytes": 237477
         }
       ]
+    },
+    {
+      "topic": "puncak-jaya-ice-beyond-glacier-flow",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/puncak-jaya-ice-beyond-glacier-flow-600.jpg",
+          "sha256": "013cb636d18b229c0af812427362eeac7caea9939c7174550158f92973c52355",
+          "bytes": 68320
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/puncak-jaya-ice-beyond-glacier-flow-1200.jpg",
+          "sha256": "f7d20dc09989c85b8b5ddb8a295bd26e711f28989c8184b31d852c17122d1dec",
+          "bytes": 273598
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/sentinel-6b-sea-level-reference-handoff/claude/chinese.md",
       "status": "available",
       "availability_note": "JPL于2026年11月16日报道，哨兵六号B星截至10月30日已完成初期检查与校准。参考卫星交接计划在一月，依报道时间推定为2027年1月；后续轨道调整与覆盖收益仍属预期。迈克尔·弗赖利希星目前沿轨道领先30秒，指飞行时间间隔，并非精度或预警时间。本文查阅索引中的原始报道及NASA测量说明；JPL直接下载返回403。本文未独立重算工程数据，亦未将下游应用收益视为实测结果。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "puncak-jaya-ice-beyond-glacier-flow",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/puncak-jaya-ice-beyond-glacier-flow.md",
+      "article_path": "articles/puncak-jaya-ice-beyond-glacier-flow/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "NASA’s November 16, 2026 account distinguishes surviving stagnant ice from active flowing glaciers. Area fell from 4.31 km² in 1988 to 0.09 km² in September 2025; the October 19, 2026 image supplies no new total-area measurement. The 32 m, 4 m and November 2024 ice-loss sequence refers to one monitoring site. A December 2026 aerial survey is planned. Disappearance dates remain estimates. The primary article/captions and historical 2019 paper abstract, significance and study-site introduction were inspected; underlying measurements were not independently replicated."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "puncak-jaya-ice-beyond-glacier-flow",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/puncak-jaya-ice-beyond-glacier-flow.md",
+      "article_path": "articles/puncak-jaya-ice-beyond-glacier-flow/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "NASA于2026年11月16日的报道区分现存停滞残冰与仍能流动的冰川。面积从1988年的4.31平方公里降至2025年9月的0.09平方公里；2026年10月19日影像并未提供新的总面积数值。32米、4米及2024年11月该处冰消失的记录仅限一个监测点。2026年12月航测仍属计划，消失年份仍是估计。本文查阅原始报道、图注及2019年论文的摘要、意义与研究地点介绍，未独立复现底层测量。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "puncak-jaya-ice-beyond-glacier-flow",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/puncak-jaya-ice-beyond-glacier-flow.md",
+      "article_path": "articles/puncak-jaya-ice-beyond-glacier-flow/claude/english.md",
+      "status": "available",
+      "availability_note": "NASA’s November 16, 2026 account distinguishes surviving stagnant ice from active flowing glaciers. Area fell from 4.31 km² in 1988 to 0.09 km² in September 2025; the October 19, 2026 image supplies no new total-area measurement. The 32 m, 4 m and November 2024 ice-loss sequence refers to one monitoring site. A December 2026 aerial survey is planned. Disappearance dates remain estimates. The primary article/captions and historical 2019 paper abstract, significance and study-site introduction were inspected; underlying measurements were not independently replicated."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "puncak-jaya-ice-beyond-glacier-flow",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/puncak-jaya-ice-beyond-glacier-flow.md",
+      "article_path": "articles/puncak-jaya-ice-beyond-glacier-flow/claude/chinese.md",
+      "status": "available",
+      "availability_note": "NASA于2026年11月16日的报道区分现存停滞残冰与仍能流动的冰川。面积从1988年的4.31平方公里降至2025年9月的0.09平方公里；2026年10月19日影像并未提供新的总面积数值。32米、4米及2024年11月该处冰消失的记录仅限一个监测点。2026年12月航测仍属计划，消失年份仍是估计。本文查阅原始报道、图注及2019年论文的摘要、意义与研究地点介绍，未独立复现底层测量。"
     }
   ],
-  "generated_at": "2026-11-16T23:12:42.893301+00:00"
+  "generated_at": "2026-11-16T23:23:00.728929+00:00"
 }

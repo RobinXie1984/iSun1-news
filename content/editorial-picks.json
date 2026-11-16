@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-16T23:12:42.894835+00:00",
+  "selected_at": "2026-11-16T23:23:00.731171+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2022,6 +2022,26 @@
       "headline_index": 0,
       "headline": "新卫星整装待命，海平面\"标尺\"即将易手：三十余年的海面记录，能否一脉相承？",
       "sha256": "495fd2603a3fa465353606db983715c326884b65f1a48a41fefd4e910b6b9f6a"
+    },
+    {
+      "topic": "puncak-jaya-ice-beyond-glacier-flow",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra establishes two different endings, visible ice loss and the cessation of flow, then cleanly separates area, point thickness, motion and preserved scientific records. At1887bodywords it reaches the full explanation with less institutional detail and repetition. Claude’s2575-word feature is valid under its explicit reviewer exception, but Astra gives this story a more focused path.",
+      "article_path": "articles/puncak-jaya-ice-beyond-glacier-flow/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Ice Still Clings to Puncak Jaya. Has Its Last Glacier Already Stopped Moving?",
+      "sha256": "a447b1ada9ff48cf24b81b38d0f2dd923c1de40cd86919367a5c7ca26e87065b"
+    },
+    {
+      "topic": "puncak-jaya-ice-beyond-glacier-flow",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s corrected Chinese offers a clear, warm account with restrained imagery and an early natural question. Its distinction between shrinking and flowing, historical cores and future sampling, and a planned survey versus a completed measurement is explicit. This language-specific reading favours its quieter economy over Claude’s longer explanatory register.",
+      "article_path": "articles/puncak-jaya-ice-beyond-glacier-flow/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "查亚峰仍有余冰，最后的冰川是否已停下脚步？",
+      "sha256": "7ea5dc7f74b9d26ed03f51294620242e54905026f3250a1ab33f17c7c03804ba"
     }
   ]
 }
