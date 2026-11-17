@@ -12,6 +12,18 @@
         "en": "EU leaders discuss investment, capability, adoption and trust with Arthur Mensch and Geoffrey Hinton; implementation and outcomes remain ahead.",
         "zh": "欧盟领导人与Arthur Mensch、Geoffrey Hinton讨论投资、能力、应用与信任；落实和成效仍待检验。"
       }
+    },
+    {
+      "id": "mangroves-rebound-tides-canopy",
+      "event_date": "2026-11-13",
+      "title": {
+        "en": "The mangroves are returning. What made room for them?",
+        "zh": "红树林正在回来：是什么为它们腾出了空间？"
+      },
+      "summary": {
+        "en": "NASA revisits a satellite-recorded rebound, with natural expansion and regrowth alongside regional losses and young forests’ limits.",
+        "zh": "NASA重访卫星记录中的红树林恢复：自然扩张与再生带来可能，区域损失和幼林功能仍需正视。"
+      }
     }
   ]
 }

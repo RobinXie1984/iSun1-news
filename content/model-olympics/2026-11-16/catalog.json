@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/cop31-climate-finance-debt-delivery/claude/chinese.md",
       "status": "available",
       "availability_note": "本文报道Simon Stiell于2026年11月13日在COP31的讲话及此前COP29目标，11月16日采集。到2035年每年3000亿美元、由发达国家带头的目标，与覆盖各类来源、每年1.3万亿美元的更广泛融资愿景须区分；两者不相加，亦不等于已到账资金。可负担的条件、简化申请和强化受资助国制度属于倡议，落实与韧性效果仍需后续证据。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "coral-twelve-species-museum-genomes",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/coral-twelve-species-museum-genomes.md",
+      "article_path": "articles/coral-twelve-species-museum-genomes/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 18, 2026 (Hong Kong time). Research and the university report are dated November 12, 2026; collected November 16. The study evaluates 53 named species, supports 47, and includes 12 removed from synonymy and four formerly unresolved species within that 47. Recognition refines an inventory rather than increasing reef populations. Historical reference specimens, matching modern material and genomic relationships supply converging evidence; geographic reference confidence varies. The institutional article and indexed publisher sections were inspected; full supplementary data and underlying sequences were not independently reanalysed."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "coral-twelve-species-museum-genomes",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/coral-twelve-species-museum-genomes.md",
+      "article_path": "articles/coral-twelve-species-museum-genomes/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月18日（香港时间）。研究与大学报道发表于2026年11月12日，本文11月16日采集。研究评估53个既有种名，支持47个独立物种；恢复独立地位的12种和此前未解决的4种均包含在47之内。物种识别完善名录，并非珊瑚种群数量增长。历史参考标本、相匹配的现代材料和基因组关系提供互补证据，地理对应的确定程度各异。本文查阅机构报道及期刊索引章节，未独立重算补充数据和底层序列。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "coral-twelve-species-museum-genomes",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/coral-twelve-species-museum-genomes.md",
+      "article_path": "articles/coral-twelve-species-museum-genomes/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 18, 2026 (Hong Kong time). Research and the university report are dated November 12, 2026; collected November 16. The study evaluates 53 named species, supports 47, and includes 12 removed from synonymy and four formerly unresolved species within that 47. Recognition refines an inventory rather than increasing reef populations. Historical reference specimens, matching modern material and genomic relationships supply converging evidence; geographic reference confidence varies. The institutional article and indexed publisher sections were inspected; full supplementary data and underlying sequences were not independently reanalysed."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "coral-twelve-species-museum-genomes",
+      "event_date": "2026-11-12",
+      "source_brief": "briefs/coral-twelve-species-museum-genomes.md",
+      "article_path": "articles/coral-twelve-species-museum-genomes/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月18日（香港时间）。研究与大学报道发表于2026年11月12日，本文11月16日采集。研究评估53个既有种名，支持47个独立物种；恢复独立地位的12种和此前未解决的4种均包含在47之内。物种识别完善名录，并非珊瑚种群数量增长。历史参考标本、相匹配的现代材料和基因组关系提供互补证据，地理对应的确定程度各异。本文查阅机构报道及期刊索引章节，未独立重算补充数据和底层序列。"
     }
   ],
-  "generated_at": "2026-11-15T23:34:07.139268+00:00"
+  "generated_at": "2026-11-17T23:15:54.427439+00:00"
 }

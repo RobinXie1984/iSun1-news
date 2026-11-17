@@ -1,0 +1,74 @@
+# The Mangroves Are Coming Back. What, Exactly, Is Returning?
+
+For much of the late twentieth century, the world's mangrove forests were shrinking. Mangroves are salt-tolerant trees and shrubs that grow on warm coasts where land meets the sea, in muddy places that tides flood and drain every day. People have long cleared them for farmland, ponds, timber and building space. On November 13, 2026, NASA's Earth Observatory, the American space agency's public showcase for satellite views of the planet, described a turn in that long decline. The article, written by Adam Voiland, revisits research that Tulane University, a research university in New Orleans, announced in June 2026 and that appeared in the journal Science. The study, led by Zhen Zhang with researchers including Daniel Friess, reports that global mangrove area fell for decades and then began to grow again around 2010.
+
+That sounds like a happy ending. The numbers tell a more interesting story, with a reversal in the middle and an open question at the end.
+
+The research rests on Landsat, a long-running series of Earth-watching satellites. Each Landsat pass photographs a strip of the planet. Repeated pictures of the same coastline let scientists map where mangrove cover appears in one year and compare it with later years. Over decades, those maps add up to a record that no single field team could gather, and those repeated observations are what make comparisons across forty years possible. How often each stretch of coast was observed, and in which seasons, are details of the paper's methods. The analysis used Landsat observations from 1984 through 2023. That final year matters. The June announcement and the November presentation are publication dates, and the measured global record ends in 2023.
+
+According to NASA's summary, the world lost nearly 3,000 square kilometers of mangroves between 1984 and 2010. Tulane's release rounds the same earlier loss to nearly 2,900 square kilometers. The two figures are rounded summaries of one study. A square kilometer is a square one kilometer long on each side. Nearly 3,000 of those squares of coastal forest vanished over about a quarter of a century.
+
+Then the direction changed. NASA reports that mangrove area grew by nearly 2,000 square kilometers after 2010, within the study period. That gain is real, and it is also smaller than the earlier loss. Tulane states the balance directly: by 2023, global mangrove area remained about 1 percent lower than at the start of the four-decade record. Global mangrove area has regained much of its earlier loss and still sits slightly below where it began.
+
+A few details keep the figures honest. The 2,000 square kilometers is a total spread across roughly thirteen years, rather than a yearly rate. Square kilometers measure the area of forest, which tells us where mangroves stand. Area alone says little directly about how many trees grow there, how much carbon they hold or how many people they shelter. The rounded summaries also leave an exact remaining shortfall unstated, and this story leaves it unstated too.
+
+## Why area is only the first question
+
+Area matters because mangroves do several jobs at once. Their tangled roots, many of which arch above the mud, form a sheltered nursery where young fish, crabs and shrimp hide and feed before they move into open water. The forests store carbon in their wood and in the waterlogged mud beneath them, which keeps that carbon out of the air, where it would add to warming. Their trunks and roots also slow waves and hold soil, which helps buffer coasts against erosion and against storm surge, the wall of seawater a storm pushes ashore.
+
+Each of those jobs depends on more than the outline of a forest on a map. A nursery needs a dense and varied root system. Carbon builds up over years as wood grows and mud accumulates. Wave protection depends on how wide, thick and sturdy a forest belt is. Both NASA and Tulane point out that young mangrove stands provide less than mature forests do. A coast that gained a strip of seedlings in 2018 holds a promise. An established forest can offer more developed habitat and protection than a young stand, and the benefits any particular forest provides vary with its size, condition and setting.
+
+So the satellite result answers one question clearly: where mangrove cover expanded and where it shrank. The larger questions, about carbon, fish and flood protection, call for their own measurements on the ground and in the water. The rebound in area opens those questions; it leaves them for further study.
+
+## Where the new forest comes from
+
+The most surprising part of the study concerns the origin of the new mangroves. Many readers might picture volunteers planting seedlings along a beach. According to Zhang's breakdown, reported by NASA, around two-thirds of the expansion came from mangroves colonizing new areas. The remaining third or so came from regrowth or restoration in places where forest had been damaged or cleared.
+
+One route to colonization that NASA describes runs through mud. Rivers and tides carry sediment, fine particles of soil and sand, and drop it where the water slows. Over time that sediment can build mudflats, wide stretches of soft ground exposed at low tide. Mangrove seedlings drift on the tides, lodge in that fresh mud and take root. Given enough sediment and the right mix of salt and tide, a coastline can grow its own new forest. The public summaries present this as one mechanism behind new growth; how much of the colonized area formed this way is a detail for the full study.
+
+The two-thirds and one-third fractions describe the expansion alone. They divide the new growth by type and leave the world's older forests outside the calculation. They also stop short of a full accounting of human influence. The regrowth-and-restoration share bundles together forests that recovered on their own and forests that people helped along, and the summaries assign no precise portion to tree planting. Human choices shape colonization as well, because dams, dredging and land use change how much sediment reaches a coast. The study's summaries describe the pattern of change; the cause of each individual patch of gain remains a separate question.
+
+NASA also discusses canopy closure, or density: how completely the leafy roof of a forest covers the ground below when seen from above. A thickening canopy is encouraging evidence that a stand is filling in. It is also a different measurement from area, and it covers part of a forest's health. Satellites see the roof of the forest; the fish, the stored carbon and the strength of the root wall remain hidden beneath it.
+
+Here a comparison may help, offered as an illustration rather than a finding. Picture someone trying to grow a vegetable garden in a yard where a blocked drain floods the beds after every rain. They can plant seedlings again and again, and the soggy soil will drown many of them. If they clear the drain, plants may begin sprouting from seeds already in the soil. In that garden, fixing the water matters as much as the planting. The number of seedlings put in the ground measures effort. The number still alive after a season measures recovery.
+
+Mangroves live by water in the same way. They need tides to wash in and drain out on a regular rhythm, to bring sediment and seeds and to carry away excess salt. That is why a count of planted saplings and a count of surviving forest can tell very different stories.
+
+## A coast in Myanmar
+
+To show what the global trend looks like on the ground, NASA paired two satellite images of Palaw Township, in the Myeik District of southern Myanmar. One was taken on February 14, 2010, by the Thematic Mapper instrument on Landsat 5. The other was taken on February 2, 2026, by the Operational Land Imager on Landsat 9. Side by side, they show green spreading across the coast. NASA identifies regrowth in abandoned rice fields near the village of Kyauktaung, along with mangroves colonizing new ground.
+
+The 2026 image helps a reader see the change; it belongs to one township and comes from a later date than the global record, which still ends in 2023.
+
+NASA reports that Myanmar's mangroves declined by 28.6 percent from the 1980s to 2010, then grew by around 10 percent after 2010. Those percentages start from different baselines. The decline is measured against the larger forest of the 1980s; the growth is measured against the smaller forest of 2010. Ten percent of a reduced forest adds back a modest amount, so the later growth recovers a portion of the earlier loss.
+
+The researchers credit Myanmar's reversal partly to restoration and public awareness that followed the 2004 Indian Ocean tsunami, partly to forest protection and partly to sedimentation. That explanation is a reasonable reading by the people who studied the area. The available accounts list these causes together and stop short of measuring how much each one contributed.
+
+A different record from the same country shows how hard deliberate restoration can be. In November 2018, the International Union for Conservation of Nature, known as IUCN, published an account of work on Pyinbugyi Island in Myanmar under a programme it calls MFF. Years of overexploitation and saltwater intrusion, the seepage of seawater into fields, had left farmland on the island unproductive. That damage was a real loss for families who depended on those fields. Community committees formed, along with training, guard posts and a conservation zone, and people planted mangrove seedlings.
+
+Many of those seedlings died. Barnacles, small shelled animals that cling to hard surfaces in the sea, coated them, and strong waves battered them. Fences, supports and repeated replanting brought discouraging results. A specialist who assessed the site found natural mangrove regrowth in certain areas. The specialist's advice was to restore the flow of water by removing dikes and embankments, the earthen walls built to keep the sea off the land.
+
+The IUCN account is a 2018 snapshot. It records a recommendation and the reasoning behind it, and the island's condition since then awaits fresh reporting. Removing coastal barriers is also a local decision with local consequences for fields, homes and paths, so the advice for one island serves as an example rather than a universal recipe. Still, the account echoes the garden comparison. In IUCN's 2018 telling, the specialist's recommendation centered on the water, the counterpart of the drain in the garden.
+
+## The uneven map
+
+A global total adds up many coastlines, and those coastlines moved in different directions. Gains in parts of Asia, Australia and South America drove much of the worldwide increase. Elsewhere, the story ran the other way. Losses in the Niger Delta reduced mangrove extent across West and Central Africa. Tropical cyclones degraded forests in North America and southern Africa. Tulane's release describes a 2021 freeze in Texas that sharply reversed local mangrove growth there.
+
+That Texas example connects to a quieter part of the story. Mangroves are cold-sensitive, and hard freezes limit how far they can spread from the tropics. As freezes become less frequent in some places, mangroves can move toward the poles. In those spots, a warming climate has opened room for new forest. Severe cold still strikes at that edge, as the 2021 Texas freeze showed. Sea-level rise and extreme events also remain risks for established forests. A poleward advance on some coasts sits alongside continuing hazards elsewhere.
+
+The aggregate, in other words, works like a bank statement that reports a family's total savings. A healthy total can include one account growing quickly while a second steadily drains. The global mangrove line rose after 2010, and on particular shores the forest kept shrinking, broke under a storm or lost ground in a single bad winter.
+
+## What the evidence covers
+
+Both public accounts of the research, NASA's and Tulane's, describe the same study. Their agreement reflects one research effort told twice. A genuinely separate analysis would be a distinct kind of check: independent researchers could reanalyse the same Landsat observations, and a different data source could add another kind of test. This article relies on NASA's and Tulane's summaries and reports their figures as approximate, as they do; the Science paper and its supplementary material remain uninspected for this story.
+
+As NASA and Tulane report this single study, satellites observed the world's mangrove area falling until around 2010 and rising afterward, and by 2023 global mangrove area had regained much of its earlier loss while remaining about 1 percent below its starting extent. Around two-thirds of the reported expansion came from mangroves colonizing new areas, and around one-third came from regrowth or restoration in degraded areas. How firmly those figures hold depends on the paper's methods, validation and uncertainty estimates, which remain for readers of the full study to weigh.
+
+That leaves a hopeful possibility and a test. Protecting the forests that already stand, and giving mangroves room to spread and regrow where sediment and tides allow, could help keep the line pointed upward. The young forests of the 2010s now face the years that will decide what they become. Some may mature into dense belts that store carbon, shelter young fish and break waves; whether they do, and how many, is something only years of measurement on the ground and in the water can show. Others may wash away in a storm or lose ground in a cold snap, as Texas mangroves did in the 2021 freeze. The satellite study, as reported, shows mangrove area coming back. The next measurements will show how much of the forests' old work returns with it.
+
+## Sources
+
+- Adam Voiland, "A Global Rebound for Mangroves," NASA Earth Observatory, November 13, 2026. Images by Michala Garrison/NASA Earth Observatory using USGS Landsat data. https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/
+- Stacey Plaisance, "Global mangrove forests rebound, offering hopeful sign for climate and coastal resilience," Tulane University, June 4, 2026. https://news.tulane.edu/pr/global-mangrove-forests-rebound-offering-hopeful-sign-climate-and-coastal-resilience
+- Underlying study: "Unexpected expansion and regrowth in Earth's mangrove forests over the past four decades," Science, DOI 10.1126/science.aec9773. Cited via the Tulane release; this article relies on the NASA and Tulane summaries of the study, and the paper's full text remains uninspected. https://doi.org/10.1126/science.aec9773
+- IUCN, "Sometimes, you just need to let nature take its course," November 21, 2018. https://iucn.org/news/asia/201811/sometimes-you-just-need-let-nature-take-its-course

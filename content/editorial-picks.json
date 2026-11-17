@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-17T13:53:44.926964+00:00",
+  "selected_at": "2026-11-17T23:15:54.430694+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2062,6 +2062,46 @@
       "headline_index": 0,
       "headline": "1966年，双子座十二号拍下尼罗河：太空一瞥之后，谁能看清大地在变？",
       "sha256": "ef583511ba00d752d0e419d489c0554cb6da25da7ff86d8f0341555c3d06e0bd"
+    },
+    {
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra follows one clear question from extent to functioning forest and retains livelihoods, local/global dates and the distinction between colonising new ground and recovery on old sites. Its continuous explanation is more economical while both authors meet source gates.",
+      "topic": "mangroves-rebound-tides-canopy",
+      "article_path": "articles/mangroves-rebound-tides-canopy/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Mangroves Are Gaining Ground Again. What Will the New Forests Become?",
+      "sha256": "901ce6088688fee2693bf73a4c99a61111f9092366c52d8cc03c44b4d5997668"
+    },
+    {
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude carries the full area, water-flow and forest-function story into warm readable Chinese. Its garden comparison and dated Myanmar examples make the practical tension concrete; the exact original keeps regional limits and the cost to farmers.",
+      "topic": "mangroves-rebound-tides-canopy",
+      "article_path": "articles/mangroves-rebound-tides-canopy/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "红树林归来，归来的究竟是什么？",
+      "sha256": "77b576658cfbd89f96f560fbb2e2129067821a715a6f2b1a3c3387a452a43f28"
+    },
+    {
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra explains the names, reference specimens and conservation questions with a clear sequence and careful sampling caveats. It separates recognition from abundance and existing records from future fieldwork; both eligible English manuscripts remain available.",
+      "topic": "coral-twelve-species-museum-genomes",
+      "article_path": "articles/coral-twelve-species-museum-genomes/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Twelve Coral Species Regain Their Names—and Open a Question About the Reef",
+      "sha256": "a5fb75eac12ba554abcfbed9eb3e3fe936d072764e1901ba16647833ac9a6101"
+    },
+    {
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude uses a vivid library comparison with a restrained classical cadence, preserving type-locality uncertainty and the corrected use of existing specimens, photos and records for maps and risk. This independent Chinese choice favours its narrative clarity.",
+      "topic": "coral-twelve-species-museum-genomes",
+      "article_path": "articles/coral-twelve-species-museum-genomes/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "十二种珊瑚曾借他名而居，礁上普查数的究竟是谁？",
+      "sha256": "8ead99ed8973c8b67c84874f6c665b9cafd52590ca8b254e67f9297948aabce3"
     }
   ]
 }

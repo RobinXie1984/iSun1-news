@@ -5558,6 +5558,62 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mangroves-rebound-tides-canopy/chatgpt/english.md",
+      "captured_at": "2026-11-15T07:14:46.369064+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mangroves-rebound-tides-canopy/chatgpt/chinese.md",
+      "captured_at": "2026-11-15T07:14:46.369064+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mangroves-rebound-tides-canopy/claude/english.md",
+      "captured_at": "2026-11-18T07:09:15.091202+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mangroves-rebound-tides-canopy/claude/chinese.md",
+      "captured_at": "2026-11-18T07:09:15.091202+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coral-twelve-species-museum-genomes/chatgpt/english.md",
+      "captured_at": "2026-11-16T07:28:04.251335+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coral-twelve-species-museum-genomes/chatgpt/chinese.md",
+      "captured_at": "2026-11-16T07:28:04.251335+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coral-twelve-species-museum-genomes/claude/english.md",
+      "captured_at": "2026-11-18T07:09:48.998496+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/coral-twelve-species-museum-genomes/claude/chinese.md",
+      "captured_at": "2026-11-18T07:09:48.998496+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

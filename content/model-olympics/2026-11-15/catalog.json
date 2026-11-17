@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/dublin-ai-sovereignty-trust-two-guests/claude/chinese.md",
       "status": "available",
       "availability_note": "11月13日都柏林会议属于欧洲理事会的非正式战略讨论。官方资料确认嘉宾与议题，未提供嘉宾发言逐字记录。11月3日引导说明提出问题，并非已采纳决定。未来预算工具、应用、监督及2027年会议计划，须与已拨款项目、新的约束性法律或实测经济成效分别看待。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "mangroves-rebound-tides-canopy",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/mangroves-rebound-tides-canopy.md",
+      "article_path": "articles/mangroves-rebound-tides-canopy/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 18, 2026 (Hong Kong time). NASA’s November 13 presentation revisits research reported in June 2026. The global Landsat study covers 1984–2023; its roughly 2010 turning point differs from the local February 2026 image date. Recent net growth does not erase earlier losses or establish mature ecological function everywhere. IUCN’s local water-flow account is dated 2018. Figures and interpretations are attributed to the inspected institutional sources; underlying maps and the publisher full text were not independently reanalysed here."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "mangroves-rebound-tides-canopy",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/mangroves-rebound-tides-canopy.md",
+      "article_path": "articles/mangroves-rebound-tides-canopy/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月18日（香港时间）。NASA于11月13日重访2026年6月已报道的研究。全球Landsat研究涉及1984至2023年，约2010年的转折与局部2026年2月影像日期各不相同。近期净增长未抹去早期损失，也未证明各地均具成熟生态功能。IUCN的局部水流案例发表于2018年。数字与解释归属于所查机构资料；本文未独立重算底层地图，期刊全文亦未读到。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "mangroves-rebound-tides-canopy",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/mangroves-rebound-tides-canopy.md",
+      "article_path": "articles/mangroves-rebound-tides-canopy/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 18, 2026 (Hong Kong time). NASA’s November 13 presentation revisits research reported in June 2026. The global Landsat study covers 1984–2023; its roughly 2010 turning point differs from the local February 2026 image date. Recent net growth does not erase earlier losses or establish mature ecological function everywhere. IUCN’s local water-flow account is dated 2018. Figures and interpretations are attributed to the inspected institutional sources; underlying maps and the publisher full text were not independently reanalysed here."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "mangroves-rebound-tides-canopy",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/mangroves-rebound-tides-canopy.md",
+      "article_path": "articles/mangroves-rebound-tides-canopy/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月18日（香港时间）。NASA于11月13日重访2026年6月已报道的研究。全球Landsat研究涉及1984至2023年，约2010年的转折与局部2026年2月影像日期各不相同。近期净增长未抹去早期损失，也未证明各地均具成熟生态功能。IUCN的局部水流案例发表于2018年。数字与解释归属于所查机构资料；本文未独立重算底层地图，期刊全文亦未读到。"
     }
   ],
-  "generated_at": "2026-11-14T23:35:54.625900+00:00"
+  "generated_at": "2026-11-17T23:15:54.416539+00:00"
 }

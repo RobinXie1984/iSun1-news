@@ -1957,6 +1957,44 @@
           "sha256": "b70fb1b38ea00764a008246b4a890fef1a02cca8d4705710267430ba5efae427"
         }
       ]
+    },
+    {
+      "topic": "mangroves-rebound-tides-canopy",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/mangroves-rebound-tides-canopy-600.jpg",
+          "sha256": "3000cf5a8051320e55222c5cf9e05ea02a104a163bc2c69796a72d45ab489510",
+          "bytes": 117074
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/mangroves-rebound-tides-canopy-1200.jpg",
+          "sha256": "feaabd573447814a01a3f0f999adb723912b63f0655d25d11d30042818424419",
+          "bytes": 443093
+        }
+      ]
+    },
+    {
+      "topic": "coral-twelve-species-museum-genomes",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/coral-twelve-species-museum-genomes-600.jpg",
+          "sha256": "06b589c58ee7fe7e2afe3066a9960743c8be50dbdb56e0faf68662d3073b59fe",
+          "bytes": 89818
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/coral-twelve-species-museum-genomes-1200.jpg",
+          "sha256": "c4dd99fa9f7efe08747e04e0814d24f5dd4ca45795bb6672a8a3e10415ec8dea",
+          "bytes": 307047
+        }
+      ]
     }
   ]
 }
