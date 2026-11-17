@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-17T23:15:54.430694+00:00",
+  "selected_at": "2026-11-17T23:32:11.086909+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2102,6 +2102,46 @@
       "headline_index": 0,
       "headline": "十二种珊瑚曾借他名而居，礁上普查数的究竟是谁？",
       "sha256": "8ead99ed8973c8b67c84874f6c665b9cafd52590ca8b254e67f9297948aabce3"
+    },
+    {
+      "topic": "materials-ai-representative-data-pruning",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra makes the computational result accessible through a library analogy and explicit whole-workflow arithmetic. Its continuous narrative clearly separates the example percentages, training time and future discovery benefits; both independently reviewed English originals remain available.",
+      "article_path": "articles/materials-ai-representative-data-pruning/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "When 99% of the Training Data Goes, What Must Stay?",
+      "sha256": "f9bf4a8f4af4aa003c3c254026414aeb24e528cb2063dfa05ad55382bde04d51"
+    },
+    {
+      "topic": "materials-ai-representative-data-pruning",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude’s library story carries the full material-science explanation into warm Chinese with a restrained classical cadence. Its qualified majority, two pruning approaches and certain local electronic effects stay precise, while the structure is easier to follow than the longer continuous alternative. Both originals are preserved.",
+      "article_path": "articles/materials-ai-representative-data-pruning/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "材料 AI 删去九成九的训练资料，何处会漏掉关键一页？",
+      "sha256": "e049e617be1566ec48128ff3b1df39b6591f70b67cbad28dfbf1821514e47c4c"
+    },
+    {
+      "topic": "mit-ai-learning-useful-friction",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra develops the difference between completing an answer and retaining the ability to reason through navigational, writing and musical examples. It keeps assistance timing and learner starting points open to testing, with especially careful causal/source boundaries. Both full English manuscripts pass and remain available.",
+      "article_path": "articles/mit-ai-learning-useful-friction/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "When AI Makes the Work Easier, What Happens to the Learning?",
+      "sha256": "069562adac2799bb5289cd5ec5c006d8aa2a25513a273b5966dc739974f5f03c"
+    },
+    {
+      "topic": "mit-ai-learning-useful-friction",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Independent Chinese comparison favours Astra’s clear modern prose, restrained warmth and continuity from asking for help to independent transfer. Its full coverage preserves project status and nuanced research-design questions, with lighter cadence than Claude’s more ornate alternative. Both originals remain exact.",
+      "article_path": "articles/mit-ai-learning-useful-friction/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "AI让功课变容易之后，学生学会了什么？",
+      "sha256": "e1991627f22164fc4e3f3aa3d31d199a0d46d6e8f4dcac1ff78cbb3f52f762c8"
     }
   ]
 }

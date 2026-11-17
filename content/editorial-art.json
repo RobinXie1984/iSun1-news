@@ -1995,6 +1995,44 @@
           "bytes": 307047
         }
       ]
+    },
+    {
+      "topic": "materials-ai-representative-data-pruning",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/materials-ai-representative-data-pruning-600.jpg",
+          "sha256": "2fc5d52ca3bcc5b22e2088eb30feedb307c4ad2399bd0cba1a733c6be9ef4bbe",
+          "bytes": 96122
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/materials-ai-representative-data-pruning-1200.jpg",
+          "sha256": "0fa3037c7f629087cda3fc03207bee9ef577f2af7c6165ada67f2f51c337a7cb",
+          "bytes": 362976
+        }
+      ]
+    },
+    {
+      "topic": "mit-ai-learning-useful-friction",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/mit-ai-learning-useful-friction-600.jpg",
+          "sha256": "e686a0aa220c3a95d2e42b3aee48f230bdd69df23b9b90c55fac05abf0bbe8c2",
+          "bytes": 85456
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/mit-ai-learning-useful-friction-1200.jpg",
+          "sha256": "3e96ed6d04b09536a3de8d4c982879591c8f912f00b046ec4c6f900c65ba4350",
+          "bytes": 324654
+        }
+      ]
     }
   ]
 }

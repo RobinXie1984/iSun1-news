@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "materials-ai-representative-data-pruning",
+      "title": {
+        "en": "How much training data can materials AI leave behind?",
+        "zh": "材料AI究竟能少学多少数据？"
+      },
+      "summary": {
+        "en": "A November16 university report explains an October19 accepted study of electronic-structure prediction and redundant training examples.",
+        "zh": "11月16日的大学报道解释10月19日已接受研究：电子结构预测中的训练数据冗余。"
+      },
+      "event_date": "2026-11-16"
+    },
+    {
+      "id": "mit-ai-learning-useful-friction",
+      "title": {
+        "en": "When AI makes the answer easier, what happens to learning?",
+        "zh": "AI让答案更容易，学习会发生什么？"
+      },
+      "summary": {
+        "en": "MIT’s November17 account connects earlier campus observations with ongoing cognition, music and humane-design research.",
+        "zh": "MIT在11月17日的报道，将早前校园观察与进行中的认知、音乐及人性化设计研究相连。"
+      },
+      "event_date": "2026-11-17"
+    }
+  ]
+}

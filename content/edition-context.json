@@ -5614,6 +5614,62 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/materials-ai-representative-data-pruning/chatgpt/english.md",
+      "captured_at": "2026-11-18T07:18:26.798282+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/materials-ai-representative-data-pruning/chatgpt/chinese.md",
+      "captured_at": "2026-11-18T07:18:26.798282+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/materials-ai-representative-data-pruning/claude/english.md",
+      "captured_at": "2026-11-18T07:31:30.338658+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/materials-ai-representative-data-pruning/claude/chinese.md",
+      "captured_at": "2026-11-18T07:31:30.338658+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-ai-learning-useful-friction/chatgpt/english.md",
+      "captured_at": "2026-11-18T07:29:48.220086+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-ai-learning-useful-friction/chatgpt/chinese.md",
+      "captured_at": "2026-11-18T07:29:48.220086+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-ai-learning-useful-friction/claude/english.md",
+      "captured_at": "2026-11-18T07:30:20.925722+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mit-ai-learning-useful-friction/claude/chinese.md",
+      "captured_at": "2026-11-18T07:30:20.925722+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

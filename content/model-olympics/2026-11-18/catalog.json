@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 8,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "materials-ai-representative-data-pruning",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/materials-ai-representative-data-pruning.md",
+      "article_path": "articles/materials-ai-representative-data-pruning/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Michigan Tech’s November 16, 2026 report discusses an October 19 paper. It reports virtually unchanged accuracy after removing 90% of training examples; at 99%, most predictions remained highly accurate. The threefold speed result concerns model training. The university report and accepted paper’s abstract, metadata and status were inspected; full methods, tables, supplements, data and code were not independently checked or reproduced. Random pruning and coverage-based sampling both appear in the abstract. Laboratory, manufacturing, cash and carbon benefits remain unmeasured here."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "materials-ai-representative-data-pruning",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/materials-ai-representative-data-pruning.md",
+      "article_path": "articles/materials-ai-representative-data-pruning/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "密歇根理工大学于2026年11月16日报道10月19日论文：删去90%训练样本后准确度几乎不变；删去99%后，多数预测仍高度准确。三倍提速仅指模型训练。本文查阅大学报道及已接收论文的摘要、出版资料与状态，未独立核查或复现全文方法、表格、补充材料、数据和代码。摘要同时讨论随机删减与覆盖取样；实验、制造、金钱与碳排效益仍待测量。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "materials-ai-representative-data-pruning",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/materials-ai-representative-data-pruning.md",
+      "article_path": "articles/materials-ai-representative-data-pruning/claude/english.md",
+      "status": "available",
+      "availability_note": "Michigan Tech’s November 16, 2026 report discusses an October 19 paper. It reports virtually unchanged accuracy after removing 90% of training examples; at 99%, most predictions remained highly accurate. The threefold speed result concerns model training. The university report and accepted paper’s abstract, metadata and status were inspected; full methods, tables, supplements, data and code were not independently checked or reproduced. Random pruning and coverage-based sampling both appear in the abstract. Laboratory, manufacturing, cash and carbon benefits remain unmeasured here."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "materials-ai-representative-data-pruning",
+      "event_date": "2026-11-16",
+      "source_brief": "briefs/materials-ai-representative-data-pruning.md",
+      "article_path": "articles/materials-ai-representative-data-pruning/claude/chinese.md",
+      "status": "available",
+      "availability_note": "密歇根理工大学于2026年11月16日报道10月19日论文：删去90%训练样本后准确度几乎不变；删去99%后，多数预测仍高度准确。三倍提速仅指模型训练。本文查阅大学报道及已接收论文的摘要、出版资料与状态，未独立核查或复现全文方法、表格、补充材料、数据和代码。摘要同时讨论随机删减与覆盖取样；实验、制造、金钱与碳排效益仍待测量。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "mit-ai-learning-useful-friction",
+      "event_date": "2026-11-17",
+      "source_brief": "briefs/mit-ai-learning-useful-friction.md",
+      "article_path": "articles/mit-ai-learning-useful-friction/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "MIT’s November 17, 2026 account describes ongoing interdisciplinary work and observations from an earlier campus report. It supplies no controlled learning-effect estimate. The 67 projects, 31 MIT units and US$5.5 million cover the whole MITHIC initiative since its 2024 launch; roughly a third of projects concern AI, society and humanity. These are neither 67 completed AI trials nor an annual AI budget. The primary report was inspected; the underlying earlier report, datasets and study designs were not independently examined. Proposed courses and cognitive research retain their prospective status."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "mit-ai-learning-useful-friction",
+      "event_date": "2026-11-17",
+      "source_brief": "briefs/mit-ai-learning-useful-friction.md",
+      "article_path": "articles/mit-ai-learning-useful-friction/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "MIT于2026年11月17日介绍跨学科工作，并引述较早校园报告的观察，未提供受控学习效果估计。67个项目、31个MIT单位及550万美元，涵盖2024年启动以来整个MITHIC计划；约三分之一项目涉及AI、社会与人文，并非67项已完成AI试验或年度AI预算。本文查阅原始报道，未独立核查较早报告、底层数据与研究设计；课程计划与认知研究保留其前瞻或进行中状态。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "mit-ai-learning-useful-friction",
+      "event_date": "2026-11-17",
+      "source_brief": "briefs/mit-ai-learning-useful-friction.md",
+      "article_path": "articles/mit-ai-learning-useful-friction/claude/english.md",
+      "status": "available",
+      "availability_note": "MIT’s November 17, 2026 account describes ongoing interdisciplinary work and observations from an earlier campus report. It supplies no controlled learning-effect estimate. The 67 projects, 31 MIT units and US$5.5 million cover the whole MITHIC initiative since its 2024 launch; roughly a third of projects concern AI, society and humanity. These are neither 67 completed AI trials nor an annual AI budget. The primary report was inspected; the underlying earlier report, datasets and study designs were not independently examined. Proposed courses and cognitive research retain their prospective status."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "mit-ai-learning-useful-friction",
+      "event_date": "2026-11-17",
+      "source_brief": "briefs/mit-ai-learning-useful-friction.md",
+      "article_path": "articles/mit-ai-learning-useful-friction/claude/chinese.md",
+      "status": "available",
+      "availability_note": "MIT于2026年11月17日介绍跨学科工作，并引述较早校园报告的观察，未提供受控学习效果估计。67个项目、31个MIT单位及550万美元，涵盖2024年启动以来整个MITHIC计划；约三分之一项目涉及AI、社会与人文，并非67项已完成AI试验或年度AI预算。本文查阅原始报道，未独立核查较早报告、底层数据与研究设计；课程计划与认知研究保留其前瞻或进行中状态。"
+    }
+  ],
+  "generated_at": "2026-11-17T23:32:11.083597+00:00"
+}
