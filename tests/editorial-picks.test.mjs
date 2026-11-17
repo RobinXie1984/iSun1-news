@@ -51,6 +51,7 @@ test('selected Stories lists every dated topic, changes language, keeps all six 
  for(const lang of ['en','zh']){
   await view.render({main,data,stories,lang,hash:'stories'});
   assert.equal((main.innerHTML.match(/data-op-story=/g)||[]).length,data.topics.length);
+  assert.match(main.innerHTML,/op-version-choices/);assert.match(main.innerHTML,/GPT \/ Astra/);assert.match(main.innerHTML,/Claude/);
   for(const topic of data.topics)assert.ok(main.innerHTML.includes('#story/'+topic.id));
   if(lang==='en')assert.match(main.innerHTML,/The call came at 12:27 a.m. Pacific time. Karl Deisseroth missed it./);
   const topic='elon-musk-tesla-486532',pick=data.picks.entries.find(p=>p.topic===topic&&p.language===lang);

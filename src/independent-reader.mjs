@@ -13,7 +13,7 @@ export function independentReader(canonical) {
     const changes=[
      ["consent=safeGet('isun1-signals')==='yes'&&!preview","consent=false"],
      ["if(!safeGet('isun1-signals')&&!preview)$('#consent').hidden=false;","$('#consent').hidden=true;"],
-     ["t(`Anonymous signals: ${consent?'on':'off'}`,`匿名信号：${consent?'开启':'关闭'}`)","t('Independent reader · analytics paused','独立阅读版 · 数据采集暂停')"]
+     ["t(`Anonymous signals: ${consent?'on':'off'}`,`匿名信号：${consent?'开启':'关闭'}`)","t('Reading preferences','阅读设置')"]
     ];
     for(const [from,to] of changes){if(!app.includes(from))throw Error('Independent reader adaptation needs review');app=app.replace(from,to);}
     app+="\n$('#consent').hidden=true;$('#allow').disabled=true;$('#forget').disabled=true;\n";

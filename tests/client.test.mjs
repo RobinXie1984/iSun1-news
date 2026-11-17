@@ -43,7 +43,7 @@ async function browser({hidden=false,preview=false,direct=false,pilot=false,cont
   setInterval:fn=>{timers.set(++seq,fn);return seq;},clearInterval:id=>timers.delete(id),setTimeout:()=>++seq,
   IntersectionObserver:class{constructor(fn){this.fn=fn;this.targets=[];this.active=true;observers.push(this);}observe(el){this.targets.push(el);}disconnect(){this.active=false;}},
   fetch:async(url,options={})=>{
-   if(url.startsWith('/api/feed')){feedRequests.push(url);return {ok:true,json:async()=>({stories:fixture})};}
+   if(url.startsWith('/api/feed')){feedRequests.push(url);return {ok:true,json:async()=>({stories:fixture,has_editorial_picks:pilot})};}
    if(url==='/api/signal'){requests.push(JSON.parse(options.body));if(hangSignals)return new Promise(()=>{});return {ok:true};}
    throw Error('Unexpected fetch '+url);
   }});

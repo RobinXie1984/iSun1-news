@@ -13,7 +13,7 @@ test('historical measurements stay unavailable rather than becoming a new zero c
  for(const path of ['/api/metrics','/api/signal','/api/forget']){const r=await reader.fetch(new Request(origin+path,{method:path==='/api/metrics'?'GET':'POST'}));assert.equal(r.status,503);assert.equal((await r.json()).status,'UNKNOWN');}
 });
 test('independent app cannot imply active measurement or allow opt-in',async()=>{
- const r=await reader.fetch(new Request(origin+'/app.js'));const app=await r.text();assert.match(app,/consent=false/);assert.match(app,/analytics paused/);assert.match(app,/allow'\).disabled=true/);assert.doesNotMatch(app,/consent=safeGet/);assert.match(r.headers.get('content-security-policy'),/connect-src 'self'/);
+ const r=await reader.fetch(new Request(origin+'/app.js'));const app=await r.text();assert.match(app,/consent=false/);assert.doesNotMatch(app,/analytics paused/);assert.match(app,/allow'\).disabled=true/);assert.doesNotMatch(app,/consent=safeGet/);assert.match(r.headers.get('content-security-policy'),/connect-src 'self'/);
  assert.equal(readFileSync('public/app.js','utf8').includes("consent=safeGet"),true,'Canonical app remains unchanged');
 });
 test('editorial JPEG assets use the scoped asset binding and fail closed when unavailable',async()=>{

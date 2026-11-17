@@ -16,7 +16,7 @@ const flush = () => new Promise(resolve => setImmediate(resolve));
 
 function browser() {
   const nodes = new Map(), requests = [], listeners = new Map(), timers = new Map();
-  let sequence = 0, fragment = '';
+  let sequence = 0, fragment = '#olympics';
   const element = () => ({innerHTML:'',textContent:'',dataset:{},classList:{add(){},remove(){},toggle(){}},setAttribute(){},addEventListener(){},removeEventListener(){},contains(){return true;},showModal(){},close(){}});
   const node = selector => { if (!nodes.has(selector)) nodes.set(selector,element()); return nodes.get(selector); };
   const main = node('#main');
