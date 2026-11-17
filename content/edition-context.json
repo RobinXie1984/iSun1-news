@@ -5530,6 +5530,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/chatgpt/english.md",
+      "captured_at": "2026-11-17T21:39:06.733790+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/chatgpt/chinese.md",
+      "captured_at": "2026-11-17T21:39:06.733790+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/claude/english.md",
+      "captured_at": "2026-11-17T21:49:24.587447+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/claude/chinese.md",
+      "captured_at": "2026-11-17T21:49:24.587447+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

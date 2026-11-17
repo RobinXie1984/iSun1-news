@@ -1940,6 +1940,23 @@
           "bytes": 273598
         }
       ]
+    },
+    {
+      "topic": "gemini-earth-photos-landsat-long-view",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/gemini-earth-photos-landsat-long-view-600.jpg",
+          "width": 600,
+          "bytes": 56732,
+          "sha256": "18b1f90072de457e7f87ea7f1b14dbc938f178c6f8d70ed6faa2d76cae3de320"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/gemini-earth-photos-landsat-long-view-1200.jpg",
+          "width": 1200,
+          "bytes": 234014,
+          "sha256": "b70fb1b38ea00764a008246b4a890fef1a02cca8d4705710267430ba5efae427"
+        }
+      ]
     }
   ]
 }

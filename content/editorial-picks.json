@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-16T23:23:00.731171+00:00",
+  "selected_at": "2026-11-17T13:53:44.926964+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2042,6 +2042,26 @@
       "headline_index": 0,
       "headline": "查亚峰仍有余冰，最后的冰川是否已停下脚步？",
       "sha256": "7ea5dc7f74b9d26ed03f51294620242e54905026f3250a1ab33f17c7c03804ba"
+    },
+    {
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra develops one continuous river story from the dated Gemini photograph to repeat measurement and the Padma sequence. Its opening supplies the astronauts, mission and historical context, while the growth-chart analogy makes calibration accessible and the ending earns a concrete question.",
+      "topic": "gemini-earth-photos-landsat-long-view",
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Gemini XII Photographed the Nile. What Would It Take to See a River Move?",
+      "sha256": "396cde8fc2aa017221b5b6af3e8e40826a848dc1fb0381589ad92e4e489c8e8e"
+    },
+    {
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude explains the astronauts and mission before the observation question, with a lightly classical Chinese cadence and clearly separated stages. The family-album and doorframe analogy carries the central idea, and the historical causal claim stays attributed.",
+      "topic": "gemini-earth-photos-landsat-long-view",
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "1966年，双子座十二号拍下尼罗河：太空一瞥之后，谁能看清大地在变？",
+      "sha256": "ef583511ba00d752d0e419d489c0554cb6da25da7ff86d8f0341555c3d06e0bd"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 8,
+  "available_count": 12,
   "unavailable_count": 0,
   "articles": [
     {
@@ -91,7 +91,51 @@
       "article_path": "articles/eu-ets-free-allowances-121-million/claude/chinese.md",
       "status": "available",
       "availability_note": "11月12日协议属临时协议，仍须认可、法律文字审定、正式采纳及后续实施细则。约1.21亿份配额包括约8800万、2800万及500万份定向预留，涉及2026至2030年安排，并非年度现金补贴、实测排放或已证实的总上限增加。2800万份源自与未满足条件有关的未分配配额；公告未确立全面豁免。资格、分配、竞争力及排放效果仍须分别检验。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "gemini-earth-photos-landsat-long-view",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/gemini-earth-photos-landsat-long-view.md",
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 17, 2026 (Hong Kong time). NASA’s November 13, 2026 retrospective concerns the November 1966 Gemini XII flight. Mercury and Gemini photography contributed to the case for Earth observation; Pecora’s 1969 account dates EROS conception to 1966. The particular Nile image’s role in a specific decision remains uncertain. Landsat launched in 1972 and provides a connected observation history; usable observations vary by sensor, date, location and conditions. River and growth-chart examples explain measurement and interpretation. The cover is an original conceptual illustration."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "gemini-earth-photos-landsat-long-view",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/gemini-earth-photos-landsat-long-view.md",
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月17日（香港时间）。NASA于2026年11月13日发表的回顾，讲述1966年11月双子座十二号飞行。水星与双子座摄影曾帮助推动地球观测倡议；佩科拉在1969年将EROS构想追溯至1966年。尼罗河照片对某一次决策的具体作用仍待历史记录确认。陆地卫星于1972年启程，长期记录的可用范围随传感器、时间、地点和观测条件而异。河流与身高尺例子用于解释观测方法和解读。封面为原创概念插画。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "gemini-earth-photos-landsat-long-view",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/gemini-earth-photos-landsat-long-view.md",
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 17, 2026 (Hong Kong time). NASA’s November 13, 2026 retrospective concerns the November 1966 Gemini XII flight. Mercury and Gemini photography contributed to the case for Earth observation; Pecora’s 1969 account dates EROS conception to 1966. The particular Nile image’s role in a specific decision remains uncertain. Landsat launched in 1972 and provides a connected observation history; usable observations vary by sensor, date, location and conditions. River and growth-chart examples explain measurement and interpretation. The cover is an original conceptual illustration."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "gemini-earth-photos-landsat-long-view",
+      "event_date": "2026-11-13",
+      "source_brief": "briefs/gemini-earth-photos-landsat-long-view.md",
+      "article_path": "articles/gemini-earth-photos-landsat-long-view/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月17日（香港时间）。NASA于2026年11月13日发表的回顾，讲述1966年11月双子座十二号飞行。水星与双子座摄影曾帮助推动地球观测倡议；佩科拉在1969年将EROS构想追溯至1966年。尼罗河照片对某一次决策的具体作用仍待历史记录确认。陆地卫星于1972年启程，长期记录的可用范围随传感器、时间、地点和观测条件而异。河流与身高尺例子用于解释观测方法和解读。封面为原创概念插画。"
     }
   ],
-  "generated_at": "2026-11-13T23:24:54.978512+00:00"
+  "generated_at": "2026-11-17T13:53:44.921423+00:00"
 }

@@ -24,6 +24,18 @@
         "en": "A provisional heat-and-fuel benchmark deal offers industry support for2026–2030; adoption, eligibility and real emissions outcomes remain separate tests.",
         "zh": "热与燃料基准临时协议拟在2026至2030年支持工业；正式采纳、资格细则及实际排放结果仍需分别核验。"
       }
+    },
+    {
+      "id": "gemini-earth-photos-landsat-long-view",
+      "event_date": "2026-11-13",
+      "title": {
+        "en": "A camera turned toward home",
+        "zh": "镜头转向家园之后"
+      },
+      "summary": {
+        "en": "NASA’s November13 historical account traces how astronaut photographs helped make the case for dedicated Earth observation.",
+        "zh": "NASA于11月13日回顾，宇航员摄影如何帮助推动专门的地球观测计划。"
+      }
     }
   ]
 }

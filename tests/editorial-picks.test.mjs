@@ -102,3 +102,10 @@ test('daily index links select one real archive day and preserve all-day navigat
  assert.equal((main.innerHTML.match(/data-op-story=/g)||[]).length,data.topics.filter(t=>t.archive_date===date).length);
  for(const batch of data.batches)assert.ok(main.innerHTML.includes('href="#stories/'+batch.date+'"'));
 });
+
+test('catch-up display dates resolve exact publication metadata while original input stays exact',()=>{
+ const en='# Headline\n\n*Publication date: [to be inserted by the publisher at release] · Draft prepared November 17, 2026*\n\nStory.',zh='# 标题\n\n*发布日期：［由发布方于发布时填写］· 草稿完成于2026年11月17日*\n\n故事。';
+ assert.match(ui().displayText(en),/Publication date: November 17, 2026/);assert.match(ui().displayText(zh),/发布日期：2026年11月17日/);
+ assert.match(en,/to be inserted/);assert.equal(ui().displayText('A quotation: '+en),'A quotation: '+en);
+ assert.equal(ui().displayText(en.replace('November 17, 2026*','November 18, 2026*')),en.replace('November 17, 2026*','November 18, 2026*'));
+});
