@@ -84,3 +84,5 @@
 .op-stories .op-selected-story figcaption{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;line-height:1.5;margin-top:8px}
 .op-stories>.op-reader-head{border-bottom:0;margin-bottom:8px}
 @media(max-width:600px){.op-stories>.op-reader-head{padding:12px 0 8px}.op-stories .op-archive-day{margin-bottom:2rem}}
+
+.op-reader>.op-dates,.op-reader>.op-topics{display:none}
