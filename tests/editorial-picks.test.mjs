@@ -93,3 +93,12 @@ test('traditional counter-intuitive labels expose the exact original headline, w
  const options=ui().preview(raw).headlines;assert.equal(options.length,3);assert.equal(options[2],'欲得千倍之速，先求一瓦之省，微軟此計非在增機');
  assert.equal(ui().preview('反直覺：原句甲\n逆直覺：原句乙\nSuspenseful: Original three').headlines.length,3);
 });
+
+test('daily index links select one real archive day and preserve all-day navigation',async()=>{
+ const view=ui(),main={innerHTML:'',classList:{add(){},remove(){}},addEventListener(){},removeEventListener(){}};
+ const date=data.batches.at(-1).date;
+ await view.render({main,data,stories:[],lang:'en',hash:'stories/'+date});
+ assert.match(main.innerHTML,/Jump to a day/);assert.ok(main.innerHTML.includes('href="#stories"'));
+ assert.equal((main.innerHTML.match(/data-op-story=/g)||[]).length,data.topics.filter(t=>t.archive_date===date).length);
+ for(const batch of data.batches)assert.ok(main.innerHTML.includes('href="#stories/'+batch.date+'"'));
+});

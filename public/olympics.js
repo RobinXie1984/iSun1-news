@@ -248,7 +248,8 @@ function mediaSourceURL(value){
     const briefPath = 'briefs/' + story?.id + '.md';
     let rawDownload = null, downloadName = '';
     if (route.view === 'stories') {
-      const groups=dates.map((date,index)=>'<section class="op-archive-day" id="day-'+esc(date)+'"><h2>'+ (index===0?t('Latest stories','最新故事')+' · ':'')+esc(date)+'</h2><div class="op-selected-grid">'+topics.filter(item=>item.archive_date===date).map(item=>{
+      const visibleDates=dates.includes(route.topic)?[route.topic]:dates;
+      const groups=visibleDates.map((date,index)=>'<section class="op-archive-day" id="day-'+esc(date)+'"><h2>'+ (index===0?(dates.includes(route.topic)?t('Daily edition','当日故事'):t('Latest stories','最新故事'))+' · ':'')+esc(date)+'</h2><div class="op-selected-grid">'+topics.filter(item=>item.archive_date===date).map(item=>{
         const pick=pickFor(item.id),provider=PROVIDERS.find(([id])=>id===pick?.provider),raw=pick?data.articles[pick.article_path]:null;
         const editions=providersFor(item.id).map(([id,name])=>{
           const available=rows.some(row=>row.topic===item.id&&row.provider===id&&row.language===language&&row.status==='available')||(data.backfills?.entries||[]).some(row=>row.topic===item.id&&row.provider===id&&row.language===language);
@@ -258,7 +259,8 @@ function mediaSourceURL(value){
         }).join('');
         return '<article class="op-selected-story" data-op-story="'+esc(item.id)+'">'+editorialArt(item.id,t,'op-editorial-art op-editorial-thumb')+'<div><p class="op-kicker">'+t('DAILY STORY','每日故事')+'</p><h3>'+link('story/'+item.id,esc(displayTitle(item)))+'</h3><p>'+esc(raw?storyExcerpt(raw):localized(item.summary))+'</p><p class="op-date">'+esc(item.event_date)+' · '+t('Original event / report','原事件／报道日期')+'</p>'+link('story/'+item.id,t('Read the story →','阅读故事 →'),'op-read')+' '+link('olympics/'+item.id,t('Compare editions','比较版本'),'op-brief-link')+'<nav class="op-version-choices" aria-label="'+t('Read another voice','选择写作版本')+'">'+editions+'</nav></div></article>';
       }).join('')+'</div></section>').join('');
-      main.innerHTML='<section class="olympics op-stories"><header class="op-reader-head"><p class="op-kicker">'+t('THE DAILY EDITION','每日选读')+'</p><h1>'+t('Reality is strange enough.','现实，自有奇趣。')+'</h1><p>'+t('Fresh stories. Different voices. Follow your curiosity.','每日故事，各具声色。循着好奇，读下去。')+'</p></header>'+groups+'</section>';
+      const dayIndex='<details class="op-day-index"><summary>'+t('Jump to a day','跳到某一天')+'<span>'+esc(dates.includes(route.topic)?route.topic:dates[0]||'')+'</span></summary><nav aria-label="'+t('Daily story index','每日故事索引')+'">'+link('stories',t('All days','全部日期'),'op-day-link')+dates.map(date=>link('stories/'+date,esc(date),'op-day-link'+(route.topic===date?' is-active':''))).join('')+'</nav></details>';
+      main.innerHTML='<section class="olympics op-stories"><header class="op-reader-head"><p class="op-kicker">'+t('THE DAILY EDITION','每日选读')+'</p><h1>'+t('Reality is strange enough.','现实，自有奇趣。')+'</h1><p>'+t('Fresh stories. Different voices. Follow your curiosity.','每日故事，各具声色。循着好奇，读下去。')+'</p></header>'+dayIndex+groups+'</section>';
     } else if (archiveView) {
       const groups = dates.map(date => '<section class="op-archive-day"><h2>' + link('olympics/' + date,esc(date)) + '</h2><ul>' + topics.filter(item => item.archive_date === date).map(item => '<li>' + link('olympics/' + item.id,esc(displayTitle(item))) + '<p>' + esc(localized(item.summary)) + '</p></li>').join('') + '</ul></section>').join('');
       main.innerHTML = '<section class="olympics">' + archiveNav + '<header class="op-reader-head"><p class="op-kicker">' + t('MODEL OLYMPICS · PERMANENT ARCHIVE','模型奥林匹克 · 永久档案') + '</p><h1>' + t('Every story. Every voice.','每个故事，每种声音。') + '</h1><p>' + t('Browse by collection date. Original event dates remain on each story.','按收录日期浏览；各故事另列原事件日期。') + '</p></header>' + groups + '</section>';
