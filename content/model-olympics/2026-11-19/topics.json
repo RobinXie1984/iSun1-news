@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "wagner-oil-unit-emergency-hours",
+      "title": {
+        "en": "When a power plant reaches its legal limit, what keeps the grid ready?",
+        "zh": "电厂用尽获准时数后，电网如何备战？"
+      },
+      "summary": {
+        "en": "A November17DOErenewal effectiveNovember18keeps oil-firedWagner4conditionallyavailable beyond its annualhourlimit throughDecember31, with settlement, reporting and environmentalconditions.",
+        "zh": "11月17日续发、18日生效的能源部命令，让燃油瓦格纳四号机组可有条件超出年度时数限制，期限至12月31日，保留和解、报告与环境条件。"
+      },
+      "event_date": "2026-11-18"
+    }
+  ]
+}

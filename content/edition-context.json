@@ -5670,6 +5670,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/wagner-oil-unit-emergency-hours/chatgpt/english.md",
+      "captured_at": "2026-11-19T07:23:45.552415+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/wagner-oil-unit-emergency-hours/chatgpt/chinese.md",
+      "captured_at": "2026-11-19T07:23:45.552415+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/wagner-oil-unit-emergency-hours/claude/english.md",
+      "captured_at": "2026-11-19T07:33:10.691607+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/wagner-oil-unit-emergency-hours/claude/chinese.md",
+      "captured_at": "2026-11-19T07:33:10.691607+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

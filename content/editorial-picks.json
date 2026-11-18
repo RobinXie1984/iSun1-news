@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-17T23:32:11.086909+00:00",
+  "selected_at": "2026-11-18T23:34:05.245435+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2142,6 +2142,26 @@
       "headline_index": 0,
       "headline": "AI让功课变容易之后，学生学会了什么？",
       "sha256": "e1991627f22164fc4e3f3aa3d31d199a0d46d6e8f4dcac1ff78cbb3f52f762c8"
+    },
+    {
+      "topic": "wagner-oil-unit-emergency-hours",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude turns the exhausted permission allowance into an accessible puzzle, then explains both dispatch routes and the legal footnote in a clear sequence. Its corrected title speaks about emergency permission; it retains the difference between forecast and outcome. Astra is accurate and preserved, while its longer reflective chain makes the practical conditions harder to scan.",
+      "article_path": "articles/wagner-oil-unit-emergency-hours/claude/english.md",
+      "headline_index": 0,
+      "headline": "PJM Says Wagner 4's Oil Hours Are Spent. Why Did Washington Extend Its Emergency Permission Until New Year's Eve?",
+      "sha256": "6f53581205f3a2c671baf3aa9deae186990255f038a3a1eacab15c1f2b28ed68"
+    },
+    {
+      "topic": "wagner-oil-unit-emergency-hours",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "The Chinese independently earns selection through warm, restrained narration and clear sections on the two operating routes, continuing environmental duties and legal dispute. Its hypothetical bridge remains explicitly bounded by electricity physics. Astra’s complete Chinese remains available; Claude offers fuller legal context and a more natural light classical cadence.",
+      "article_path": "articles/wagner-oil-unit-emergency-hours/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "PJM称其燃油时数已尽：华盛顿为何把紧急许可延至年末最后一夜？",
+      "sha256": "ad0ca776d592388fdf91aa62acbbf70b9349650d2f0d6da32b5f010eceb4635f"
     }
   ]
 }

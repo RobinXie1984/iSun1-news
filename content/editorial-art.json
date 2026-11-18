@@ -2033,6 +2033,25 @@
           "bytes": 324654
         }
       ]
+    },
+    {
+      "topic": "wagner-oil-unit-emergency-hours",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/wagner-oil-unit-emergency-hours-600.jpg",
+          "sha256": "5095721db7a567ff1f901f3b41fcbd887ea03fa4695c2432323cfef3c08b39cb",
+          "bytes": 98692
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/wagner-oil-unit-emergency-hours-1200.jpg",
+          "sha256": "9f9ca9963cde4a39b2dc2f387f1768d8f2db20bcf807fb20a9acbc9e7c262db0",
+          "bytes": 416463
+        }
+      ]
     }
   ]
 }

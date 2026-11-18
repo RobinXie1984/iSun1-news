@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "wagner-oil-unit-emergency-hours",
+      "event_date": "2026-11-18",
+      "source_brief": "briefs/wagner-oil-unit-emergency-hours.md",
+      "article_path": "articles/wagner-oil-unit-emergency-hours/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "DOE issued Order 202-26-25B on November 17, 2026, effective November 18–December 31. PJM’s zero remaining hours is an attributed estimate of regulatory allowance, not fuel or physical capacity. The order retains anticipated-alert and FERC-settlement dispatch routes, reporting, environmental obligations and operating parameters. The settlement route includes required testing in the application’s excerpt. The order and renewal PDFs and official chronology were inspected; actual generation, costs, emissions, grid models and broader court-docket outcomes were not independently verified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "wagner-oil-unit-emergency-hours",
+      "event_date": "2026-11-18",
+      "source_brief": "briefs/wagner-oil-unit-emergency-hours.md",
+      "article_path": "articles/wagner-oil-unit-emergency-hours/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "能源部于2026年11月17日签发202-26-25B号命令，11月18日至12月31日生效。PJM所称剩余零小时，是获准运行额度的估计，并非燃料或物理容量。命令保留预期警报与FERC和解协议两条调度路径，以及报告、环境义务和运行参数；申请摘录中的和解路径包括必要测试。本文查阅命令、续期申请与官方时间线，未独立核实实际发电、成本、排放、电网模型或更广泛法院程序结果。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "wagner-oil-unit-emergency-hours",
+      "event_date": "2026-11-18",
+      "source_brief": "briefs/wagner-oil-unit-emergency-hours.md",
+      "article_path": "articles/wagner-oil-unit-emergency-hours/claude/english.md",
+      "status": "available",
+      "availability_note": "DOE issued Order 202-26-25B on November 17, 2026, effective November 18–December 31. PJM’s zero remaining hours is an attributed estimate of regulatory allowance, not fuel or physical capacity. The order retains anticipated-alert and FERC-settlement dispatch routes, reporting, environmental obligations and operating parameters. The settlement route includes required testing in the application’s excerpt. The order and renewal PDFs and official chronology were inspected; actual generation, costs, emissions, grid models and broader court-docket outcomes were not independently verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "wagner-oil-unit-emergency-hours",
+      "event_date": "2026-11-18",
+      "source_brief": "briefs/wagner-oil-unit-emergency-hours.md",
+      "article_path": "articles/wagner-oil-unit-emergency-hours/claude/chinese.md",
+      "status": "available",
+      "availability_note": "能源部于2026年11月17日签发202-26-25B号命令，11月18日至12月31日生效。PJM所称剩余零小时，是获准运行额度的估计，并非燃料或物理容量。命令保留预期警报与FERC和解协议两条调度路径，以及报告、环境义务和运行参数；申请摘录中的和解路径包括必要测试。本文查阅命令、续期申请与官方时间线，未独立核实实际发电、成本、排放、电网模型或更广泛法院程序结果。"
+    }
+  ],
+  "generated_at": "2026-11-18T23:34:05.243743+00:00"
+}
