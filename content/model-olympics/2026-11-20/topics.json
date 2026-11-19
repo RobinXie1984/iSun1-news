@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "mars-perseverance-odyssey-backup-margins",
+      "title": {
+        "en": "Two Mars missions retain contact while their backup margins narrow",
+        "zh": "两项火星任务仍有联系，备用余量却在收窄"
+      },
+      "summary": {
+        "en": "NASA’s November 19 update describes separate radio and reaction-wheel problems affecting Perseverance and Odyssey. Contact and protective systems survive while science pauses; restart goals and fuel estimates remain uncertain.",
+        "zh": "NASA于11月19日说明毅力号与奥德赛号各自的无线电、反作用轮问题。通信与保护系统仍在发挥作用，科学工作暂停，复工目标及燃料估计仍有不确定性。"
+      },
+      "event_date": "2026-11-19"
+    }
+  ]
+}

@@ -2052,6 +2052,25 @@
           "bytes": 416463
         }
       ]
+    },
+    {
+      "topic": "mars-perseverance-odyssey-backup-margins",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/mars-perseverance-odyssey-backup-margins-600.jpg",
+          "sha256": "5c586109a292cd2141d7c98aaa91e27777ccdb4a9fdf26387b622cb26d8378a3",
+          "bytes": 78353
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/mars-perseverance-odyssey-backup-margins-1200.jpg",
+          "sha256": "c116096bc2a0fe45aab76bfd4af4212e514e8d8ea2bdcb31c7c3aad3a96ac3c6",
+          "bytes": 329729
+        }
+      ]
     }
   ]
 }

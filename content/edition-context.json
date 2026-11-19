@@ -5698,6 +5698,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/chatgpt/english.md",
+      "captured_at": "2026-11-20T07:20:49.528480+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/chatgpt/chinese.md",
+      "captured_at": "2026-11-20T07:20:49.528480+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/claude/english.md",
+      "captured_at": "2026-11-20T07:20:52.823191+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/claude/chinese.md",
+      "captured_at": "2026-11-20T07:20:52.823191+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "mars-perseverance-odyssey-backup-margins",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/mars-perseverance-odyssey-backup-margins.md",
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Status follows NASA’s November 19, 2026 update. Perseverance’s radio issues and Odyssey’s reaction-wheel problem are separate. Both retain contact; science is paused. Backup-radio power differs from data rate, and Odyssey’s one–two-month fuel estimate assumes thruster-only orientation while estimates are refined. A wheel moving in one test differs from confirmed recovery. Restart dates are goals. Primary status and network descriptions were inspected; diagnostic logs, fuel measurements and later recovery outcomes were not independently verified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "mars-perseverance-odyssey-backup-margins",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/mars-perseverance-odyssey-backup-margins.md",
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "状态依据NASA于2026年11月19日的通报。毅力号无线电与奥德赛号反作用轮各有故障，两者仍保持联系，科学工作暂停。备用无线电功率与数据率不同；奥德赛号一至两个月燃料估计以仅靠推进器定向为前提，估计仍在修订。一次测试能转动与确认恢复不同，复工日期属于目标。本文查阅状态与网络说明，未独立核实诊断日志、燃料测量或后续恢复结果。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "mars-perseverance-odyssey-backup-margins",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/mars-perseverance-odyssey-backup-margins.md",
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/claude/english.md",
+      "status": "available",
+      "availability_note": "Status follows NASA’s November 19, 2026 update. Perseverance’s radio issues and Odyssey’s reaction-wheel problem are separate. Both retain contact; science is paused. Backup-radio power differs from data rate, and Odyssey’s one–two-month fuel estimate assumes thruster-only orientation while estimates are refined. A wheel moving in one test differs from confirmed recovery. Restart dates are goals. Primary status and network descriptions were inspected; diagnostic logs, fuel measurements and later recovery outcomes were not independently verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "mars-perseverance-odyssey-backup-margins",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/mars-perseverance-odyssey-backup-margins.md",
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/claude/chinese.md",
+      "status": "available",
+      "availability_note": "状态依据NASA于2026年11月19日的通报。毅力号无线电与奥德赛号反作用轮各有故障，两者仍保持联系，科学工作暂停。备用无线电功率与数据率不同；奥德赛号一至两个月燃料估计以仅靠推进器定向为前提，估计仍在修订。一次测试能转动与确认恢复不同，复工日期属于目标。本文查阅状态与网络说明，未独立核实诊断日志、燃料测量或后续恢复结果。"
+    }
+  ],
+  "generated_at": "2026-11-19T23:21:54.807682+00:00"
+}

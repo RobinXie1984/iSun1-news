@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-18T23:34:05.245435+00:00",
+  "selected_at": "2026-11-19T23:21:54.809384+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2162,6 +2162,26 @@
       "headline_index": 0,
       "headline": "PJM称其燃油时数已尽：华盛顿为何把紧急许可延至年末最后一夜？",
       "sha256": "ad0ca776d592388fdf91aa62acbbf70b9349650d2f0d6da32b5f010eceb4635f"
+    },
+    {
+      "topic": "mars-perseverance-odyssey-backup-margins",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra gives a continuous, accessible account of contact, science throughput and pointing fuel. The parcel-van/telephone analogy explains capacity while preserving the radio/fuel denominators, and its recovery question follows directly from the engineering chain. Claude’s complete reviewed English remains available; Astra is more concise and less heavily staged.",
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Two Mars Missions Still Answer Earth. What Will It Take to Bring Their Science Back?",
+      "sha256": "f2a1aa595d40f87181b5abb1d082db3c743047baf76538bf112365997b325eef"
+    },
+    {
+      "topic": "mars-perseverance-odyssey-backup-margins",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude’s Chinese independently earns selection for its warm delivery-business analogy, clear sections and restrained classical cadence. The corrected date window, aimable antenna, stopped UHF use and conditional fuel estimate remain explicit. Astra’s full Chinese is preserved as an alternative; Claude gives the narrative a more distinctive voice without dropping technical coverage.",
+      "article_path": "articles/mars-perseverance-odyssey-backup-margins/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "火星双警：备用之物，能把科学送回家吗？",
+      "sha256": "0262bb7a6b3490f4e2bd5b25746656598bc91e7e06a236cefd696b29e6d2f7f5"
     }
   ]
 }
