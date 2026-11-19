@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/mars-perseverance-odyssey-backup-margins/claude/chinese.md",
       "status": "available",
       "availability_note": "状态依据NASA于2026年11月19日的通报。毅力号无线电与奥德赛号反作用轮各有故障，两者仍保持联系，科学工作暂停。备用无线电功率与数据率不同；奥德赛号一至两个月燃料估计以仅靠推进器定向为前提，估计仍在修订。一次测试能转动与确认恢复不同，复工日期属于目标。本文查阅状态与网络说明，未独立核实诊断日志、燃料测量或后续恢复结果。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "atacama-bloom-satellite-era-seed-bank",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/atacama-bloom-satellite-era-seed-bank.md",
+      "article_path": "articles/atacama-bloom-satellite-era-seed-bank/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "NASA’s November 19, 2026 account describes September–October flowering after a wet austral winter. The possible satellite-era record is a scientist’s qualified assessment. Satellite dates, ground-photo dates and tentative species identifications are distinct. Biodiversity mapping and conservation applications are research aims; lasting ecological recovery and measured management benefits remain unverified. Primary article/captions and instrument background were inspected; underlying imagery, field records and historical papers were not independently reanalysed."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "atacama-bloom-satellite-era-seed-bank",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/atacama-bloom-satellite-era-seed-bank.md",
+      "article_path": "articles/atacama-bloom-satellite-era-seed-bank/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "NASA于2026年11月19日介绍湿冬之后9—10月的花期。可能创下卫星观测时代纪录，是科学家保留限定的判断；卫星日期、地面照片日期及暂定物种鉴定各有范围。生物多样性制图与保育应用属于研究目标，长期生态恢复及管理成效仍待验证。本文查阅原报道、图说及仪器背景，未独立重算影像、野外记录或历史论文。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "atacama-bloom-satellite-era-seed-bank",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/atacama-bloom-satellite-era-seed-bank.md",
+      "article_path": "articles/atacama-bloom-satellite-era-seed-bank/claude/english.md",
+      "status": "available",
+      "availability_note": "NASA’s November 19, 2026 account describes September–October flowering after a wet austral winter. The possible satellite-era record is a scientist’s qualified assessment. Satellite dates, ground-photo dates and tentative species identifications are distinct. Biodiversity mapping and conservation applications are research aims; lasting ecological recovery and measured management benefits remain unverified. Primary article/captions and instrument background were inspected; underlying imagery, field records and historical papers were not independently reanalysed."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "atacama-bloom-satellite-era-seed-bank",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/atacama-bloom-satellite-era-seed-bank.md",
+      "article_path": "articles/atacama-bloom-satellite-era-seed-bank/claude/chinese.md",
+      "status": "available",
+      "availability_note": "NASA于2026年11月19日介绍湿冬之后9—10月的花期。可能创下卫星观测时代纪录，是科学家保留限定的判断；卫星日期、地面照片日期及暂定物种鉴定各有范围。生物多样性制图与保育应用属于研究目标，长期生态恢复及管理成效仍待验证。本文查阅原报道、图说及仪器背景，未独立重算影像、野外记录或历史论文。"
     }
   ],
-  "generated_at": "2026-11-19T23:21:54.807682+00:00"
+  "generated_at": "2026-11-19T23:27:37.677905+00:00"
 }

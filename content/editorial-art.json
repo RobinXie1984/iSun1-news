@@ -2071,6 +2071,25 @@
           "bytes": 329729
         }
       ]
+    },
+    {
+      "topic": "atacama-bloom-satellite-era-seed-bank",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/atacama-bloom-satellite-era-seed-bank-600.jpg",
+          "sha256": "e4b0abb4db7cfe301a398025f02a977e2dbe14c786dde4fd41f3c6f02a680373",
+          "bytes": 87051
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/atacama-bloom-satellite-era-seed-bank-1200.jpg",
+          "sha256": "4cf5723fe89fbff771d76e7e99f90f6b74b6f59f652e3b954591aaa3bbdc8fac",
+          "bytes": 381528
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-19T23:21:54.809384+00:00",
+  "selected_at": "2026-11-19T23:27:37.680448+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2182,6 +2182,26 @@
       "headline_index": 0,
       "headline": "火星双警：备用之物，能把科学送回家吗？",
       "sha256": "0262bb7a6b3490f4e2bd5b25746656598bc91e7e06a236cefd696b29e6d2f7f5"
+    },
+    {
+      "topic": "atacama-bloom-satellite-era-seed-bank",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra links dormant seeds, weather, dated satellite observations and the conservation question in a clear continuous narrative. Its concise explanations retain the seasonal and evidence limits without interrupting the story as often. Claude’s complete reviewed English is preserved.",
+      "article_path": "articles/atacama-bloom-satellite-era-seed-bank/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "The Atacama Has Burst Into Flower. What Will Remain After the Colours Fade?",
+      "sha256": "44c74a5b5d8c8be227142cf634bfdce5a810b4371960a16b8f8126e711cd6f0e"
+    },
+    {
+      "topic": "atacama-bloom-satellite-era-seed-bank",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude’s Chinese makes the desert’s waiting seeds and the brief flowering window vivid with restrained imagery and clear sections. It preserves the two locations, observation dates, uncertain species and project-evidence boundary. Astra’s complete Chinese remains available; selection follows this language’s narrative strengths.",
+      "article_path": "articles/atacama-bloom-satellite-era-seed-bank/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "阿塔卡马一季花开，花谢之后，土里还藏着什么？",
+      "sha256": "d5fbc7a6dc45fc39d7dd53292fd474aa08c60bd8be7ab0dbb18c467ade3d9ef3"
     }
   ]
 }
