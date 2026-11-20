@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "dry-ultrasound-interface-three-tests",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/dry-ultrasound-interface-three-tests.md",
+      "article_path": "articles/dry-ultrasound-interface-three-tests/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review follows MIT’s November 19,2026 report and NIH ultrasound background. Nine-day imaging was a synthetic phantom test; the ten-minute chest sweat test and thirty-minute neck-patch cycling demonstration were separate. The cycling patch connected to a portable tablet. These results support a materials advance; clinical effectiveness, longer human use and production outcomes were not independently verified. The full Science paper was inaccessible; MIT’s labelled repository link resolved to an unrelated thesis and was excluded."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "dry-ultrasound-interface-three-tests",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/dry-ultrasound-interface-three-tests.md",
+      "article_path": "articles/dry-ultrasound-interface-three-tests/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查依据MIT于2026年11月19日的报道及NIH超声背景资料。九天成像属于合成模型测试；十分钟胸部汗液测试、三十分钟颈部贴片骑行展示分别进行，骑行贴片连接便携平板。这些结果支持材料进展，临床效果、长期人体使用及量产成效未获独立核实。Science全文未能访问；MIT标注的仓储链接跳转至无关论文，已排除。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "dry-ultrasound-interface-three-tests",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/dry-ultrasound-interface-three-tests.md",
+      "article_path": "articles/dry-ultrasound-interface-three-tests/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review follows MIT’s November 19,2026 report and NIH ultrasound background. Nine-day imaging was a synthetic phantom test; the ten-minute chest sweat test and thirty-minute neck-patch cycling demonstration were separate. The cycling patch connected to a portable tablet. These results support a materials advance; clinical effectiveness, longer human use and production outcomes were not independently verified. The full Science paper was inaccessible; MIT’s labelled repository link resolved to an unrelated thesis and was excluded."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "dry-ultrasound-interface-three-tests",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/dry-ultrasound-interface-three-tests.md",
+      "article_path": "articles/dry-ultrasound-interface-three-tests/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查依据MIT于2026年11月19日的报道及NIH超声背景资料。九天成像属于合成模型测试；十分钟胸部汗液测试、三十分钟颈部贴片骑行展示分别进行，骑行贴片连接便携平板。这些结果支持材料进展，临床效果、长期人体使用及量产成效未获独立核实。Science全文未能访问；MIT标注的仓储链接跳转至无关论文，已排除。"
+    }
+  ],
+  "generated_at": "2026-11-20T23:30:46.376247+00:00"
+}

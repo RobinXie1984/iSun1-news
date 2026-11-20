@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-19T23:27:37.680448+00:00",
+  "selected_at": "2026-11-20T23:30:46.377858+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2202,6 +2202,26 @@
       "headline_index": 0,
       "headline": "阿塔卡马一季花开，花谢之后，土里还藏着什么？",
       "sha256": "d5fbc7a6dc45fc39d7dd53292fd474aa08c60bd8be7ab0dbb18c467ade3d9ef3"
+    },
+    {
+      "topic": "dry-ultrasound-interface-three-tests",
+      "language": "en",
+      "provider": "claude",
+      "reason": "Claude earns English selection for its concrete bike-ride hook, accessible explanation of coupling and the molecular setback/reinforcement story. Corrected scope preserves the distinct nine-day, ten-minute and thirty-minute tests. Astra’s full reviewed English remains available.",
+      "article_path": "articles/dry-ultrasound-interface-three-tests/claude/english.md",
+      "headline_index": 0,
+      "headline": "A Dry Patch Kept an Ultrasound Image Going on a Bike Ride. Could It Last Beyond the Exam Room?",
+      "sha256": "f11d6d7f7234eb0204c1be6a886550b15f0101aced940bed4f9d5106f737c959"
+    },
+    {
+      "topic": "dry-ultrasound-interface-three-tests",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s Chinese gives the scientific chain a continuous, clear rhythm with restrained warmth. The corrected phantom description and separate test durations remain precise; its explanation is less densely staged than Claude’s complete alternative.",
+      "article_path": "articles/dry-ultrasound-interface-three-tests/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "一片干式贴片，能让超声影像随人而行多久？",
+      "sha256": "2277ccf7a434605ac32f9cfc583fc06b31c5d8ed4257491f3813e165d678b0d5"
     }
   ]
 }

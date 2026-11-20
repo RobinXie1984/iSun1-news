@@ -5754,6 +5754,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dry-ultrasound-interface-three-tests/chatgpt/english.md",
+      "captured_at": "2026-11-21T07:28:57.993636+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dry-ultrasound-interface-three-tests/chatgpt/chinese.md",
+      "captured_at": "2026-11-21T07:28:57.993636+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dry-ultrasound-interface-three-tests/claude/english.md",
+      "captured_at": "2026-11-21T07:16:20.290129+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/dry-ultrasound-interface-three-tests/claude/chinese.md",
+      "captured_at": "2026-11-21T07:16:20.290129+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }
