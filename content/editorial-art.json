@@ -2109,6 +2109,25 @@
           "bytes": 487220
         }
       ]
+    },
+    {
+      "topic": "eu-uk-youth-experience-three-clocks",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/eu-uk-youth-experience-three-clocks-600.jpg",
+          "sha256": "b0a4a2168bd4933fdc0ec92c5a9d7a83f785641c6b810af1ea315f1a47c8be3a",
+          "bytes": 110759
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/eu-uk-youth-experience-three-clocks-1200.jpg",
+          "sha256": "4c903deda2345f31b785713c348f480cb3bc1b14434cfd7f6732b757cdfd0af9",
+          "bytes": 457122
+        }
+      ]
     }
   ]
 }

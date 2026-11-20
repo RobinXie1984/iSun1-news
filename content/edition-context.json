@@ -5782,6 +5782,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/chatgpt/english.md",
+      "captured_at": "2026-11-21T07:17:21.883511+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/chatgpt/chinese.md",
+      "captured_at": "2026-11-21T07:17:21.883511+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/claude/english.md",
+      "captured_at": "2026-11-21T07:28:42.804301+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/claude/chinese.md",
+      "captured_at": "2026-11-21T07:28:42.804301+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

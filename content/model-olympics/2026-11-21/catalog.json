@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/dry-ultrasound-interface-three-tests/claude/chinese.md",
       "status": "available",
       "availability_note": "来源核查依据MIT于2026年11月19日的报道及NIH超声背景资料。九天成像属于合成模型测试；十分钟胸部汗液测试、三十分钟颈部贴片骑行展示分别进行，骑行贴片连接便携平板。这些结果支持材料进展，临床效果、长期人体使用及量产成效未获独立核实。Science全文未能访问；MIT标注的仓储链接跳转至无关论文，已排除。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-uk-youth-experience-three-clocks",
+      "event_date": "2026-11-20",
+      "source_brief": "briefs/eu-uk-youth-experience-three-clocks.md",
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review follows the EU’s November 20,2026 summit account, joint statement 16174/26 and Costa’s remarks. The proposed youth scheme specifies 100,000 people in each direction, stays up to three years, an aim to apply the agreement by 2028 and an endeavour to make opportunities available by January 2030. Erasmus 2027 and a six-month tuition-fee negotiation goal are separate. Timeline comparisons concern the milestones listed here, not the full cooperation history. The statement establishes announced positions and stages; enacted legal details, applications, actual fees and realised outcomes were not independently verified."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-uk-youth-experience-three-clocks",
+      "event_date": "2026-11-20",
+      "source_brief": "briefs/eu-uk-youth-experience-three-clocks.md",
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查依据欧盟2026年11月20日峰会记录、联合声明16174/26及科斯塔发言。青年计划指双方各10万人、每次居留最长三年，目标不迟于2028年适用协议，并努力不迟于2030年1月提供机会。2027年Erasmus及六个月学费谈判目标各属不同路径。时间比较仅指本文列出的节点，并非全部合作历史。声明证明已公布的立场和阶段，生效法律细节、申请办法、实际学费及落实成效未获独立核实。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-uk-youth-experience-three-clocks",
+      "event_date": "2026-11-20",
+      "source_brief": "briefs/eu-uk-youth-experience-three-clocks.md",
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review follows the EU’s November 20,2026 summit account, joint statement 16174/26 and Costa’s remarks. The proposed youth scheme specifies 100,000 people in each direction, stays up to three years, an aim to apply the agreement by 2028 and an endeavour to make opportunities available by January 2030. Erasmus 2027 and a six-month tuition-fee negotiation goal are separate. Timeline comparisons concern the milestones listed here, not the full cooperation history. The statement establishes announced positions and stages; enacted legal details, applications, actual fees and realised outcomes were not independently verified."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-uk-youth-experience-three-clocks",
+      "event_date": "2026-11-20",
+      "source_brief": "briefs/eu-uk-youth-experience-three-clocks.md",
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核查依据欧盟2026年11月20日峰会记录、联合声明16174/26及科斯塔发言。青年计划指双方各10万人、每次居留最长三年，目标不迟于2028年适用协议，并努力不迟于2030年1月提供机会。2027年Erasmus及六个月学费谈判目标各属不同路径。时间比较仅指本文列出的节点，并非全部合作历史。声明证明已公布的立场和阶段，生效法律细节、申请办法、实际学费及落实成效未获独立核实。"
     }
   ],
-  "generated_at": "2026-11-20T23:30:46.376247+00:00"
+  "generated_at": "2026-11-20T23:35:17.591870+00:00"
 }

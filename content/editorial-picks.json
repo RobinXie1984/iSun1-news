@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-20T23:30:46.377858+00:00",
+  "selected_at": "2026-11-20T23:35:17.594684+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2222,6 +2222,26 @@
       "headline_index": 0,
       "headline": "一片干式贴片，能让超声影像随人而行多久？",
       "sha256": "2277ccf7a434605ac32f9cfc583fc06b31c5d8ed4257491f3813e165d678b0d5"
+    },
+    {
+      "topic": "eu-uk-youth-experience-three-clocks",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra’s English explains the number, personal stay duration and separate policy clocks in a clear planning narrative, with a bounded hypothetical community-centre analogy. The legal goals and unknown annual denominator stay visible. Claude’s complete reviewed alternative is preserved.",
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "100,000 Places Each Way—When Will the Door Open?",
+      "sha256": "289fb1e00c44dc766b204a72f5791b746f5b77bb1b648fc25404d55e4d9cd764"
+    },
+    {
+      "topic": "eu-uk-youth-experience-three-clocks",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s Chinese independently earns selection for its especially clear institutional-versus-individual application distinction and natural household-planning explanation. The inclusive dates and tuition target stay distinct. Claude’s warmer, more sectioned alternative is preserved with the limited timeline scope clarified separately.",
+      "article_path": "articles/eu-uk-youth-experience-three-clocks/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "每方十万个名额，年轻人何时能走进这扇门？",
+      "sha256": "87c9df420dabb88555c386dcc0a10e77976eafc763ceb737a59e2771f67f1354"
     }
   ]
 }
