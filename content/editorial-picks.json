@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-20T23:35:17.594684+00:00",
+  "selected_at": "2026-11-21T23:25:52.259309+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2242,6 +2242,26 @@
       "headline_index": 0,
       "headline": "每方十万个名额，年轻人何时能走进这扇门？",
       "sha256": "87c9df420dabb88555c386dcc0a10e77976eafc763ceb737a59e2771f67f1354"
+    },
+    {
+      "topic": "chariot-two-telescopes-glass-chip",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra explains the wave-measurement mechanism and the contrast between collecting area and resolving power in a continuous readable story, while keeping the dated tests and precision/loss boundaries clear. Claude’s complete corrected English is preserved as an independent, more sectioned alternative.",
+      "article_path": "articles/chariot-two-telescopes-glass-chip/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "A Tiny Glass Chip Joined Two Telescopes’ Starlight. How Much Further Can It See?",
+      "sha256": "0001156aa10e1b8eef4b5d95518d806aaacbff83740a51193822f98c380c85ec"
+    },
+    {
+      "topic": "chariot-two-telescopes-glass-chip",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s Chinese carries the full measurement/chronology account in clear modern prose with restrained cadence. Its explanation of raw precision, brightness and calibration is easier to follow than the more ornate full Claude alternative. This language choice was considered separately from English.",
+      "article_path": "articles/chariot-two-telescopes-glass-chip/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "一枚玻璃芯片接合了两座望远镜的星光，更暗处还能看清多少？",
+      "sha256": "13d4cf99b6869f4933052a80695e974d131c130859a72d52dbec82763026560f"
     }
   ]
 }

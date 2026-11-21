@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "chariot-two-telescopes-glass-chip",
+      "title": {
+        "en": "A glass chip links two telescopes under real skies",
+        "zh": "一片玻璃芯片，把两台望远镜的星光接起来"
+      },
+      "summary": {
+        "en": "NSF’s November 19 update highlights CHARIOT’s two-beam photonic demonstration. Its 2024–25 sky tests show a useful engineering advance, with telescope infrastructure and faint-star limits still substantial.",
+        "zh": "NSF于11月19日介绍CHARIOT双光束光子芯片示范。2024至2025年的观测体现工程进展，望远镜基础设施与暗星精度仍有明确边界。"
+      },
+      "event_date": "2026-11-19"
+    }
+  ]
+}

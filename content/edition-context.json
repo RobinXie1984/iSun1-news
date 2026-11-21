@@ -5810,6 +5810,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chariot-two-telescopes-glass-chip/chatgpt/english.md",
+      "captured_at": "2026-11-22T07:11:19.437121+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chariot-two-telescopes-glass-chip/chatgpt/chinese.md",
+      "captured_at": "2026-11-22T07:11:19.437121+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chariot-two-telescopes-glass-chip/claude/english.md",
+      "captured_at": "2026-11-22T07:24:50.313931+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/chariot-two-telescopes-glass-chip/claude/chinese.md",
+      "captured_at": "2026-11-22T07:24:50.313931+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

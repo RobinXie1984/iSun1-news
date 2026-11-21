@@ -2128,6 +2128,25 @@
           "bytes": 457122
         }
       ]
+    },
+    {
+      "topic": "chariot-two-telescopes-glass-chip",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/chariot-two-telescopes-glass-chip-600.jpg",
+          "sha256": "2393505d77e3cc276c267a04e4599a34231ef8473b04932615e4e4efd4ba9611",
+          "bytes": 83751
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/chariot-two-telescopes-glass-chip-1200.jpg",
+          "sha256": "787daac3d615b2ee7f69a1f29f86a5fef82da2d5743b292146ce26cfb958cb70",
+          "bytes": 401851
+        }
+      ]
     }
   ]
 }
