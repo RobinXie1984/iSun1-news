@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-21T23:25:52.259309+00:00",
+  "selected_at": "2026-11-21T23:30:57.814245+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2262,6 +2262,26 @@
       "headline_index": 0,
       "headline": "一枚玻璃芯片接合了两座望远镜的星光，更暗处还能看清多少？",
       "sha256": "13d4cf99b6869f4933052a80695e974d131c130859a72d52dbec82763026560f"
+    },
+    {
+      "topic": "eu-mff-costa-three-budget-baselines",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra turns the three-baseline puzzle into one continuous explanation, using paired price columns and a clear financing question with fewer categorical detours. Its source-qualified examples and proposed-versus-paid distinctions remain accessible. Claude’s complete independently reviewed fourth English revision is preserved.",
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Europe’s €204 Billion Budget Trim Has a Research Promise Inside—Can the Bargain Hold?",
+      "sha256": "f9644ed2aace11b658f2fb08ee62eff51f5757ef168b7ee6c618e02363ad5597"
+    },
+    {
+      "topic": "eu-mff-costa-three-budget-baselines",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s Chinese preserves all substantive calculations and procedural uncertainty with clearer modern pacing, readable currency conversions and restrained imagery. Its corrected title identifies funding and comparison bases. Claude’s complete third Chinese revision is retained; this language decision was considered separately.",
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "欧盟预算拟低于委员会提案，研究经费按2025年价格高于现行2021—2027年计划：这笔账能谈成吗？",
+      "sha256": "85ae1f000d2a9c5b76fa58c0e71c897a91939deec6e18dd217774f9144cf3fb7"
     }
   ]
 }

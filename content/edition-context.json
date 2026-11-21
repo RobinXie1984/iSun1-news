@@ -5838,6 +5838,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/chatgpt/english.md",
+      "captured_at": "2026-11-22T07:24:12.981590+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/chatgpt/chinese.md",
+      "captured_at": "2026-11-22T07:24:12.981590+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/claude/english.md",
+      "captured_at": "2026-11-22T07:25:59.744933+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/claude/chinese.md",
+      "captured_at": "2026-11-22T07:25:59.744933+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

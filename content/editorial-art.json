@@ -2147,6 +2147,25 @@
           "bytes": 401851
         }
       ]
+    },
+    {
+      "topic": "eu-mff-costa-three-budget-baselines",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/eu-mff-costa-three-budget-baselines-600.jpg",
+          "sha256": "0d0f10ea47db8172bae9e634064cafcff3a2a11f99e378e3d2e6d79c10ea35de",
+          "bytes": 64952
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/eu-mff-costa-three-budget-baselines-1200.jpg",
+          "sha256": "ca0a9d62e5fa2c8e4b8667371205f650cbb4a1e309d933aa2b42b50d6dfdd8df",
+          "bytes": 281921
+        }
+      ]
     }
   ]
 }

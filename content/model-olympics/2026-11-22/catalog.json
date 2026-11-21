@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/chariot-two-telescopes-glass-chip/claude/chinese.md",
       "status": "available",
       "availability_note": "核查依据NSF于2026年11月19日的更新、赫瑞瓦特大学10月27日原报道及作者9月28日预印本。工程观测在2024至2025年完成，芯片在六台望远镜组成的CHARA阵列内合并两束光。亮星条纹可见度平方的精度不同于成像准确度及暗星表现，观测基础设施仍然庞大。期刊正文未能访问，NSF转述大学报道；本次核查未确立独立重复验证、商业节省或实际行星发现。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-mff-costa-three-budget-baselines",
+      "event_date": "2026-11-21",
+      "source_brief": "briefs/eu-mff-costa-three-budget-baselines.md",
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review follows Costa’s November 21, 2026 proposal, draft conclusions 15692/26, summary table 16196/26 and the Council’s procedural explainer. A roughly 10% reduction compares with the Commission’s proposal; programme increases compare with 2021–27 at constant prices. The table uses EUR millions in commitments. National-contribution shares, annual revenue estimates and seven-year spending ceilings have different denominators and status. The special November 26–27 meeting and legal approvals remain prospective. This is an institutional proposal, with no independently verified agreement, disbursement or economic outcome."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-mff-costa-three-budget-baselines",
+      "event_date": "2026-11-21",
+      "source_brief": "briefs/eu-mff-costa-three-budget-baselines.md",
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "核查依据科斯塔2026年11月21日提案、结论草案15692/26、汇总表16196/26及理事会程序说明。约10%的削减以欧委会提案为基准，项目增幅则与2021至2027年不变价格比较。表格单位为百万欧元的承诺拨款。国家贡献占比、年度收入估计和七年支出上限各有分母及状态；11月26至27日特别会议与法律批准仍在未来。机构提案不等于协议达成、资金拨付或经济成效。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "eu-mff-costa-three-budget-baselines",
+      "event_date": "2026-11-21",
+      "source_brief": "briefs/eu-mff-costa-three-budget-baselines.md",
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review follows Costa’s November 21, 2026 proposal, draft conclusions 15692/26, summary table 16196/26 and the Council’s procedural explainer. A roughly 10% reduction compares with the Commission’s proposal; programme increases compare with 2021–27 at constant prices. The table uses EUR millions in commitments. National-contribution shares, annual revenue estimates and seven-year spending ceilings have different denominators and status. The special November 26–27 meeting and legal approvals remain prospective. This is an institutional proposal, with no independently verified agreement, disbursement or economic outcome."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "eu-mff-costa-three-budget-baselines",
+      "event_date": "2026-11-21",
+      "source_brief": "briefs/eu-mff-costa-three-budget-baselines.md",
+      "article_path": "articles/eu-mff-costa-three-budget-baselines/claude/chinese.md",
+      "status": "available",
+      "availability_note": "核查依据科斯塔2026年11月21日提案、结论草案15692/26、汇总表16196/26及理事会程序说明。约10%的削减以欧委会提案为基准，项目增幅则与2021至2027年不变价格比较。表格单位为百万欧元的承诺拨款。国家贡献占比、年度收入估计和七年支出上限各有分母及状态；11月26至27日特别会议与法律批准仍在未来。机构提案不等于协议达成、资金拨付或经济成效。"
     }
   ],
-  "generated_at": "2026-11-21T23:25:52.257317+00:00"
+  "generated_at": "2026-11-21T23:30:57.812039+00:00"
 }
