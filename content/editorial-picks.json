@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-22T23:25:35.813381+00:00",
+  "selected_at": "2026-11-22T23:30:25.104567+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2302,6 +2302,26 @@
       "headline_index": 0,
       "headline": "一颗脉冲星藏在十五年观测里，谁找回了它的节拍？",
       "sha256": "bbe25ac3b2fb102fddbca502cd0ca9078a8ffd6b21e9ce0898dc40718215d80b"
+    },
+    {
+      "topic": "cop31-closing-two-progress-ledgers",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra gives the Paris framework and institutional context before comparing two kinds of progress, with precise periods and conditional grid benefits. Its continuous1930-word narrative is easier to follow than Claude’s more sectioned2523-word alternative, whose small outer-tolerance exception is explicitly justified by its reviewer.",
+      "article_path": "articles/cop31-closing-two-progress-ledgers/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "COP31’s Political Text Stalled. What Will Its Promised Progress Deliver?",
+      "sha256": "1a3756ffe4cbd3ce050e58d8c48637384e64278032915a66630b0e5cd5947b10"
+    },
+    {
+      "topic": "cop31-closing-two-progress-ledgers",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s modern Chinese retains the full source-status and monetary/physical distinctions with restrained cadence. Its focused proper-name correction keeps Antalya Pact clearly a presidential draft. The full corrected Claude translation is preserved; this Chinese selection was evaluated independently from English.",
+      "article_path": "articles/cop31-closing-two-progress-ledgers/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "COP31政治文本陷入僵局，承诺中的进展将落在何处？",
+      "sha256": "5cd48c2747316bbebcd70ba4a3246d4cdb47f2f293e211312c145e020478087a"
     }
   ]
 }

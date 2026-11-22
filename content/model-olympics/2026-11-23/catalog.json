@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/fermi-lattice-pulsar-search-time/claude/chinese.md",
       "status": "available",
       "availability_note": "核查依据2026年11月19日《物理评论快报》论文及NASA、AEI报道。发现使用费米望远镜此前十五年数据。该孤立脉冲星以约十个CPU小时找到；先前半相干搜索耗费约六百CPU年仍未检出。这是个案计算比较，包含随机子集、背景筛选与更多数据确认；双星搜索仍属未来目标。本次未重跑基准或确立独立重复验证。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "cop31-closing-two-progress-ledgers",
+      "event_date": "2026-11-22",
+      "source_brief": "briefs/cop31-closing-two-progress-ledgers.md",
+      "article_path": "articles/cop31-closing-two-progress-ledgers/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review compares Simon Stiell’s November22,2026 closing speech, the November19 Action Agenda announcement, Paris Agreement background and the status of presidential draft documents. The speech reports disagreement on presidency-led decisions alongside other negotiating progress. Reported2025 grid construction, future annual investment plans and proposed texts have different status. The announcement compiles actions from different periods; its financial figures cannot be added as one new fund. This review did not audit all projects, final decisions or emissions effects."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "cop31-closing-two-progress-ledgers",
+      "event_date": "2026-11-22",
+      "source_brief": "briefs/cop31-closing-two-progress-ledgers.md",
+      "article_path": "articles/cop31-closing-two-progress-ledgers/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "核查对照西蒙·斯蒂尔2026年11月22日闭幕讲话、11月19日行动议程公告、《巴黎协定》背景及主席草案状态。讲话称主席国主导决定未获一致，同时报告其他谈判进展。2025年电网建设、未来年度投资计划和拟议文本各有不同状态；不同时间的财务数字不能相加为新基金。本次未审计所有项目、最终决定或减排成效。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "cop31-closing-two-progress-ledgers",
+      "event_date": "2026-11-22",
+      "source_brief": "briefs/cop31-closing-two-progress-ledgers.md",
+      "article_path": "articles/cop31-closing-two-progress-ledgers/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review compares Simon Stiell’s November22,2026 closing speech, the November19 Action Agenda announcement, Paris Agreement background and the status of presidential draft documents. The speech reports disagreement on presidency-led decisions alongside other negotiating progress. Reported2025 grid construction, future annual investment plans and proposed texts have different status. The announcement compiles actions from different periods; its financial figures cannot be added as one new fund. This review did not audit all projects, final decisions or emissions effects."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "cop31-closing-two-progress-ledgers",
+      "event_date": "2026-11-22",
+      "source_brief": "briefs/cop31-closing-two-progress-ledgers.md",
+      "article_path": "articles/cop31-closing-two-progress-ledgers/claude/chinese.md",
+      "status": "available",
+      "availability_note": "核查对照西蒙·斯蒂尔2026年11月22日闭幕讲话、11月19日行动议程公告、《巴黎协定》背景及主席草案状态。讲话称主席国主导决定未获一致，同时报告其他谈判进展。2025年电网建设、未来年度投资计划和拟议文本各有不同状态；不同时间的财务数字不能相加为新基金。本次未审计所有项目、最终决定或减排成效。"
     }
   ],
-  "generated_at": "2026-11-22T23:25:35.811689+00:00"
+  "generated_at": "2026-11-22T23:30:25.102442+00:00"
 }

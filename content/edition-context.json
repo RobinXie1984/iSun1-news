@@ -5894,6 +5894,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/cop31-closing-two-progress-ledgers/chatgpt/english.md",
+      "captured_at": "2026-11-23T07:26:39.977224+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/cop31-closing-two-progress-ledgers/chatgpt/chinese.md",
+      "captured_at": "2026-11-23T07:26:39.977224+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/cop31-closing-two-progress-ledgers/claude/english.md",
+      "captured_at": "2026-11-23T07:29:09.566835+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/cop31-closing-two-progress-ledgers/claude/chinese.md",
+      "captured_at": "2026-11-23T07:29:09.566835+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

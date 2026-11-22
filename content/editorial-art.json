@@ -2185,6 +2185,25 @@
           "bytes": 409478
         }
       ]
+    },
+    {
+      "topic": "cop31-closing-two-progress-ledgers",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/cop31-closing-two-progress-ledgers-600.jpg",
+          "sha256": "f924a598579938094f7bd9904e93b25aee972b1aea9e3f1e2f688eb1745f7935",
+          "bytes": 79191
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/cop31-closing-two-progress-ledgers-1200.jpg",
+          "sha256": "db246e5adc066ee28c6908bbb7b171295ae40aab0cf8cb41cd02148b37f4417f",
+          "bytes": 350507
+        }
+      ]
     }
   ]
 }
