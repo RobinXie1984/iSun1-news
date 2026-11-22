@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "fermi-lattice-pulsar-search-time",
+      "title": {
+        "en": "A cryptography-inspired search finds a hidden pulsar",
+        "zh": "借来密码学算法，在旧数据中找到脉冲星"
+      },
+      "summary": {
+        "en": "A November19 study found an isolated gamma-ray pulsar in fifteen years of Fermi data with about ten CPU hours. Its dramatic case comparison opens a useful search frontier, with background and binary-system limits still clear.",
+        "zh": "11月19日研究用约十个CPU小时，在费米望远镜十五年数据中找到孤立伽马射线脉冲星。个案计算优势带来新可能，背景噪声与双星搜索仍有边界。"
+      },
+      "event_date": "2026-11-19"
+    }
+  ]
+}

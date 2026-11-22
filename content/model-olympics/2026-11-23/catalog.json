@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "fermi-lattice-pulsar-search-time",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/fermi-lattice-pulsar-search-time.md",
+      "article_path": "articles/fermi-lattice-pulsar-search-time/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review follows the November19,2026 Physical Review Letters paper and NASA/AEI reports. The discovery uses fifteen years of older Fermi data. About ten CPU hours found this isolated pulsar; the earlier semicoherent search failed after roughly600 CPU years. This is a case-specific computing comparison, with random-subset searches, background rejection and larger-data confirmation. Binary-system discoveries remain prospective. The open paper and code links support checking; this review did not rerun the benchmark or establish independent replication."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "fermi-lattice-pulsar-search-time",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/fermi-lattice-pulsar-search-time.md",
+      "article_path": "articles/fermi-lattice-pulsar-search-time/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "核查依据2026年11月19日《物理评论快报》论文及NASA、AEI报道。发现使用费米望远镜此前十五年数据。该孤立脉冲星以约十个CPU小时找到；先前半相干搜索耗费约六百CPU年仍未检出。这是个案计算比较，包含随机子集、背景筛选与更多数据确认；双星搜索仍属未来目标。本次未重跑基准或确立独立重复验证。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "fermi-lattice-pulsar-search-time",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/fermi-lattice-pulsar-search-time.md",
+      "article_path": "articles/fermi-lattice-pulsar-search-time/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review follows the November19,2026 Physical Review Letters paper and NASA/AEI reports. The discovery uses fifteen years of older Fermi data. About ten CPU hours found this isolated pulsar; the earlier semicoherent search failed after roughly600 CPU years. This is a case-specific computing comparison, with random-subset searches, background rejection and larger-data confirmation. Binary-system discoveries remain prospective. The open paper and code links support checking; this review did not rerun the benchmark or establish independent replication."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "fermi-lattice-pulsar-search-time",
+      "event_date": "2026-11-19",
+      "source_brief": "briefs/fermi-lattice-pulsar-search-time.md",
+      "article_path": "articles/fermi-lattice-pulsar-search-time/claude/chinese.md",
+      "status": "available",
+      "availability_note": "核查依据2026年11月19日《物理评论快报》论文及NASA、AEI报道。发现使用费米望远镜此前十五年数据。该孤立脉冲星以约十个CPU小时找到；先前半相干搜索耗费约六百CPU年仍未检出。这是个案计算比较，包含随机子集、背景筛选与更多数据确认；双星搜索仍属未来目标。本次未重跑基准或确立独立重复验证。"
+    }
+  ],
+  "generated_at": "2026-11-22T23:25:35.811689+00:00"
+}

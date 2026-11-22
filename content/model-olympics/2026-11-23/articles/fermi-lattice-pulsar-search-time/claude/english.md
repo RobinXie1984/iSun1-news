@@ -1,0 +1,77 @@
+# The Pulsar Was in the Data All Along. What Kept It Hidden for Fifteen Years?
+
+Six researchers have identified a rapidly spinning dead star, named PSR J1622−7204, inside about fifteen years of measurements already stored in a public NASA archive. The measurements come from the Large Area Telescope aboard the Fermi Gamma-ray Space Telescope, a satellite that has watched the sky since 2008. The team of Pook-Kolb, Gazith, Clark, Agrell, Zackay and Allen includes scientists at Germany's Max Planck Institute for Gravitational Physics, also called the Albert Einstein Institute. They reported the find in *Physical Review Letters* on 19 November 2026. The star turns about 261 times every second. Its light reached the telescope over many earlier years, so the new achievement is recognizing the star in those records. That recognition came from a change in mathematics. An earlier search spent about 600 processor-years of computing on this object and failed to detect the pulsar. The new method found it with roughly ten processor-hours.
+
+That contrast creates a puzzle. The signal was present, it was recorded, and anyone could download it. A large and serious effort had already looked. What kept the star hidden?
+
+## A lighthouse made of a dead star
+
+A pulsar is a kind of neutron star. A neutron star is the compact, extremely dense remnant left behind after a star explodes. Some neutron stars send out beams of radiation that sweep around as the star spins. Each time a beam crosses Earth, an instrument can record a pulse. PSR J1622−7204 completes one rotation about every 3.833 milliseconds. A millisecond is one thousandth of a second. Its measured spin frequency is about 260.896 hertz, and a hertz is one cycle per second.
+
+This star shines in gamma rays, the most energetic form of light. Fermi's telescope catches gamma rays one particle of light at a time. Each particle is called a photon. For each photon, the telescope logs where it came from in the sky, how much energy it carried and exactly when it arrived. Over the mission, Fermi has surveyed the whole sky roughly every three hours. According to NASA, the science data became public after an initial one-year calibration period, and later data are released as they are processed. NASA also supplies software, called Fermitools, that helps researchers prepare the data for analysis. In practical terms, scientists far beyond the original mission team can download the same records and try their own ideas on them.
+
+Gamma-ray astronomers have catalogued many sources in the sky. Some have properties that resemble known pulsars, such as the mix of photon energies they emit. A catalogue entry, however, records a source of gamma rays. Proving that the source is a spinning star requires one more step: finding the regular beat in the photon arrival times. Until that beat appears, the source remains a candidate.
+
+The target in this study was one such candidate, a catalogued source called 4FGL J1622.2−7202. Its properties made it promising. Its rhythm remained unproved. This matters for understanding the scale of the achievement. The team aimed at one preselected patch of sky with a known suspect; they began their work with a specific address. Their search covered the unknown details of the star's timing at that address.
+
+Other pulsar hunters have worked this territory for years. Earlier gamma-ray searches run through Einstein@Home, a project in which volunteers donate spare computing time on their home machines, found more than 80 pulsars. Those methods have proved scientifically valuable. PSR J1622−7204 belonged to a harder group: candidates whose timing resisted the established tools.
+
+## Why a recorded signal can stay invisible
+
+The difficulty begins with how few photons arrive. The telescope collects only a tiny, irregular fraction of the gamma rays the pulsar sends toward Earth. Many rotations pass with zero photons recorded from the star. Meanwhile, photons from unrelated sources in the same part of the sky land in the same records. The final data look like a sparse scatter of timestamps, some from the pulsar and many from background.
+
+Here an everyday comparison helps, and it is purely an illustration. Imagine standing far from a rotating lighthouse on a night with patchy fog. Most sweeps of the beam vanish in the haze. Every so often a flash gets through, and you write down the time. Car headlights, house lamps and boats also flash in the distance, and your notebook records those too. Weeks later, someone asks how fast the lighthouse turns. You must decide which flashes belong to the lighthouse and how many unseen turns occurred between each pair of flashes you caught. A guess of 1,000 turns between two flashes and a guess of 1,001 turns lead to different speeds, and only one of them will line up with all the other genuine flashes.
+
+The real problem is much harder than the lighthouse. At 261 turns per second, the star spins about 22.5 million times in a single day, by simple multiplication. Over fifteen years, the count runs past a hundred billion rotations. Photons from the star may arrive days apart. For each gap, the whole number of rotations is unknown. A tiny error in the assumed spin rate, small enough to vanish over a few seconds, grows over years until the predicted pulses drift completely out of step with the real ones.
+
+Other unknowns pile on. The star gradually slows down, and that slowdown rate needs to be found. The star's exact position in the sky has two coordinates that also need refining. The motion of Earth around the Sun and the motion of the satellite around Earth stretch and squeeze the arrival times, because the telescope sits closer to or farther from the star at different moments. A correct timing model must account for all of these effects at once, so that the genuine photons settle into a stable pattern that repeats with every rotation. For this star, the paper reports a pulse with two peaks: the star's photons gather around those two points in each turn, and each peak has its own width.
+
+The traditional approach tries enormous numbers of combinations of spin rate, slowdown and position, and checks each one for a pulse. Researchers have developed clever versions of this approach. The semicoherent search, the earlier state-of-the-art method, breaks the data into stretches to keep the work manageable. For this particular star, that search ran for about 600 processor-years and finished with the pulsar still unidentified.
+
+## Counting turns with a lattice
+
+The new study changed the question being asked. The authors treated the unknown whole numbers of rotations between photons as the central puzzle, and they rewrote the timing problem in the language of a mathematical object called a lattice.
+
+In mathematics, a lattice is a regular pattern of points produced by taking whole-number steps in fixed directions. A simple flat example is the set of crossing points on a sheet of graph paper. The lattices in this study have very many dimensions, far beyond anything a person can picture, but they follow the same rule: every point is reached by adding up whole-number steps. The lattice here exists purely in calculation; it describes possible rotation counts, and it has a natural fit with the problem, because rotation counts are whole numbers too.
+
+In this formulation, a combination of rotation counts that fits the photon arrival times consistently corresponds to a short vector in the lattice. A vector is an arrow from the origin to one of the lattice points, and "short" means that arrow is small. Finding short vectors in high-dimensional lattices is a famous hard problem, and mathematicians and computer scientists have built powerful tools for it. The authors analytically removed five continuous parameters from the problem, which shrank the search, and then used an existing open software tool called G6K, which performs a technique known as lattice sieving. Sieving produces a large collection of short vectors at once.
+
+Much of the expertise in lattice sieving comes from cryptography, the science of codes, where the difficulty of certain lattice problems helps protect information. The pulsar project borrowed classical algorithms from cryptographic research and applied them to an astronomical search, running them on ordinary processors; the project used conventional computers throughout, and quantum computers played zero role. The study's scope is the hunt for a pulsar, and questions about the security of real encryption systems lie outside it.
+
+The lattice step produces candidates, and each candidate still has to earn its place. The mathematically shortest vector can correspond to a timing pattern that makes physical nonsense. So the team checked each candidate against physical limits for a real pulsar, discarded the implausible ones and tested the survivors for genuine regular pulsations. In the trial that succeeded for PSR J1622−7204, the true physical solution sat among the short vectors, and a different vector held the title of shortest. The geometry narrowed the field; physics and statistics picked the winner.
+
+## Eighty photons at a time
+
+The search itself used a game of chance. The researchers took the 120 photon records from the target region with the highest probability of belonging to the source. Each photon in Fermi analysis carries a weight, a number estimating how likely it is to come from the source under study. From those 120, each trial drew 80 at random and ran the lattice method on them.
+
+A trial works only when its 80 photons are clean enough. A few background photons in the mix can spoil the whole attempt, because they force the method to explain timestamps that have nothing to do with the star. The team ran a test of 1,000 trials and found that, for this pulsar, about 1 percent of the random 80-photon subsets succeeded. In the actual search, one of the first 20 trials happened to hit. The paper estimates that about 300 trials would give roughly a 95 percent chance of success, given that 1 percent rate.
+
+Each trial took about 90 seconds on a single processor core of an AMD EPYC 7351P chip when the computer was otherwise idle, and up to about five minutes when the machine was fully loaded with other work. Those minutes describe one random attempt. For the search that found this pulsar, built from such repeated attempts, the authors report about ten processor-hours of computing. The confirmation that followed forms a separate stage of the work.
+
+Confirmation drew on far more data than the 80-photon trials. Once a promising timing solution emerged, the team tested it against 15,905 weighted photon records. Their weights add up to about 828, an estimate of the effective number of pulsar photons spread across that larger set. Each record carries a probability of coming from the star, so the origin of any single photon remains uncertain. The authors applied established statistical tests for pulsations, including one called the H-statistic, and fitted the star's physical parameters to the larger dataset. Those tests supported a real, regular pulse. The evidence for the detection comes from the authors' own analysis, reviewed and published in a peer-reviewed journal. The NASA and Albert Einstein Institute reports describe that same result, and the authors have released code and notebooks with the paper so that others can examine the method.
+
+## Six hundred processor-years and ten hours
+
+The computing comparison is the most striking number in the story, and it deserves a careful reading.
+
+A CPU year, or processor-year, measures total computing work: one processor running continuously for one year. Large searches split their work across many processors at once, so 600 processor-years can pass in far less calendar time. The figure describes the size of the effort, the way "person-hours" describes the labor on a building site.
+
+Converting 600 processor-years into hours gives roughly 5.26 million processor-hours. Dividing by the ten hours of the new discovery search gives a ratio of about 526,000. The paper describes the reduction as five to six orders of magnitude, meaning a factor of roughly a hundred thousand to a million. The Albert Einstein Institute's announcement rounds this to a million-fold speedup. The direct arithmetic for this case lands at roughly half a million, consistent with the paper's broader range.
+
+The comparison also has an unusual shape. The two searches reached different outcomes. The earlier search failed to detect this pulsar; the lattice method succeeded. A typical speed comparison pits two methods that both reach the finish line. Here, one method reached a destination the other missed. The ratio therefore describes one target, one candidate source and specific hardware. Applying it to other stars would require separate tests on additional sources.
+
+## What else sits in the archive?
+
+The discovery shows that a long-running telescope's records can still hold findings that the original analyses missed. Fermi collected the photons. NASA's open data policy and software put them within reach of outside researchers. The advance came from a new way to search measurements already in hand, using ordinary computers.
+
+The authors also describe clear limits. The computing cost of the lattice method grows exponentially as the number of photons in each trial rises, so larger problems become expensive quickly. Pulsars with complicated pulse shapes and sources buried in heavy background remain difficult. The demonstrated result covers one isolated pulsar, a star spinning alone, at the location of a known candidate source.
+
+Many pulsars orbit a companion star. That orbit adds its own delays to photon arrival times, as the pulsar swings nearer to and farther from Earth. The paper estimates that a blind search for such binary pulsars with this method would require about a million additional sets of orbital parameters, roughly a million times the cost of an isolated search. The authors propose sharing that burden through volunteer computing on Einstein@Home. This extension is a plan for future work. Searches in which astronomers already know the orbit from other observations begin with much of that burden removed.
+
+The fifteen-year story of PSR J1622−7204 ends with a star identified and a method demonstrated on a single case. It also leaves astronomers with a sharper question about every well-studied archive: which signals already collected wait on a better way of searching, and which ones will need a better telescope?
+
+## Sources
+
+- Pook-Kolb, Gazith, Clark, Agrell, Zackay and Allen, "Gamma-Ray Pulsar Discovery Using a Lattice-Based Method," *Physical Review Letters* 137, 211201, published 19 November 2026, DOI: 10.1103/vlt2-xzgk. Licensed CC BY 4.0. [Paper PDF](https://arxiv.org/pdf/2611.26425) · [arXiv record](https://arxiv.org/abs/2611.26425)
+- NASA Science, report on the Fermi data pulsar discovery and open data, 19 November 2026: https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/
+- Max Planck Institute for Gravitational Physics (Albert Einstein Institute), report on finding gamma-ray pulsars with the lattice method, 19 November 2026: https://www.aei.mpg.de/1483164/finding-gamma-ray-pulsars-a-million-times-faster

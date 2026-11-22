@@ -2166,6 +2166,25 @@
           "bytes": 281921
         }
       ]
+    },
+    {
+      "topic": "fermi-lattice-pulsar-search-time",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/fermi-lattice-pulsar-search-time-600.jpg",
+          "sha256": "69814245ae187c0c55e719b2581964bbd29d93382729f1575418c3c68556f2c5",
+          "bytes": 79156
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/fermi-lattice-pulsar-search-time-1200.jpg",
+          "sha256": "fd1bd55f63fbdd53d6cad188f4e0d88fcafa059237a3d76b2d2badda70f4883b",
+          "bytes": 409478
+        }
+      ]
     }
   ]
 }

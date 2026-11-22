@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-21T23:30:57.814245+00:00",
+  "selected_at": "2026-11-22T23:25:35.813381+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2282,6 +2282,26 @@
       "headline_index": 0,
       "headline": "欧盟预算拟低于委员会提案，研究经费按2025年价格高于现行2021—2027年计划：这笔账能谈成吗？",
       "sha256": "85ae1f000d2a9c5b76fa58c0e71c897a91939deec6e18dd217774f9144cf3fb7"
+    },
+    {
+      "topic": "fermi-lattice-pulsar-search-time",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra explains sparse timing, lattice candidates and the CPU-work comparison in a continuous readable narrative. It preserves the distinction between weighted photons and confirmed periodicity, and between the isolated result and future binary searches. Claude’s complete corrected feature remains an independent more sectioned alternative.",
+      "article_path": "articles/fermi-lattice-pulsar-search-time/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Fifteen Years of Sky Data Held a Pulsar. What Finally Revealed Its Beat?",
+      "sha256": "11d244a8fb9666f6e28524aeb4b2e008466ff0eaa9c344bec76da207a7959390"
+    },
+    {
+      "topic": "fermi-lattice-pulsar-search-time",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s Chinese retains all substantive data and limitations in clearer modern prose with restrained cadence. Its explanation of probabilities, CPU time and archive chronology is easier to follow than Claude’s more ornate complete alternative. The Chinese choice was evaluated separately from English.",
+      "article_path": "articles/fermi-lattice-pulsar-search-time/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "一颗脉冲星藏在十五年观测里，谁找回了它的节拍？",
+      "sha256": "bbe25ac3b2fb102fddbca502cd0ca9078a8ffd6b21e9ce0898dc40718215d80b"
     }
   ]
 }
