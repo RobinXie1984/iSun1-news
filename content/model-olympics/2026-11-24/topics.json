@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "slic-small-model-circuit-design",
+      "title": {
+        "en": "A small AI learns to tune analog circuits",
+        "zh": "小模型学会调校模拟电路"
+      },
+      "summary": {
+        "en": "MIT’s November23 report describes a locally deployable four-billion-parameter model approaching a much larger model on bounded circuit-simulation tasks. Training resources and commercial-process transfer reveal where the advance still needs work.",
+        "zh": "MIT11月23日报道，四十亿参数本地模型在限定电路仿真任务上接近大型模型。训练资源与商业工艺迁移结果，也显出这项进展的边界。"
+      },
+      "event_date": "2026-11-23"
+    }
+  ]
+}

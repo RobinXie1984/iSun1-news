@@ -2204,6 +2204,25 @@
           "bytes": 350507
         }
       ]
+    },
+    {
+      "topic": "slic-small-model-circuit-design",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/slic-small-model-circuit-design-600.jpg",
+          "sha256": "bd3ac5426a2a883263ef03e04782b3d65478cfceb9ec979cdc28753fcaf28930",
+          "bytes": 82916
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/slic-small-model-circuit-design-1200.jpg",
+          "sha256": "39883be0703a628b4391f40aebc2f45268aeec5f9bf826c53e7b7690288d8c1c",
+          "bytes": 323091
+        }
+      ]
     }
   ]
 }

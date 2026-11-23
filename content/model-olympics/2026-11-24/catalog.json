@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "slic-small-model-circuit-design",
+      "event_date": "2026-11-23",
+      "source_brief": "briefs/slic-small-model-circuit-design.md",
+      "article_path": "articles/slic-small-model-circuit-design/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review: MIT’s November23 report and the November10 CC BY4.0 paper describe simulator-based optimization of amplifier sizes within given topologies. Four-turn and eight-turn comparisons differ; commercial-process transfer still loses performance. Local inference differs from GPU training. No independent reproduction, fabricated-chip demonstration or measured business savings is claimed."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "slic-small-model-circuit-design",
+      "event_date": "2026-11-23",
+      "source_brief": "briefs/slic-small-model-circuit-design.md",
+      "article_path": "articles/slic-small-model-circuit-design/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：MIT11月23日报道与11月10日CC BY4.0论文描述既定拓扑下的放大器尺寸仿真优化。四轮、八轮比较结果不同，商业工艺迁移仍有性能下降。本地推理不等于本地低成本训练；未声称独立复现、制成芯片或已实现商业节省。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "slic-small-model-circuit-design",
+      "event_date": "2026-11-23",
+      "source_brief": "briefs/slic-small-model-circuit-design.md",
+      "article_path": "articles/slic-small-model-circuit-design/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: MIT’s November23 report and the November10 CC BY4.0 paper describe simulator-based optimization of amplifier sizes within given topologies. Four-turn and eight-turn comparisons differ; commercial-process transfer still loses performance. Local inference differs from GPU training. No independent reproduction, fabricated-chip demonstration or measured business savings is claimed."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "slic-small-model-circuit-design",
+      "event_date": "2026-11-23",
+      "source_brief": "briefs/slic-small-model-circuit-design.md",
+      "article_path": "articles/slic-small-model-circuit-design/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：MIT11月23日报道与11月10日CC BY4.0论文描述既定拓扑下的放大器尺寸仿真优化。四轮、八轮比较结果不同，商业工艺迁移仍有性能下降。本地推理不等于本地低成本训练；未声称独立复现、制成芯片或已实现商业节省。"
+    }
+  ],
+  "generated_at": "2026-11-23T23:12:43.107863+00:00"
+}

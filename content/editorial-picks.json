@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-22T23:30:25.104567+00:00",
+  "selected_at": "2026-11-23T23:12:43.109756+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2322,6 +2322,26 @@
       "headline_index": 0,
       "headline": "COP31政治文本陷入僵局，承诺中的进展将落在何处？",
       "sha256": "5cd48c2747316bbebcd70ba4a3246d4cdb47f2f293e211312c145e020478087a"
+    },
+    {
+      "topic": "slic-small-model-circuit-design",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra develops the sizing problem in a continuous accessible narrative and keeps four/eight-turn, held-out and commercial-process comparisons attached to their conditions. Its concise source boundary and training/inference distinction are precise. Claude’s more sectioned fuller alternative remains intact.",
+      "article_path": "articles/slic-small-model-circuit-design/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "A Small AI Learns to Tune Amplifiers. Then the Factory Model Changes.",
+      "sha256": "6d8fc9fcdab1cb08944925831692af6fd744d9e6acca7c6b9cd97dc9340641fc"
+    },
+    {
+      "topic": "slic-small-model-circuit-design",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude’s Chinese gives the engineering tradeoffs a warmer, lightly classical rhythm while explaining topology, parameter count and factory-process transfer plainly. Its supported factory-rulebook title pays off in the49.9%transfer result. The choice is independent of the English selection; Astra’s complete Chinese remains preserved.",
+      "article_path": "articles/slic-small-model-circuit-design/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "小模型学会了调电路，遇上真工厂的规矩之后呢",
+      "sha256": "38836a7b97bddb5b67baaaa1522b6a0401f6a1dadad0610dcf2cb360f9a4772c"
     }
   ]
 }
