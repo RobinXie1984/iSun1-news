@@ -2223,6 +2223,25 @@
           "bytes": 323091
         }
       ]
+    },
+    {
+      "topic": "syria-polio-three-cases-wider-signal",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/syria-polio-three-cases-wider-signal-600.jpg",
+          "sha256": "a62d5566ff7bdcf68e0a7edbb0eb037317ae59230cb7fd544e987cd82c2bb95e",
+          "bytes": 77492
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/syria-polio-three-cases-wider-signal-1200.jpg",
+          "sha256": "df57111a86063727129b5aa9f4649dfcc6c6b5b92e6b346a527a5afcf15e014f",
+          "bytes": 264594
+        }
+      ]
     }
   ]
 }

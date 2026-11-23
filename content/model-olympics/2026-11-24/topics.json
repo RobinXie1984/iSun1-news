@@ -12,6 +12,18 @@
         "zh": "MIT11月23日报道，四十亿参数本地模型在限定电路仿真任务上接近大型模型。训练资源与商业工艺迁移结果，也显出这项进展的边界。"
       },
       "event_date": "2026-11-23"
+    },
+    {
+      "id": "syria-polio-three-cases-wider-signal",
+      "title": {
+        "en": "Three confirmed polio cases and a wider signal in Syria",
+        "zh": "叙利亚三例确诊脊灰背后的传播信号"
+      },
+      "summary": {
+        "en": "WHO’s November23 report separates three confirmed paralytic cases from twelve later paralysis reports still being investigated. The distinction helps explain vaccine-derived transmission and why surveillance and vaccination need to work together.",
+        "zh": "世卫组织11月23日报告将三例确诊麻痹型脊灰，与仍在调查的十二例后续急性弛缓性麻痹报告分开。这一区别，也解释了疫苗衍生病毒、监测与接种之间的关系。"
+      },
+      "event_date": "2026-11-23"
     }
   ]
 }

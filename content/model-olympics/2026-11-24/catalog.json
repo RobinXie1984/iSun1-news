@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/slic-small-model-circuit-design/claude/chinese.md",
       "status": "available",
       "availability_note": "来源核对：MIT11月23日报道与11月10日CC BY4.0论文描述既定拓扑下的放大器尺寸仿真优化。四轮、八轮比较结果不同，商业工艺迁移仍有性能下降。本地推理不等于本地低成本训练；未声称独立复现、制成芯片或已实现商业节省。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "syria-polio-three-cases-wider-signal",
+      "event_date": "2026-11-23",
+      "source_brief": "briefs/syria-polio-three-cases-wider-signal.md",
+      "article_path": "articles/syria-polio-three-cases-wider-signal/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review: WHO’s November23 report gives three confirmed paralytic cases as of November13, three positive contacts without acute flaccid paralysis, and twelve later paralysis reports under investigation through November20. These categories cannot be added into a confirmed count. CDC’s older biological background supplies context, not current Syrian case estimates or personal medical instructions."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "syria-polio-three-cases-wider-signal",
+      "event_date": "2026-11-23",
+      "source_brief": "briefs/syria-polio-three-cases-wider-signal.md",
+      "article_path": "articles/syria-polio-three-cases-wider-signal/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：世卫组织11月23日报告列出截至11月13日三例确诊麻痹型病例、三名未发生急性弛缓性麻痹的阳性接触者，以及截至11月20日仍在调查的十二例后续麻痹报告。这些类别不能相加为确诊总数。CDC较早的生物学资料用于背景，不构成叙利亚现时感染估计或个人诊疗指引。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "syria-polio-three-cases-wider-signal",
+      "event_date": "2026-11-23",
+      "source_brief": "briefs/syria-polio-three-cases-wider-signal.md",
+      "article_path": "articles/syria-polio-three-cases-wider-signal/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: WHO’s November23 report gives three confirmed paralytic cases as of November13, three positive contacts without acute flaccid paralysis, and twelve later paralysis reports under investigation through November20. These categories cannot be added into a confirmed count. CDC’s older biological background supplies context, not current Syrian case estimates or personal medical instructions."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "syria-polio-three-cases-wider-signal",
+      "event_date": "2026-11-23",
+      "source_brief": "briefs/syria-polio-three-cases-wider-signal.md",
+      "article_path": "articles/syria-polio-three-cases-wider-signal/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：世卫组织11月23日报告列出截至11月13日三例确诊麻痹型病例、三名未发生急性弛缓性麻痹的阳性接触者，以及截至11月20日仍在调查的十二例后续麻痹报告。这些类别不能相加为确诊总数。CDC较早的生物学资料用于背景，不构成叙利亚现时感染估计或个人诊疗指引。"
     }
   ],
-  "generated_at": "2026-11-23T23:12:43.107863+00:00"
+  "generated_at": "2026-11-23T23:29:01.752271+00:00"
 }

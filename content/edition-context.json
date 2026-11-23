@@ -5950,6 +5950,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/syria-polio-three-cases-wider-signal/chatgpt/english.md",
+      "captured_at": "2026-11-24T07:17:13.310046+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/syria-polio-three-cases-wider-signal/chatgpt/chinese.md",
+      "captured_at": "2026-11-24T07:17:13.310046+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/syria-polio-three-cases-wider-signal/claude/english.md",
+      "captured_at": "2026-11-24T07:28:07.475924+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/syria-polio-three-cases-wider-signal/claude/chinese.md",
+      "captured_at": "2026-11-24T07:28:07.475924+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

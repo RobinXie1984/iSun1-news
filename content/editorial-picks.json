@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-23T23:12:43.109756+00:00",
+  "selected_at": "2026-11-23T23:29:01.754842+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2342,6 +2342,26 @@
       "headline_index": 0,
       "headline": "小模型学会了调电路，遇上真工厂的规矩之后呢",
       "sha256": "38836a7b97bddb5b67baaaa1522b6a0401f6a1dadad0610dcf2cb360f9a4772c"
+    },
+    {
+      "topic": "syria-polio-three-cases-wider-signal",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra gives the report chronology, clinical categories and surveillance mechanism a clear continuous line. It explains why confirmed cases, positive contacts and investigated AFP differ, and keeps coverage, immunity and transmission evidence separate. Claude’s longer sectioned final feature remains a full independent alternative.",
+      "article_path": "articles/syria-polio-three-cases-wider-signal/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Three Confirmed Cases—and the Larger Question Behind Syria’s Polio Alert",
+      "sha256": "82ace9c5a23b8f9ff22c0b8dc1cb717bc823e3793581ecb0d49c2016eea33f69"
+    },
+    {
+      "topic": "syria-polio-three-cases-wider-signal",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s modern Chinese with restrained cadence keeps the dated clinical status easy to follow and uses the smoke-alarm analogy precisely. Its treatment of vaccination, biological history and follow-up evidence reads more directly than Claude’s more ornate complete version. Chinese was compared independently of English.",
+      "article_path": "articles/syria-polio-three-cases-wider-signal/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "三例确诊之后，叙利亚脊灰警报还将揭开什么？",
+      "sha256": "1593d0bdb078d93e7ea4581755a05fe0ee82f95d86134ccfbe7a14e948b3a3bb"
     }
   ]
 }
