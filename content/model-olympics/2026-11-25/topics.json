@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "euclid-quasar-early-growth-clock",
+      "title": {
+        "en": "A giant black hole on a very short cosmic clock",
+        "zh": "巨型黑洞与宇宙早年的短时钟"
+      },
+      "summary": {
+        "en": "Euclid’s November 24 quasar discovery reaches an epoch about 630 million years after the Big Bang. An estimated 360-million-solar-mass black hole and comparatively slow observed feeding sharpen the question of its earlier growth.",
+        "zh": "欧几里得望远镜11月24日公布的类星体发现，将视线推至大爆炸后约6.3亿年。约3.6亿太阳质量的黑洞与当时较慢的进食速度，使早期成长之谜更为紧迫。"
+      },
+      "event_date": "2026-11-24"
+    }
+  ]
+}

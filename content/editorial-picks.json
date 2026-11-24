@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-23T23:29:01.754842+00:00",
+  "selected_at": "2026-11-24T23:23:09.477255+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2362,6 +2362,26 @@
       "headline_index": 0,
       "headline": "三例确诊之后，叙利亚脊灰警报还将揭开什么？",
       "sha256": "1593d0bdb078d93e7ea4581755a05fe0ee82f95d86134ccfbe7a14e948b3a3bb"
+    },
+    {
+      "topic": "euclid-quasar-early-growth-clock",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra’s1980-word continuous account connects survey, spectrum, estimatedmass and conditionalgrowth with less detour; cosmic-epoch and Eddington-denominator explanations are especially clear. Claude’s fuller reservoir narrative remains preserved, including its explicitlyreviewed2505wordexception.",
+      "article_path": "articles/euclid-quasar-early-growth-clock/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "A Giant Black Hole Was Already There at 630 Million Years. What Gave It a Head Start?",
+      "sha256": "bbfbea71630497e580bcd8cc2b64edc4481ced65a9be84f4f796c9467f8f36dd"
+    },
+    {
+      "topic": "euclid-quasar-early-growth-clock",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude’s Chinese carries the full explanatory chain with a warmer lightclassicalcadence and a concrete reservoir analogy; revised seed/primordial and radiation-flow scope remain precise. Astra’s equallysource-reviewed Chinese is preserved as the independent alternative.",
+      "article_path": "articles/euclid-quasar-early-growth-clock/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "宇宙时钟下的赛跑：大爆炸后仅六亿三千万年，一个三亿六千万倍太阳质量的黑洞从何而来？",
+      "sha256": "9e631c0f3b34122c40ddf72f3fa20cde7198ef9ee991ce446795bbdc25db2cc4"
     }
   ]
 }

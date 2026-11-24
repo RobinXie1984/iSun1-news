@@ -5978,6 +5978,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/euclid-quasar-early-growth-clock/chatgpt/english.md",
+      "captured_at": "2026-11-25T07:22:02.030511+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/euclid-quasar-early-growth-clock/chatgpt/chinese.md",
+      "captured_at": "2026-11-25T07:22:02.030511+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/euclid-quasar-early-growth-clock/claude/english.md",
+      "captured_at": "2026-11-25T07:22:33.719812+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/euclid-quasar-early-growth-clock/claude/chinese.md",
+      "captured_at": "2026-11-25T07:22:33.719812+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

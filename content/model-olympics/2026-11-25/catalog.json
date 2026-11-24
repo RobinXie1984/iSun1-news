@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "euclid-quasar-early-growth-clock",
+      "event_date": "2026-11-24",
+      "source_brief": "briefs/euclid-quasar-early-growth-clock.md",
+      "article_path": "articles/euclid-quasar-early-growth-clock/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review: November 24 institutional reports and publication metadata, plus the linked public author manuscript dated September 11, describe an estimated 360-million-solar-mass black hole at a cosmic age around 630 million years. The record concerns quasars, and 40 million years concerns the earlier cosmic epoch. Growth histories are model-dependent. Publisher full text was inaccessible; the public manuscript is not asserted to match the final version exactly. No independent replication or observed birth is claimed."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "euclid-quasar-early-growth-clock",
+      "event_date": "2026-11-24",
+      "source_brief": "briefs/euclid-quasar-early-growth-clock.md",
+      "article_path": "articles/euclid-quasar-early-growth-clock/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：11月24日机构报道及出版元数据，以及所链接、日期为9月11日的作者稿，描述宇宙约6.3亿岁时一颗估计质量约3.6亿个太阳的黑洞。纪录限定于类星体，四千万年指更早的宇宙年代。成长史依赖模型。出版方全文未能访问，未声称作者稿与最终版完全相同，也未声称独立复现或直接观察诞生。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "euclid-quasar-early-growth-clock",
+      "event_date": "2026-11-24",
+      "source_brief": "briefs/euclid-quasar-early-growth-clock.md",
+      "article_path": "articles/euclid-quasar-early-growth-clock/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: November 24 institutional reports and publication metadata, plus the linked public author manuscript dated September 11, describe an estimated 360-million-solar-mass black hole at a cosmic age around 630 million years. The record concerns quasars, and 40 million years concerns the earlier cosmic epoch. Growth histories are model-dependent. Publisher full text was inaccessible; the public manuscript is not asserted to match the final version exactly. No independent replication or observed birth is claimed."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "euclid-quasar-early-growth-clock",
+      "event_date": "2026-11-24",
+      "source_brief": "briefs/euclid-quasar-early-growth-clock.md",
+      "article_path": "articles/euclid-quasar-early-growth-clock/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：11月24日机构报道及出版元数据，以及所链接、日期为9月11日的作者稿，描述宇宙约6.3亿岁时一颗估计质量约3.6亿个太阳的黑洞。纪录限定于类星体，四千万年指更早的宇宙年代。成长史依赖模型。出版方全文未能访问，未声称作者稿与最终版完全相同，也未声称独立复现或直接观察诞生。"
+    }
+  ],
+  "generated_at": "2026-11-24T23:23:09.475552+00:00"
+}

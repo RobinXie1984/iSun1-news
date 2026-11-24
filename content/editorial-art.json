@@ -2242,6 +2242,25 @@
           "bytes": 264594
         }
       ]
+    },
+    {
+      "topic": "euclid-quasar-early-growth-clock",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/euclid-quasar-early-growth-clock-600.jpg",
+          "sha256": "a2b40b21dfe8605673c49ae803335f36c675959d5a3a637d919d641c44411a42",
+          "bytes": 74918
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/euclid-quasar-early-growth-clock-1200.jpg",
+          "sha256": "dcb71f2a0db0f68150433207ce4daddb4822abd8f731d9d9f062669707a0ed8a",
+          "bytes": 293684
+        }
+      ]
     }
   ]
 }
