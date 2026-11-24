@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/euclid-quasar-early-growth-clock/claude/chinese.md",
       "status": "available",
       "availability_note": "来源核对：11月24日机构报道及出版元数据，以及所链接、日期为9月11日的作者稿，描述宇宙约6.3亿岁时一颗估计质量约3.6亿个太阳的黑洞。纪录限定于类星体，四千万年指更早的宇宙年代。成长史依赖模型。出版方全文未能访问，未声称作者稿与最终版完全相同，也未声称独立复现或直接观察诞生。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "europe-workplace-remembrance-prevention-ledger",
+      "event_date": "2026-11-24",
+      "source_brief": "briefs/europe-workplace-remembrance-prevention-ledger.md",
+      "article_path": "articles/europe-workplace-remembrance-prevention-ledger/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review: EU institutions’ November 24 declaration establishes the annual 8 August remembrance day from 2027. Eurostat’s September 2026 publications describe 2024 accidents: 3,367 fatal and 2.78 million nonfatal with at least four full calendar days’ absence. These are separately dated recorded categories, with reporting and exposure limits. A declaration does not establish a measured prevention effect. Eurostat data/text are reused with attribution; independent interpretations and Chinese adaptation are the authors’ responsibility."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "europe-workplace-remembrance-prevention-ledger",
+      "event_date": "2026-11-24",
+      "source_brief": "briefs/europe-workplace-remembrance-prevention-ledger.md",
+      "article_path": "articles/europe-workplace-remembrance-prevention-ledger/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：欧盟机构11月24日宣言确立自2027年起每年8月8日纪念工伤遇难者。Eurostat2026年9月资料统计的是2024年事故：3,367起致命事故及278万起至少缺勤四个完整日历日的非致命事故。数据日期、类别、报告与暴露范围均有限定；宣言尚不等于已测得预防效果。Eurostat资料注明出处，独立解读及中文改写由作者负责。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "europe-workplace-remembrance-prevention-ledger",
+      "event_date": "2026-11-24",
+      "source_brief": "briefs/europe-workplace-remembrance-prevention-ledger.md",
+      "article_path": "articles/europe-workplace-remembrance-prevention-ledger/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: EU institutions’ November 24 declaration establishes the annual 8 August remembrance day from 2027. Eurostat’s September 2026 publications describe 2024 accidents: 3,367 fatal and 2.78 million nonfatal with at least four full calendar days’ absence. These are separately dated recorded categories, with reporting and exposure limits. A declaration does not establish a measured prevention effect. Eurostat data/text are reused with attribution; independent interpretations and Chinese adaptation are the authors’ responsibility."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "europe-workplace-remembrance-prevention-ledger",
+      "event_date": "2026-11-24",
+      "source_brief": "briefs/europe-workplace-remembrance-prevention-ledger.md",
+      "article_path": "articles/europe-workplace-remembrance-prevention-ledger/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：欧盟机构11月24日宣言确立自2027年起每年8月8日纪念工伤遇难者。Eurostat2026年9月资料统计的是2024年事故：3,367起致命事故及278万起至少缺勤四个完整日历日的非致命事故。数据日期、类别、报告与暴露范围均有限定；宣言尚不等于已测得预防效果。Eurostat资料注明出处，独立解读及中文改写由作者负责。"
     }
   ],
-  "generated_at": "2026-11-24T23:23:09.475552+00:00"
+  "generated_at": "2026-11-24T23:29:59.521517+00:00"
 }

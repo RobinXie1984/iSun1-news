@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-24T23:23:09.477255+00:00",
+  "selected_at": "2026-11-24T23:29:59.523471+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2382,6 +2382,26 @@
       "headline_index": 0,
       "headline": "宇宙时钟下的赛跑：大爆炸后仅六亿三千万年，一个三亿六千万倍太阳质量的黑洞从何而来？",
       "sha256": "9e631c0f3b34122c40ddf72f3fa20cde7198ef9ee991ce446795bbdc25db2cc4"
+    },
+    {
+      "topic": "europe-workplace-remembrance-prevention-ledger",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra’s1846-word continuous narrative brings the2024data/2026declaration/2027observance chronology together economically. It is especially careful about recordedsectorcomposition, reporting limits and why a count differsfromrisk. Claude’s2176-word shop-based explanation remains preserved.",
+      "article_path": "articles/europe-workplace-remembrance-prevention-ledger/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Europe Has Set a Day to Remember Workers Who Died. What Will Change Before the Next Anniversary?",
+      "sha256": "a1bd8807dd90595b4f521a05694a9fd560550e36b9388b6b5afba5b4885b66ca"
+    },
+    {
+      "topic": "europe-workplace-remembrance-prevention-ledger",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude’s revised Chinese gives the three institutions everyday roles, carries the shop analogy with warmth and lightclassicalcadence, and now carefully states accidenteligibility ratherthan an unobservedfatalitymix. Its EUcoverage, existinglaw, sourcescope and futureoutcome limits remain explicit. Astra’s independent Chinese is retained in full.",
+      "article_path": "articles/europe-workplace-remembrance-prevention-ledger/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "欧洲为殉职者定下纪念日：2027年8月8日之后，什么会随之改变？",
+      "sha256": "9d044a4ee14a8c9a78f468531da19615e3caa89c92c486aefc9a54ea52f9f07d"
     }
   ]
 }

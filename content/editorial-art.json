@@ -2261,6 +2261,25 @@
           "bytes": 293684
         }
       ]
+    },
+    {
+      "topic": "europe-workplace-remembrance-prevention-ledger",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/europe-workplace-remembrance-prevention-ledger-600.jpg",
+          "sha256": "6428e6536c85b54027e9bb233fc4f07feaaed5de01f626fa7f320b2e0a281951",
+          "bytes": 59759
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/europe-workplace-remembrance-prevention-ledger-1200.jpg",
+          "sha256": "54031119c6f9c266ebeede08325e664f1c4acf0022755c6cd5bc58de9205ad68",
+          "bytes": 251175
+        }
+      ]
     }
   ]
 }
