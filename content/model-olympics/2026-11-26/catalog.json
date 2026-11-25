@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/hera-impact-crater-deflection-test/claude/chinese.md",
       "status": "available",
       "availability_note": "来源核对：ESA与DLR的11月25日任务报告介绍11月上旬的近距离影像。DART在2022年9月的撞击，以及2023年公布的公转周期缩短约33分钟，均属历史背景。翻滚、自转与相互公转须区分；质量、内部结构测量及更近距离探测和立方星活动仍为目标或计划，并未证明普遍防御保障。原始影像保留来源链接，未声称取得转载权。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "gonorrhoea-surveillance-isolates-warning",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/gonorrhoea-surveillance-isolates-warning.md",
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review: WHO’s November 25 EGASP report covers 2025 sentinel-clinic samples. Men, episodes, culture-positive isolates and drug-specific tested isolates have different denominators. Laboratory resistance differs from clinical treatment failure; selected samples do not establish global prevalence. CDC background is separately dated, and its 2024 treatment statements are not current clinical advice. Source links do not imply endorsement by WHO, CDC, HHS or the US government. No source figures or photographs are reproduced."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "gonorrhoea-surveillance-isolates-warning",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/gonorrhoea-surveillance-isolates-warning.md",
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：世卫组织11月25日EGASP报告分析的是2025年哨点诊所样本。男性患者、就诊事件、培养阳性菌株及各药物受检菌株的分母不同。实验室耐药性不等于临床治疗失败，所选样本也不能推定全球比例。CDC背景资料另有日期，其2024年治疗表述不作当前医疗建议。来源链接不代表WHO、CDC、HHS或美国政府背书，未转载原图或照片。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "gonorrhoea-surveillance-isolates-warning",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/gonorrhoea-surveillance-isolates-warning.md",
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: WHO’s November 25 EGASP report covers 2025 sentinel-clinic samples. Men, episodes, culture-positive isolates and drug-specific tested isolates have different denominators. Laboratory resistance differs from clinical treatment failure; selected samples do not establish global prevalence. CDC background is separately dated, and its 2024 treatment statements are not current clinical advice. Source links do not imply endorsement by WHO, CDC, HHS or the US government. No source figures or photographs are reproduced."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "gonorrhoea-surveillance-isolates-warning",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/gonorrhoea-surveillance-isolates-warning.md",
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：世卫组织11月25日EGASP报告分析的是2025年哨点诊所样本。男性患者、就诊事件、培养阳性菌株及各药物受检菌株的分母不同。实验室耐药性不等于临床治疗失败，所选样本也不能推定全球比例。CDC背景资料另有日期，其2024年治疗表述不作当前医疗建议。来源链接不代表WHO、CDC、HHS或美国政府背书，未转载原图或照片。"
     }
   ],
-  "generated_at": "2026-11-25T23:34:53.858074+00:00"
+  "generated_at": "2026-11-25T23:37:59.483276+00:00"
 }

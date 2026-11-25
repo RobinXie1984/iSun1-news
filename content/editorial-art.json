@@ -2299,6 +2299,25 @@
           "bytes": 366456
         }
       ]
+    },
+    {
+      "topic": "gonorrhoea-surveillance-isolates-warning",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/gonorrhoea-surveillance-isolates-warning-600.jpg",
+          "sha256": "c640467a60f5b7b4d3aad3b3281caeed51013d065d113dd6ee1a8330267e8eba",
+          "bytes": 63257
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/gonorrhoea-surveillance-isolates-warning-1200.jpg",
+          "sha256": "2c2dd3739e3fb9b0043a145ecea843425b6a6f78ef21e0537ff984860b7888d6",
+          "bytes": 267703
+        }
+      ]
     }
   ]
 }

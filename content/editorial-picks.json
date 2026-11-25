@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-25T23:34:53.859736+00:00",
+  "selected_at": "2026-11-25T23:37:59.485383+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2422,6 +2422,26 @@
       "headline_index": 0,
       "headline": "赫拉寻见DART留下的撞击坑：那颗小卫星深藏的内里，能否帮人预判下一次撞击？",
       "sha256": "4872580545c0471dca67fb0bceea78fe724416dba3ef13d3a0ee77d369623db0"
+    },
+    {
+      "topic": "gonorrhoea-surveillance-isolates-warning",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra’s1889-word narrative establishes the biology and clinical stakes before its compact WHO account, then develops denominator and laboratory distinctions smoothly. Claude’s fully reviewed2255-word alternative offers a stronger sectioned lookout-post structure, retained in full.",
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "The Gonorrhoea Warning Hidden in the Samples We Can Test",
+      "sha256": "542982a6a0f58f276c731243e8d387a5010aa99e2178f056a485008ae2b00b4c"
+    },
+    {
+      "topic": "gonorrhoea-surveillance-isolates-warning",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra’s clear modern Chinese introduces resistance through the patient and measurement chain before the dense numerical paragraph. Its restrained classical touches retain warmth without slowing the explanation. Claude’s more literary coastline narrative remains the independently reviewed alternative.",
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "淋病耐药警报响起之后，样本之外还有什么？",
+      "sha256": "6c002fb51d0f0bfd6fa6296922dc470e0ceb28fed52befd54f987e02865afa71"
     }
   ]
 }

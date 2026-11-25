@@ -6062,6 +6062,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/chatgpt/english.md",
+      "captured_at": "2026-11-26T07:20:50.434157+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/chatgpt/chinese.md",
+      "captured_at": "2026-11-26T07:20:50.434157+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/claude/english.md",
+      "captured_at": "2026-11-26T07:37:12.543571+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/gonorrhoea-surveillance-isolates-warning/claude/chinese.md",
+      "captured_at": "2026-11-26T07:37:12.543571+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

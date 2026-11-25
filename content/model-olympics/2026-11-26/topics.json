@@ -12,6 +12,18 @@
         "zh": "赫拉任务11月25日公布近距离影像，展现DART在2022年撞击后的地貌。巨坑与绕行岩块，让下一道考题更清晰：如何将一次偏转实验化为可靠工具。"
       },
       "event_date": "2026-11-25"
+    },
+    {
+      "id": "gonorrhoea-surveillance-isolates-warning",
+      "title": {
+        "en": "The resistance warning hidden in a laboratory sample",
+        "zh": "一份细菌样本里的耐药警讯"
+      },
+      "summary": {
+        "en": "WHO’s November 25 report uses 2025 clinic samples to track drug-resistant gonorrhoea. The distinction between patients, episodes and tested isolates determines what its warning can tell us.",
+        "zh": "世卫组织11月25日发布报告，追踪2025年诊所样本中的淋病耐药性。患者、就诊事件与受检菌株的区别，决定了数字究竟能说明什么。"
+      },
+      "event_date": "2026-11-25"
     }
   ]
 }
