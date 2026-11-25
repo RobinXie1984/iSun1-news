@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "hera-impact-crater-deflection-test",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/hera-impact-crater-deflection-test.md",
+      "article_path": "articles/hera-impact-crater-deflection-test/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review: ESA and DLR’s November 25 mission reports describe early-November close-ups. DART’s September 2022 impact and the 33-minute orbital-period change reported in 2023 are historical context. Tumbling, mutual orbit and travel around the Sun are distinct. Mass and interior measurements, closer approaches and CubeSat operations remain goals or plans; no universal defence guarantee is claimed. Source visuals remain linked, with no reproduction rights asserted."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "hera-impact-crater-deflection-test",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/hera-impact-crater-deflection-test.md",
+      "article_path": "articles/hera-impact-crater-deflection-test/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：ESA与DLR的11月25日任务报告介绍11月上旬的近距离影像。DART在2022年9月的撞击，以及2023年公布的公转周期缩短约33分钟，均属历史背景。翻滚、自转与相互公转须区分；质量、内部结构测量及更近距离探测和立方星活动仍为目标或计划，并未证明普遍防御保障。原始影像保留来源链接，未声称取得转载权。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "hera-impact-crater-deflection-test",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/hera-impact-crater-deflection-test.md",
+      "article_path": "articles/hera-impact-crater-deflection-test/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: ESA and DLR’s November 25 mission reports describe early-November close-ups. DART’s September 2022 impact and the 33-minute orbital-period change reported in 2023 are historical context. Tumbling, mutual orbit and travel around the Sun are distinct. Mass and interior measurements, closer approaches and CubeSat operations remain goals or plans; no universal defence guarantee is claimed. Source visuals remain linked, with no reproduction rights asserted."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "hera-impact-crater-deflection-test",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/hera-impact-crater-deflection-test.md",
+      "article_path": "articles/hera-impact-crater-deflection-test/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：ESA与DLR的11月25日任务报告介绍11月上旬的近距离影像。DART在2022年9月的撞击，以及2023年公布的公转周期缩短约33分钟，均属历史背景。翻滚、自转与相互公转须区分；质量、内部结构测量及更近距离探测和立方星活动仍为目标或计划，并未证明普遍防御保障。原始影像保留来源链接，未声称取得转载权。"
+    }
+  ],
+  "generated_at": "2026-11-25T23:34:53.858074+00:00"
+}

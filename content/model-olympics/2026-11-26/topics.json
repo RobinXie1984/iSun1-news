@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "hera-impact-crater-deflection-test",
+      "title": {
+        "en": "Hera returns to the asteroid humanity moved",
+        "zh": "赫拉重访被人类推动的小行星"
+      },
+      "summary": {
+        "en": "Hera’s November 25 images reveal the physical aftermath of DART’s 2022 impact. A large crater and orbiting boulders sharpen the next test: turning one deflection experiment into a reliable tool.",
+        "zh": "赫拉任务11月25日公布近距离影像，展现DART在2022年撞击后的地貌。巨坑与绕行岩块，让下一道考题更清晰：如何将一次偏转实验化为可靠工具。"
+      },
+      "event_date": "2026-11-25"
+    }
+  ]
+}

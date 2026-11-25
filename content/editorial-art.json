@@ -2280,6 +2280,25 @@
           "bytes": 251175
         }
       ]
+    },
+    {
+      "topic": "hera-impact-crater-deflection-test",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/hera-impact-crater-deflection-test-600.jpg",
+          "sha256": "398ed61066ef57b05219745015ed85d290d88b3c697a5d5911f92c05ef0ce29e",
+          "bytes": 90653
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/hera-impact-crater-deflection-test-1200.jpg",
+          "sha256": "0c1f5217d742cfc5c8c03080a003bb09fbab5b9974e18cec29fd7b220bd716cf",
+          "bytes": 366456
+        }
+      ]
     }
   ]
 }

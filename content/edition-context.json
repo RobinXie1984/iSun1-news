@@ -6034,6 +6034,34 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hera-impact-crater-deflection-test/chatgpt/english.md",
+      "captured_at": "2026-11-26T07:13:15.504177+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hera-impact-crater-deflection-test/chatgpt/chinese.md",
+      "captured_at": "2026-11-26T07:13:15.504177+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hera-impact-crater-deflection-test/claude/english.md",
+      "captured_at": "2026-11-26T07:33:04.983858+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/hera-impact-crater-deflection-test/claude/chinese.md",
+      "captured_at": "2026-11-26T07:33:04.983858+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

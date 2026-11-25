@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-24T23:29:59.523471+00:00",
+  "selected_at": "2026-11-25T23:34:53.859736+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2402,6 +2402,26 @@
       "headline_index": 0,
       "headline": "欧洲为殉职者定下纪念日：2027年8月8日之后，什么会随之改变？",
       "sha256": "9d044a4ee14a8c9a78f468531da19615e3caa89c92c486aefc9a54ea52f9f07d"
+    },
+    {
+      "topic": "hera-impact-crater-deflection-test",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra’s continuous1886-word account links the orbital clock, recoil, mass measurement and warning time with fewer detours. Its explicit separation of observed aftermath and predictive calibration best serves the main question. Claude’s longer fully reviewed alternative is retained.",
+      "article_path": "articles/hera-impact-crater-deflection-test/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Hera Has Found DART’s Crater. Can It Help Predict the Next Asteroid’s Response?",
+      "sha256": "4369647708540e7f1eb3d20a05a025993b68ed62a918d372ceaada857d2a76b8"
+    },
+    {
+      "topic": "hera-impact-crater-deflection-test",
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude’s lightly classical Chinese gives the clock and wagon analogies a natural narrative rhythm, retaining full scientific coverage and the revised ESA attribution and boulder-origin boundary. Astra’s equally reviewed modern Chinese remains preserved.",
+      "article_path": "articles/hera-impact-crater-deflection-test/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "赫拉寻见DART留下的撞击坑：那颗小卫星深藏的内里，能否帮人预判下一次撞击？",
+      "sha256": "4872580545c0471dca67fb0bceea78fe724416dba3ef13d3a0ee77d369623db0"
     }
   ]
 }
