@@ -1,0 +1,53 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "available_count": 4,
+  "unavailable_count": 0,
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "europe-housing-average-affordability-gap",
+      "event_date": "2026-11-26",
+      "source_brief": "briefs/europe-housing-average-affordability-gap.md",
+      "article_path": "articles/europe-housing-average-affordability-gap/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Source review: Eurostat’s November 26 publication describes 2025 observations. Income shares, the share of residents in owner-occupied homes and the share of people in overburdened households have different denominators. Mortgage interest differs from principal repayment. EU-owned material is credited under Eurostat’s reuse policy; this independent feature and Chinese adaptation are the authors’ responsibility, and Eurostat bears no responsibility for the adaptation. Third-party source photographs are not reproduced."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "europe-housing-average-affordability-gap",
+      "event_date": "2026-11-26",
+      "source_brief": "briefs/europe-housing-average-affordability-gap.md",
+      "article_path": "articles/europe-housing-average-affordability-gap/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：欧盟统计局11月26日出版物介绍2025年观测数据。收入占比、自有住房居民占比及住房成本过重家庭中的人口占比，分母各不相同；按揭利息也不同于本金偿还。欧盟自有资料依再利用政策注明来源。本独立报道及中文改写由作者负责，欧盟统计局不承担改写责任，亦非官方译本。未转载第三方原始照片。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "europe-housing-average-affordability-gap",
+      "event_date": "2026-11-26",
+      "source_brief": "briefs/europe-housing-average-affordability-gap.md",
+      "article_path": "articles/europe-housing-average-affordability-gap/claude/english.md",
+      "status": "available",
+      "availability_note": "Source review: Eurostat’s November 26 publication describes 2025 observations. Income shares, the share of residents in owner-occupied homes and the share of people in overburdened households have different denominators. Mortgage interest differs from principal repayment. EU-owned material is credited under Eurostat’s reuse policy; this independent feature and Chinese adaptation are the authors’ responsibility, and Eurostat bears no responsibility for the adaptation. Third-party source photographs are not reproduced."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "europe-housing-average-affordability-gap",
+      "event_date": "2026-11-26",
+      "source_brief": "briefs/europe-housing-average-affordability-gap.md",
+      "article_path": "articles/europe-housing-average-affordability-gap/claude/chinese.md",
+      "status": "available",
+      "availability_note": "来源核对：欧盟统计局11月26日出版物介绍2025年观测数据。收入占比、自有住房居民占比及住房成本过重家庭中的人口占比，分母各不相同；按揭利息也不同于本金偿还。欧盟自有资料依再利用政策注明来源。本独立报道及中文改写由作者负责，欧盟统计局不承担改写责任，亦非官方译本。未转载第三方原始照片。"
+    }
+  ],
+  "generated_at": "2026-11-26T23:55:58.812121+00:00"
+}

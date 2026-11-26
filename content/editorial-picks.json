@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-25T23:37:59.485383+00:00",
+  "selected_at": "2026-11-26T23:55:58.813826+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2442,6 +2442,26 @@
       "headline_index": 0,
       "headline": "淋病耐药警报响起之后，样本之外还有什么？",
       "sha256": "6c002fb51d0f0bfd6fa6296922dc470e0ceb28fed52befd54f987e02865afa71"
+    },
+    {
+      "topic": "europe-housing-average-affordability-gap",
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra carries the19/36/16 income comparison through a continuous budget narrative, clearly separates cost shares from population overburden and mortgage cash payments, and keeps survey and index dates explicit. Its2061-word manuscript is focused and accessible. Claude offers a fuller2412-word reference treatment; both authentic originals are retained.",
+      "article_path": "articles/europe-housing-average-affordability-gap/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "EU Housing Costs Average 19% of Income. Who Pays Nearly Twice That Share?",
+      "sha256": "3394cae3e4ce2ac73aa534b6d2c5b82f10f092c11e9860a5c5f1b06132658dfd"
+    },
+    {
+      "topic": "europe-housing-average-affordability-gap",
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra gives a coherent modern Chinese account with restrained warmth, explains income equivalisation and the strict40% threshold accurately, and carries the substantive source/date limitations naturally through the story. Claude provides a structured, more detailed alternative, retained in full.",
+      "article_path": "articles/europe-housing-average-affordability-gap/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "欧盟住房开支平均占收入19%，谁承受着近两倍的分量？",
+      "sha256": "eb12a98fceb9929b4c91324f9f601fd8efc3b7255399baefe550c4e957baa020"
     }
   ]
 }

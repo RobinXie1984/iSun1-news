@@ -2318,6 +2318,25 @@
           "bytes": 267703
         }
       ]
+    },
+    {
+      "topic": "europe-housing-average-affordability-gap",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/europe-housing-average-affordability-gap-600.jpg",
+          "sha256": "5bb7cb017ea4cb4f38d2c5ed3f04338c3eee5d7ec7b5fbb39abd8aac84a70744",
+          "bytes": 95606
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/europe-housing-average-affordability-gap-1200.jpg",
+          "sha256": "23c6f834ca2bfe6926aa316059a7569f4f76bd242bd56eedc0c44fa1078bfed3",
+          "bytes": 376079
+        }
+      ]
     }
   ]
 }

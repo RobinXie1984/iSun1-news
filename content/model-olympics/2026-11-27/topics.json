@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "id": "europe-housing-average-affordability-gap",
+      "title": {
+        "en": "The housing pressure behind the EU average",
+        "zh": "欧盟住房平均数背后的负担"
+      },
+      "summary": {
+        "en": "Eurostat’s November 26 housing publication reports a 19% average cost share for 2025, alongside a 36% share for the lower-income group. Different denominators explain why an average can conceal pressure.",
+        "zh": "欧盟统计局11月26日发布住房数据：2025年住房成本平均占可支配收入19%，低收入组则为36%。读懂分母，才能看见平均数背后的压力。"
+      },
+      "event_date": "2026-11-26"
+    }
+  ]
+}
