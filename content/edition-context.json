@@ -6118,6 +6118,118 @@
       "prompt_version": "v7-dual-backend",
       "input_deviation": null,
       "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/california-lidar-tree-scale-coverage/chatgpt/english.md",
+      "captured_at": "2026-11-19T07:14:41.165480+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/california-lidar-tree-scale-coverage/chatgpt/chinese.md",
+      "captured_at": "2026-11-19T07:14:41.165480+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/california-lidar-tree-scale-coverage/claude/english.md",
+      "captured_at": "2026-11-27T17:07:06.637012+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/california-lidar-tree-scale-coverage/claude/chinese.md",
+      "captured_at": "2026-11-27T17:07:06.637012+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/chatgpt/english.md",
+      "captured_at": "2026-11-27T07:42:36.042537+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/chatgpt/chinese.md",
+      "captured_at": "2026-11-27T07:42:36.042537+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/claude/english.md",
+      "captured_at": "2026-11-27T17:07:10.529451+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/claude/chinese.md",
+      "captured_at": "2026-11-27T17:07:10.529451+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/swift-link-boost-lessons-september/chatgpt/english.md",
+      "captured_at": "2026-11-27T17:14:44.148162+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/swift-link-boost-lessons-september/chatgpt/chinese.md",
+      "captured_at": "2026-11-27T17:14:44.148162+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/swift-link-boost-lessons-september/claude/english.md",
+      "captured_at": "2026-11-27T17:26:39.317727+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/swift-link-boost-lessons-september/claude/chinese.md",
+      "captured_at": "2026-11-27T17:26:39.317727+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/food-waste-forest-pressure-observance/chatgpt/english.md",
+      "captured_at": "2026-11-27T17:25:17.769814+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/food-waste-forest-pressure-observance/chatgpt/chinese.md",
+      "captured_at": "2026-11-27T17:25:17.769814+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/food-waste-forest-pressure-observance/claude/english.md",
+      "captured_at": "2026-11-27T17:29:34.301363+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
+    },
+    {
+      "article_path": "articles/food-waste-forest-pressure-observance/claude/chinese.md",
+      "captured_at": "2026-11-27T17:29:34.301363+08:00",
+      "prompt_version": "v7-dual-backend",
+      "input_deviation": null,
+      "fact_check_status": "SOURCE_REVIEW_RECORDED"
     }
   ]
 }

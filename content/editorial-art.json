@@ -2337,6 +2337,78 @@
           "bytes": 376079
         }
       ]
+    },
+    {
+      "topic": "california-lidar-tree-scale-coverage",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/california-lidar-tree-scale-coverage-600.jpg",
+          "sha256": "5247415fbc48ef847852e8b46ba7aafa9ccc290141b628a370db12ffb4cef995",
+          "bytes": 109448
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/california-lidar-tree-scale-coverage-1200.jpg",
+          "sha256": "7833d76864c67f4d7269081f1431ac2bf1f4ce713a8fb889a64a6f3313843f69",
+          "bytes": 467898
+        }
+      ]
+    },
+    {
+      "topic": "space-crops-strawberry-runners-tradeoff",
+      "variants": [
+        {
+          "width": 600,
+          "height": 400,
+          "path": "/editorial-art/imagegen-v2/space-crops-strawberry-runners-tradeoff-600.jpg",
+          "sha256": "c3ec3799d79b0efeb1a647ef54b4a435807a66b5f049f938a90ca9c73733fef0",
+          "bytes": 109389
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "path": "/editorial-art/imagegen-v2/space-crops-strawberry-runners-tradeoff-1200.jpg",
+          "sha256": "1337110fca3f95044f0aed5d9fcc146037f1c733fed16050f2299b966d81fdaa",
+          "bytes": 410742
+        }
+      ]
+    },
+    {
+      "topic": "swift-link-boost-lessons-september",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/swift-link-boost-lessons-september-600.jpg",
+          "width": 600,
+          "bytes": 57091,
+          "sha256": "7744bc8a439214ddbc590ba78d1a0dc7dcf20f0cd2d1f7116207be2b41a504d1"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/swift-link-boost-lessons-september-1200.jpg",
+          "width": 1200,
+          "bytes": 216412,
+          "sha256": "0e9005aa777139b5869b0f22ac2bb976a80a89ac301dd086302671d8350b8f2e"
+        }
+      ]
+    },
+    {
+      "topic": "food-waste-forest-pressure-observance",
+      "variants": [
+        {
+          "path": "/editorial-art/imagegen-v2/food-waste-forest-pressure-observance-600.jpg",
+          "width": 600,
+          "bytes": 60442,
+          "sha256": "35866adb9f4bfe2f9d89053c6aa2a4186cde6dab27caf8c5d1e745f9dc337ac2"
+        },
+        {
+          "path": "/editorial-art/imagegen-v2/food-waste-forest-pressure-observance-1200.jpg",
+          "width": 1200,
+          "bytes": 243824,
+          "sha256": "3ba8cfe7c3908f14fcf29e933b4e1bd6ac84c16e41b460238d0e37b1f26d0b1c"
+        }
+      ]
     }
   ]
 }

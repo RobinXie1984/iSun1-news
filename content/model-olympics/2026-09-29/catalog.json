@@ -1,0 +1,97 @@
+{
+  "schema_version": 4,
+  "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
+  "articles": [
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "swift-link-boost-lessons-september",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/swift-link-boost-lessons-september.md",
+      "article_path": "articles/swift-link-boost-lessons-september/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 27, 2026 (Hong Kong time). Historical September 29 archive addition, first published November 27, 2026. NASA published its account September 28 and updated the page September 29. LINK’s September 25 reentry and Swift’s then-projected later reentry concern separate spacecraft. The boost objective ended unachieved; engineering and operations experience is NASA’s reported learning. This feature explains the September record. Later Swift developments have their own dated coverage."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "swift-link-boost-lessons-september",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/swift-link-boost-lessons-september.md",
+      "article_path": "articles/swift-link-boost-lessons-september/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月27日（香港时间）。9月29日历史版本的补充报道，首次发布于2026年11月27日。NASA9月28日发表文章，29日更新。LINK9月25日再入与当时对Swift日后再入的预测，分别涉及两艘航天器。提升轨道目标以未实现告终，工程与操作经验属于NASA报告的学习成果。本文讲述9月记录，Swift后续进展另有其日期与报道。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "swift-link-boost-lessons-september",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/swift-link-boost-lessons-september.md",
+      "article_path": "articles/swift-link-boost-lessons-september/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 27, 2026 (Hong Kong time). Historical September 29 archive addition, first published November 27, 2026. NASA published its account September 28 and updated the page September 29. LINK’s September 25 reentry and Swift’s then-projected later reentry concern separate spacecraft. The boost objective ended unachieved; engineering and operations experience is NASA’s reported learning. This feature explains the September record. Later Swift developments have their own dated coverage."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "swift-link-boost-lessons-september",
+      "event_date": "2026-09-28",
+      "source_brief": "briefs/swift-link-boost-lessons-september.md",
+      "article_path": "articles/swift-link-boost-lessons-september/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月27日（香港时间）。9月29日历史版本的补充报道，首次发布于2026年11月27日。NASA9月28日发表文章，29日更新。LINK9月25日再入与当时对Swift日后再入的预测，分别涉及两艘航天器。提升轨道目标以未实现告终，工程与操作经验属于NASA报告的学习成果。本文讲述9月记录，Swift后续进展另有其日期与报道。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "food-waste-forest-pressure-observance",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/food-waste-forest-pressure-observance.md",
+      "article_path": "articles/food-waste-forest-pressure-observance/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 27, 2026 (Hong Kong time). Historical September 29 archive addition, first published November 27, 2026. The 2026 FAO/UNEP observance connects food loss and waste with forests and agrifood systems. UNEP’s 2024 report supplies a 2022 baseline, including inedible material; its dates and measurement boundary stay explicit. Environmental pathway rankings and policy targets have their own scope. Forest benefits depend on real changes in production, demand and land decisions."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "food-waste-forest-pressure-observance",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/food-waste-forest-pressure-observance.md",
+      "article_path": "articles/food-waste-forest-pressure-observance/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月27日（香港时间）。9月29日历史版本的补充报道，首次发布于2026年11月27日。2026年FAO／UNEP纪念活动把粮食损失与浪费联系到森林和农业食物系统。UNEP2024年报告提供2022年基线，包含不可食部分，文中保留年份与统计范围。环境处理路径排名及政策目标各有适用范围；森林效益取决于生产、需求与土地决策的实际变化。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "food-waste-forest-pressure-observance",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/food-waste-forest-pressure-observance.md",
+      "article_path": "articles/food-waste-forest-pressure-observance/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 27, 2026 (Hong Kong time). Historical September 29 archive addition, first published November 27, 2026. The 2026 FAO/UNEP observance connects food loss and waste with forests and agrifood systems. UNEP’s 2024 report supplies a 2022 baseline, including inedible material; its dates and measurement boundary stay explicit. Environmental pathway rankings and policy targets have their own scope. Forest benefits depend on real changes in production, demand and land decisions."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "food-waste-forest-pressure-observance",
+      "event_date": "2026-09-29",
+      "source_brief": "briefs/food-waste-forest-pressure-observance.md",
+      "article_path": "articles/food-waste-forest-pressure-observance/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月27日（香港时间）。9月29日历史版本的补充报道，首次发布于2026年11月27日。2026年FAO／UNEP纪念活动把粮食损失与浪费联系到森林和农业食物系统。UNEP2024年报告提供2022年基线，包含不可食部分，文中保留年份与统计范围。环境处理路径排名及政策目标各有适用范围；森林效益取决于生产、需求与土地决策的实际变化。"
+    }
+  ],
+  "available_count": 8,
+  "unavailable_count": 0,
+  "generated_at": "2026-11-27T09:31:51.022670+00:00"
+}

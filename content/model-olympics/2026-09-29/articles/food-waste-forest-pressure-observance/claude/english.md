@@ -1,0 +1,78 @@
+# The Food We Throw Away Has Already Used the Land. Can Saving It Spare a Forest?
+
+On 29 September 2026, two United Nations agencies marked an annual day devoted to food that leaves its path to people before anyone eats it. The Food and Agriculture Organization, or FAO, is the UN agency for farming, fishing, forestry and hunger. The UN Environment Programme, or UNEP, is the UN agency that tracks the health of land, water, air and climate. Together they marked the seventh International Day of Awareness of Food Loss and Waste, an annual observance the UN General Assembly created in December 2019. UNEP's event listing scheduled an in-person and online session for 12:30 to 14:00 Central European Summer Time at FAO's headquarters in Rome. The organizers placed it beside two forestry gatherings in the same week: the 28th session of FAO's Committee on Forestry, known as COFO 28, and World Forest Week.
+
+That pairing is the heart of this story. Most conversations about food waste stay close to the kitchen: the forgotten lettuce, the overfilled plate, the money lost when groceries spoil. This year the two agencies set the subject beside trees. UNEP's description of the event explains the reasoning. Farming occupies land, and the spread of farmland is a leading cause of forest clearing. Food that is lost or wasted puts avoidable pressure on land, water and climate. If more of what farms already produce reaches people, the pressure to expand production could ease, and with it some of the pressure to clear forests.
+
+The key word in that reasoning is "could." The agencies framed a possibility and an aim. FAO's page, updated after the day, confirms that the seventh observance took place under a theme about the transformative potential of reducing food loss and waste. This account, first published on 27 November 2026, draws on those dated institutional event pages and on the aggregate estimates in a 2024 UNEP and WRAP press release. Together they establish that the observance happened and describe a conditional mechanism linking food to forests. What the institutions offered is a question worth taking seriously: when food stays on its way to people, what changes beyond the bin, and what would have to happen before that change protects a forest?
+
+## One orange, many exits
+
+To see why forests belong in this conversation, it helps to follow a single piece of food. The orange below is imagined. It describes possible stages, and it represents a pattern. It is a teaching example, separate from any reported case.
+
+Picture an orange growing on a tree in an orchard. Before it ripens, someone cleared or prepared that land, planted the tree, watered it, protected it from pests and pruned it. When it ripens, workers pick it, sort it, pack it and load it onto a truck. Fuel moves it to a warehouse, then to a shop. Electricity may keep it cool along the way. By the time it sits in a fruit display, a long list of resources has already been spent on it: land, water, labour, packaging, energy and transport.
+
+Now picture the places where this orange could leave its path to someone's mouth. It could drop and bruise during harvest, or rot in storage before reaching a shop. Experts usually call that kind of early exit food loss: food that leaves the supply chain during production, handling, storage or distribution. The orange could also reach the shop and sit unsold until it spoils. It could be squeezed into juice at a café and poured away at closing time. It could travel home in a shopping bag and grow mould at the bottom of a fruit bowl. Those later exits, at the shop, the restaurant and the home, are usually counted as food waste.
+
+The two words describe stages of one journey, and the measurements that use them draw their boundaries in specific places. That detail matters later, because a figure for waste in retail, food service and households leaves out the oranges that rotted in the warehouse.
+
+The orange also explains why the bin is a late place to begin the story. Throwing the orange away happens near the end of a long chain of earlier decisions. The US Environmental Protection Agency, or EPA, makes this point in its guidance on wasted food: when food is discarded, the resources used to grow, process, distribute and prepare it are spent as well. A wasted orange carries the history of its orchard with it.
+
+## The chain between a fruit bowl and a forest
+
+Here the forest theme becomes clearer. If people eat more of the oranges already grown, they need fewer new oranges to get the same nourishment. Fewer new oranges, in principle, means less orchard. Less demand for new orchards and fields, in principle, means less reason to clear forest for them.
+
+Each step in that sentence is a decision made by someone different. Shoppers and kitchens would have to buy less to replace what they used to throw away. Shops and food companies would have to notice and order less. Farmers would have to respond to those smaller orders by planting differently. Governments, landowners and companies would then have to make choices about land that keep forests standing. Each link depends on prices, markets, laws and local conditions. A farmer facing lower orders at home might sell the same harvest elsewhere.
+
+Two different land outcomes sit at the end of this chain. In one, lower orders lead a farmer to take existing fields out of production; that released farmland might then grow another crop or serve some other use. In the other, weaker demand for new farmland means expansion stops short of a forest that it might otherwise have reached, and that forest stays standing. The first concerns land already farmed; the second concerns forest spared from future clearing. Each depends on its own set of decisions, and the evidence available here establishes the mechanism while leaving the size of any forest saving unmeasured.
+
+So one rescued meal carries a variable forest value. Its effect on trees depends on everything that happens after it reaches a plate, and that effect has to be measured across whole regions and markets over time. The agencies' framing points to a real mechanism. Turning it into protected forest requires the rest of the food system to respond.
+
+An everyday illustration can make this easier to picture. Imagine someone who hosts a weekly dinner for a club. Every week they order a certain number of meals, and every week a good share goes uneaten. One week they serve the dishes more carefully, offer second helpings and send leftovers home with guests. Less food goes in the bin. The real saving arrives the following week, when the host looks at the numbers and orders fewer meals from the caterer. The caterer then buys fewer ingredients from suppliers. If the host keeps ordering the same amount, the better serving helps the guests while the order to the kitchen stays the same. Food systems involve millions of hosts, caterers and farmers, so the chain is far longer and slower. The principle holds: less waste becomes less production only when someone changes the next order.
+
+## Where in the journey to act
+
+The EPA offers a useful way to sort the different responses to wasted food. Its Wasted Food Scale, which draws on the agency's 2023 report *From Field to Bin* and received clarified graphics in December 2025, ranks ways of handling food by environmental benefit.
+
+At the top sits prevention. Prevention acts before surplus exists. In the orange's journey, that could mean better storage in the warehouse, a shop ordering closer to what customers buy, a café squeezing juice in smaller batches, or a household planning meals before shopping. Prevention keeps the orange on its intended path, which means the resources already spent on it go towards their original purpose, and fewer replacement oranges are needed.
+
+Next come donation and upcycling. Upcycling means turning food that would otherwise be discarded into a new food product, such as making juice or jam from fruit that is too bruised to sell. Donation means getting surplus that is still safe to eat to people who will eat it, often through food banks or community kitchens. The EPA ranks both highly because they keep food doing its main job: nourishing people. Donation also comes with practical conditions. Surplus has to be suitable and safe, and it has to reach people quickly enough, with transport and cold storage where needed, following food-safety rules. The scale ranks donation as a good environmental outcome; it leaves decisions about which particular food can be given away to those rules and the people who apply them.
+
+Further down are pathways for food that has passed the point of feeding people. Some can feed animals. Some can go into anaerobic digestion, where microbes break food down inside sealed tanks, producing a gas that can be burned for energy and a material that can enrich soil. Some can be composted, which returns nutrients to the ground. These pathways recover some value. The land, water and work that grew the orange stay spent, and composting the peel returns a small part of that history.
+
+The EPA states clearly that its ranking covers environmental effects. Economic and social considerations sit outside it. The scale therefore answers the environmental question this story asks, while choices about cost, convenience and community needs require other evidence. For the forest question, the scale's ordering is helpful: the earlier in the journey food stays on its path, the more of its spent resources do their intended work.
+
+## The number that needs a frame
+
+Any discussion of food waste soon arrives at a big number. The most prominent recent one comes from a press release that UNEP and WRAP, a UK charity that works on waste and resources, published on 27 March 2024. It reported an estimate that about 1.05 billion tonnes of food were wasted in 2022 across households, food service and retail. A tonne is a thousand kilograms, roughly the weight of a small car, so the estimate describes about a billion small cars' worth of food in a single year.
+
+The same release split that estimated total by setting. Households accounted for 60 percent, food service such as restaurants and canteens for 28 percent, and retail for 12 percent. Those shares describe where the estimated mass was recorded. They apply to this downstream total, which is separate from the whole of the world's harvest.
+
+Three details give this number its proper frame. First, it describes 2022, so it serves as a historical baseline, and it measures a period four years before the September 2026 observance. Second, it covers the last three settings of the orange's journey: retail, food service and households. Food lost on farms, in storage and in transport belongs to the wider problem and lies outside this figure. Third, the estimate includes inedible parts: orange peels, eggshells, bones, coffee grounds. The total therefore combines edible food with material people routinely discard. Working out how much safe, edible food could have reached people who needed it would require separating edible from inedible material and checking which surplus was suitable to share.
+
+The release also described improvements in how countries and companies measure waste, along with partnerships working on the problem. Those developments show institutions taking the issue more seriously. Evidence about outcomes would require tracking what happened to the food itself.
+
+## Counting the right thing
+
+Measurement becomes even more important when the subject turns to targets. One of the UN's Sustainable Development Goals, Target 12.3, sets aims for 2030. As FAO describes it, the target calls for halving global food waste per person at the retail and consumer levels, and for reducing food losses along production and supply chains.
+
+Those two aims use different verbs and cover different stages. Halving applies to waste at the retail and consumer levels, which include eating at home and in food service, measured per person. Reduction applies to the earlier losses in production and supply chains, with the size of that reduction left open in the wording. The 2030 target is a goal; the available pages describe the aim and leave progress towards it for other reports to establish.
+
+The phrase "per person" carries real weight. Picture a school canteen. If the school grows and serves more children, the total amount of food in its bins could rise even while each child wastes less. If the school shrinks, total waste could fall while each child wastes the same as before. To judge whether the canteen is improving, a careful observer divides waste by the number of people served and compares the same length of time each year. The same logic applies to cities and countries.
+
+A second trap sits in the bins themselves. If a restaurant starts sending its leftovers to a compost facility, its general rubbish bin grows lighter. That change can look like progress on a chart. The food, however, may still have gone uneaten. Composting is a better ending than a landfill, and the meal still missed its purpose of feeding someone. Counting becomes clearer when it separates edible food from inedible parts and keeps the same boundaries, the same group of people and the same time period from one measurement to the next. A lighter bin can then be read for what it is: either less food left uneaten, or the same food sent down a different route.
+
+## What the day offered
+
+Taken together, the September observance and the reports around it describe a chain that runs from an orchard to a plate and, possibly, back to the edge of a forest. Each source covers one part. UNEP's event page frames a 2026 possibility about land. FAO's page states a 2030 target. The UNEP and WRAP estimate describes waste in 2022. The EPA ranks ways of handling wasted food by environmental benefit. Read side by side, they fit together, provided each stays in its own lane.
+
+The strongest claim the evidence supports is a mechanism with conditions attached. Food already grown has already used land, water and work. Keeping more of it on its path to people delivers nourishment from resources that are already spent. Fewer replacement crops could follow, and with them less pressure on forests, if purchasing, production and land-use decisions respond along the way.
+
+That leaves the question this year's observance placed on the table, and the one that will decide whether its theme reaches a forest at all. If more of a harvest reaches people, will the next decisions about what to grow, and where to grow it, change as well?
+
+## Sources
+
+- UNEP, "Seventh Observance of the International Day of Awareness of Food Loss and Waste" (event page, inspected November 2026): https://www.unep.org/en/events/unep-event/seventh-observance-international-day-awareness-food-loss-and-waste
+- FAO, "International Day of Awareness of Food Loss and Waste" (observance and SDG 12.3 sections, inspected November 2026): https://www.fao.org/platform-food-loss-waste/flw-events/international-day-food-loss-and-waste/en
+- UNEP, "World squanders over 1 billion meals a day – UN report" (press release with WRAP, 27 March 2024): https://www.unep.org/en/news-and-stories/press-release/world-squanders-over-1-billion-meals-day-un-report
+- US Environmental Protection Agency, "Wasted Food Scale" (based on the 2023 *From Field to Bin* report; graphics clarified December 2025): https://www.epa.gov/sustainable-management-food/wasted-food-scale

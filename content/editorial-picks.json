@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "selected_at": "2026-11-26T23:55:58.813826+00:00",
+  "selected_at": "2026-11-27T09:31:51.025906+00:00",
   "selected_by": "Maxwell",
   "entries": [
     {
@@ -2462,6 +2462,86 @@
       "headline_index": 0,
       "headline": "欧盟住房开支平均占收入19%，谁承受着近两倍的分量？",
       "sha256": "eb12a98fceb9929b4c91324f9f601fd8efc3b7255399baefe550c4e957baa020"
+    },
+    {
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra introduces the mapping event and its dated footprint before technical detail. Its continuous narrative, house-survey analogy and concrete local-decision question keep resolution, accuracy, age and fire-risk evidence distinct.",
+      "topic": "california-lidar-tree-scale-coverage",
+      "article_path": "articles/california-lidar-tree-scale-coverage/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "California’s Wildfire Maps Reveal More Detail. Which Old Patch Could Change a Decision?",
+      "sha256": "6c2830885e7f914bdddc3ec595a752ce2c9a7b245bd64b26939de6f38db41cdf"
+    },
+    {
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude preserves the three dates and source-qualified map definitions in warm Chinese with a restrained classical cadence. Its revised closing distinguishes year metadata from local investigation of processing artifacts.",
+      "topic": "california-lidar-tree-scale-coverage",
+      "article_path": "articles/california-lidar-tree-scale-coverage/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "加州野火地景有了更清晰的三维地图，哪些角落早已悄然过时？",
+      "sha256": "537dc0678ccec44cd8ce92749f5dbe324e371eec8b852c7dc6b9134365e86e88"
+    },
+    {
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra builds a continuous narrative from the twofold fruit-count surprise to occupied space, hardware and future tests. It explains the participants and separates counts, edible mass and candidate status in ordinary language.",
+      "topic": "space-crops-strawberry-runners-tradeoff",
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "The Strawberry Produced Twice as Many Fruits. Why Did NASA Keep Its Rival Ahead?",
+      "sha256": "b00284105fc553041f9f1ba689aaf46cc23029f38c97b8cfef1536de7e81d8fe"
+    },
+    {
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude carries the whole crop story into vivid, lightly classical Chinese. The kitchen-shelf analogy makes the runner tradeoff concrete, and the corrected partnership scope and staged testing remain clear.",
+      "topic": "space-crops-strawberry-runners-tradeoff",
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "果实多出一倍，头名仍归“Delizz”：一种野草莓的太空考题",
+      "sha256": "5be4e3b68dc753078049c5d1edcfdb0ceabc019d110ad09596bd27ef1a3204d0"
+    },
+    {
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra keeps one continuous story around Swift’s pointing tradeoff and the separate LINK servicing stages. It attributes NASA’s assessment, distinguishes the two spacecraft and historical forecast, and earns the final question through the two-clock mechanism.",
+      "topic": "swift-link-boost-lessons-september",
+      "article_path": "articles/swift-link-boost-lessons-september/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Swift Needed More Time in Orbit. Could a Robot Deliver It?",
+      "sha256": "a599894d34ba26c5f8131137e7e129f1a19d139ee73331ca4aebad19199c46fa"
+    },
+    {
+      "language": "zh",
+      "provider": "claude",
+      "reason": "Claude’s rain-swallow title and two-clock framing bring warmth and a restrained classical cadence to the historical record. It explains the mission before engineering detail, preserves the dates and separates reported lessons from an achieved boost.",
+      "topic": "swift-link-boost-lessons-september",
+      "article_path": "articles/swift-link-boost-lessons-september/claude/chinese.md",
+      "headline_index": 0,
+      "headline": "雨燕背过身去，只为多争几月：LINK能否及时赶到？",
+      "sha256": "e5b2cc220d7b485a766e2b607aab8caf04dbe4b91b5bdd0ab33ca7de428e5179"
+    },
+    {
+      "language": "en",
+      "provider": "chatgpt",
+      "reason": "Astra’s orange-journey narrative makes the link from food to land use understandable while keeping it conditional. Its continuous structure and canteen denominator analogy preserve the 2022 baseline, event date and target scope without implying measured forest savings.",
+      "topic": "food-waste-forest-pressure-observance",
+      "article_path": "articles/food-waste-forest-pressure-observance/chatgpt/english.md",
+      "headline_index": 0,
+      "headline": "Can a Meal Saved Today Leave a Forest Standing Tomorrow?",
+      "sha256": "cc9ed94e79b90ba5198a180b68904f6228285c7a94e604ea6197d11bbc30c1f1"
+    },
+    {
+      "language": "zh",
+      "provider": "chatgpt",
+      "reason": "Astra offers the clearer Chinese route from an orange to purchasing, production and forest decisions. Its lightly classical cadence remains accessible, and the consistent sector boundaries, dated estimate and conditional mechanism are easy to follow.",
+      "topic": "food-waste-forest-pressure-observance",
+      "article_path": "articles/food-waste-forest-pressure-observance/chatgpt/chinese.md",
+      "headline_index": 0,
+      "headline": "今天留住一餐，明天能否留住一片森林？",
+      "sha256": "a00d0d3cf62bfed6864bbdfb1a2ea431eb673f3ddc3a9ad8077d20e72bd9daa0"
     }
   ]
 }

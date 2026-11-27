@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/wagner-oil-unit-emergency-hours/claude/chinese.md",
       "status": "available",
       "availability_note": "能源部于2026年11月17日签发202-26-25B号命令，11月18日至12月31日生效。PJM所称剩余零小时，是获准运行额度的估计，并非燃料或物理容量。命令保留预期警报与FERC和解协议两条调度路径，以及报告、环境义务和运行参数；申请摘录中的和解路径包括必要测试。本文查阅命令、续期申请与官方时间线，未独立核实实际发电、成本、排放、电网模型或更广泛法院程序结果。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "california-lidar-tree-scale-coverage",
+      "event_date": "2026-11-18",
+      "source_brief": "briefs/california-lidar-tree-scale-coverage.md",
+      "article_path": "articles/california-lidar-tree-scale-coverage/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 27, 2026 (Hong Kong time). First published November 27, 2026 as a November 19 catch-up. NASA’s November 18 account describes an October 13 dataset assembled from 2013–2023 surveys. Its guide gives 78.3% valid land coverage. Acquisition-year metadata locate older observations; local inspection assesses processing artifacts and possible rooftop influence. Grid size, height accuracy and present fire conditions have distinct meanings. Evidence covers the institutional report, catalog, guide and USGS explanation; raw-tile and wildfire-outcome validation remain with subsequent analysis."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "california-lidar-tree-scale-coverage",
+      "event_date": "2026-11-18",
+      "source_brief": "briefs/california-lidar-tree-scale-coverage.md",
+      "article_path": "articles/california-lidar-tree-scale-coverage/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月27日（香港时间）。作为11月19日的补稿，首次发布于2026年11月27日。NASA11月18日报道介绍10月13日发布、基于2013—2023年测量的数据集，指南给出78.3%的有效陆地覆盖。年份图层帮助定位较早观测，处理痕迹与屋顶影响须查看当地资料。网格大小、高度准确度和当下火情各有所指。报道依据机构文章、目录、指南与USGS说明，底层图块及野火应用成效仍待后续分析。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "california-lidar-tree-scale-coverage",
+      "event_date": "2026-11-18",
+      "source_brief": "briefs/california-lidar-tree-scale-coverage.md",
+      "article_path": "articles/california-lidar-tree-scale-coverage/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 27, 2026 (Hong Kong time). First published November 27, 2026 as a November 19 catch-up. NASA’s November 18 account describes an October 13 dataset assembled from 2013–2023 surveys. Its guide gives 78.3% valid land coverage. Acquisition-year metadata locate older observations; local inspection assesses processing artifacts and possible rooftop influence. Grid size, height accuracy and present fire conditions have distinct meanings. Evidence covers the institutional report, catalog, guide and USGS explanation; raw-tile and wildfire-outcome validation remain with subsequent analysis."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "california-lidar-tree-scale-coverage",
+      "event_date": "2026-11-18",
+      "source_brief": "briefs/california-lidar-tree-scale-coverage.md",
+      "article_path": "articles/california-lidar-tree-scale-coverage/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月27日（香港时间）。作为11月19日的补稿，首次发布于2026年11月27日。NASA11月18日报道介绍10月13日发布、基于2013—2023年测量的数据集，指南给出78.3%的有效陆地覆盖。年份图层帮助定位较早观测，处理痕迹与屋顶影响须查看当地资料。网格大小、高度准确度和当下火情各有所指。报道依据机构文章、目录、指南与USGS说明，底层图块及野火应用成效仍待后续分析。"
     }
   ],
-  "generated_at": "2026-11-18T23:34:05.243743+00:00"
+  "generated_at": "2026-11-27T09:31:50.988764+00:00"
 }

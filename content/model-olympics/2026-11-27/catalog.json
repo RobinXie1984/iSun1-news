@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "description": "Independent Astra and Claude bilingual editions, with Sol research and separate review.",
-  "available_count": 4,
+  "available_count": 8,
   "unavailable_count": 0,
   "articles": [
     {
@@ -47,7 +47,51 @@
       "article_path": "articles/europe-housing-average-affordability-gap/claude/chinese.md",
       "status": "available",
       "availability_note": "来源核对：欧盟统计局11月26日出版物介绍2025年观测数据。收入占比、自有住房居民占比及住房成本过重家庭中的人口占比，分母各不相同；按揭利息也不同于本金偿还。欧盟自有资料依再利用政策注明来源。本独立报道及中文改写由作者负责，欧盟统计局不承担改写责任，亦非官方译本。未转载第三方原始照片。"
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "space-crops-strawberry-runners-tradeoff",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/space-crops-strawberry-runners-tradeoff.md",
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/chatgpt/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 27, 2026 (Hong Kong time). First published November 27, 2026. NASA’s November 25 report describes candidate work for future menus. Australian university collaborators belong to the strawberry comparison. Twice as many buds, flowers and fruits describes counts; edible mass depends on fruit size too. Runners consume growing space. Ground testing, seed preparation, existing ISS hardware and proposed Ohalo III flight validation are distinct stages. Study findings are attributed to NASA’s account; linked papers returned access errors during the original review."
+    },
+    {
+      "provider": "chatgpt",
+      "model": "GPT-6 Astra Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "space-crops-strawberry-runners-tradeoff",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/space-crops-strawberry-runners-tradeoff.md",
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/chatgpt/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月27日（香港时间）。首次发布于2026年11月27日。NASA11月25日报告介绍未来菜单候选作物，澳大利亚大学参与的是草莓比较。花蕾、花朵和果实翻倍指数量，可食重量还与果实大小相关；匍匐茎占用空间。地面测试、种子准备、既有空间站设备和Ohalo III拟议飞行验证各有阶段。研究发现据NASA转述，原核阅时链接论文返回访问错误。"
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "en",
+      "topic": "space-crops-strawberry-runners-tradeoff",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/space-crops-strawberry-runners-tradeoff.md",
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/claude/english.md",
+      "status": "available",
+      "availability_note": "Catch-up addition first published November 27, 2026 (Hong Kong time). First published November 27, 2026. NASA’s November 25 report describes candidate work for future menus. Australian university collaborators belong to the strawberry comparison. Twice as many buds, flowers and fruits describes counts; edible mass depends on fruit size too. Runners consume growing space. Ground testing, seed preparation, existing ISS hardware and proposed Ohalo III flight validation are distinct stages. Study findings are attributed to NASA’s account; linked papers returned access errors during the original review."
+    },
+    {
+      "provider": "claude",
+      "model": "Claude Opus 5.5 Medium · Sol source/completeness review",
+      "language": "zh",
+      "topic": "space-crops-strawberry-runners-tradeoff",
+      "event_date": "2026-11-25",
+      "source_brief": "briefs/space-crops-strawberry-runners-tradeoff.md",
+      "article_path": "articles/space-crops-strawberry-runners-tradeoff/claude/chinese.md",
+      "status": "available",
+      "availability_note": "补充报道，首次发布于2026年11月27日（香港时间）。首次发布于2026年11月27日。NASA11月25日报告介绍未来菜单候选作物，澳大利亚大学参与的是草莓比较。花蕾、花朵和果实翻倍指数量，可食重量还与果实大小相关；匍匐茎占用空间。地面测试、种子准备、既有空间站设备和Ohalo III拟议飞行验证各有阶段。研究发现据NASA转述，原核阅时链接论文返回访问错误。"
     }
   ],
-  "generated_at": "2026-11-26T23:55:58.812121+00:00"
+  "generated_at": "2026-11-27T09:31:51.001224+00:00"
 }

@@ -12,6 +12,18 @@
         "zh": "11月17日续发、18日生效的能源部命令，让燃油瓦格纳四号机组可有条件超出年度时数限制，期限至12月31日，保留和解、报告与环境条件。"
       },
       "event_date": "2026-11-18"
+    },
+    {
+      "id": "california-lidar-tree-scale-coverage",
+      "title": {
+        "en": "A tree-scale California map reveals the shape of a harder question",
+        "zh": "树木尺度的加州地图，照见了哪些问题？"
+      },
+      "summary": {
+        "en": "NASA’s November18report highlights lidar-derived terrain and ecosystem products; the dataset guide limits actual coverage to78.3%and acquisitions2013–2023.",
+        "zh": "NASA于11月18日介绍激光雷达地形与生态产品；详细指南注明实际覆盖78.3%，采集年代为2013—2023年。"
+      },
+      "event_date": "2026-11-18"
     }
   ]
 }
